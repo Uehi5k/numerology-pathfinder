@@ -1,5 +1,5 @@
 
-import React, { createContext, useContext, useState, useEffect } from 'react';
+import React, { createContext, useContext, useState } from 'react';
 import { LanguageCode } from '@/types/numerology';
 
 interface LanguageContextType {
@@ -10,25 +10,11 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  // Try to get stored language or default to English
+  // Default to English only
   const [language, setLanguage] = useState<LanguageCode>('en');
 
-  // Load saved language preference on initial render
-  useEffect(() => {
-    const savedLanguage = localStorage.getItem('preferredLanguage');
-    if (savedLanguage && ['en', 'es', 'fr', 'de'].includes(savedLanguage)) {
-      setLanguage(savedLanguage as LanguageCode);
-    }
-  }, []);
-
-  // Save language preference whenever it changes
-  const handleSetLanguage = (newLanguage: LanguageCode) => {
-    setLanguage(newLanguage);
-    localStorage.setItem('preferredLanguage', newLanguage);
-  };
-
   return (
-    <LanguageContext.Provider value={{ language, setLanguage: handleSetLanguage }}>
+    <LanguageContext.Provider value={{ language, setLanguage }}>
       {children}
     </LanguageContext.Provider>
   );
