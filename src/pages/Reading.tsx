@@ -7,13 +7,14 @@ import BackLink from '@/components/reading/BackLink';
 import LifePathCard from '@/components/reading/LifePathCard';
 import LifePathDetails from '@/components/reading/LifePathDetails';
 import NoLifePathMessage from '@/components/reading/NoLifePathMessage';
+import { LifePathMeaning } from '@/types/numerology';
 
 const Reading = () => {
   const [searchParams] = useSearchParams();
   const lifePath = parseInt(searchParams.get('lifePath') || '0');
   const birthdate = searchParams.get('birthdate');
   
-  const [meaning, setMeaning] = useState<{ title: string; meaning: string } | null>(null);
+  const [meaning, setMeaning] = useState<LifePathMeaning | null>(null);
   const [formattedDate, setFormattedDate] = useState<string>('');
   
   useEffect(() => {

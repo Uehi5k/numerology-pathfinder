@@ -4,6 +4,7 @@
  */
 import lifePathMeanings from '../data/lifePathMeanings.json';
 import numberAttributes from '../data/numberAttributes.json';
+import { LifePathMeaning } from '../types/numerology';
 
 /**
  * Reduces a number to a single digit (1-9) or master number (11, 22, 33)
@@ -70,14 +71,14 @@ export const calculateLifePath = (dateString: string): number => {
 /**
  * Returns the meaning of a Life Path number
  * @param num The Life Path number
- * @returns The meaning as a string
+ * @returns The meaning as a LifePathMeaning object
  */
-export const getLifePathMeaning = (num: number): { title: string, meaning: string } => {
+export const getLifePathMeaning = (num: number): LifePathMeaning => {
   // Convert number to string for JSON lookup
   const numKey = num.toString();
   
   if (lifePathMeanings[numKey]) {
-    return lifePathMeanings[numKey];
+    return lifePathMeanings[numKey] as LifePathMeaning;
   }
   
   return { 
