@@ -1,10 +1,14 @@
-
 /**
  * Numerology calculator utility functions
  */
-import lifePathMeanings from '../data/lifePathMeanings.json';
+import { LanguageCode, LifePathMeaning } from '../types/numerology';
 import numberAttributes from '../data/numberAttributes.json';
-import { LifePathMeaning } from '../types/numerology';
+import enLifePathMeanings from '../data/translations/en/lifePathMeanings.json';
+
+// Cache for loaded translations
+const translationsCache: Record<string, any> = {
+  en: { lifePathMeanings: enLifePathMeanings }
+};
 
 /**
  * Reduces a number to a single digit (1-9) or master number (11, 22, 33)
@@ -69,22 +73,60 @@ export const calculateLifePath = (dateString: string): number => {
 };
 
 /**
- * Returns the meaning of a Life Path number
+ * Returns the meaning of a Life Path number in the specified language
  * @param num The Life Path number
+ * @param language The language code (defaults to 'en')
  * @returns The meaning as a LifePathMeaning object
  */
-export const getLifePathMeaning = (num: number): LifePathMeaning => {
+export const getLifePathMeaning = (num: number, language: LanguageCode = 'en'): LifePathMeaning => {
   // Convert number to string for JSON lookup
   const numKey = num.toString();
   
-  if (lifePathMeanings[numKey]) {
-    return lifePathMeanings[numKey] as LifePathMeaning;
+  try {
+    // Use cached translations if available
+    if (translationsCache[language]?.lifePathMeanings?.[numKey]) {
+      return translationsCache[language].lifePathMeanings[numKey] as LifePathMeaning;
+    }
+    
+    // If requested language is not English and not in cache, fall back to English
+    if (language !== 'en' && translationsCache.en?.lifePathMeanings?.[numKey]) {
+      console.warn(`Translation not found for ${language}, falling back to en`);
+      return translationsCache.en.lifePathMeanings[numKey] as LifePathMeaning;
+    }
+    
+    // Default fallback
+    return { 
+      title: "Unknown", 
+      meaning: "This number does not have a standard Life Path interpretation."
+    };
+  } catch (error) {
+    console.error("Error retrieving life path meaning:", error);
+    return { 
+      title: "Error", 
+      meaning: "There was an error retrieving the meaning for this Life Path number."
+    };
   }
+};
+
+/**
+ * Load translations for a specific language
+ * @param language The language code
+ */
+export const loadTranslations = async (language: LanguageCode): Promise<void> => {
+  // Skip if already loaded
+  if (translationsCache[language]) return;
   
-  return { 
-    title: "Unknown", 
-    meaning: "This number does not have a standard Life Path interpretation."
-  };
+  try {
+    // Dynamic import of translations
+    const lifePathMeaningsModule = await import(`../data/translations/${language}/lifePathMeanings.json`);
+    
+    // Store in cache
+    translationsCache[language] = {
+      lifePathMeanings: lifePathMeaningsModule.default
+    };
+  } catch (error) {
+    console.error(`Failed to load translations for ${language}:`, error);
+  }
 };
 
 /**
@@ -111,9 +153,9 @@ export const getLifeLessons = (num: number): string => {
 /**
  * Get all number meanings for display
  */
-export const getAllNumberMeanings = () => {
+export const getAllNumberMeanings = (language: LanguageCode = 'en') => {
   return [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33].map(num => ({
     number: num,
-    ...getLifePathMeaning(num)
+    ...getLifePathMeaning(num, language)
   }));
 };
