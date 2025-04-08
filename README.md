@@ -2,7 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/1b930ca5-35e0-42a2-9642-b7d2da2b6160
+This project is an experiment. Using AI tool to do "vibe coding" and how much it can help wit the process. Being curious with this "vibe coding" thing, I am keen on learning and how to best use this tool.
+At the moment, I do not have much knowledge or skills when it comes to React framework, therefore having a tool like this can generate and I, myself can check the code to see manually, or getting the tool
+to fix the problem.
+
+There are limitations on how many prompts you can do per day with Lovable so I am planning to see what features I would like to have and prepare the prompt carefully to take advantage of this limitation.
 
 ## How can I edit this code?
 
@@ -59,11 +63,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1b930ca5-35e0-42a2-9642-b7d2da2b6160) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
