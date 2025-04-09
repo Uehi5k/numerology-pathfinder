@@ -40,6 +40,49 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }
         return 'text-gray-500';
     }
   };
+
+  // Get calculation example based on insight type
+  const getCalculationExample = (type: string) => {
+    switch (type) {
+      case 'lifePath':
+        return (
+          <div className="mt-3 p-3 bg-background/40 rounded-lg text-sm">
+            <p className="mb-2"><strong>Example:</strong> October 15, 1990</p>
+            <p className="mb-1"><strong>Month:</strong> October = 10 → 1 + 0 = 1</p>
+            <p className="mb-1"><strong>Day:</strong> 15 → 1 + 5 = 6</p>
+            <p className="mb-1"><strong>Year:</strong> 1990 → 1 + 9 + 9 + 0 = 19 → 1 + 9 = 10 → 1 + 0 = 1</p>
+            <p className="mt-2 font-medium">Life Path Number: 1 + 6 + 1 = 8</p>
+          </div>
+        );
+      case 'attitude':
+        return (
+          <div className="mt-3 p-3 bg-background/40 rounded-lg text-sm">
+            <p className="mb-2"><strong>Example:</strong> October 15</p>
+            <p className="mb-1"><strong>Month:</strong> October = 10 → 1 + 0 = 1</p>
+            <p className="mb-1"><strong>Day:</strong> 15 → 1 + 5 = 6</p>
+            <p className="mt-2 font-medium">Attitude Number: 1 + 6 = 7</p>
+          </div>
+        );
+      case 'generation':
+        return (
+          <div className="mt-3 p-3 bg-background/40 rounded-lg text-sm">
+            <p className="mb-2"><strong>Example:</strong> Born in 1990</p>
+            <p className="mb-1"><strong>Year:</strong> 1990 → 1 + 9 + 9 + 0 = 19 → 1 + 9 = 10 → 1 + 0 = 1</p>
+            <p className="mt-2 font-medium">Generation Number: 1</p>
+          </div>
+        );
+      case 'dayOfBirth':
+        return (
+          <div className="mt-3 p-3 bg-background/40 rounded-lg text-sm">
+            <p className="mb-2"><strong>Example:</strong> Born on October 15</p>
+            <p className="mt-2 font-medium">Day of Birth Number: 15</p>
+            <p className="mt-1 text-xs text-foreground/70">(This number is not reduced to a single digit)</p>
+          </div>
+        );
+      default:
+        return null;
+    }
+  };
   
   return (
     <motion.div
@@ -78,6 +121,7 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }
             <AccordionTrigger>How is this calculated?</AccordionTrigger>
             <AccordionContent>
               <p className="text-foreground/70">{insight.formula}</p>
+              {getCalculationExample(insight.type)}
             </AccordionContent>
           </AccordionItem>
         </Accordion>
