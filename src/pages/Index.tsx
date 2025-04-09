@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import Layout from '@/components/Layout';
-import { Calculator, BookOpen, ArrowRight } from 'lucide-react';
+import { Calculator, ArrowRight } from 'lucide-react';
 
 const Index = () => {
   return (
@@ -31,15 +31,15 @@ const Index = () => {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-4xl">
+        <div className="w-full max-w-4xl">
           <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <Link 
               to="/life-path" 
-              className="glass hover:shadow-md group block h-full p-6 rounded-xl transition-all"
+              className="glass hover:shadow-md group block p-6 rounded-xl transition-all"
             >
               <div className="flex items-center mb-4">
                 <div className="h-12 w-12 rounded-full bg-accent/10 flex items-center justify-center">
@@ -52,31 +52,6 @@ const Index = () => {
               </p>
               <div className="flex items-center mt-4 text-accent font-medium">
                 <span>Calculate now</span>
-                <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-              </div>
-            </Link>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6, delay: 0.3 }}
-          >
-            <Link 
-              to="/numbers" 
-              className="glass hover:shadow-md group block h-full p-6 rounded-xl transition-all"
-            >
-              <div className="flex items-center mb-4">
-                <div className="h-12 w-12 rounded-full bg-accent/10 flex items-center justify-center">
-                  <BookOpen className="h-6 w-6 text-accent" />
-                </div>
-                <h3 className="ml-4 text-xl font-medium">Number Meanings</h3>
-              </div>
-              <p className="text-foreground/70">
-                Explore the meanings and influences of different numerology numbers and how they may affect various aspects of your life.
-              </p>
-              <div className="flex items-center mt-4 text-accent font-medium">
-                <span>Learn more</span>
                 <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </div>
             </Link>
