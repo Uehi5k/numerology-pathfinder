@@ -25,7 +25,6 @@ const App = () => (
               <Route path="/" element={<Index />} />
               <Route path="/life-path" element={<LifePath />} />
               <Route path="/reading" element={<Reading />} />
-              <Route path="/numbers" element={<NumberMeaning />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>
