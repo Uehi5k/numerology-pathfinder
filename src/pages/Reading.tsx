@@ -6,7 +6,7 @@ import { calculateAllInsights, loadTranslations } from '@/utils/numerologyCalcul
 import BackLink from '@/components/reading/BackLink';
 import LifePathCard from '@/components/reading/LifePathCard';
 import NoLifePathMessage from '@/components/reading/NoLifePathMessage';
-import { LifePathMeaning, NumerologyInsight } from '@/types/numerology';
+import { NumerologyInsight } from '@/types/numerology';
 import { useLanguage } from '@/contexts/LanguageContext';
 import LanguageSelector from '@/components/LanguageSelector';
 import InsightTabs from '@/components/reading/InsightTabs';
@@ -55,8 +55,8 @@ const Reading = () => {
         <div className="w-full max-w-4xl">
           <div className="flex justify-between items-center mb-4">
             <BackLink 
-              to={birthdate ? "/life-path" : "/numbers"}
-              label={birthdate ? "Back to Calculator" : "Back to Numbers"}
+              to="/life-path"
+              label="Back to Calculator"
             />
             <LanguageSelector />
           </div>
