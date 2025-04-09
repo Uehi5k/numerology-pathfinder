@@ -9,8 +9,9 @@ to fix the problem.
 There are limitations on how many prompts you can do per day with Lovable so I am planning to see what features I would like to have and prepare the prompt carefully to take advantage of this limitation.
 
 ## TODO
-- Language translation on across the app.
 - Add features that calculates from name - Expression, Soul Urge and Personality.
+- Language translation on across the app.
+- Include Dark Mode.
 
 ## How can I edit this code?
 
