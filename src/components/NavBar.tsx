@@ -1,21 +1,20 @@
-
-import React, { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { motion } from 'framer-motion';
-import { Menu, X, Home, Calculator, User } from 'lucide-react';
+import React, { useState } from "react";
+import { Link, useLocation } from "react-router-dom";
+import { motion } from "framer-motion";
+import { Menu, X, Home, Calculator, User } from "lucide-react";
 
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
-  
+
   const routes = [
-    { name: 'Home', path: '/', icon: <Home className="w-5 h-5" /> },
-    { name: 'Life Path', path: '/life-path', icon: <Calculator className="w-5 h-5" /> },
-    { name: 'Reading', path: '/reading', icon: <User className="w-5 h-5" /> },
+    { name: "Home", path: "/", icon: <Home className="w-5 h-5" /> },
+    { name: "Life Path", path: "/life-path", icon: <Calculator className="w-5 h-5" /> },
+    { name: "Reading", path: "/reading", icon: <User className="w-5 h-5" /> },
   ];
 
   const toggleMenu = () => setIsOpen(!isOpen);
-  
+
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
       <div className="glass border-b border-border/40">
@@ -27,7 +26,7 @@ const NavBar = () => {
                 <span className="text-xl font-light text-accent">Path</span>
               </Link>
             </div>
-            
+
             <div className="md:hidden">
               <button
                 onClick={toggleMenu}
@@ -42,14 +41,14 @@ const NavBar = () => {
                 )}
               </button>
             </div>
-            
+
             <nav className="hidden md:flex space-x-8">
               {routes.map((route) => (
-                <Link 
+                <Link
                   key={route.path}
                   to={route.path}
                   className={`flex items-center px-1 py-2 text-sm font-medium relative group ${
-                    location.pathname === route.path ? 'text-accent' : 'text-foreground hover:text-accent'
+                    location.pathname === route.path ? "text-accent" : "text-foreground hover:text-accent"
                   }`}
                 >
                   {location.pathname === route.path && (
@@ -66,10 +65,10 @@ const NavBar = () => {
           </div>
         </div>
       </div>
-      
+
       {/* Mobile menu */}
       <motion.div
-        className={`absolute top-full inset-x-0 glass-dark md:hidden shadow-md ${isOpen ? 'block' : 'hidden'}`}
+        className={`absolute top-full inset-x-0 glass-dark md:hidden shadow-md ${isOpen ? "block" : "hidden"}`}
         initial={{ opacity: 0, y: -10 }}
         animate={{ opacity: isOpen ? 1 : 0, y: isOpen ? 0 : -10 }}
         transition={{ duration: 0.2 }}
@@ -82,8 +81,8 @@ const NavBar = () => {
               onClick={() => setIsOpen(false)}
               className={`flex items-center px-3 py-4 text-base font-medium ${
                 location.pathname === route.path
-                  ? 'text-accent bg-accent/5 rounded-lg'
-                  : 'text-foreground hover:bg-accent/5 hover:text-accent rounded-lg'
+                  ? "text-accent bg-accent/5 rounded-lg"
+                  : "text-foreground hover:bg-accent/5 hover:text-accent rounded-lg"
               }`}
             >
               <span className="mr-3">{route.icon}</span>
