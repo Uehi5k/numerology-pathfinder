@@ -10,7 +10,6 @@ There are limitations on how many prompts you can do per day with Lovable so I a
 
 ## TODO
 - Language translation on across the app.
-- Add extra features - Attitude, Generation, Day of birth calculations.
 - Add features that calculates from name - Expression, Soul Urge and Personality.
 
 ## How can I edit this code?
