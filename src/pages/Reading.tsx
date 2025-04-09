@@ -68,8 +68,8 @@ const Reading = () => {
           <div className="mt-6">
             <LifePathDetails
               meaning={meaning.meaning}
-              strengths={getStrengths(lifePath)}
-              lifeLessons={getLifeLessons(lifePath)}
+              strengths={getStrengths(lifePath, language)}
+              lifeLessons={getLifeLessons(lifePath, language)}
             />
           </div>
         </div>

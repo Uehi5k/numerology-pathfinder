@@ -1,13 +1,19 @@
+
 /**
  * Numerology calculator utility functions
  */
 import { LanguageCode, LifePathMeaning } from '../types/numerology';
-import numberAttributes from '../data/numberAttributes.json';
 import enLifePathMeanings from '../data/translations/en/lifePathMeanings.json';
+import enStrengths from '../data/translations/en/strengths.json';
+import enLifeLessons from '../data/translations/en/lifeLessons.json';
 
 // Cache for loaded translations
 const translationsCache: Record<string, any> = {
-  en: { lifePathMeanings: enLifePathMeanings }
+  en: { 
+    lifePathMeanings: enLifePathMeanings,
+    strengths: enStrengths,
+    lifeLessons: enLifeLessons
+  }
 };
 
 /**
@@ -119,10 +125,14 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
   try {
     // Dynamic import of translations
     const lifePathMeaningsModule = await import(`../data/translations/${language}/lifePathMeanings.json`);
+    const strengthsModule = await import(`../data/translations/${language}/strengths.json`);
+    const lifeLessonsModule = await import(`../data/translations/${language}/lifeLessons.json`);
     
     // Store in cache
     translationsCache[language] = {
-      lifePathMeanings: lifePathMeaningsModule.default
+      lifePathMeanings: lifePathMeaningsModule.default,
+      strengths: strengthsModule.default,
+      lifeLessons: lifeLessonsModule.default
     };
   } catch (error) {
     console.error(`Failed to load translations for ${language}:`, error);
@@ -132,22 +142,59 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
 /**
  * Get strengths for a specific Life Path number
  * @param num The Life Path number
+ * @param language The language code (defaults to 'en')
  * @returns Array of strengths
  */
-export const getStrengths = (num: number): string[] => {
+export const getStrengths = (num: number, language: LanguageCode = 'en'): string[] => {
   const numKey = num.toString();
-  return numberAttributes.strengths[numKey] || ['Unknown'];
+  
+  try {
+    // Use cached translations if available
+    if (translationsCache[language]?.strengths?.[numKey]) {
+      return translationsCache[language].strengths[numKey];
+    }
+    
+    // If requested language is not English and not in cache, fall back to English
+    if (language !== 'en' && translationsCache.en?.strengths?.[numKey]) {
+      console.warn(`Strengths translation not found for ${language}, falling back to en`);
+      return translationsCache.en.strengths[numKey];
+    }
+    
+    // Default fallback
+    return ['Unknown'];
+  } catch (error) {
+    console.error("Error retrieving strengths:", error);
+    return ['Error'];
+  }
 };
 
 /**
  * Get life lessons for a specific Life Path number
  * @param num The Life Path number
+ * @param language The language code (defaults to 'en')
  * @returns Life lessons as a string
  */
-export const getLifeLessons = (num: number): string => {
+export const getLifeLessons = (num: number, language: LanguageCode = 'en'): string => {
   const numKey = num.toString();
-  return numberAttributes.lifeLessons[numKey] || 
-    "Your life lessons are unique to your personal journey.";
+  
+  try {
+    // Use cached translations if available
+    if (translationsCache[language]?.lifeLessons?.[numKey]) {
+      return translationsCache[language].lifeLessons[numKey];
+    }
+    
+    // If requested language is not English and not in cache, fall back to English
+    if (language !== 'en' && translationsCache.en?.lifeLessons?.[numKey]) {
+      console.warn(`Life lessons translation not found for ${language}, falling back to en`);
+      return translationsCache.en.lifeLessons[numKey];
+    }
+    
+    // Default fallback
+    return "Your life lessons are unique to your personal journey.";
+  } catch (error) {
+    console.error("Error retrieving life lessons:", error);
+    return "There was an error retrieving the life lessons for this Life Path number.";
+  }
 };
 
 /**

@@ -1,0 +1,15 @@
+
+{
+  "1": ["Liderazgo", "Independencia", "Originalidad", "Innovación", "Confianza en sí mismo", "Ambición"],
+  "2": ["Diplomacia", "Cooperación", "Sensibilidad", "Armonía", "Adaptabilidad", "Paciencia"],
+  "3": ["Creatividad", "Expresión", "Comunicación", "Optimismo", "Inspiración", "Alegría"],
+  "4": ["Organización", "Practicidad", "Fiabilidad", "Determinación", "Disciplina", "Honestidad"],
+  "5": ["Adaptabilidad", "Libertad", "Aventura", "Curiosidad", "Versatilidad", "Valentía"],
+  "6": ["Responsabilidad", "Compasión", "Armonía", "Nutrición", "Equilibrio", "Servicio"],
+  "7": ["Análisis", "Sabiduría", "Intuición", "Espiritualidad", "Perfeccionismo", "Investigación"],
+  "8": ["Ambición", "Autoridad", "Gestión", "Logro", "Visión", "Realismo"],
+  "9": ["Compasión", "Idealismo", "Filantropía", "Universalidad", "Sabiduría", "Tolerancia"],
+  "11": ["Intuición", "Idealismo", "Inspiración", "Espiritualidad", "Sensibilidad", "Visión"],
+  "22": ["Practicidad", "Maestría", "Visión", "Poder", "Logro", "Liderazgo"],
+  "33": ["Compasión", "Enseñanza", "Sanación", "Altruismo", "Sabiduría", "Nutrición"]
+}
