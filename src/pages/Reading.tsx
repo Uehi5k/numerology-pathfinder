@@ -2,14 +2,14 @@
 import React, { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Layout from '@/components/Layout';
-import { getLifePathMeaning, getStrengths, getLifeLessons, loadTranslations } from '@/utils/numerologyCalculator';
+import { calculateAllInsights, loadTranslations } from '@/utils/numerologyCalculator';
 import BackLink from '@/components/reading/BackLink';
 import LifePathCard from '@/components/reading/LifePathCard';
-import LifePathDetails from '@/components/reading/LifePathDetails';
 import NoLifePathMessage from '@/components/reading/NoLifePathMessage';
-import { LifePathMeaning } from '@/types/numerology';
+import { LifePathMeaning, NumerologyInsight } from '@/types/numerology';
 import { useLanguage } from '@/contexts/LanguageContext';
 import LanguageSelector from '@/components/LanguageSelector';
+import InsightTabs from '@/components/reading/InsightTabs';
 
 const Reading = () => {
   const [searchParams] = useSearchParams();
@@ -17,14 +17,14 @@ const Reading = () => {
   const birthdate = searchParams.get('birthdate');
   
   const { language } = useLanguage();
-  const [meaning, setMeaning] = useState<LifePathMeaning | null>(null);
+  const [insights, setInsights] = useState<NumerologyInsight[]>([]);
   const [formattedDate, setFormattedDate] = useState<string>('');
   
   useEffect(() => {
     // Load translations for the current language
     loadTranslations(language).then(() => {
-      if (lifePath) {
-        setMeaning(getLifePathMeaning(lifePath, language));
+      if (birthdate) {
+        setInsights(calculateAllInsights(birthdate, language));
       }
     });
     
@@ -36,15 +36,18 @@ const Reading = () => {
         year: 'numeric'
       }).format(date));
     }
-  }, [lifePath, birthdate, language]);
+  }, [birthdate, language]);
   
-  if (!lifePath || !meaning) {
+  if (!lifePath || insights.length === 0) {
     return (
       <Layout>
         <NoLifePathMessage />
       </Layout>
     );
   }
+  
+  // Find the Life Path insight for the title card
+  const lifePathInsight = insights.find(insight => insight.type === 'lifePath');
   
   return (
     <Layout>
@@ -58,19 +61,17 @@ const Reading = () => {
             <LanguageSelector />
           </div>
           
-          <LifePathCard
-            lifePath={lifePath}
-            title={meaning.title}
-            meaning={meaning.meaning}
-            formattedDate={formattedDate}
-          />
+          {lifePathInsight && (
+            <LifePathCard
+              lifePath={lifePath}
+              title={lifePathInsight.title}
+              meaning={lifePathInsight.description}
+              formattedDate={formattedDate}
+            />
+          )}
           
           <div className="mt-6">
-            <LifePathDetails
-              meaning={meaning.meaning}
-              strengths={getStrengths(lifePath, language)}
-              lifeLessons={getLifeLessons(lifePath, language)}
-            />
+            <InsightTabs insights={insights} />
           </div>
         </div>
       </div>

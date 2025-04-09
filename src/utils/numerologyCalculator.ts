@@ -1,18 +1,23 @@
-
 /**
  * Numerology calculator utility functions
  */
-import { LanguageCode, LifePathMeaning } from '../types/numerology';
+import { LanguageCode, LifePathMeaning, NumerologyInsight } from '../types/numerology';
 import enLifePathMeanings from '../data/translations/en/lifePathMeanings.json';
 import enStrengths from '../data/translations/en/strengths.json';
 import enLifeLessons from '../data/translations/en/lifeLessons.json';
+import enAttitudeMeanings from '../data/translations/en/attitudeMeanings.json';
+import enGenerationMeanings from '../data/translations/en/generationMeanings.json';
+import enDayOfBirthMeanings from '../data/translations/en/dayOfBirthMeanings.json';
 
 // Cache for loaded translations
 const translationsCache: Record<string, any> = {
   en: { 
     lifePathMeanings: enLifePathMeanings,
     strengths: enStrengths,
-    lifeLessons: enLifeLessons
+    lifeLessons: enLifeLessons,
+    attitudeMeanings: enAttitudeMeanings,
+    generationMeanings: enGenerationMeanings,
+    dayOfBirthMeanings: enDayOfBirthMeanings
   }
 };
 
@@ -79,6 +84,74 @@ export const calculateLifePath = (dateString: string): number => {
 };
 
 /**
+ * Calculates Attitude Number from a birthdate
+ * @param dateString Birthdate in YYYY-MM-DD format
+ * @returns The Attitude number
+ */
+export const calculateAttitude = (dateString: string): number => {
+  if (!dateString) {
+    throw new Error('Birthdate is required');
+  }
+  
+  const [, month, day] = dateString.split('-').map(Number);
+  
+  if (!month || !day) {
+    throw new Error('Invalid date format');
+  }
+  
+  // Add the day and month
+  const sum = reduceNumber(month) + reduceNumber(day);
+  
+  // Reduce the sum to get the Attitude number
+  return reduceNumber(sum);
+};
+
+/**
+ * Calculates Generation Number from a birthdate
+ * @param dateString Birthdate in YYYY-MM-DD format
+ * @returns The Generation number
+ */
+export const calculateGeneration = (dateString: string): number => {
+  if (!dateString) {
+    throw new Error('Birthdate is required');
+  }
+  
+  const [year] = dateString.split('-').map(Number);
+  
+  if (!year) {
+    throw new Error('Invalid date format');
+  }
+  
+  // Reduce the year to a single digit or master number
+  const yearSum = year
+    .toString()
+    .split('')
+    .map(Number)
+    .reduce((acc, digit) => acc + digit, 0);
+  
+  return reduceNumber(yearSum);
+};
+
+/**
+ * Gets the Day of Birth number (not reduced)
+ * @param dateString Birthdate in YYYY-MM-DD format
+ * @returns The Day of Birth number
+ */
+export const getDayOfBirth = (dateString: string): number => {
+  if (!dateString) {
+    throw new Error('Birthdate is required');
+  }
+  
+  const [, , day] = dateString.split('-').map(Number);
+  
+  if (!day || day < 1 || day > 31) {
+    throw new Error('Invalid date format');
+  }
+  
+  return day;
+};
+
+/**
  * Returns the meaning of a Life Path number in the specified language
  * @param num The Life Path number
  * @param language The language code (defaults to 'en')
@@ -115,6 +188,84 @@ export const getLifePathMeaning = (num: number, language: LanguageCode = 'en'): 
 };
 
 /**
+ * Returns the meaning of an Attitude number in the specified language
+ * @param num The Attitude number
+ * @param language The language code (defaults to 'en')
+ * @returns The meaning as a string
+ */
+export const getAttitudeMeaning = (num: number, language: LanguageCode = 'en'): string => {
+  const numKey = num.toString();
+  
+  try {
+    if (translationsCache[language]?.attitudeMeanings?.[numKey]) {
+      return translationsCache[language].attitudeMeanings[numKey];
+    }
+    
+    if (language !== 'en' && translationsCache.en?.attitudeMeanings?.[numKey]) {
+      console.warn(`Attitude translation not found for ${language}, falling back to en`);
+      return translationsCache.en.attitudeMeanings[numKey];
+    }
+    
+    return "This number does not have a standard Attitude interpretation.";
+  } catch (error) {
+    console.error("Error retrieving attitude meaning:", error);
+    return "There was an error retrieving the meaning for this Attitude number.";
+  }
+};
+
+/**
+ * Returns the meaning of a Generation number in the specified language
+ * @param num The Generation number
+ * @param language The language code (defaults to 'en')
+ * @returns The meaning as a string
+ */
+export const getGenerationMeaning = (num: number, language: LanguageCode = 'en'): string => {
+  const numKey = num.toString();
+  
+  try {
+    if (translationsCache[language]?.generationMeanings?.[numKey]) {
+      return translationsCache[language].generationMeanings[numKey];
+    }
+    
+    if (language !== 'en' && translationsCache.en?.generationMeanings?.[numKey]) {
+      console.warn(`Generation translation not found for ${language}, falling back to en`);
+      return translationsCache.en.generationMeanings[numKey];
+    }
+    
+    return "This number does not have a standard Generation interpretation.";
+  } catch (error) {
+    console.error("Error retrieving generation meaning:", error);
+    return "There was an error retrieving the meaning for this Generation number.";
+  }
+};
+
+/**
+ * Returns the meaning of a Day of Birth number in the specified language
+ * @param num The Day of Birth number
+ * @param language The language code (defaults to 'en')
+ * @returns The meaning as a string
+ */
+export const getDayOfBirthMeaning = (num: number, language: LanguageCode = 'en'): string => {
+  const numKey = num.toString();
+  
+  try {
+    if (translationsCache[language]?.dayOfBirthMeanings?.[numKey]) {
+      return translationsCache[language].dayOfBirthMeanings[numKey];
+    }
+    
+    if (language !== 'en' && translationsCache.en?.dayOfBirthMeanings?.[numKey]) {
+      console.warn(`Day of Birth translation not found for ${language}, falling back to en`);
+      return translationsCache.en.dayOfBirthMeanings[numKey];
+    }
+    
+    return "This day does not have a standard Day of Birth interpretation.";
+  } catch (error) {
+    console.error("Error retrieving day of birth meaning:", error);
+    return "There was an error retrieving the meaning for this Day of Birth.";
+  }
+};
+
+/**
  * Load translations for a specific language
  * @param language The language code
  */
@@ -128,11 +279,35 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
     const strengthsModule = await import(`../data/translations/${language}/strengths.json`);
     const lifeLessonsModule = await import(`../data/translations/${language}/lifeLessons.json`);
     
+    // Try to load optional translation files
+    let attitudeMeaningsModule, generationMeaningsModule, dayOfBirthMeaningsModule;
+    
+    try {
+      attitudeMeaningsModule = await import(`../data/translations/${language}/attitudeMeanings.json`);
+    } catch (e) {
+      console.warn(`No attitude meanings found for ${language}`);
+    }
+    
+    try {
+      generationMeaningsModule = await import(`../data/translations/${language}/generationMeanings.json`);
+    } catch (e) {
+      console.warn(`No generation meanings found for ${language}`);
+    }
+    
+    try {
+      dayOfBirthMeaningsModule = await import(`../data/translations/${language}/dayOfBirthMeanings.json`);
+    } catch (e) {
+      console.warn(`No day of birth meanings found for ${language}`);
+    }
+    
     // Store in cache
     translationsCache[language] = {
       lifePathMeanings: lifePathMeaningsModule.default,
       strengths: strengthsModule.default,
-      lifeLessons: lifeLessonsModule.default
+      lifeLessons: lifeLessonsModule.default,
+      ...(attitudeMeaningsModule && { attitudeMeanings: attitudeMeaningsModule.default }),
+      ...(generationMeaningsModule && { generationMeanings: generationMeaningsModule.default }),
+      ...(dayOfBirthMeaningsModule && { dayOfBirthMeanings: dayOfBirthMeaningsModule.default })
     };
   } catch (error) {
     console.error(`Failed to load translations for ${language}:`, error);
@@ -205,4 +380,59 @@ export const getAllNumberMeanings = (language: LanguageCode = 'en') => {
     number: num,
     ...getLifePathMeaning(num, language)
   }));
+};
+
+/**
+ * Calculate all numerology insights from a birthdate
+ * @param dateString Birthdate in YYYY-MM-DD format
+ * @param language The language code (defaults to 'en')
+ * @returns Object with all numerology insights
+ */
+export const calculateAllInsights = (dateString: string, language: LanguageCode = 'en'): NumerologyInsight[] => {
+  if (!dateString) {
+    return [];
+  }
+  
+  try {
+    const lifePath = calculateLifePath(dateString);
+    const attitude = calculateAttitude(dateString);
+    const generation = calculateGeneration(dateString);
+    const dayOfBirth = getDayOfBirth(dateString);
+    
+    return [
+      {
+        type: 'lifePath',
+        number: lifePath,
+        title: getLifePathMeaning(lifePath, language).title,
+        description: getLifePathMeaning(lifePath, language).meaning,
+        formula: "Month (reduced) + Day (reduced) + Year (reduced) = Life Path Number",
+        strengths: getStrengths(lifePath, language),
+        lifeLessons: getLifeLessons(lifePath, language)
+      },
+      {
+        type: 'attitude',
+        number: attitude,
+        title: `Attitude Number ${attitude}`,
+        description: getAttitudeMeaning(attitude, language),
+        formula: "Month (reduced) + Day (reduced) = Attitude Number"
+      },
+      {
+        type: 'generation',
+        number: generation,
+        title: `Generation Number ${generation}`,
+        description: getGenerationMeaning(generation, language),
+        formula: "Sum of all digits in birth year (reduced) = Generation Number"
+      },
+      {
+        type: 'dayOfBirth',
+        number: dayOfBirth,
+        title: `Day of Birth: ${dayOfBirth}`,
+        description: getDayOfBirthMeaning(dayOfBirth, language),
+        formula: "The day of the month you were born (not reduced)"
+      }
+    ];
+  } catch (error) {
+    console.error("Error calculating insights:", error);
+    return [];
+  }
 };
