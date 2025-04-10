@@ -2,7 +2,6 @@
 import { useState, useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { NumerologyInsight } from '@/types/numerology';
-import lifePathMeaningsJSON from '@/data/lifePathMeanings.json';
 
 export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
   const [insights, setInsights] = useState<NumerologyInsight[]>([]);
@@ -18,16 +17,46 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
       // Import language-specific files
       const getLifePathData = async () => {
         try {
-          const lifePathMeanings = (await import(`@/data/translations/${language}/lifePathMeanings.json`)).default;
-          const strengths = (await import(`@/data/translations/${language}/strengths.json`)).default;
-          const lifeLessons = (await import(`@/data/translations/${language}/lifeLessons.json`)).default;
-          const attitudeMeanings = (await import(`@/data/translations/${language}/attitudeMeanings.json`)).default;
-          const dayOfBirthMeanings = (await import(`@/data/translations/${language}/dayOfBirthMeanings.json`)).default;
-          const generationMeanings = (await import(`@/data/translations/${language}/generationMeanings.json`)).default;
+          // Load the meaning data
+          let lifePathMeanings;
+          try {
+            lifePathMeanings = (await import(`@/data/translations/${language}/lifePathMeanings.json`)).default;
+          } catch (error) {
+            // Fallback to default English meanings
+            lifePathMeanings = (await import('@/data/lifePathMeanings.json')).default;
+          }
+
+          // Ensure we have a valid meaning string, not an object
+          const getMeaningString = (number: string) => {
+            const data = lifePathMeanings[number];
+            return typeof data === 'string' ? data : 
+                   (data && typeof data === 'object' && 'meaning' in data) ? data.meaning : 
+                   `No meaning available for Life Path ${number}`;
+          };
+
+          const getTitleString = (number: string) => {
+            const data = lifePathMeanings[number];
+            return (data && typeof data === 'object' && 'title' in data) ? data.title : 
+                   `Life Path ${number}`;
+          };
+
+          // Load other data
+          let strengths, lifeLessons, attitudeMeanings, dayOfBirthMeanings, generationMeanings;
+          
+          try {
+            strengths = (await import(`@/data/translations/${language}/strengths.json`)).default;
+            lifeLessons = (await import(`@/data/translations/${language}/lifeLessons.json`)).default;
+            attitudeMeanings = (await import(`@/data/translations/${language}/attitudeMeanings.json`)).default;
+            dayOfBirthMeanings = (await import(`@/data/translations/${language}/dayOfBirthMeanings.json`)).default;
+            generationMeanings = (await import(`@/data/translations/${language}/generationMeanings.json`)).default;
+          } catch (error) {
+            console.error("Error loading some translations:", error);
+            // We'll continue with what we have, missing values will be handled later
+          }
 
           // Calculate numbers and their meanings
           const lifePathNumber = parseInt(lifePath);
-          const [month, day, year] = birthdate.split('-').map(part => parseInt(part));
+          const [year, month, day] = birthdate.split('-').map(part => parseInt(part));
           
           // Attitude number (sum of month and day)
           const attitudeNumber = (month + day) % 9 || 9;
@@ -42,31 +71,31 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
             {
               type: 'lifePath',
               number: lifePathNumber,
-              title: `Life Path ${lifePathNumber}`,
-              description: lifePathMeanings[lifePathNumber.toString()] || lifePathMeaningsJSON[lifePathNumber.toString()],
+              title: getTitleString(lifePathNumber.toString()),
+              description: getMeaningString(lifePathNumber.toString()),
               formula: `${month}/${day}/${year} → ${lifePathNumber}`,
-              strengths: strengths[lifePathNumber.toString()],
-              lifeLessons: lifeLessons[lifePathNumber.toString()]
+              strengths: strengths?.[lifePathNumber.toString()] || [],
+              lifeLessons: lifeLessons?.[lifePathNumber.toString()] || ""
             },
             {
               type: 'attitude',
               number: attitudeNumber,
               title: `Attitude ${attitudeNumber}`,
-              description: attitudeMeanings[attitudeNumber.toString()],
+              description: attitudeMeanings?.[attitudeNumber.toString()] || `No meaning available for Attitude ${attitudeNumber}`,
               formula: `${month} + ${day} = ${attitudeNumber}`
             },
             {
               type: 'dayOfBirth',
               number: dayOfBirthNumber,
               title: `Day of Birth ${dayOfBirthNumber}`,
-              description: dayOfBirthMeanings[dayOfBirthNumber.toString()] || "This day number meaning is not available.",
+              description: dayOfBirthMeanings?.[dayOfBirthNumber.toString()] || "This day number meaning is not available.",
               formula: `Day: ${dayOfBirthNumber}`
             },
             {
               type: 'generation',
               number: generationNumber,
               title: `Generation ${generationNumber}`,
-              description: generationMeanings[generationNumber.toString()],
+              description: generationMeanings?.[generationNumber.toString()] || `No meaning available for Generation ${generationNumber}`,
               formula: `${year} → ${generationNumber}`
             }
           ];

@@ -1,11 +1,13 @@
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Share2 } from 'lucide-react';
 import { toast } from 'sonner';
-import { LifePathMeaning } from '@/types/numerology';
 
-interface LifePathCardProps extends LifePathMeaning {
+interface LifePathCardProps {
   lifePath: number;
+  title: string;
+  meaning: string;
   formattedDate?: string;
 }
 
