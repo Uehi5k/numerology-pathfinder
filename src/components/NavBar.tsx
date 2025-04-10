@@ -1,7 +1,8 @@
+
 import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Menu, X, Home, Calculator, User } from "lucide-react";
+import { Menu, X, Home, Calculator, User, Text } from "lucide-react";
 
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,6 +11,7 @@ const NavBar = () => {
   const routes = [
     { name: "Home", path: "/", icon: <Home className="w-5 h-5" /> },
     { name: "Life Path", path: "/life-path", icon: <Calculator className="w-5 h-5" /> },
+    { name: "Name Numbers", path: "/name-numerology", icon: <Text className="w-5 h-5" /> },
     { name: "Reading", path: "/reading", icon: <User className="w-5 h-5" /> },
   ];
 

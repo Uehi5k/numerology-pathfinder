@@ -22,7 +22,7 @@ export interface UserPreferences {
 /**
  * Numerology insight types
  */
-export type NumerologyType = 'lifePath' | 'attitude' | 'generation' | 'dayOfBirth';
+export type NumerologyType = 'lifePath' | 'attitude' | 'generation' | 'dayOfBirth' | 'expression' | 'soulUrge' | 'personality';
 
 /**
  * Numerology insight interface
@@ -35,4 +35,21 @@ export interface NumerologyInsight {
   formula: string;
   strengths?: string[];
   lifeLessons?: string;
+}
+
+/**
+ * Name numerology letter-to-number mapping
+ */
+export interface LetterNumberMap {
+  [key: string]: number;
+}
+
+/**
+ * Name numerology calculation result
+ */
+export interface NameNumerologyResult {
+  expression: number;
+  soulUrge: number;
+  personality: number;
+  insights: NumerologyInsight[];
 }
