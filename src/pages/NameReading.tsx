@@ -1,10 +1,9 @@
-
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { motion } from "framer-motion";
 import Layout from "@/components/Layout";
 import BackLink from "@/components/reading/BackLink";
-import { calculateNameNumerology } from "@/utils/nameNumerologyCalculator";
+import { calculateNameNumerology } from "@/utils/numerology";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { NumerologyInsight } from "@/types/numerology";
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -55,7 +54,6 @@ const NameReading = () => {
     );
   }
 
-  // Find the Expression insight for the title
   const expressionInsight = nameInsights.find(
     (insight) => insight.type === "expression"
   );

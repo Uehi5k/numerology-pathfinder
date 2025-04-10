@@ -9,7 +9,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { toast } from "sonner";
-import { calculateNameNumerology } from "@/utils/nameNumerologyCalculator";
+import { calculateNameNumerology } from "@/utils/numerology";
 import { calculateLifePath } from "@/utils/numerologyCalculator";
 import { CalendarIcon } from "lucide-react";
 

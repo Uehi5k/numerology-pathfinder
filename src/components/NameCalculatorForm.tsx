@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { z } from "zod";
@@ -9,7 +8,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { toast } from "sonner";
-import { calculateNameNumerology } from "@/utils/nameNumerologyCalculator";
+import { calculateNameNumerology } from "@/utils/numerology";
 
 // Form validation schema
 const formSchema = z.object({

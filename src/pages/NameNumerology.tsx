@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Layout from "@/components/Layout";
 import CombinedCalculatorForm from "@/components/CombinedCalculatorForm";
-import { getLetterMapExplanation } from "@/utils/nameNumerologyCalculator";
+import { getLetterMapExplanation } from "@/utils/numerology";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
 const NameNumerology = () => {
