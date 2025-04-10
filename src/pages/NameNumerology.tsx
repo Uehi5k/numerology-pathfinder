@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Layout from "@/components/Layout";
-import NameCalculatorForm from "@/components/NameCalculatorForm";
+import CombinedCalculatorForm from "@/components/CombinedCalculatorForm";
 import { getLetterMapExplanation } from "@/utils/nameNumerologyCalculator";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
@@ -17,10 +17,10 @@ const NameNumerology = () => {
           className="text-center space-y-4 max-w-2xl px-4"
         >
           <h1 className="text-3xl font-medium tracking-tight sm:text-4xl">
-            Name Numerology Calculator
+            Numerology Calculator
           </h1>
           <p className="text-lg leading-8 text-foreground/70">
-            Discover the hidden meanings in your name through numerology. Calculate your Expression, Soul Urge, and Personality numbers.
+            Discover your Life Path number and the hidden meanings in your name through numerology.
           </p>
         </motion.div>
 
@@ -30,7 +30,7 @@ const NameNumerology = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="w-full max-w-4xl px-4"
         >
-          <NameCalculatorForm />
+          <CombinedCalculatorForm />
         </motion.div>
 
         <motion.div
@@ -41,12 +41,13 @@ const NameNumerology = () => {
         >
           <Accordion type="single" collapsible className="w-full glass rounded-xl p-4">
             <AccordionItem value="explanation">
-              <AccordionTrigger>How Do Name Numbers Work?</AccordionTrigger>
+              <AccordionTrigger>How Do Numerology Numbers Work?</AccordionTrigger>
               <AccordionContent>
                 <div className="space-y-4">
-                  <p>
-                    Name numerology is based on converting the letters in your name to numbers according to the Pythagorean system, then calculating different aspects of your numerological profile:
-                  </p>
+                  <div>
+                    <h3 className="font-medium mb-2">Life Path Number</h3>
+                    <p>Your Life Path number is calculated from your birth date. It reveals your life's purpose, destiny, and the challenges you'll face.</p>
+                  </div>
                   
                   <div>
                     <h3 className="font-medium mb-2">Expression Number (Destiny Number)</h3>

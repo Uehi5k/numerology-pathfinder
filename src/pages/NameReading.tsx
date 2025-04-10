@@ -12,37 +12,42 @@ import LanguageSelector from "@/components/LanguageSelector";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import NumerologyInsightCard from "@/components/reading/NumerologyInsightCard";
 import { Info } from "lucide-react";
+import InsightTabs from "@/components/reading/InsightTabs";
+import { useNumerologyInsights } from "@/hooks/useNumerologyInsights";
 
 const NameReading = () => {
   const [searchParams] = useSearchParams();
   const name = searchParams.get("name") || "";
+  const birthdate = searchParams.get("birthdate") || "";
+  const lifePath = searchParams.get("lifePath") || "";
   const { language } = useLanguage();
-  const [insights, setInsights] = useState<NumerologyInsight[]>([]);
+  const [nameInsights, setNameInsights] = useState<NumerologyInsight[]>([]);
+  const { insights: lifePathInsights } = useNumerologyInsights(lifePath, birthdate);
 
   useEffect(() => {
     if (name) {
       try {
         const { insights } = calculateNameNumerology(name, language);
-        setInsights(insights);
+        setNameInsights(insights);
       } catch (error) {
         console.error("Error calculating name numerology:", error);
       }
     }
   }, [name, language]);
 
-  if (!name || insights.length === 0) {
+  if ((!name && !birthdate) || nameInsights.length === 0) {
     return (
       <Layout>
         <div className="flex flex-col items-center justify-center py-16 px-4">
           <Card className="w-full max-w-md glass text-center">
             <CardHeader>
-              <CardTitle>No Name Provided</CardTitle>
+              <CardTitle>No Information Provided</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="mb-6">
-                Please use the calculator to generate your name numerology reading.
+                Please use the calculator to generate your numerology reading.
               </p>
-              <BackLink to="/name-numerology" label="Go to Name Calculator" />
+              <BackLink to="/name-numerology" label="Go to Calculator" />
             </CardContent>
           </Card>
         </div>
@@ -51,7 +56,7 @@ const NameReading = () => {
   }
 
   // Find the Expression insight for the title
-  const expressionInsight = insights.find(
+  const expressionInsight = nameInsights.find(
     (insight) => insight.type === "expression"
   );
 
@@ -74,10 +79,16 @@ const NameReading = () => {
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div>
                   <h1 className="text-2xl font-medium mb-1">{name}</h1>
-                  <p className="text-foreground/70">Name Numerology Reading</p>
+                  <p className="text-foreground/70">Born: {birthdate}</p>
                 </div>
-                <div className="flex gap-3">
-                  {insights.map((insight) => (
+                <div className="flex gap-3 flex-wrap justify-center">
+                  <div className="flex flex-col items-center">
+                    <div className="text-sm text-foreground/70 mb-1">Life Path</div>
+                    <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
+                      <span className="text-xl font-light text-primary">{lifePath}</span>
+                    </div>
+                  </div>
+                  {nameInsights.map((insight) => (
                     <div
                       key={insight.type}
                       className="flex flex-col items-center"
@@ -103,14 +114,27 @@ const NameReading = () => {
           </motion.div>
 
           <div className="mt-6">
-            <Tabs defaultValue="expression" className="w-full">
-              <TabsList className="w-full grid grid-cols-3 mb-6">
+            <Tabs defaultValue="lifePath" className="w-full">
+              <TabsList className="w-full grid grid-cols-4 mb-6">
+                <TabsTrigger value="lifePath">Life Path</TabsTrigger>
                 <TabsTrigger value="expression">Expression</TabsTrigger>
                 <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
                 <TabsTrigger value="personality">Personality</TabsTrigger>
               </TabsList>
 
-              {insights.map((insight) => (
+              <TabsContent value="lifePath">
+                {lifePathInsights.length > 0 ? (
+                  <InsightTabs insights={lifePathInsights} />
+                ) : (
+                  <Card>
+                    <CardContent className="pt-6">
+                      <p>Life Path information not available.</p>
+                    </CardContent>
+                  </Card>
+                )}
+              </TabsContent>
+              
+              {nameInsights.map((insight) => (
                 <TabsContent key={insight.type} value={insight.type}>
                   <NumerologyInsightCard insight={insight} />
                 </TabsContent>
@@ -121,11 +145,10 @@ const NameReading = () => {
           <div className="mt-6 glass rounded-xl p-4 text-foreground/70 text-sm flex items-start gap-3">
             <Info className="min-w-5 h-5 mt-0.5 text-accent" />
             <p>
-              Name numerology provides insights into different aspects of your
-              personality based on the vibrations of the letters in your name.
-              The Expression number reveals your natural talents, the Soul Urge
-              number reflects your inner desires, and the Personality number
-              shows how others perceive you.
+              Your numerology chart combines your Life Path number from your birth date and 
+              your name numbers. The Life Path reveals your life's purpose and challenges. 
+              The Expression number shows your natural talents, the Soul Urge reflects your inner desires, 
+              and the Personality number indicates how others perceive you.
             </p>
           </div>
         </div>
