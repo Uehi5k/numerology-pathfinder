@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -22,17 +23,41 @@ const NameReading = () => {
   const { language } = useLanguage();
   const [nameInsights, setNameInsights] = useState<NumerologyInsight[]>([]);
   const { insights: lifePathInsights } = useNumerologyInsights(lifePath, birthdate);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     if (name) {
-      try {
-        const { insights } = calculateNameNumerology(name, language);
-        setNameInsights(insights);
-      } catch (error) {
-        console.error("Error calculating name numerology:", error);
-      }
+      setLoading(true);
+      const getNameNumerology = async () => {
+        try {
+          const { insights } = await calculateNameNumerology(name, language);
+          setNameInsights(insights);
+        } catch (error) {
+          console.error("Error calculating name numerology:", error);
+        } finally {
+          setLoading(false);
+        }
+      };
+      
+      getNameNumerology();
+    } else {
+      setLoading(false);
     }
   }, [name, language]);
+
+  if (loading) {
+    return (
+      <Layout>
+        <div className="flex flex-col items-center justify-center py-16 px-4">
+          <Card className="w-full max-w-md glass text-center">
+            <CardContent className="pt-6">
+              <p>Loading your numerology reading...</p>
+            </CardContent>
+          </Card>
+        </div>
+      </Layout>
+    );
+  }
 
   if ((!name && !birthdate) || nameInsights.length === 0) {
     return (

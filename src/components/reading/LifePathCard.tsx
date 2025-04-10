@@ -82,6 +82,14 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
           <h1 className="text-3xl font-medium mb-2">Life Path {lifePath}</h1>
           <h2 className="text-xl text-accent">{title}</h2>
         </motion.div>
+        
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.4 }}
+        >
+          <p className="text-foreground/80 leading-relaxed">{meaning}</p>
+        </motion.div>
       </div>
     </motion.div>
   );

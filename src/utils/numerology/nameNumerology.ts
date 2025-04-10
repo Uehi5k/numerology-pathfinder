@@ -10,32 +10,37 @@ import { calculatePersonality, getPersonalityMeaning } from "./personalityNumber
  * @param language The language code (defaults to 'en')
  * @returns Object with numerology calculations and insights
  */
-export const calculateNameNumerology = (name: string, language: LanguageCode = 'en'): NameNumerologyResult => {
+export const calculateNameNumerology = async (name: string, language: LanguageCode = 'en'): Promise<NameNumerologyResult> => {
   try {
     const expression = calculateExpression(name);
     const soulUrge = calculateSoulUrge(name);
     const personality = calculatePersonality(name);
+    
+    // Get meanings with language support
+    const expressionMeaning = await getExpressionMeaning(expression, language);
+    const soulUrgeMeaning = await getSoulUrgeMeaning(soulUrge, language);
+    const personalityMeaning = await getPersonalityMeaning(personality, language);
     
     const insights: NumerologyInsight[] = [
       {
         type: 'expression',
         number: expression,
         title: `Expression Number ${expression}`,
-        description: getExpressionMeaning(expression, language),
+        description: expressionMeaning,
         formula: "Sum of all letters in your name = Expression Number"
       },
       {
         type: 'soulUrge',
         number: soulUrge,
         title: `Soul Urge Number ${soulUrge}`,
-        description: getSoulUrgeMeaning(soulUrge, language),
+        description: soulUrgeMeaning,
         formula: "Sum of vowels in your name = Soul Urge Number"
       },
       {
         type: 'personality',
         number: personality,
         title: `Personality Number ${personality}`,
-        description: getPersonalityMeaning(personality, language),
+        description: personalityMeaning,
         formula: "Sum of consonants in your name = Personality Number"
       }
     ];
