@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import Layout from '@/components/Layout';
-import { Calculator, ArrowRight, Text } from 'lucide-react';
+import { Text, ArrowRight } from 'lucide-react';
 
 const Index = () => {
   return (
@@ -38,25 +38,6 @@ const Index = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <Link 
-              to="/life-path" 
-              className="glass hover:shadow-md group block p-6 rounded-xl transition-all mb-4"
-            >
-              <div className="flex items-center mb-4">
-                <div className="h-12 w-12 rounded-full bg-accent/10 flex items-center justify-center">
-                  <Calculator className="h-6 w-6 text-accent" />
-                </div>
-                <h3 className="ml-4 text-xl font-medium">Life Path Calculator</h3>
-              </div>
-              <p className="text-foreground/70">
-                Calculate your Life Path number based on your birth date to discover your core personality traits and life purpose.
-              </p>
-              <div className="flex items-center mt-4 text-accent font-medium">
-                <span>Calculate now</span>
-                <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-              </div>
-            </Link>
-            
-            <Link 
               to="/name-numerology" 
               className="glass hover:shadow-md group block p-6 rounded-xl transition-all"
             >
@@ -64,10 +45,10 @@ const Index = () => {
                 <div className="h-12 w-12 rounded-full bg-accent/10 flex items-center justify-center">
                   <Text className="h-6 w-6 text-accent" />
                 </div>
-                <h3 className="ml-4 text-xl font-medium">Name Numbers Calculator</h3>
+                <h3 className="ml-4 text-xl font-medium">Numerology Calculators</h3>
               </div>
               <p className="text-foreground/70">
-                Discover your Expression, Soul Urge, and Personality numbers based on your full birth name.
+                Discover your Life Path, Expression, Soul Urge, and Personality numbers based on your birth date and name.
               </p>
               <div className="flex items-center mt-4 text-accent font-medium">
                 <span>Calculate now</span>
