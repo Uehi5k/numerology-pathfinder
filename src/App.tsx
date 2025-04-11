@@ -7,8 +7,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import { LanguageProvider } from "./contexts/LanguageContext";
 import Index from "./pages/Index";
-import NameNumerology from "./pages/NameNumerology";
-import NameReading from "./pages/NameReading";
+import NameNumerology from "./pages/Numerology";
+import NameReading from "./pages/Reading";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -23,8 +23,8 @@ const App = () => (
           <AnimatePresence mode="wait">
             <Routes>
               <Route path="/" element={<Index />} />
-              <Route path="/name-numerology" element={<NameNumerology />} />
-              <Route path="/name-reading" element={<NameReading />} />
+              <Route path="/numerology" element={<NameNumerology />} />
+              <Route path="/reading" element={<NameReading />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>

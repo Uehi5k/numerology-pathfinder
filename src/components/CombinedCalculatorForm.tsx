@@ -9,7 +9,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { toast } from "sonner";
-import { calculateNameNumerology } from "@/utils/numerology";
 import { calculateLifePath } from "@/utils/numerologyCalculator";
 import { CalendarIcon } from "lucide-react";
 
@@ -38,12 +37,9 @@ const CombinedCalculatorForm = () => {
     try {
       // Calculate life path number
       const lifePath = calculateLifePath(values.birthdate);
-      
-      // Calculate name numerology
-      const nameNumerology = calculateNameNumerology(values.fullName);
-      
+            
       // Navigate to reading page with query params
-      navigate(`/name-reading?name=${encodeURIComponent(values.fullName)}&birthdate=${values.birthdate}&lifePath=${lifePath}`);
+      navigate(`/reading?name=${encodeURIComponent(values.fullName)}&birthdate=${values.birthdate}&lifePath=${lifePath}`);
     } catch (error) {
       console.error("Error calculating numerology values:", error);
       toast.error("Unable to calculate numerology values. Please try again.");

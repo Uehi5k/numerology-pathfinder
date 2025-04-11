@@ -6,7 +6,7 @@ import CombinedCalculatorForm from "@/components/CombinedCalculatorForm";
 import { getLetterMapExplanation } from "@/utils/numerology";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
-const NameNumerology = () => {
+const Numerology = () => {
   return (
     <Layout>
       <div className="flex flex-col items-center justify-center space-y-8 py-8">
@@ -77,4 +77,4 @@ const NameNumerology = () => {
   );
 };
 
-export default NameNumerology;
+export default Numerology;

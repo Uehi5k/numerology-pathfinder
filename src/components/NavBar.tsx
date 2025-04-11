@@ -10,7 +10,7 @@ const NavBar = () => {
 
   const routes = [
     { name: "Home", path: "/", icon: <Home className="w-5 h-5" /> },
-    { name: "Calculator", path: "/name-numerology", icon: <Calculator className="w-5 h-5" /> },
+    { name: "Calculator", path: "/numerology", icon: <Calculator className="w-5 h-5" /> },
   ];
 
   const toggleMenu = () => setIsOpen(!isOpen);

@@ -38,7 +38,7 @@ const Index = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <Link 
-              to="/name-numerology" 
+              to="/numerology" 
               className="glass hover:shadow-md group block p-6 rounded-xl transition-all"
             >
               <div className="flex items-center mb-4">

@@ -8,7 +8,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { toast } from "sonner";
-import { calculateNameNumerology } from "@/utils/numerology";
 
 // Form validation schema
 const formSchema = z.object({
@@ -30,12 +29,9 @@ const NameCalculatorForm = () => {
   const onSubmit = async (values: z.infer<typeof formSchema>) => {
     setIsCalculating(true);
     
-    try {
-      // Calculate name numerology
-      const nameNumerology = calculateNameNumerology(values.fullName);
-      
+    try {      
       // Navigate to reading page with query params
-      navigate(`/name-reading?name=${encodeURIComponent(values.fullName)}`);
+      navigate(`/reading?name=${encodeURIComponent(values.fullName)}`);
     } catch (error) {
       console.error("Error calculating name numerology:", error);
       toast.error("Unable to calculate numerology values. Please try again.");
