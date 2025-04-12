@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Menu, X, Home, Calculator } from "lucide-react";
+import ThemeToggle from "./ThemeToggle";
 
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -17,7 +18,7 @@ const NavBar = () => {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50">
-      <div className="glass border-b border-border/40">
+      <div className="glass border-b border-border/40 dark:glass-dark">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex justify-between items-center py-4 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
@@ -27,10 +28,11 @@ const NavBar = () => {
               </Link>
             </div>
 
-            <div className="md:hidden">
+            <div className="md:hidden flex items-center">
+              <ThemeToggle />
               <button
                 onClick={toggleMenu}
-                className="bg-background/80 rounded-md p-2 inline-flex items-center justify-center text-foreground"
+                className="bg-background/80 rounded-md p-2 ml-2 inline-flex items-center justify-center text-foreground dark:bg-background/30"
                 aria-expanded="false"
               >
                 <span className="sr-only">Open menu</span>
@@ -42,7 +44,7 @@ const NavBar = () => {
               </button>
             </div>
 
-            <nav className="hidden md:flex space-x-8">
+            <nav className="hidden md:flex items-center space-x-8">
               {routes.map((route) => (
                 <Link
                   key={route.path}
@@ -61,6 +63,7 @@ const NavBar = () => {
                   {route.name}
                 </Link>
               ))}
+              <ThemeToggle />
             </nav>
           </div>
         </div>

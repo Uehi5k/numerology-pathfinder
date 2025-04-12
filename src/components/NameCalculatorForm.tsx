@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { z } from "zod";
@@ -41,7 +42,7 @@ const NameCalculatorForm = () => {
   };
 
   return (
-    <Card className="w-full max-w-lg mx-auto glass shadow-sm">
+    <Card className="w-full max-w-lg mx-auto glass dark:glass-dark shadow-sm">
       <CardHeader>
         <CardTitle className="text-2xl">Name Numerology Calculator</CardTitle>
         <CardDescription>
@@ -61,7 +62,7 @@ const NameCalculatorForm = () => {
                     <Input 
                       placeholder="Enter your full birth name" 
                       {...field} 
-                      className="bg-background/60"
+                      className="bg-background/60 dark:bg-background/20"
                     />
                   </FormControl>
                   <FormMessage />
