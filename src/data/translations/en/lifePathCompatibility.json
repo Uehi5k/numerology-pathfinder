@@ -1,0 +1,135 @@
+
+{
+  "1": {
+    "bestMatches": [3, 5, 7],
+    "goodMatches": [1, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "As a Life Path 1, you are independent, ambitious, and innovative. You thrive in relationships that give you freedom to lead and pursue your goals while receiving support and inspiration from your partner.",
+      "bestMatchesDesc": "Life Paths 3, 5, and 7 complement your leadership with creativity, adventure, and intellectual depth.",
+      "goodMatchesDesc": "Fellow 1s understand your drive, while 9s appreciate your determination and can help balance your focus.",
+      "challengingMatchesDesc": "You may face power struggles with 4s and 8s, while 2s and 6s might find your independence challenging."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 8, 9],
+    "goodMatches": [6, 7],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "With Life Path 2, you're diplomatic, sensitive, and relationship-oriented. You seek harmony and emotional connection in partnerships and thrive with partners who value cooperation and sensitivity.",
+      "bestMatchesDesc": "You connect well with 4s and 8s who provide structure, fellow 2s who understand your needs, and 9s who appreciate your support.",
+      "goodMatchesDesc": "Life Paths 6 and 7 can provide the nurturing and depth that complement your cooperative nature.",
+      "challengingMatchesDesc": "The assertiveness of 1s, 3s, and 5s might sometimes overwhelm your sensitive approach to relationships."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 5, 7],
+    "goodMatches": [3, 9],
+    "challengingMatches": [2, 4, 8],
+    "compatibility": {
+      "overview": "As a Life Path 3, you're creative, expressive, and social. You bring joy and inspiration to relationships and thrive with partners who appreciate your creativity and zest for life.",
+      "bestMatchesDesc": "You connect beautifully with 1s who admire your creativity, 5s who share your love of freedom, and 7s who add depth to your expression.",
+      "goodMatchesDesc": "Fellow 3s understand your creative nature, while 9s can help channel your expression toward meaningful goals.",
+      "challengingMatchesDesc": "The practicality of 4s and 8s might sometimes dampen your creative spirit, while 2s may need more stability than you naturally provide."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 6, 8],
+    "goodMatches": [4, 9],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "With Life Path 4, you're practical, reliable, and hardworking. You seek stability and security in relationships and value partners who share your work ethic and commitment to building something lasting.",
+      "bestMatchesDesc": "You form strong foundations with 2s who provide emotional support, 6s who share your values, and 8s who match your ambition.",
+      "goodMatchesDesc": "Fellow 4s understand your need for structure, while 9s can help you see the bigger picture in your methodical approach.",
+      "challengingMatchesDesc": "The unpredictability of 3s, 5s, and 7s might challenge your need for structure, while 1s may seem too self-focused."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 7],
+    "goodMatches": [5, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "As a Life Path 5, you're adventurous, versatile, and freedom-loving. You thrive in relationships that provide space for exploration and growth while offering stimulating experiences and conversations.",
+      "bestMatchesDesc": "You connect well with 1s who share your independent spirit, 3s who match your enthusiasm, and 7s who engage your curious mind.",
+      "goodMatchesDesc": "Fellow 5s understand your need for freedom, while 9s can help channel your versatility toward meaningful causes.",
+      "challengingMatchesDesc": "The stability-seeking nature of 2s, 4s, 6s, and 8s might sometimes feel restrictive to your free spirit."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 8, 9],
+    "goodMatches": [6],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "With Life Path 6, you're nurturing, responsible, and harmony-seeking. You value commitment and family in relationships and thrive with partners who appreciate your caregiving nature and share your sense of responsibility.",
+      "bestMatchesDesc": "You form nurturing bonds with 2s who share your sensitivity, and find balance with the structure of 4s and 8s, while 9s appreciate your service.",
+      "goodMatchesDesc": "Fellow 6s understand your nurturing nature, creating homes filled with love and beauty together.",
+      "challengingMatchesDesc": "The independence of 1s, 5s, and 7s might sometimes clash with your nurturing approach, while 3s may seem too carefree."
+    }
+  },
+  "7": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [2, 7],
+    "challengingMatches": [4, 6, 8, 9],
+    "compatibility": {
+      "overview": "As a Life Path 7, you're analytical, introspective, and spiritually inclined. You seek depth and meaning in relationships and value partners who engage your intellect and respect your need for solitude and reflection.",
+      "bestMatchesDesc": "You form intellectually stimulating bonds with 1s, connect spiritually with 3s, and share philosophical explorations with 5s.",
+      "goodMatchesDesc": "Fellow 7s understand your need for space and introspection, while 2s can provide the emotional support you sometimes neglect.",
+      "challengingMatchesDesc": "The practical focus of 4s, 6s, and 8s might sometimes miss your spiritual depth, while 9s may compete for emotional space."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6],
+    "goodMatches": [8],
+    "challengingMatches": [1, 3, 5, 7, 9],
+    "compatibility": {
+      "overview": "With Life Path 8, you're ambitious, practical, and achievement-oriented. You seek partners who respect your drive for success and share your vision for creating material security and accomplishing goals.",
+      "bestMatchesDesc": "You form power couples with 2s who provide support for your ambitions, 4s who share your work ethic, and 6s who bring balance to your drive.",
+      "goodMatchesDesc": "Fellow 8s understand your ambition, potentially creating power duos that can achieve remarkable success together.",
+      "challengingMatchesDesc": "The independence of 1s may create power struggles, while 3s, 5s, and 7s might find your focus on achievement too intense."
+    }
+  },
+  "9": {
+    "bestMatches": [2, 6, 9],
+    "goodMatches": [1, 3, 4, 5],
+    "challengingMatches": [7, 8],
+    "compatibility": {
+      "overview": "As a Life Path 9, you're compassionate, idealistic, and service-oriented. You seek meaningful connections that contribute to the greater good and value partners who share your humanitarian outlook and emotional depth.",
+      "bestMatchesDesc": "You form compassionate bonds with sensitive 2s, nurturing 6s, and fellow humanitarian 9s who share your vision for a better world.",
+      "goodMatchesDesc": "You can create meaningful partnerships with 1s, 3s, 4s, and 5s, channeling their various strengths toward humanitarian goals.",
+      "challengingMatchesDesc": "The analytical nature of 7s might sometimes seem too detached, while 8s' material focus can clash with your humanitarian values."
+    }
+  },
+  "11": {
+    "bestMatches": [2, 9, 11],
+    "goodMatches": [3, 6, 22],
+    "challengingMatches": [1, 5, 8],
+    "compatibility": {
+      "overview": "With Master Number 11, you're intuitive, inspirational, and spiritually attuned. You seek deep, meaningful connections and are most compatible with partners who appreciate your sensitivity and visionary nature.",
+      "bestMatchesDesc": "You connect spiritually with 2s (the root of 11), fellow 11s who share your intuition, and humanitarian 9s who appreciate your vision.",
+      "goodMatchesDesc": "Creative 3s bring joy to your depth, nurturing 6s provide grounding, and master builders 22s complement your vision with practicality.",
+      "challengingMatchesDesc": "The assertiveness of 1s, freedom-seeking 5s, and material focus of 8s might sometimes clash with your sensitive, spiritual approach."
+    }
+  },
+  "22": {
+    "bestMatches": [4, 8, 11],
+    "goodMatches": [2, 6, 22],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "As Master Number 22, you're practical, visionary, and capable of manifesting large-scale dreams. You thrive with partners who appreciate your big-picture thinking while supporting your drive to create tangible results.",
+      "bestMatchesDesc": "You connect well with structured 4s (the root of 22), ambitious 8s who match your drive, and intuitive 11s who complement your practical vision.",
+      "goodMatchesDesc": "Supportive 2s, nurturing 6s, and fellow 22s understand different aspects of your complex nature.",
+      "challengingMatchesDesc": "The individualism of 1s, creative but sometimes scattered 3s, freedom-seeking 5s, and theoretical 7s might challenge your practical vision."
+    }
+  },
+  "33": {
+    "bestMatches": [6, 9, 11, 22],
+    "goodMatches": [2, 3, 7],
+    "challengingMatches": [1, 5, 8],
+    "compatibility": {
+      "overview": "With Master Number 33, you're compassionate, nurturing, and focused on uplifting humanity. You seek relationships that allow you to express your nurturing wisdom and connect with partners who share your desire to make a positive difference.",
+      "bestMatchesDesc": "You bond deeply with nurturing 6s (the root of 33), humanitarian 9s, intuitive 11s, and visionary 22s who complement your healing energy.",
+      "goodMatchesDesc": "Sensitive 2s, creative 3s, and spiritual 7s appreciate different facets of your nurturing wisdom.",
+      "challengingMatchesDesc": "The assertiveness of 1s, freedom-seeking 5s, and material focus of 8s might sometimes misalign with your selfless service orientation."
+    }
+  }
+}

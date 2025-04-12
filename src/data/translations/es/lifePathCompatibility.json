@@ -1,0 +1,135 @@
+
+{
+  "1": {
+    "bestMatches": [3, 5, 7],
+    "goodMatches": [1, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Como Sendero de Vida 1, eres independiente, ambicioso e innovador. Prosperas en relaciones que te dan libertad para liderar y perseguir tus metas mientras recibes apoyo e inspiración de tu pareja.",
+      "bestMatchesDesc": "Los Senderos de Vida 3, 5 y 7 complementan tu liderazgo con creatividad, aventura y profundidad intelectual.",
+      "goodMatchesDesc": "Otros 1 entienden tu impulso, mientras que los 9 aprecian tu determinación y pueden ayudar a equilibrar tu enfoque.",
+      "challengingMatchesDesc": "Puedes enfrentar luchas de poder con 4 y 8, mientras que 2 y 6 podrían encontrar desafiante tu independencia."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 8, 9],
+    "goodMatches": [6, 7],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "Con Sendero de Vida 2, eres diplomático, sensible y orientado a las relaciones. Buscas armonía y conexión emocional en las asociaciones y prosperás con parejas que valoran la cooperación y sensibilidad.",
+      "bestMatchesDesc": "Te conectas bien con 4 y 8 que proporcionan estructura, otros 2 que entienden tus necesidades, y 9 que aprecian tu apoyo.",
+      "goodMatchesDesc": "Los Senderos de Vida 6 y 7 pueden proporcionar el cuidado y la profundidad que complementan tu naturaleza cooperativa.",
+      "challengingMatchesDesc": "La asertividad de 1, 3 y 5 podría a veces abrumar tu enfoque sensible en las relaciones."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 5, 7],
+    "goodMatches": [3, 9],
+    "challengingMatches": [2, 4, 8],
+    "compatibility": {
+      "overview": "Como Sendero de Vida 3, eres creativo, expresivo y social. Aportas alegría e inspiración a las relaciones y prosperas con parejas que aprecian tu creatividad y entusiasmo por la vida.",
+      "bestMatchesDesc": "Te conectas maravillosamente con 1 que admiran tu creatividad, 5 que comparten tu amor por la libertad, y 7 que añaden profundidad a tu expresión.",
+      "goodMatchesDesc": "Otros 3 entienden tu naturaleza creativa, mientras que 9 pueden ayudar a canalizar tu expresión hacia metas significativas.",
+      "challengingMatchesDesc": "La practicidad de 4 y 8 podría a veces amortiguar tu espíritu creativo, mientras que 2 puede necesitar más estabilidad de la que naturalmente proporcionas."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 6, 8],
+    "goodMatches": [4, 9],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "Con Sendero de Vida 4, eres práctico, confiable y trabajador. Buscas estabilidad y seguridad en las relaciones y valoras a las parejas que comparten tu ética de trabajo y compromiso para construir algo duradero.",
+      "bestMatchesDesc": "Formas bases sólidas con 2 que proporcionan apoyo emocional, 6 que comparten tus valores, y 8 que coinciden con tu ambición.",
+      "goodMatchesDesc": "Otros 4 entienden tu necesidad de estructura, mientras que 9 pueden ayudarte a ver el panorama más amplio en tu enfoque metódico.",
+      "challengingMatchesDesc": "La imprevisibilidad de 3, 5 y 7 podría desafiar tu necesidad de estructura, mientras que 1 puede parecer demasiado centrado en sí mismo."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 7],
+    "goodMatches": [5, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Como Sendero de Vida 5, eres aventurero, versátil y amante de la libertad. Prosperas en relaciones que proporcionan espacio para la exploración y el crecimiento, ofreciendo experiencias y conversaciones estimulantes.",
+      "bestMatchesDesc": "Te conectas bien con 1 que comparten tu espíritu independiente, 3 que coinciden con tu entusiasmo, y 7 que involucran tu mente curiosa.",
+      "goodMatchesDesc": "Otros 5 entienden tu necesidad de libertad, mientras que 9 pueden ayudar a canalizar tu versatilidad hacia causas significativas.",
+      "challengingMatchesDesc": "La naturaleza buscadora de estabilidad de 2, 4, 6 y 8 podría a veces sentirse restrictiva para tu espíritu libre."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 8, 9],
+    "goodMatches": [6],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "Con Sendero de Vida 6, eres nutriente, responsable y buscador de armonía. Valoras el compromiso y la familia en las relaciones y prosperas con parejas que aprecian tu naturaleza cuidadora y comparten tu sentido de responsabilidad.",
+      "bestMatchesDesc": "Formas vínculos nutrientes con 2 que comparten tu sensibilidad, y encuentras equilibrio con la estructura de 4 y 8, mientras que 9 aprecian tu servicio.",
+      "goodMatchesDesc": "Otros 6 entienden tu naturaleza nutriente, creando juntos hogares llenos de amor y belleza.",
+      "challengingMatchesDesc": "La independencia de 1, 5 y 7 podría a veces chocar con tu enfoque nutriente, mientras que 3 pueden parecer demasiado despreocupados."
+    }
+  },
+  "7": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [2, 7],
+    "challengingMatches": [4, 6, 8, 9],
+    "compatibility": {
+      "overview": "Como Sendero de Vida 7, eres analítico, introspectivo e inclinado espiritualmente. Buscas profundidad y significado en las relaciones y valoras a las parejas que involucran tu intelecto y respetan tu necesidad de soledad y reflexión.",
+      "bestMatchesDesc": "Formas vínculos intelectualmente estimulantes con 1, te conectas espiritualmente con 3, y compartes exploraciones filosóficas con 5.",
+      "goodMatchesDesc": "Otros 7 entienden tu necesidad de espacio e introspección, mientras que 2 pueden proporcionar el apoyo emocional que a veces descuidas.",
+      "challengingMatchesDesc": "El enfoque práctico de 4, 6 y 8 podría a veces perder tu profundidad espiritual, mientras que 9 pueden competir por espacio emocional."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6],
+    "goodMatches": [8],
+    "challengingMatches": [1, 3, 5, 7, 9],
+    "compatibility": {
+      "overview": "Con Sendero de Vida 8, eres ambicioso, práctico y orientado al logro. Buscas parejas que respeten tu impulso por el éxito y compartan tu visión para crear seguridad material y lograr objetivos.",
+      "bestMatchesDesc": "Formas parejas poderosas con 2, que proporcionan apoyo para tus ambiciones, 4 que comparten tu ética de trabajo, y 6 que aportan equilibrio a tu impulso.",
+      "goodMatchesDesc": "Otros 8 entienden tu ambición, potencialmente creando dúos poderosos que pueden lograr un éxito notable juntos.",
+      "challengingMatchesDesc": "La independencia de 1 puede crear luchas de poder, mientras que 3, 5 y 7 podrían encontrar tu enfoque en el logro demasiado intenso."
+    }
+  },
+  "9": {
+    "bestMatches": [2, 6, 9],
+    "goodMatches": [1, 3, 4, 5],
+    "challengingMatches": [7, 8],
+    "compatibility": {
+      "overview": "Como Sendero de Vida 9, eres compasivo, idealista y orientado al servicio. Buscas conexiones significativas que contribuyan al bien mayor y valoras a las parejas que comparten tu perspectiva humanitaria y profundidad emocional.",
+      "bestMatchesDesc": "Formas vínculos compasivos con 2 sensibles, 6 nutrientes y otros 9 humanitarios que comparten tu visión de un mundo mejor.",
+      "goodMatchesDesc": "Puedes crear asociaciones significativas con 1, 3, 4 y 5, canalizando sus diversas fortalezas hacia objetivos humanitarios.",
+      "challengingMatchesDesc": "La naturaleza analítica de 7 podría a veces parecer demasiado desapegada, mientras que el enfoque material de 8 puede chocar con tus valores humanitarios."
+    }
+  },
+  "11": {
+    "bestMatches": [2, 9, 11],
+    "goodMatches": [3, 6, 22],
+    "challengingMatches": [1, 5, 8],
+    "compatibility": {
+      "overview": "Con Número Maestro 11, eres intuitivo, inspirador y sintonizado espiritualmente. Buscas conexiones profundas y significativas y eres más compatible con parejas que aprecian tu sensibilidad y naturaleza visionaria.",
+      "bestMatchesDesc": "Te conectas espiritualmente con 2 (la raíz de 11), otros 11 que comparten tu intuición, y 9 humanitarios que aprecian tu visión.",
+      "goodMatchesDesc": "Creativos 3 aportan alegría a tu profundidad, nutrientes 6 proporcionan arraigo, y constructores maestros 22 complementan tu visión con practicidad.",
+      "challengingMatchesDesc": "La asertividad de 1, los 5 buscadores de libertad y el enfoque material de 8 podrían a veces chocar con tu enfoque sensible y espiritual."
+    }
+  },
+  "22": {
+    "bestMatches": [4, 8, 11],
+    "goodMatches": [2, 6, 22],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "Como Número Maestro 22, eres práctico, visionario y capaz de manifestar sueños a gran escala. Prosperas con parejas que aprecian tu pensamiento de panorama amplio mientras apoyan tu impulso para crear resultados tangibles.",
+      "bestMatchesDesc": "Te conectas bien con 4 estructurados (la raíz de 22), ambiciosos 8 que coinciden con tu impulso, e intuitivos 11 que complementan tu visión práctica.",
+      "goodMatchesDesc": "Apoyo 2, nutrientes 6 y otros 22 entienden diferentes aspectos de tu naturaleza compleja.",
+      "challengingMatchesDesc": "El individualismo de 1, creativos pero a veces dispersos 3, 5 buscadores de libertad y teóricos 7 podrían desafiar tu visión práctica."
+    }
+  },
+  "33": {
+    "bestMatches": [6, 9, 11, 22],
+    "goodMatches": [2, 3, 7],
+    "challengingMatches": [1, 5, 8],
+    "compatibility": {
+      "overview": "Con Número Maestro 33, eres compasivo, nutriente y enfocado en elevar a la humanidad. Buscas relaciones que te permitan expresar tu sabiduría nutriente y conectarte con parejas que comparten tu deseo de hacer una diferencia positiva.",
+      "bestMatchesDesc": "Te vinculas profundamente con 6 nutrientes (la raíz de 33), humanitarios 9, intuitivos 11 y visionarios 22 que complementan tu energía sanadora.",
+      "goodMatchesDesc": "Sensibles 2, creativos 3 y espirituales 7 aprecian diferentes facetas de tu sabiduría nutriente.",
+      "challengingMatchesDesc": "La asertividad de 1, 5 buscadores de libertad y el enfoque material de 8 podrían a veces desalinearse con tu orientación de servicio desinteresado."
+    }
+  }
+}
