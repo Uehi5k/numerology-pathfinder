@@ -8,6 +8,7 @@ import enLifeLessons from '../data/translations/en/lifeLessons.json';
 import enAttitudeMeanings from '../data/translations/en/attitudeMeanings.json';
 import enGenerationMeanings from '../data/translations/en/generationMeanings.json';
 import enDayOfBirthMeanings from '../data/translations/en/dayOfBirthMeanings.json';
+import enMaturityMeanings from '../data/translations/en/maturityMeanings.json';
 
 // Cache for loaded translations
 const translationsCache: Record<string, any> = {
@@ -17,7 +18,8 @@ const translationsCache: Record<string, any> = {
     lifeLessons: enLifeLessons,
     attitudeMeanings: enAttitudeMeanings,
     generationMeanings: enGenerationMeanings,
-    dayOfBirthMeanings: enDayOfBirthMeanings
+    dayOfBirthMeanings: enDayOfBirthMeanings,
+    maturityMeanings: enMaturityMeanings
   }
 };
 
@@ -152,6 +154,24 @@ export const getDayOfBirth = (dateString: string): number => {
 };
 
 /**
+ * Calculates Maturity Number from Life Path and Expression numbers
+ * @param lifePath The Life Path number
+ * @param expression The Expression number
+ * @returns The Maturity number
+ */
+export const calculateMaturity = (lifePath: number, expression: number): number => {
+  if (!lifePath || !expression) {
+    throw new Error('Both Life Path and Expression numbers are required');
+  }
+  
+  // Add the Life Path and Expression numbers
+  const sum = lifePath + expression;
+  
+  // Reduce the sum to get the Maturity number
+  return reduceNumber(sum);
+};
+
+/**
  * Returns the meaning of a Life Path number in the specified language
  * @param num The Life Path number
  * @param language The language code (defaults to 'en')
@@ -266,6 +286,32 @@ export const getDayOfBirthMeaning = (num: number, language: LanguageCode = 'en')
 };
 
 /**
+ * Returns the meaning of a Maturity number in the specified language
+ * @param num The Maturity number
+ * @param language The language code (defaults to 'en')
+ * @returns The meaning as a string
+ */
+export const getMaturityMeaning = (num: number, language: LanguageCode = 'en'): string => {
+  const numKey = num.toString();
+  
+  try {
+    if (translationsCache[language]?.maturityMeanings?.[numKey]) {
+      return translationsCache[language].maturityMeanings[numKey];
+    }
+    
+    if (language !== 'en' && translationsCache.en?.maturityMeanings?.[numKey]) {
+      console.warn(`Maturity translation not found for ${language}, falling back to en`);
+      return translationsCache.en.maturityMeanings[numKey];
+    }
+    
+    return "This number does not have a standard Maturity interpretation.";
+  } catch (error) {
+    console.error("Error retrieving maturity meaning:", error);
+    return "There was an error retrieving the meaning for this Maturity number.";
+  }
+};
+
+/**
  * Load translations for a specific language
  * @param language The language code
  */
@@ -280,7 +326,7 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
     const lifeLessonsModule = await import(`../data/translations/${language}/lifeLessons.json`);
     
     // Try to load optional translation files
-    let attitudeMeaningsModule, generationMeaningsModule, dayOfBirthMeaningsModule;
+    let attitudeMeaningsModule, generationMeaningsModule, dayOfBirthMeaningsModule, maturityMeaningsModule;
     
     try {
       attitudeMeaningsModule = await import(`../data/translations/${language}/attitudeMeanings.json`);
@@ -300,6 +346,12 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
       console.warn(`No day of birth meanings found for ${language}`);
     }
     
+    try {
+      maturityMeaningsModule = await import(`../data/translations/${language}/maturityMeanings.json`);
+    } catch (e) {
+      console.warn(`No maturity meanings found for ${language}`);
+    }
+    
     // Store in cache
     translationsCache[language] = {
       lifePathMeanings: lifePathMeaningsModule.default,
@@ -307,7 +359,8 @@ export const loadTranslations = async (language: LanguageCode): Promise<void> =>
       lifeLessons: lifeLessonsModule.default,
       ...(attitudeMeaningsModule && { attitudeMeanings: attitudeMeaningsModule.default }),
       ...(generationMeaningsModule && { generationMeanings: generationMeaningsModule.default }),
-      ...(dayOfBirthMeaningsModule && { dayOfBirthMeanings: dayOfBirthMeaningsModule.default })
+      ...(dayOfBirthMeaningsModule && { dayOfBirthMeanings: dayOfBirthMeaningsModule.default }),
+      ...(maturityMeaningsModule && { maturityMeanings: maturityMeaningsModule.default })
     };
   } catch (error) {
     console.error(`Failed to load translations for ${language}:`, error);

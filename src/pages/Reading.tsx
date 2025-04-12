@@ -22,7 +22,8 @@ const NameReading = () => {
   const lifePath = searchParams.get("lifePath") || "";
   const { language } = useLanguage();
   const [nameInsights, setNameInsights] = useState<NumerologyInsight[]>([]);
-  const { insights: lifePathInsights } = useNumerologyInsights(lifePath, birthdate);
+  const [expressionNumber, setExpressionNumber] = useState<number | undefined>(undefined);
+  const { insights: lifePathInsights } = useNumerologyInsights(lifePath, birthdate, expressionNumber);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -30,8 +31,9 @@ const NameReading = () => {
       setLoading(true);
       const getNameNumerology = async () => {
         try {
-          const { insights } = await calculateNameNumerology(name, language);
+          const { insights, expression } = await calculateNameNumerology(name, language);
           setNameInsights(insights);
+          setExpressionNumber(expression);
         } catch (error) {
           console.error("Error calculating name numerology:", error);
         } finally {
@@ -79,8 +81,9 @@ const NameReading = () => {
     );
   }
 
-  const expressionInsight = nameInsights.find(
-    (insight) => insight.type === "expression"
+  // Find Maturity insight from lifePathInsights
+  const maturityInsight = lifePathInsights.find(
+    (insight) => insight.type === "maturity"
   );
 
   return (
@@ -131,6 +134,16 @@ const NameReading = () => {
                       </div>
                     </div>
                   ))}
+                  {maturityInsight && (
+                    <div className="flex flex-col items-center">
+                      <div className="text-sm text-foreground/70 mb-1">Maturity</div>
+                      <div className="w-12 h-12 rounded-full bg-green-500/10 flex items-center justify-center">
+                        <span className="text-xl font-light text-green-500">
+                          {maturityInsight.number}
+                        </span>
+                      </div>
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
@@ -138,11 +151,14 @@ const NameReading = () => {
 
           <div className="mt-6">
             <Tabs defaultValue="lifePath" className="w-full">
-              <TabsList className="w-full grid grid-cols-4 mb-6">
+              <TabsList className="w-full grid grid-cols-5">
                 <TabsTrigger value="lifePath">Life Path</TabsTrigger>
                 <TabsTrigger value="expression">Expression</TabsTrigger>
                 <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
                 <TabsTrigger value="personality">Personality</TabsTrigger>
+                {maturityInsight && (
+                  <TabsTrigger value="maturity">Maturity</TabsTrigger>
+                )}
               </TabsList>
 
               <TabsContent value="lifePath">
@@ -162,6 +178,12 @@ const NameReading = () => {
                   <NumerologyInsightCard insight={insight} />
                 </TabsContent>
               ))}
+
+              {maturityInsight && (
+                <TabsContent value="maturity">
+                  <NumerologyInsightCard insight={maturityInsight} />
+                </TabsContent>
+              )}
             </Tabs>
           </div>
 
@@ -172,6 +194,7 @@ const NameReading = () => {
               your name numbers. The Life Path reveals your life's purpose and challenges. 
               The Expression number shows your natural talents, the Soul Urge reflects your inner desires, 
               and the Personality number indicates how others perceive you.
+              {maturityInsight && " The Maturity number reveals what you're growing toward in the second half of life."}
             </p>
           </div>
         </div>

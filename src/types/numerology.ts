@@ -22,7 +22,7 @@ export interface UserPreferences {
 /**
  * Numerology insight types
  */
-export type NumerologyType = 'lifePath' | 'attitude' | 'generation' | 'dayOfBirth' | 'expression' | 'soulUrge' | 'personality';
+export type NumerologyType = 'lifePath' | 'attitude' | 'generation' | 'dayOfBirth' | 'expression' | 'soulUrge' | 'personality' | 'maturity';
 
 /**
  * Numerology insight interface

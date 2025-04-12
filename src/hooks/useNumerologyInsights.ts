@@ -1,9 +1,8 @@
-
 import { useState, useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { NumerologyInsight } from '@/types/numerology';
 
-export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
+export const useNumerologyInsights = (lifePath: string, birthdate: string, expressionNumber?: number) => {
   const [insights, setInsights] = useState<NumerologyInsight[]>([]);
   const { language } = useLanguage();
 
@@ -41,7 +40,7 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
           };
 
           // Load other data
-          let strengths, lifeLessons, attitudeMeanings, dayOfBirthMeanings, generationMeanings;
+          let strengths, lifeLessons, attitudeMeanings, dayOfBirthMeanings, generationMeanings, maturityMeanings;
           
           try {
             strengths = (await import(`@/data/translations/${language}/strengths.json`)).default;
@@ -49,6 +48,7 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
             attitudeMeanings = (await import(`@/data/translations/${language}/attitudeMeanings.json`)).default;
             dayOfBirthMeanings = (await import(`@/data/translations/${language}/dayOfBirthMeanings.json`)).default;
             generationMeanings = (await import(`@/data/translations/${language}/generationMeanings.json`)).default;
+            maturityMeanings = (await import(`@/data/translations/${language}/maturityMeanings.json`)).default;
           } catch (error) {
             console.error("Error loading some translations:", error);
             // We'll continue with what we have, missing values will be handled later
@@ -100,6 +100,22 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
             }
           ];
 
+          // Add Maturity Number if Expression Number is available
+          if (expressionNumber) {
+            const maturityNumber = (lifePathNumber + expressionNumber) % 9 || 9;
+            if (maturityNumber === 11 || maturityNumber === 22 || maturityNumber === 33) {
+              // Keep master numbers
+            }
+            
+            newInsights.push({
+              type: 'maturity',
+              number: maturityNumber,
+              title: `Maturity ${maturityNumber}`,
+              description: maturityMeanings?.[maturityNumber.toString()] || `No meaning available for Maturity ${maturityNumber}`,
+              formula: `Life Path ${lifePathNumber} + Expression ${expressionNumber} = ${maturityNumber}`
+            });
+          }
+
           setInsights(newInsights);
         } catch (error) {
           console.error("Error loading numerology data:", error);
@@ -112,7 +128,7 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string) => {
       console.error("Error calculating numerology insights:", error);
       setInsights([]);
     }
-  }, [lifePath, birthdate, language]);
+  }, [lifePath, birthdate, expressionNumber, language]);
 
   return { insights };
 };
