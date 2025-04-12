@@ -10,7 +10,6 @@ There are limitations on how many prompts you can do per day with Lovable so I a
 
 ## TODO
 - Language translation on across the app.
-- Include Dark Mode.
 
 ## How can I edit this code?
 

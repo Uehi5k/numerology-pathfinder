@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -40,7 +39,7 @@ const NameReading = () => {
           setLoading(false);
         }
       };
-      
+
       getNameNumerology();
     } else {
       setLoading(false);
@@ -51,7 +50,7 @@ const NameReading = () => {
     return (
       <Layout>
         <div className="flex flex-col items-center justify-center py-16 px-4">
-          <Card className="w-full max-w-md glass text-center">
+          <Card className="w-full max-w-md glass dark:glass-dark text-center">
             <CardContent className="pt-6">
               <p>Loading your numerology reading...</p>
             </CardContent>
@@ -65,14 +64,12 @@ const NameReading = () => {
     return (
       <Layout>
         <div className="flex flex-col items-center justify-center py-16 px-4">
-          <Card className="w-full max-w-md glass text-center">
+          <Card className="w-full max-w-md glass dark:glass-dark text-center">
             <CardHeader>
               <CardTitle>No Information Provided</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="mb-6">
-                Please use the calculator to generate your numerology reading.
-              </p>
+              <p className="mb-6">Please use the calculator to generate your numerology reading.</p>
               <BackLink to="/numerology" label="Go to Calculator" />
             </CardContent>
           </Card>
@@ -82,9 +79,7 @@ const NameReading = () => {
   }
 
   // Find Maturity insight from lifePathInsights
-  const maturityInsight = lifePathInsights.find(
-    (insight) => insight.type === "maturity"
-  );
+  const maturityInsight = lifePathInsights.find((insight) => insight.type === "maturity");
 
   return (
     <Layout>
@@ -99,7 +94,7 @@ const NameReading = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
-            className="glass rounded-xl overflow-hidden mb-6"
+            className="glass dark:glass-dark rounded-xl overflow-hidden mb-6"
           >
             <div className="p-8">
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
@@ -115,10 +110,7 @@ const NameReading = () => {
                     </div>
                   </div>
                   {nameInsights.map((insight) => (
-                    <div
-                      key={insight.type}
-                      className="flex flex-col items-center"
-                    >
+                    <div key={insight.type} className="flex flex-col items-center">
                       <div className="text-sm text-foreground/70 mb-1">
                         {insight.type
                           .replace(/([A-Z])/g, " $1")
@@ -128,9 +120,7 @@ const NameReading = () => {
                           .join(" ")}
                       </div>
                       <div className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center">
-                        <span className="text-xl font-light text-accent">
-                          {insight.number}
-                        </span>
+                        <span className="text-xl font-light text-accent">{insight.number}</span>
                       </div>
                     </div>
                   ))}
@@ -138,9 +128,7 @@ const NameReading = () => {
                     <div className="flex flex-col items-center">
                       <div className="text-sm text-foreground/70 mb-1">Maturity</div>
                       <div className="w-12 h-12 rounded-full bg-green-500/10 flex items-center justify-center">
-                        <span className="text-xl font-light text-green-500">
-                          {maturityInsight.number}
-                        </span>
+                        <span className="text-xl font-light text-green-500">{maturityInsight.number}</span>
                       </div>
                     </div>
                   )}
@@ -156,9 +144,7 @@ const NameReading = () => {
                 <TabsTrigger value="expression">Expression</TabsTrigger>
                 <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
                 <TabsTrigger value="personality">Personality</TabsTrigger>
-                {maturityInsight && (
-                  <TabsTrigger value="maturity">Maturity</TabsTrigger>
-                )}
+                {maturityInsight && <TabsTrigger value="maturity">Maturity</TabsTrigger>}
               </TabsList>
 
               <TabsContent value="lifePath">
@@ -172,7 +158,7 @@ const NameReading = () => {
                   </Card>
                 )}
               </TabsContent>
-              
+
               {nameInsights.map((insight) => (
                 <TabsContent key={insight.type} value={insight.type}>
                   <NumerologyInsightCard insight={insight} />
@@ -187,13 +173,12 @@ const NameReading = () => {
             </Tabs>
           </div>
 
-          <div className="mt-6 glass rounded-xl p-4 text-foreground/70 text-sm flex items-start gap-3">
+          <div className="mt-6 glass dark:glass-dark rounded-xl p-4 text-foreground/70 text-sm flex items-start gap-3">
             <Info className="min-w-5 h-5 mt-0.5 text-accent" />
             <p>
-              Your numerology chart combines your Life Path number from your birth date and 
-              your name numbers. The Life Path reveals your life's purpose and challenges. 
-              The Expression number shows your natural talents, the Soul Urge reflects your inner desires, 
-              and the Personality number indicates how others perceive you.
+              Your numerology chart combines your Life Path number from your birth date and your name numbers. The Life
+              Path reveals your life's purpose and challenges. The Expression number shows your natural talents, the
+              Soul Urge reflects your inner desires, and the Personality number indicates how others perceive you.
               {maturityInsight && " The Maturity number reveals what you're growing toward in the second half of life."}
             </p>
           </div>

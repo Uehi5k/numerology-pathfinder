@@ -1,8 +1,7 @@
-
-import React from 'react';
-import { motion } from 'framer-motion';
-import { Share2 } from 'lucide-react';
-import { toast } from 'sonner';
+import React from "react";
+import { motion } from "framer-motion";
+import { Share2 } from "lucide-react";
+import { toast } from "sonner";
 
 interface LifePathCardProps {
   lifePath: number;
@@ -11,27 +10,24 @@ interface LifePathCardProps {
   formattedDate?: string;
 }
 
-const LifePathCard: React.FC<LifePathCardProps> = ({ 
-  lifePath, 
-  title, 
-  meaning, 
-  formattedDate 
-}) => {
+const LifePathCard: React.FC<LifePathCardProps> = ({ lifePath, title, meaning, formattedDate }) => {
   const handleShare = () => {
     if (navigator.share) {
-      navigator.share({
-        title: `My Life Path Number is ${lifePath}: ${title}`,
-        text: `I discovered my Life Path number is ${lifePath}. ${title}: ${meaning?.slice(0, 100)}...`,
-        url: window.location.href,
-      })
-      .catch(() => {
-        toast.error("Couldn't share your reading");
-      });
+      navigator
+        .share({
+          title: `My Life Path Number is ${lifePath}: ${title}`,
+          text: `I discovered my Life Path number is ${lifePath}. ${title}: ${meaning?.slice(0, 100)}...`,
+          url: window.location.href,
+        })
+        .catch(() => {
+          toast.error("Couldn't share your reading");
+        });
     } else {
       // Fallback for browsers that don't support Web Share API
-      navigator.clipboard.writeText(window.location.href)
+      navigator.clipboard
+        .writeText(window.location.href)
         .then(() => {
-          toast.success('Link copied to clipboard!');
+          toast.success("Link copied to clipboard!");
         })
         .catch(() => {
           toast.error("Couldn't copy link to clipboard");
@@ -47,7 +43,7 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
       className="glass rounded-xl overflow-hidden"
     >
       <div className="relative h-40 bg-gradient-to-r from-accent/20 to-accent/5 flex items-center justify-center">
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
@@ -55,8 +51,8 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
         >
           <span className="text-6xl font-light text-accent">{lifePath}</span>
         </motion.div>
-        
-        <button 
+
+        <button
           onClick={handleShare}
           className="absolute top-4 right-4 p-2 rounded-full glass hover:bg-accent/10 transition-colors"
           aria-label="Share"
@@ -64,7 +60,7 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
           <Share2 className="w-5 h-5" />
         </button>
       </div>
-      
+
       <div className="p-8">
         {formattedDate && (
           <div className="mb-6 text-center">
@@ -72,7 +68,7 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
             <p className="text-lg font-medium">{formattedDate}</p>
           </div>
         )}
-        
+
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -82,7 +78,7 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
           <h1 className="text-3xl font-medium mb-2">Life Path {lifePath}</h1>
           <h2 className="text-xl text-accent">{title}</h2>
         </motion.div>
-        
+
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
