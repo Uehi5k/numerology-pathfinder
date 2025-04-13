@@ -1,3 +1,4 @@
+
 import React from "react";
 import { motion } from "framer-motion";
 import { Share2 } from "lucide-react";
@@ -8,9 +9,20 @@ interface LifePathCardProps {
   title: string;
   meaning: string;
   formattedDate?: string;
+  personalDay?: number;
+  personalMonth?: number;
+  personalYear?: number;
 }
 
-const LifePathCard: React.FC<LifePathCardProps> = ({ lifePath, title, meaning, formattedDate }) => {
+const LifePathCard: React.FC<LifePathCardProps> = ({ 
+  lifePath, 
+  title, 
+  meaning, 
+  formattedDate,
+  personalDay,
+  personalMonth,
+  personalYear
+}) => {
   const handleShare = () => {
     if (navigator.share) {
       navigator
@@ -78,6 +90,42 @@ const LifePathCard: React.FC<LifePathCardProps> = ({ lifePath, title, meaning, f
           <h1 className="text-3xl font-medium mb-2">Life Path {lifePath}</h1>
           <h2 className="text-xl text-accent">{title}</h2>
         </motion.div>
+
+        {(personalDay || personalMonth || personalYear) && (
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.35 }}
+            className="mb-6 flex justify-center gap-4"
+          >
+            {personalDay && (
+              <div className="text-center">
+                <p className="text-sm text-foreground/60">Today</p>
+                <div className="w-10 h-10 rounded-full bg-primary/10 mx-auto flex items-center justify-center">
+                  <span className="text-lg font-light text-primary">{personalDay}</span>
+                </div>
+              </div>
+            )}
+            
+            {personalMonth && (
+              <div className="text-center">
+                <p className="text-sm text-foreground/60">Month</p>
+                <div className="w-10 h-10 rounded-full bg-accent/10 mx-auto flex items-center justify-center">
+                  <span className="text-lg font-light text-accent">{personalMonth}</span>
+                </div>
+              </div>
+            )}
+            
+            {personalYear && (
+              <div className="text-center">
+                <p className="text-sm text-foreground/60">Year</p>
+                <div className="w-10 h-10 rounded-full bg-green-500/10 mx-auto flex items-center justify-center">
+                  <span className="text-lg font-light text-green-500">{personalYear}</span>
+                </div>
+              </div>
+            )}
+          </motion.div>
+        )}
 
         <motion.div
           initial={{ opacity: 0, y: 20 }}

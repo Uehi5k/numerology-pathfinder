@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -13,6 +14,8 @@ import NumerologyInsightCard from "@/components/reading/NumerologyInsightCard";
 import { Info } from "lucide-react";
 import InsightTabs from "@/components/reading/InsightTabs";
 import { useNumerologyInsights } from "@/hooks/useNumerologyInsights";
+import { useForecastCycles } from "@/hooks/useForecastCycles";
+import ForecastCycles from "@/components/reading/ForecastCycles";
 
 const NameReading = () => {
   const [searchParams] = useSearchParams();
@@ -23,6 +26,7 @@ const NameReading = () => {
   const [nameInsights, setNameInsights] = useState<NumerologyInsight[]>([]);
   const [expressionNumber, setExpressionNumber] = useState<number | undefined>(undefined);
   const { insights: lifePathInsights } = useNumerologyInsights(lifePath, birthdate, expressionNumber);
+  const { insights: forecastInsights, currentDate, updateDate } = useForecastCycles(birthdate);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -139,12 +143,13 @@ const NameReading = () => {
 
           <div className="mt-6">
             <Tabs defaultValue="lifePath" className="w-full">
-              <TabsList className="w-full grid grid-cols-5">
+              <TabsList className="w-full grid grid-cols-6">
                 <TabsTrigger value="lifePath">Life Path</TabsTrigger>
                 <TabsTrigger value="expression">Expression</TabsTrigger>
                 <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
                 <TabsTrigger value="personality">Personality</TabsTrigger>
                 {maturityInsight && <TabsTrigger value="maturity">Maturity</TabsTrigger>}
+                <TabsTrigger value="forecast">Forecast</TabsTrigger>
               </TabsList>
 
               <TabsContent value="lifePath">
@@ -170,6 +175,22 @@ const NameReading = () => {
                   <NumerologyInsightCard insight={maturityInsight} />
                 </TabsContent>
               )}
+
+              <TabsContent value="forecast">
+                {forecastInsights.length > 0 ? (
+                  <ForecastCycles 
+                    insights={forecastInsights}
+                    currentDate={currentDate}
+                    onDateChange={updateDate}
+                  />
+                ) : (
+                  <Card>
+                    <CardContent className="pt-6">
+                      <p>Forecast information not available without a birthdate.</p>
+                    </CardContent>
+                  </Card>
+                )}
+              </TabsContent>
             </Tabs>
           </div>
 
@@ -180,6 +201,7 @@ const NameReading = () => {
               Path reveals your life's purpose and challenges. The Expression number shows your natural talents, the
               Soul Urge reflects your inner desires, and the Personality number indicates how others perceive you.
               {maturityInsight && " The Maturity number reveals what you're growing toward in the second half of life."}
+              {forecastInsights.length > 0 && " The Forecast section shows how numbers influence your daily, monthly, and yearly cycles."}
             </p>
           </div>
         </div>

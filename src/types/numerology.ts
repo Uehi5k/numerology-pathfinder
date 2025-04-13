@@ -22,7 +22,18 @@ export interface UserPreferences {
 /**
  * Numerology insight types
  */
-export type NumerologyType = 'lifePath' | 'attitude' | 'generation' | 'dayOfBirth' | 'expression' | 'soulUrge' | 'personality' | 'maturity';
+export type NumerologyType = 
+  | 'lifePath' 
+  | 'attitude' 
+  | 'generation' 
+  | 'dayOfBirth' 
+  | 'expression' 
+  | 'soulUrge' 
+  | 'personality' 
+  | 'maturity'
+  | 'personalDay'
+  | 'personalMonth'
+  | 'personalYear';
 
 /**
  * Numerology insight interface
@@ -35,6 +46,7 @@ export interface NumerologyInsight {
   formula: string;
   strengths?: string[];
   lifeLessons?: string;
+  date?: Date; // For personal day/month/year calculations
 }
 
 /**
@@ -52,4 +64,13 @@ export interface NameNumerologyResult {
   soulUrge: number;
   personality: number;
   insights: NumerologyInsight[];
+}
+
+/**
+ * Forecast cycles result
+ */
+export interface ForecastCyclesResult {
+  personalDay: number;
+  personalMonth: number;
+  personalYear: number;
 }
