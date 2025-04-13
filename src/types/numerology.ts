@@ -36,6 +36,15 @@ export type NumerologyType =
   | 'personalYear';
 
 /**
+ * Color recommendation interface
+ */
+export interface ColorRecommendation {
+  color: string;
+  hex: string;
+  description: string;
+}
+
+/**
  * Numerology insight interface
  */
 export interface NumerologyInsight {
@@ -47,6 +56,7 @@ export interface NumerologyInsight {
   strengths?: string[];
   lifeLessons?: string;
   date?: Date; // For personal day/month/year calculations
+  colorRecommendation?: ColorRecommendation;
 }
 
 /**

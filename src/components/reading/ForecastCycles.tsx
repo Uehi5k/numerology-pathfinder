@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { format } from 'date-fns';
-import { Calendar as CalendarIcon } from 'lucide-react';
+import { Calendar as CalendarIcon, Palette } from 'lucide-react';
 import { Calendar } from '@/components/ui/calendar';
 import { Button } from '@/components/ui/button';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
@@ -66,6 +66,15 @@ const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, 
                 <span className="text-4xl font-light text-primary">{personalDayInsight.number}</span>
               </CardTitle>
               <CardDescription className="text-center">Personal Day</CardDescription>
+              {personalDayInsight.colorRecommendation && (
+                <div className="flex justify-center items-center mt-2">
+                  <div 
+                    className="w-4 h-4 rounded-full mr-2" 
+                    style={{ backgroundColor: personalDayInsight.colorRecommendation.hex }}
+                  ></div>
+                  <span className="text-sm">{personalDayInsight.colorRecommendation.color}</span>
+                </div>
+              )}
             </CardHeader>
           </Card>
         )}
@@ -88,6 +97,15 @@ const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, 
                 <span className="text-4xl font-light text-green-500">{personalYearInsight.number}</span>
               </CardTitle>
               <CardDescription className="text-center">Personal Year</CardDescription>
+              {personalYearInsight.colorRecommendation && (
+                <div className="flex justify-center items-center mt-2">
+                  <div 
+                    className="w-4 h-4 rounded-full mr-2" 
+                    style={{ backgroundColor: personalYearInsight.colorRecommendation.hex }}
+                  ></div>
+                  <span className="text-sm">{personalYearInsight.colorRecommendation.color}</span>
+                </div>
+              )}
             </CardHeader>
           </Card>
         )}
@@ -113,6 +131,26 @@ const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, 
                 <div className="text-foreground/80 leading-relaxed">
                   {insight.description}
                 </div>
+                
+                {insight.colorRecommendation && (
+                  <div className="mt-4 p-4 rounded-lg border bg-background/50">
+                    <div className="flex items-center gap-2 mb-2">
+                      <Palette className="h-5 w-5 text-accent" />
+                      <h3 className="font-medium">Color Recommendation: {insight.colorRecommendation.color}</h3>
+                    </div>
+                    <div className="flex items-center gap-2 mb-3">
+                      <div 
+                        className="w-10 h-10 rounded-md border"
+                        style={{ backgroundColor: insight.colorRecommendation.hex }}
+                      ></div>
+                      <div className="text-sm text-foreground/80">{insight.colorRecommendation.hex}</div>
+                    </div>
+                    <p className="text-sm text-foreground/80">
+                      {insight.colorRecommendation.description}
+                    </p>
+                  </div>
+                )}
+                
                 <div className="text-sm text-foreground/60 mt-4">
                   <strong>How is this calculated?</strong> {insight.formula}
                 </div>

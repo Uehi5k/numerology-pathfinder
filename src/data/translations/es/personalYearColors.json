@@ -1,0 +1,63 @@
+
+{
+  "1": {
+    "color": "Rojo",
+    "hex": "#e53935",
+    "description": "El rojo es tu color de poder este año. Incorpóralo en tu vestuario y entorno para aumentar la confianza, iniciativa y nuevos comienzos. El rojo energiza tu espíritu pionero."
+  },
+  "2": {
+    "color": "Azul",
+    "hex": "#1e88e5",
+    "description": "El azul es tu color ideal este año. Promueve la armonía, paciencia y cooperación. Usa azul en tus espacios para mejorar la diplomacia y nutrir relaciones."
+  },
+  "3": {
+    "color": "Amarillo",
+    "hex": "#fdd835",
+    "description": "El amarillo es tu catalizador creativo este año. Inclúyelo en tu vida para estimular la autoexpresión, alegría y optimismo. El amarillo te ayuda a comunicarte y conectar con otros."
+  },
+  "4": {
+    "color": "Verde",
+    "hex": "#43a047",
+    "description": "El verde apoya tu año de construir cimientos. Rodéate de este color para mejorar la estabilidad, disciplina y logros prácticos. El verde conecta tu energía a tierra."
+  },
+  "5": {
+    "color": "Naranja",
+    "hex": "#fb8c00",
+    "description": "El naranja resuena con tu año de cambio y libertad. Usa este color vibrante para estimular la aventura, adaptabilidad y pensamiento progresivo."
+  },
+  "6": {
+    "color": "Rosa",
+    "hex": "#ec407a",
+    "description": "El rosa se alinea con tu año de responsabilidad y armonía. Este color nutriente te ayuda a equilibrar la vida hogareña, relaciones y servicio a otros."
+  },
+  "7": {
+    "color": "Púrpura",
+    "hex": "#5e35b1",
+    "description": "El púrpura mejora tu año de introspección y sabiduría. Incorpora este color místico para profundizar percepciones espirituales, investigación y actividades contemplativas."
+  },
+  "8": {
+    "color": "Dorado",
+    "hex": "#ffc107",
+    "description": "El dorado amplifica tu año de logro y abundancia. Este color próspero ayuda a manifestar éxito material y cualidades de liderazgo ejecutivo."
+  },
+  "9": {
+    "color": "Blanco",
+    "hex": "#f5f5f5",
+    "description": "El blanco apoya tu año de finalización y conexión universal. Este color puro ayuda a liberar el pasado y abrazar perspectivas humanitarias."
+  },
+  "11": {
+    "color": "Plateado",
+    "hex": "#b0bec5",
+    "description": "El plateado resuena con tu año de maestría intuitiva. Este color reflexivo mejora la recepción espiritual, inspiración y conciencia elevada."
+  },
+  "22": {
+    "color": "Azul Real",
+    "hex": "#1a237e",
+    "description": "El azul real se alinea con tu año de maestro constructor. Este color poderoso ayuda a manifestar grandes visiones en realidad práctica para beneficio de muchos."
+  },
+  "33": {
+    "color": "Turquesa",
+    "hex": "#00bcd4",
+    "description": "El turquesa es perfecto para tu año de maestro instructor. Este color sanador apoya la comunicación compasiva, compartir sabiduría y liderazgo nutriente."
+  }
+}

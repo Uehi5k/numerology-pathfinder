@@ -1,0 +1,63 @@
+
+{
+  "1": {
+    "color": "Red",
+    "hex": "#e53935",
+    "description": "Wear red today to enhance your leadership energy and boost confidence. Red amplifies your initiative and determination."
+  },
+  "2": {
+    "color": "Blue",
+    "hex": "#1e88e5",
+    "description": "Blue is ideal for today, bringing calm and harmony to your interactions. It enhances your diplomacy and intuition."
+  },
+  "3": {
+    "color": "Yellow",
+    "hex": "#fdd835",
+    "description": "Bright yellow enhances your creative expression today. It brings optimism and helps you communicate your ideas more effectively."
+  },
+  "4": {
+    "color": "Green",
+    "hex": "#43a047",
+    "description": "Wear green today to support your practical efforts and hard work. Green provides the stability and endurance you need."
+  },
+  "5": {
+    "color": "Orange",
+    "hex": "#fb8c00",
+    "description": "Orange is perfect for today's adventurous energy. It encourages flexibility and helps you embrace change with enthusiasm."
+  },
+  "6": {
+    "color": "Pink",
+    "hex": "#ec407a",
+    "description": "Pink resonates with today's nurturing energy. It helps you create harmony and show care in your relationships."
+  },
+  "7": {
+    "color": "Purple",
+    "hex": "#5e35b1",
+    "description": "Purple supports today's introspective quality. It enhances your intuition and aids in spiritual or intellectual pursuits."
+  },
+  "8": {
+    "color": "Gold",
+    "hex": "#ffc107",
+    "description": "Gold connects with today's focus on achievement and prosperity. It helps manifest abundance and success in your endeavors."
+  },
+  "9": {
+    "color": "White",
+    "hex": "#f5f5f5",
+    "description": "White represents completion and universal connection for today. It helps you release the old and embrace higher perspectives."
+  },
+  "11": {
+    "color": "Silver",
+    "hex": "#b0bec5",
+    "description": "Silver enhances today's heightened intuition and inspiration. It helps you receive and channel spiritual insights."
+  },
+  "22": {
+    "color": "Royal Blue",
+    "hex": "#1a237e",
+    "description": "Deep royal blue supports today's manifestation energy. It helps you bring big dreams into practical reality."
+  },
+  "33": {
+    "color": "Turquoise",
+    "hex": "#00bcd4",
+    "description": "Turquoise amplifies today's healing and teaching energy. It helps you communicate compassion and wisdom to others."
+  }
+}

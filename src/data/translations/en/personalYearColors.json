@@ -1,0 +1,63 @@
+
+{
+  "1": {
+    "color": "Red",
+    "hex": "#e53935",
+    "description": "Red is your power color this year. Incorporate it into your wardrobe and environment to boost confidence, initiative, and new beginnings. Red energizes your pioneering spirit."
+  },
+  "2": {
+    "color": "Blue",
+    "hex": "#1e88e5",
+    "description": "Blue is your ideal color this year. It promotes harmony, patience, and cooperation. Use blue in your spaces to enhance diplomacy and nurture relationships."
+  },
+  "3": {
+    "color": "Yellow",
+    "hex": "#fdd835",
+    "description": "Yellow is your creative catalyst this year. Include it in your life to stimulate self-expression, joy, and optimism. Yellow helps you communicate and connect with others."
+  },
+  "4": {
+    "color": "Green",
+    "hex": "#43a047",
+    "description": "Green supports your year of building foundations. Surround yourself with this color to enhance stability, discipline, and practical achievements. Green grounds your energy."
+  },
+  "5": {
+    "color": "Orange",
+    "hex": "#fb8c00",
+    "description": "Orange resonates with your year of change and freedom. Use this vibrant color to stimulate adventure, adaptability, and progressive thinking."
+  },
+  "6": {
+    "color": "Pink",
+    "hex": "#ec407a",
+    "description": "Pink aligns with your year of responsibility and harmony. This nurturing color helps you balance home life, relationships, and service to others."
+  },
+  "7": {
+    "color": "Purple",
+    "hex": "#5e35b1",
+    "description": "Purple enhances your year of introspection and wisdom. Incorporate this mystical color to deepen spiritual insights, research, and contemplative activities."
+  },
+  "8": {
+    "color": "Gold",
+    "hex": "#ffc107",
+    "description": "Gold amplifies your year of achievement and abundance. This prosperous color helps manifest material success and executive leadership qualities."
+  },
+  "9": {
+    "color": "White",
+    "hex": "#f5f5f5",
+    "description": "White supports your year of completion and universal connection. This pure color aids in releasing the past and embracing humanitarian perspectives."
+  },
+  "11": {
+    "color": "Silver",
+    "hex": "#b0bec5",
+    "description": "Silver resonates with your master intuitive year. This reflective color enhances spiritual reception, inspiration, and heightened awareness."
+  },
+  "22": {
+    "color": "Royal Blue",
+    "hex": "#1a237e",
+    "description": "Royal blue aligns with your master builder year. This powerful color helps manifest grand visions into practical reality for the benefit of many."
+  },
+  "33": {
+    "color": "Turquoise",
+    "hex": "#00bcd4",
+    "description": "Turquoise is perfect for your master teacher year. This healing color supports compassionate communication, wisdom sharing, and nurturing leadership."
+  }
+}

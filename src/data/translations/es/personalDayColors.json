@@ -1,0 +1,63 @@
+
+{
+  "1": {
+    "color": "Rojo",
+    "hex": "#e53935",
+    "description": "Viste de rojo hoy para mejorar tu energía de liderazgo y aumentar la confianza. El rojo amplifica tu iniciativa y determinación."
+  },
+  "2": {
+    "color": "Azul",
+    "hex": "#1e88e5",
+    "description": "El azul es ideal para hoy, trayendo calma y armonía a tus interacciones. Mejora tu diplomacia e intuición."
+  },
+  "3": {
+    "color": "Amarillo",
+    "hex": "#fdd835",
+    "description": "El amarillo brillante mejora tu expresión creativa hoy. Trae optimismo y te ayuda a comunicar tus ideas más eficazmente."
+  },
+  "4": {
+    "color": "Verde",
+    "hex": "#43a047",
+    "description": "Viste de verde hoy para apoyar tus esfuerzos prácticos y trabajo duro. El verde proporciona la estabilidad y resistencia que necesitas."
+  },
+  "5": {
+    "color": "Naranja",
+    "hex": "#fb8c00",
+    "description": "El naranja es perfecto para la energía aventurera de hoy. Fomenta la flexibilidad y te ayuda a abrazar el cambio con entusiasmo."
+  },
+  "6": {
+    "color": "Rosa",
+    "hex": "#ec407a",
+    "description": "El rosa resuena con la energía nutriente de hoy. Te ayuda a crear armonía y mostrar cuidado en tus relaciones."
+  },
+  "7": {
+    "color": "Púrpura",
+    "hex": "#5e35b1",
+    "description": "El púrpura apoya la cualidad introspectiva de hoy. Mejora tu intuición y ayuda en búsquedas espirituales o intelectuales."
+  },
+  "8": {
+    "color": "Dorado",
+    "hex": "#ffc107",
+    "description": "El dorado conecta con el enfoque de hoy en el logro y la prosperidad. Ayuda a manifestar abundancia y éxito en tus esfuerzos."
+  },
+  "9": {
+    "color": "Blanco",
+    "hex": "#f5f5f5",
+    "description": "El blanco representa la finalización y conexión universal para hoy. Te ayuda a liberar lo viejo y abrazar perspectivas más altas."
+  },
+  "11": {
+    "color": "Plateado",
+    "hex": "#b0bec5",
+    "description": "El plateado mejora la intuición e inspiración elevada de hoy. Te ayuda a recibir y canalizar percepciones espirituales."
+  },
+  "22": {
+    "color": "Azul Real",
+    "hex": "#1a237e",
+    "description": "El azul real profundo apoya la energía de manifestación de hoy. Te ayuda a llevar grandes sueños a la realidad práctica."
+  },
+  "33": {
+    "color": "Turquesa",
+    "hex": "#00bcd4",
+    "description": "El turquesa amplifica la energía sanadora y educativa de hoy. Te ayuda a comunicar compasión y sabiduría a otros."
+  }
+}
