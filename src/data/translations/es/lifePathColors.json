@@ -1,0 +1,207 @@
+
+{
+  "1": [
+    {
+      "color": "Rojo",
+      "hex": "#e53935",
+      "description": "El rojo representa liderazgo, coraje y determinación. Vestir de rojo puede ayudar a amplificar tu energía pionera natural y aumentar la confianza."
+    },
+    {
+      "color": "Naranja",
+      "hex": "#ff9800",
+      "description": "El naranja alimenta tu iniciativa natural e independencia. Este color energético te ayuda a superar obstáculos y abrazar nuevos comienzos con entusiasmo."
+    },
+    {
+      "color": "Dorado",
+      "hex": "#ffc107",
+      "description": "El dorado realza tus cualidades innatas de liderazgo y ambición. Este color trae enfoque a tus metas y ayuda a manifestar el éxito."
+    }
+  ],
+  "2": [
+    {
+      "color": "Azul Pálido",
+      "hex": "#90caf9",
+      "description": "El azul pálido mejora tus habilidades diplomáticas naturales e intuición. Este color trae paz y equilibrio, ayudándote a mantener la armonía en las relaciones."
+    },
+    {
+      "color": "Lavanda",
+      "hex": "#b39ddb",
+      "description": "La lavanda apoya tu naturaleza sensible e intuitiva. Ayuda a activar tus cualidades receptivas y mejorar tus habilidades naturales de mediación."
+    },
+    {
+      "color": "Plateado",
+      "hex": "#b0bec5",
+      "description": "El plateado resuena con tu espíritu reflexivo y adaptable. Promueve el equilibrio emocional y te ayuda a conectar con tu guía intuitiva."
+    }
+  ],
+  "3": [
+    {
+      "color": "Amarillo",
+      "hex": "#ffeb3b",
+      "description": "El amarillo resuena con tu naturaleza creativa y expresiva. Mejora la comunicación, el optimismo y resalta tu alegría natural y talentos artísticos."
+    },
+    {
+      "color": "Rosa",
+      "hex": "#f48fb1",
+      "description": "El rosa amplifica tu encanto natural y sociabilidad. Este color te ayuda a expresarte auténticamente y conectar con otros."
+    },
+    {
+      "color": "Naranja Brillante",
+      "hex": "#ff7043",
+      "description": "El naranja brillante estimula tu energía creativa y entusiasmo. Aumenta tu confianza en la autoexpresión y te ayuda a brillar en situaciones sociales."
+    }
+  ],
+  "4": [
+    {
+      "color": "Verde",
+      "hex": "#4caf50",
+      "description": "El verde apoya tu energía práctica y centrada. Proporciona estabilidad, mejora tu ética de trabajo y te ayuda a crear los cimientos sólidos que valoras."
+    },
+    {
+      "color": "Marrón",
+      "hex": "#795548",
+      "description": "El marrón refuerza tu conexión con la energía de la tierra y la confiabilidad. Este color te ayuda a mantenerte centrado y enfocado en construir estructuras duraderas."
+    },
+    {
+      "color": "Azul Marino",
+      "hex": "#1a237e",
+      "description": "El azul marino fortalece tus habilidades organizativas y atención al detalle. Te ayuda a mantener el enfoque y la perseverancia en tu enfoque metódico."
+    }
+  ],
+  "5": [
+    {
+      "color": "Naranja",
+      "hex": "#ff9800",
+      "description": "El naranja complementa tu espíritu aventurero y amor por la libertad. Fomenta la adaptabilidad, el entusiasmo por la vida y te ayuda a abrazar el cambio positivamente."
+    },
+    {
+      "color": "Turquesa",
+      "hex": "#00bcd4",
+      "description": "El turquesa realza tu naturaleza versátil y progresiva. Este color promueve la comunicación clara y te ayuda a adaptarte a nuevas situaciones con facilidad."
+    },
+    {
+      "color": "Verde Brillante",
+      "hex": "#4caf50",
+      "description": "El verde brillante energiza tu amor por la exploración y el crecimiento. Apoya tu necesidad de variedad y te ayuda a navegar cambios con confianza."
+    }
+  ],
+  "6": [
+    {
+      "color": "Rosa",
+      "hex": "#f48fb1",
+      "description": "El rosa realza tu naturaleza nutriente y sentido de responsabilidad. Aporta calidez a tus interacciones y apoya tu capacidad natural para cuidar de los demás."
+    },
+    {
+      "color": "Durazno",
+      "hex": "#ffccbc",
+      "description": "El durazno amplifica tus habilidades armonizadoras y energía compasiva. Este color suave ayuda a crear equilibrio en tus relaciones y ambiente hogareño."
+    },
+    {
+      "color": "Verde Claro",
+      "hex": "#a5d6a7",
+      "description": "El verde claro apoya tu energía sanadora y sentido del deber. Promueve el servicio centrado en el corazón y te ayuda a mantener el equilibrio mientras cuidas de otros."
+    }
+  ],
+  "7": [
+    {
+      "color": "Púrpura",
+      "hex": "#7e57c2",
+      "description": "El púrpura amplifica tus cualidades analíticas y espirituales. Apoya tu búsqueda de conocimiento, mejora la intuición y ayuda en tu comprensión más profunda de la vida."
+    },
+    {
+      "color": "Azul Profundo",
+      "hex": "#3f51b5",
+      "description": "El azul profundo resuena con tu naturaleza contemplativa y búsquedas intelectuales. Te ayuda a acceder a la sabiduría interior y fortalece tus habilidades analíticas."
+    },
+    {
+      "color": "Índigo",
+      "hex": "#5c6bc0",
+      "description": "El índigo mejora tu percepción intuitiva y visión espiritual. Este color te ayuda a acceder a niveles más profundos de comprensión y conocimiento interior."
+    }
+  ],
+  "8": [
+    {
+      "color": "Azul Marino",
+      "hex": "#1a237e",
+      "description": "El azul marino apoya tu perspicacia natural para los negocios y autoridad. Ayuda a manifestar abundancia y éxito mientras refuerza tus habilidades de liderazgo práctico."
+    },
+    {
+      "color": "Púrpura",
+      "hex": "#7e57c2",
+      "description": "El púrpura mejora tu liderazgo visionario y habilidades ejecutivas. Este color te ayuda a conectar tu comprensión material y espiritual del éxito."
+    },
+    {
+      "color": "Azul Real",
+      "hex": "#3f51b5",
+      "description": "El azul real fortalece tu poder y autoridad. Apoya tu ambición y te ayuda a manifestar éxito material con integridad."
+    }
+  ],
+  "9": [
+    {
+      "color": "Dorado",
+      "hex": "#ffc107",
+      "description": "El dorado resuena con tu espíritu humanitario y perspectiva global. Mejora la compasión, sabiduría y apoya tu misión de hacer una diferencia positiva."
+    },
+    {
+      "color": "Púrpura",
+      "hex": "#7e57c2",
+      "description": "El púrpura amplifica tu amor universal y conciencia espiritual. Este color te ayuda a conectar con tu propósito superior y compartir sabiduría con otros."
+    },
+    {
+      "color": "Blanco",
+      "hex": "#f5f5f5",
+      "description": "El blanco mejora tu sentido de completitud y pureza espiritual. Apoya tu capacidad de soltar el pasado y abrazar tu papel como guía compasivo."
+    }
+  ],
+  "11": [
+    {
+      "color": "Plateado",
+      "hex": "#b0bec5",
+      "description": "El plateado mejora tu conciencia espiritual y habilidades intuitivas. Ayuda a canalizar tus percepciones visionarias y apoya tu papel como guía inspirador."
+    },
+    {
+      "color": "Blanco",
+      "hex": "#f5f5f5",
+      "description": "El blanco amplifica tu liderazgo inspirado y visión espiritual. Este color te ayuda a mantener vibraciones altas y conexión espiritual clara."
+    },
+    {
+      "color": "Azul Claro",
+      "hex": "#90caf9",
+      "description": "El azul claro apoya tu comunicación intuitiva e ideas inspiradas. Ayuda a conectar la conciencia superior con la aplicación práctica."
+    }
+  ],
+  "22": [
+    {
+      "color": "Azul Real",
+      "hex": "#3f51b5",
+      "description": "El azul real amplifica tu energía de maestro constructor. Ayuda a manifestar tus visiones prácticas y apoya tu capacidad para crear resultados significativos y tangibles."
+    },
+    {
+      "color": "Dorado",
+      "hex": "#ffc107",
+      "description": "El dorado mejora tu capacidad para construir estructuras de valor duradero. Este color te ayuda a traer conceptos espirituales a forma material con confianza."
+    },
+    {
+      "color": "Verde Profundo",
+      "hex": "#2e7d32",
+      "description": "El verde profundo conecta a tierra tus ideas visionarias en aplicaciones prácticas. Apoya tu capacidad para crear cambios positivos a través de la planificación metódica."
+    }
+  ],
+  "33": [
+    {
+      "color": "Turquesa",
+      "hex": "#00bcd4",
+      "description": "El turquesa apoya tu papel como maestro instructor. Mejora la comunicación de sabiduría espiritual y amplifica tu servicio compasivo a la humanidad."
+    },
+    {
+      "color": "Rosa",
+      "hex": "#f48fb1",
+      "description": "El rosa resuena con tu amor incondicional y guía nutriente. Este color te ayuda a compartir sabiduría con compasión y conciencia centrada en el corazón."
+    },
+    {
+      "color": "Lavanda",
+      "hex": "#b39ddb",
+      "description": "La lavanda mejora tus habilidades de sanación espiritual y visión humanitaria. Apoya tu misión de elevar a otros a través de enseñanza gentil y transformadora."
+    }
+  ]
+}

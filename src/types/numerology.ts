@@ -57,6 +57,7 @@ export interface NumerologyInsight {
   lifeLessons?: string;
   date?: Date; // For personal day/month/year calculations
   colorRecommendation?: ColorRecommendation;
+  colorRecommendations?: ColorRecommendation[];
 }
 
 /**

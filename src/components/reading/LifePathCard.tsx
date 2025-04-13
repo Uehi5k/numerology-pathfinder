@@ -14,6 +14,7 @@ interface LifePathCardProps {
   personalMonth?: number;
   personalYear?: number;
   colorRecommendation?: ColorRecommendation;
+  colorRecommendations?: ColorRecommendation[];
 }
 
 const LifePathCard: React.FC<LifePathCardProps> = ({ 
@@ -24,7 +25,8 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
   personalDay,
   personalMonth,
   personalYear,
-  colorRecommendation
+  colorRecommendation,
+  colorRecommendations
 }) => {
   const handleShare = () => {
     if (navigator.share) {
@@ -49,6 +51,9 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
         });
     }
   };
+
+  // Use new format if available, otherwise fall back to old format
+  const colors = colorRecommendations || (colorRecommendation ? [colorRecommendation] : []);
 
   return (
     <motion.div
@@ -138,22 +143,32 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
           <p className="text-foreground/80 leading-relaxed">{meaning}</p>
         </motion.div>
 
-        {colorRecommendation && (
+        {colors.length > 0 && (
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.5 }}
-            className="mt-6 p-4 rounded-lg"
-            style={{ backgroundColor: `${colorRecommendation.hex}20` }}
+            className="mt-6"
           >
-            <div className="flex items-center mb-2">
-              <div 
-                className="w-6 h-6 rounded-full mr-2" 
-                style={{ backgroundColor: colorRecommendation.hex }}
-              ></div>
-              <h3 className="font-medium">Your Color: {colorRecommendation.color}</h3>
+            <h3 className="text-lg font-medium mb-3">Your Colors</h3>
+            <div className="space-y-3">
+              {colors.map((color, index) => (
+                <div 
+                  key={index}
+                  className="p-4 rounded-lg"
+                  style={{ backgroundColor: `${color.hex}20` }}
+                >
+                  <div className="flex items-center mb-2">
+                    <div 
+                      className="w-6 h-6 rounded-full mr-2" 
+                      style={{ backgroundColor: color.hex }}
+                    ></div>
+                    <h4 className="font-medium">{color.color}</h4>
+                  </div>
+                  <p className="text-sm text-foreground/80">{color.description}</p>
+                </div>
+              ))}
             </div>
-            <p className="text-sm text-foreground/80">{colorRecommendation.description}</p>
           </motion.div>
         )}
       </div>

@@ -1,63 +1,207 @@
 
 {
-  "1": {
-    "color": "Red",
-    "hex": "#e53935",
-    "description": "Red represents leadership, courage, and determination. Wearing red can help amplify your natural pioneering energy and boost confidence."
-  },
-  "2": {
-    "color": "Pale Blue",
-    "hex": "#90caf9",
-    "description": "Pale blue enhances your natural diplomatic abilities and intuition. This color brings peace and balance, helping you maintain harmony in relationships."
-  },
-  "3": {
-    "color": "Yellow",
-    "hex": "#ffeb3b",
-    "description": "Yellow resonates with your creative, expressive nature. It enhances communication, optimism, and brings out your natural joy and artistic talents."
-  },
-  "4": {
-    "color": "Green",
-    "hex": "#4caf50",
-    "description": "Green supports your practical, grounded energy. It provides stability, enhances your work ethic, and helps you create the solid foundations you value."
-  },
-  "5": {
-    "color": "Orange",
-    "hex": "#ff9800",
-    "description": "Orange complements your adventurous spirit and love of freedom. It encourages adaptability, enthusiasm for life, and helps you embrace change positively."
-  },
-  "6": {
-    "color": "Pink",
-    "hex": "#f48fb1",
-    "description": "Pink enhances your nurturing nature and sense of responsibility. It brings warmth to your interactions and supports your natural ability to care for others."
-  },
-  "7": {
-    "color": "Purple",
-    "hex": "#7e57c2",
-    "description": "Purple amplifies your analytical and spiritual qualities. It supports your quest for knowledge, enhances intuition, and aids in your deeper understanding of life."
-  },
-  "8": {
-    "color": "Navy Blue",
-    "hex": "#1a237e",
-    "description": "Navy blue supports your natural business acumen and authority. It helps manifest abundance and success while reinforcing your practical leadership abilities."
-  },
-  "9": {
-    "color": "Gold",
-    "hex": "#ffc107",
-    "description": "Gold resonates with your humanitarian spirit and global perspective. It enhances compassion, wisdom, and supports your mission to make a positive difference."
-  },
-  "11": {
-    "color": "Silver",
-    "hex": "#b0bec5",
-    "description": "Silver enhances your spiritual awareness and intuitive abilities. It helps channel your visionary insights and supports your role as an inspirational guide."
-  },
-  "22": {
-    "color": "Royal Blue",
-    "hex": "#3f51b5",
-    "description": "Royal blue amplifies your master builder energy. It helps manifest your practical visions and supports your ability to create significant, tangible results."
-  },
-  "33": {
-    "color": "Turquoise",
-    "hex": "#00bcd4",
-    "description": "Turquoise supports your role as a master teacher. It enhances communication of spiritual wisdom and amplifies your compassionate service to humanity."
-  }
+  "1": [
+    {
+      "color": "Red",
+      "hex": "#e53935",
+      "description": "Red represents leadership, courage, and determination. Wearing red can help amplify your natural pioneering energy and boost confidence."
+    },
+    {
+      "color": "Orange",
+      "hex": "#ff9800",
+      "description": "Orange fuels your natural initiative and independence. This energetic color helps you overcome obstacles and embrace new beginnings with enthusiasm."
+    },
+    {
+      "color": "Gold",
+      "hex": "#ffc107",
+      "description": "Gold enhances your innate leadership qualities and ambition. This color brings focus to your goals and helps manifest success."
+    }
+  ],
+  "2": [
+    {
+      "color": "Pale Blue",
+      "hex": "#90caf9",
+      "description": "Pale blue enhances your natural diplomatic abilities and intuition. This color brings peace and balance, helping you maintain harmony in relationships."
+    },
+    {
+      "color": "Lavender",
+      "hex": "#b39ddb",
+      "description": "Lavender supports your sensitive and intuitive nature. It helps activate your receptive qualities and enhance your natural mediating abilities."
+    },
+    {
+      "color": "Silver",
+      "hex": "#b0bec5",
+      "description": "Silver resonates with your reflective and adaptable spirit. It promotes emotional balance and helps you connect with your intuitive guidance."
+    }
+  ],
+  "3": [
+    {
+      "color": "Yellow",
+      "hex": "#ffeb3b",
+      "description": "Yellow resonates with your creative, expressive nature. It enhances communication, optimism, and brings out your natural joy and artistic talents."
+    },
+    {
+      "color": "Pink",
+      "hex": "#f48fb1",
+      "description": "Pink amplifies your natural charm and sociability. This color helps you express yourself authentically and connect with others."
+    },
+    {
+      "color": "Bright Orange",
+      "hex": "#ff7043",
+      "description": "Bright orange stimulates your creative energy and enthusiasm. It boosts your confidence in self-expression and helps you shine in social situations."
+    }
+  ],
+  "4": [
+    {
+      "color": "Green",
+      "hex": "#4caf50",
+      "description": "Green supports your practical, grounded energy. It provides stability, enhances your work ethic, and helps you create the solid foundations you value."
+    },
+    {
+      "color": "Brown",
+      "hex": "#795548",
+      "description": "Brown reinforces your connection to earth energy and reliability. This color helps you stay grounded and focused on building lasting structures."
+    },
+    {
+      "color": "Navy Blue",
+      "hex": "#1a237e",
+      "description": "Navy blue strengthens your organizational abilities and attention to detail. It helps you maintain focus and perseverance in your methodical approach."
+    }
+  ],
+  "5": [
+    {
+      "color": "Orange",
+      "hex": "#ff9800",
+      "description": "Orange complements your adventurous spirit and love of freedom. It encourages adaptability, enthusiasm for life, and helps you embrace change positively."
+    },
+    {
+      "color": "Turquoise",
+      "hex": "#00bcd4",
+      "description": "Turquoise enhances your versatile and progressive nature. This color promotes clear communication and helps you adapt to new situations with ease."
+    },
+    {
+      "color": "Bright Green",
+      "hex": "#4caf50",
+      "description": "Bright green energizes your love for exploration and growth. It supports your need for variety and helps you navigate changes with confidence."
+    }
+  ],
+  "6": [
+    {
+      "color": "Pink",
+      "hex": "#f48fb1",
+      "description": "Pink enhances your nurturing nature and sense of responsibility. It brings warmth to your interactions and supports your natural ability to care for others."
+    },
+    {
+      "color": "Peach",
+      "hex": "#ffccbc",
+      "description": "Peach amplifies your harmonizing abilities and compassionate energy. This gentle color helps create balance in your relationships and home environment."
+    },
+    {
+      "color": "Light Green",
+      "hex": "#a5d6a7",
+      "description": "Light green supports your healing energy and sense of duty. It promotes heart-centered service and helps you maintain equilibrium while caring for others."
+    }
+  ],
+  "7": [
+    {
+      "color": "Purple",
+      "hex": "#7e57c2",
+      "description": "Purple amplifies your analytical and spiritual qualities. It supports your quest for knowledge, enhances intuition, and aids in your deeper understanding of life."
+    },
+    {
+      "color": "Deep Blue",
+      "hex": "#3f51b5",
+      "description": "Deep blue resonates with your contemplative nature and intellectual pursuits. It helps you access inner wisdom and strengthens your analytical abilities."
+    },
+    {
+      "color": "Indigo",
+      "hex": "#5c6bc0",
+      "description": "Indigo enhances your intuitive perception and spiritual insight. This color helps you access deeper levels of understanding and inner knowledge."
+    }
+  ],
+  "8": [
+    {
+      "color": "Navy Blue",
+      "hex": "#1a237e",
+      "description": "Navy blue supports your natural business acumen and authority. It helps manifest abundance and success while reinforcing your practical leadership abilities."
+    },
+    {
+      "color": "Purple",
+      "hex": "#7e57c2",
+      "description": "Purple enhances your visionary leadership and executive abilities. This color helps you connect your material and spiritual understanding of success."
+    },
+    {
+      "color": "Royal Blue",
+      "hex": "#3f51b5",
+      "description": "Royal blue strengthens your power and authority. It supports your ambition and helps you manifest material success with integrity."
+    }
+  ],
+  "9": [
+    {
+      "color": "Gold",
+      "hex": "#ffc107",
+      "description": "Gold resonates with your humanitarian spirit and global perspective. It enhances compassion, wisdom, and supports your mission to make a positive difference."
+    },
+    {
+      "color": "Purple",
+      "hex": "#7e57c2",
+      "description": "Purple amplifies your universal love and spiritual awareness. This color helps you connect with your higher purpose and share wisdom with others."
+    },
+    {
+      "color": "White",
+      "hex": "#f5f5f5",
+      "description": "White enhances your sense of completion and spiritual purity. It supports your ability to let go of the past and embrace your role as a compassionate guide."
+    }
+  ],
+  "11": [
+    {
+      "color": "Silver",
+      "hex": "#b0bec5",
+      "description": "Silver enhances your spiritual awareness and intuitive abilities. It helps channel your visionary insights and supports your role as an inspirational guide."
+    },
+    {
+      "color": "White",
+      "hex": "#f5f5f5",
+      "description": "White amplifies your inspired leadership and spiritual insight. This color helps you maintain high vibrations and clear spiritual connection."
+    },
+    {
+      "color": "Light Blue",
+      "hex": "#90caf9",
+      "description": "Light blue supports your intuitive communication and inspired ideas. It helps bridge higher consciousness with practical application."
+    }
+  ],
+  "22": [
+    {
+      "color": "Royal Blue",
+      "hex": "#3f51b5",
+      "description": "Royal blue amplifies your master builder energy. It helps manifest your practical visions and supports your ability to create significant, tangible results."
+    },
+    {
+      "color": "Gold",
+      "hex": "#ffc107",
+      "description": "Gold enhances your ability to build structures of lasting value. This color helps you bring spiritual concepts into material form with confidence."
+    },
+    {
+      "color": "Deep Green",
+      "hex": "#2e7d32",
+      "description": "Deep green grounds your visionary ideas into practical applications. It supports your capacity to create positive change through methodical planning."
+    }
+  ],
+  "33": [
+    {
+      "color": "Turquoise",
+      "hex": "#00bcd4",
+      "description": "Turquoise supports your role as a master teacher. It enhances communication of spiritual wisdom and amplifies your compassionate service to humanity."
+    },
+    {
+      "color": "Pink",
+      "hex": "#f48fb1",
+      "description": "Pink resonates with your unconditional love and nurturing guidance. This color helps you share wisdom with compassion and heart-centered awareness."
+    },
+    {
+      "color": "Lavender",
+      "hex": "#b39ddb",
+      "description": "Lavender enhances your spiritual healing abilities and humanitarian vision. It supports your mission to uplift others through gentle, transformative teaching."
+    }
+  ]
 }

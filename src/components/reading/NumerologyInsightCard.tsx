@@ -44,7 +44,29 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }
           </div>
         )}
 
-        {insight.colorRecommendation && (
+        {insight.colorRecommendations && insight.colorRecommendations.length > 0 ? (
+          <div className="mt-6">
+            <h3 className="text-lg font-medium mb-3">Color Recommendations</h3>
+            <div className="space-y-3">
+              {insight.colorRecommendations.map((color, index) => (
+                <div 
+                  key={index}
+                  className="p-4 rounded-lg"
+                  style={{ backgroundColor: `${color.hex}20` }}
+                >
+                  <div className="flex items-center mb-2">
+                    <div 
+                      className="w-6 h-6 rounded-full mr-2" 
+                      style={{ backgroundColor: color.hex }}
+                    ></div>
+                    <h4 className="font-medium">{color.color}</h4>
+                  </div>
+                  <p className="text-sm text-foreground/80">{color.description}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        ) : insight.colorRecommendation ? (
           <div 
             className="mt-6 p-4 rounded-lg"
             style={{ backgroundColor: `${insight.colorRecommendation.hex}20` }}
@@ -58,7 +80,7 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }
             </div>
             <p className="text-sm text-foreground/80">{insight.colorRecommendation.description}</p>
           </div>
-        )}
+        ) : null}
       </div>
     </div>
   );

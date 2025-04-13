@@ -79,10 +79,20 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
           // Generation number (sum of year digits)
           const generationNumber = Array.from(year.toString()).reduce((sum, digit) => sum + parseInt(digit), 0) % 9 || 9;
 
-          // Get color recommendation for Life Path
+          // Get color recommendations for Life Path
           let colorRecommendation: ColorRecommendation | undefined;
+          let colorRecommendations: ColorRecommendation[] | undefined;
+          
           if (lifePathColors && lifePathColors[lifePathNumber.toString()]) {
-            colorRecommendation = lifePathColors[lifePathNumber.toString()];
+            // Handle both single color and array of colors formats
+            const colors = lifePathColors[lifePathNumber.toString()];
+            if (Array.isArray(colors)) {
+              colorRecommendations = colors;
+              colorRecommendation = colors[0]; // First color as default for backward compatibility
+            } else {
+              colorRecommendation = colors;
+              colorRecommendations = [colors]; // Convert single color to array for new format
+            }
           }
 
           const newInsights: NumerologyInsight[] = [
@@ -94,7 +104,8 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
               formula: `${month}/${day}/${year} → ${lifePathNumber}`,
               strengths: strengths?.[lifePathNumber.toString()] || [],
               lifeLessons: lifeLessons?.[lifePathNumber.toString()] || "",
-              colorRecommendation
+              colorRecommendation,
+              colorRecommendations
             },
             {
               type: 'attitude',
