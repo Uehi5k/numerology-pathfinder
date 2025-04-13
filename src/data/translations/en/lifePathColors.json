@@ -1,0 +1,63 @@
+
+{
+  "1": {
+    "color": "Red",
+    "hex": "#e53935",
+    "description": "Red represents leadership, courage, and determination. Wearing red can help amplify your natural pioneering energy and boost confidence."
+  },
+  "2": {
+    "color": "Pale Blue",
+    "hex": "#90caf9",
+    "description": "Pale blue enhances your natural diplomatic abilities and intuition. This color brings peace and balance, helping you maintain harmony in relationships."
+  },
+  "3": {
+    "color": "Yellow",
+    "hex": "#ffeb3b",
+    "description": "Yellow resonates with your creative, expressive nature. It enhances communication, optimism, and brings out your natural joy and artistic talents."
+  },
+  "4": {
+    "color": "Green",
+    "hex": "#4caf50",
+    "description": "Green supports your practical, grounded energy. It provides stability, enhances your work ethic, and helps you create the solid foundations you value."
+  },
+  "5": {
+    "color": "Orange",
+    "hex": "#ff9800",
+    "description": "Orange complements your adventurous spirit and love of freedom. It encourages adaptability, enthusiasm for life, and helps you embrace change positively."
+  },
+  "6": {
+    "color": "Pink",
+    "hex": "#f48fb1",
+    "description": "Pink enhances your nurturing nature and sense of responsibility. It brings warmth to your interactions and supports your natural ability to care for others."
+  },
+  "7": {
+    "color": "Purple",
+    "hex": "#7e57c2",
+    "description": "Purple amplifies your analytical and spiritual qualities. It supports your quest for knowledge, enhances intuition, and aids in your deeper understanding of life."
+  },
+  "8": {
+    "color": "Navy Blue",
+    "hex": "#1a237e",
+    "description": "Navy blue supports your natural business acumen and authority. It helps manifest abundance and success while reinforcing your practical leadership abilities."
+  },
+  "9": {
+    "color": "Gold",
+    "hex": "#ffc107",
+    "description": "Gold resonates with your humanitarian spirit and global perspective. It enhances compassion, wisdom, and supports your mission to make a positive difference."
+  },
+  "11": {
+    "color": "Silver",
+    "hex": "#b0bec5",
+    "description": "Silver enhances your spiritual awareness and intuitive abilities. It helps channel your visionary insights and supports your role as an inspirational guide."
+  },
+  "22": {
+    "color": "Royal Blue",
+    "hex": "#3f51b5",
+    "description": "Royal blue amplifies your master builder energy. It helps manifest your practical visions and supports your ability to create significant, tangible results."
+  },
+  "33": {
+    "color": "Turquoise",
+    "hex": "#00bcd4",
+    "description": "Turquoise supports your role as a master teacher. It enhances communication of spiritual wisdom and amplifies your compassionate service to humanity."
+  }
+}

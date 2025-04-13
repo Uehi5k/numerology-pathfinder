@@ -1,6 +1,7 @@
+
 import { useState, useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { NumerologyInsight } from '@/types/numerology';
+import { NumerologyInsight, ColorRecommendation } from '@/types/numerology';
 
 export const useNumerologyInsights = (lifePath: string, birthdate: string, expressionNumber?: number) => {
   const [insights, setInsights] = useState<NumerologyInsight[]>([]);
@@ -40,7 +41,7 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
           };
 
           // Load other data
-          let strengths, lifeLessons, attitudeMeanings, dayOfBirthMeanings, generationMeanings, maturityMeanings;
+          let strengths, lifeLessons, attitudeMeanings, dayOfBirthMeanings, generationMeanings, maturityMeanings, lifePathColors;
           
           try {
             strengths = (await import(`@/data/translations/${language}/strengths.json`)).default;
@@ -49,9 +50,20 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
             dayOfBirthMeanings = (await import(`@/data/translations/${language}/dayOfBirthMeanings.json`)).default;
             generationMeanings = (await import(`@/data/translations/${language}/generationMeanings.json`)).default;
             maturityMeanings = (await import(`@/data/translations/${language}/maturityMeanings.json`)).default;
+            lifePathColors = (await import(`@/data/translations/${language}/lifePathColors.json`)).default;
           } catch (error) {
-            console.error("Error loading some translations:", error);
-            // We'll continue with what we have, missing values will be handled later
+            // Try to load English versions if language-specific files are not available
+            try {
+              if (!strengths) strengths = (await import(`@/data/translations/en/strengths.json`)).default;
+              if (!lifeLessons) lifeLessons = (await import(`@/data/translations/en/lifeLessons.json`)).default;
+              if (!attitudeMeanings) attitudeMeanings = (await import(`@/data/translations/en/attitudeMeanings.json`)).default;
+              if (!dayOfBirthMeanings) dayOfBirthMeanings = (await import(`@/data/translations/en/dayOfBirthMeanings.json`)).default;
+              if (!generationMeanings) generationMeanings = (await import(`@/data/translations/en/generationMeanings.json`)).default;
+              if (!maturityMeanings) maturityMeanings = (await import(`@/data/translations/en/maturityMeanings.json`)).default;
+              if (!lifePathColors) lifePathColors = (await import(`@/data/translations/en/lifePathColors.json`)).default;
+            } catch (fallbackError) {
+              console.error("Error loading fallback translations:", fallbackError);
+            }
           }
 
           // Calculate numbers and their meanings
@@ -67,6 +79,12 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
           // Generation number (sum of year digits)
           const generationNumber = Array.from(year.toString()).reduce((sum, digit) => sum + parseInt(digit), 0) % 9 || 9;
 
+          // Get color recommendation for Life Path
+          let colorRecommendation: ColorRecommendation | undefined;
+          if (lifePathColors && lifePathColors[lifePathNumber.toString()]) {
+            colorRecommendation = lifePathColors[lifePathNumber.toString()];
+          }
+
           const newInsights: NumerologyInsight[] = [
             {
               type: 'lifePath',
@@ -75,7 +93,8 @@ export const useNumerologyInsights = (lifePath: string, birthdate: string, expre
               description: getMeaningString(lifePathNumber.toString()),
               formula: `${month}/${day}/${year} → ${lifePathNumber}`,
               strengths: strengths?.[lifePathNumber.toString()] || [],
-              lifeLessons: lifeLessons?.[lifePathNumber.toString()] || ""
+              lifeLessons: lifeLessons?.[lifePathNumber.toString()] || "",
+              colorRecommendation
             },
             {
               type: 'attitude',

@@ -3,6 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Share2 } from "lucide-react";
 import { toast } from "sonner";
+import { ColorRecommendation } from "@/types/numerology";
 
 interface LifePathCardProps {
   lifePath: number;
@@ -12,6 +13,7 @@ interface LifePathCardProps {
   personalDay?: number;
   personalMonth?: number;
   personalYear?: number;
+  colorRecommendation?: ColorRecommendation;
 }
 
 const LifePathCard: React.FC<LifePathCardProps> = ({ 
@@ -21,7 +23,8 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
   formattedDate,
   personalDay,
   personalMonth,
-  personalYear
+  personalYear,
+  colorRecommendation
 }) => {
   const handleShare = () => {
     if (navigator.share) {
@@ -134,6 +137,25 @@ const LifePathCard: React.FC<LifePathCardProps> = ({
         >
           <p className="text-foreground/80 leading-relaxed">{meaning}</p>
         </motion.div>
+
+        {colorRecommendation && (
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.5 }}
+            className="mt-6 p-4 rounded-lg"
+            style={{ backgroundColor: `${colorRecommendation.hex}20` }}
+          >
+            <div className="flex items-center mb-2">
+              <div 
+                className="w-6 h-6 rounded-full mr-2" 
+                style={{ backgroundColor: colorRecommendation.hex }}
+              ></div>
+              <h3 className="font-medium">Your Color: {colorRecommendation.color}</h3>
+            </div>
+            <p className="text-sm text-foreground/80">{colorRecommendation.description}</p>
+          </motion.div>
+        )}
       </div>
     </motion.div>
   );
