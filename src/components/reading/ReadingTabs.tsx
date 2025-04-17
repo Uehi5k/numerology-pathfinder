@@ -1,10 +1,9 @@
-
 import React from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { NumerologyInsight } from "@/types/numerology";
 import InsightTabs from "./InsightTabs";
 import NumerologyInsightCard from "./NumerologyInsightCard";
-import ForecastCycles from "./ForecastCycles";
+import ForecastCycles from "./forecast/ForecastCycles";
 
 interface ReadingTabsProps {
   lifePathInsights: NumerologyInsight[];
