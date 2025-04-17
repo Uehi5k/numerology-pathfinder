@@ -1,12 +1,38 @@
 
 import React, { useState } from 'react';
 import { format } from 'date-fns';
-import { Calendar as CalendarIcon, Palette } from 'lucide-react';
+import { 
+  Calendar as CalendarIcon, 
+  Palette, 
+  Rocket, 
+  Crown, 
+  Heart, 
+  Lightbulb, 
+  Compass, 
+  HandHeart, 
+  Star, 
+  Target, 
+  BookOpen,
+  Search,
+  Mountain,
+  Zap,
+  Users,
+  PencilRuler,
+  Scale,
+  Link,
+  Medal,
+  Trophy,
+  Brain,
+  Gem,
+  HeartHandshake,
+  Sparkles
+} from 'lucide-react';
 import { Calendar } from '@/components/ui/calendar';
 import { Button } from '@/components/ui/button';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 import { NumerologyInsight } from '@/types/numerology';
 import { cn } from '@/lib/utils';
 
@@ -15,6 +41,58 @@ interface ForecastCyclesProps {
   currentDate: Date;
   onDateChange: (date: Date) => void;
 }
+
+// Map of number to associated icons and keywords
+const numberIconsMap: Record<string, { icon: React.ReactNode, keyword: string }[]> = {
+  "1": [
+    { icon: <Rocket size={24} className="text-primary" />, keyword: "Leadership" },
+    { icon: <Star size={24} className="text-accent" />, keyword: "Independence" }
+  ],
+  "2": [
+    { icon: <Link size={24} className="text-primary" />, keyword: "Cooperation" },
+    { icon: <Heart size={24} className="text-accent" />, keyword: "Harmony" }
+  ],
+  "3": [
+    { icon: <PencilRuler size={24} className="text-primary" />, keyword: "Creativity" },
+    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Expression" }
+  ],
+  "4": [
+    { icon: <Target size={24} className="text-primary" />, keyword: "Structure" },
+    { icon: <Mountain size={24} className="text-accent" />, keyword: "Reliability" }
+  ],
+  "5": [
+    { icon: <Compass size={24} className="text-primary" />, keyword: "Freedom" },
+    { icon: <Zap size={24} className="text-accent" />, keyword: "Change" }
+  ],
+  "6": [
+    { icon: <HandHeart size={24} className="text-primary" />, keyword: "Responsibility" },
+    { icon: <Scale size={24} className="text-accent" />, keyword: "Balance" }
+  ],
+  "7": [
+    { icon: <Search size={24} className="text-primary" />, keyword: "Analysis" },
+    { icon: <BookOpen size={24} className="text-accent" />, keyword: "Wisdom" }
+  ],
+  "8": [
+    { icon: <Trophy size={24} className="text-primary" />, keyword: "Achievement" },
+    { icon: <Crown size={24} className="text-accent" />, keyword: "Authority" }
+  ],
+  "9": [
+    { icon: <HeartHandshake size={24} className="text-primary" />, keyword: "Compassion" },
+    { icon: <Users size={24} className="text-accent" />, keyword: "Humanitarian" }
+  ],
+  "11": [
+    { icon: <Lightbulb size={24} className="text-primary" />, keyword: "Intuition" },
+    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Inspiration" }
+  ],
+  "22": [
+    { icon: <Brain size={24} className="text-primary" />, keyword: "Mastery" },
+    { icon: <Gem size={24} className="text-accent" />, keyword: "Manifestation" }
+  ],
+  "33": [
+    { icon: <Medal size={24} className="text-primary" />, keyword: "Teaching" },
+    { icon: <HandHeart size={24} className="text-accent" />, keyword: "Healing" }
+  ]
+};
 
 const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, onDateChange }) => {
   const [open, setOpen] = useState(false);
@@ -131,6 +209,26 @@ const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, 
                 <div className="text-foreground/80 leading-relaxed">
                   {insight.description}
                 </div>
+                
+                {/* Theme Icons Section */}
+                {numberIconsMap[insight.number.toString()] && (
+                  <div className="mt-4 flex gap-4 p-4 rounded-lg border bg-background/50">
+                    <TooltipProvider>
+                      {numberIconsMap[insight.number.toString()].map((item, index) => (
+                        <Tooltip key={index}>
+                          <TooltipTrigger asChild>
+                            <div className="p-3 rounded-lg bg-accent/5 hover:bg-accent/10 transition-colors cursor-pointer">
+                              {item.icon}
+                            </div>
+                          </TooltipTrigger>
+                          <TooltipContent>
+                            <p>{item.keyword}</p>
+                          </TooltipContent>
+                        </Tooltip>
+                      ))}
+                    </TooltipProvider>
+                  </div>
+                )}
                 
                 {insight.colorRecommendation && (
                   <div className="mt-4 p-4 rounded-lg border bg-background/50">
