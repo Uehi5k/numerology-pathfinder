@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { format } from 'date-fns';
 import { 
@@ -32,8 +31,8 @@ import { Button } from '@/components/ui/button';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
-import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip';
 import { NumerologyInsight } from '@/types/numerology';
+import { useLanguage } from '@/contexts/LanguageContext';
 import { cn } from '@/lib/utils';
 
 interface ForecastCyclesProps {
@@ -42,60 +41,61 @@ interface ForecastCyclesProps {
   onDateChange: (date: Date) => void;
 }
 
-// Map of number to associated icons and keywords
-const numberIconsMap: Record<string, { icon: React.ReactNode, keyword: string }[]> = {
+// Map of number to associated icons and keywords with Spanish translations
+const numberIconsMap: Record<string, { icon: React.ReactNode, keyword: string, keywordEs?: string }[]> = {
   "1": [
-    { icon: <Rocket size={24} className="text-primary" />, keyword: "Leadership" },
-    { icon: <Star size={24} className="text-accent" />, keyword: "Independence" }
+    { icon: <Rocket size={24} className="text-primary" />, keyword: "Leadership", keywordEs: "Liderazgo" },
+    { icon: <Star size={24} className="text-accent" />, keyword: "Independence", keywordEs: "Independencia" }
   ],
   "2": [
-    { icon: <Link size={24} className="text-primary" />, keyword: "Cooperation" },
-    { icon: <Heart size={24} className="text-accent" />, keyword: "Harmony" }
+    { icon: <Link size={24} className="text-primary" />, keyword: "Cooperation", keywordEs: "Cooperación" },
+    { icon: <Heart size={24} className="text-accent" />, keyword: "Harmony", keywordEs: "Armonía" }
   ],
   "3": [
-    { icon: <PencilRuler size={24} className="text-primary" />, keyword: "Creativity" },
-    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Expression" }
+    { icon: <PencilRuler size={24} className="text-primary" />, keyword: "Creativity", keywordEs: "Creatividad" },
+    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Expression", keywordEs: "Expresión" }
   ],
   "4": [
-    { icon: <Target size={24} className="text-primary" />, keyword: "Structure" },
-    { icon: <Mountain size={24} className="text-accent" />, keyword: "Reliability" }
+    { icon: <Target size={24} className="text-primary" />, keyword: "Structure", keywordEs: "Estructura" },
+    { icon: <Mountain size={24} className="text-accent" />, keyword: "Reliability", keywordEs: "Confiabilidad" }
   ],
   "5": [
-    { icon: <Compass size={24} className="text-primary" />, keyword: "Freedom" },
-    { icon: <Zap size={24} className="text-accent" />, keyword: "Change" }
+    { icon: <Compass size={24} className="text-primary" />, keyword: "Freedom", keywordEs: "Libertad" },
+    { icon: <Zap size={24} className="text-accent" />, keyword: "Change", keywordEs: "Cambio" }
   ],
   "6": [
-    { icon: <HandHeart size={24} className="text-primary" />, keyword: "Responsibility" },
-    { icon: <Scale size={24} className="text-accent" />, keyword: "Balance" }
+    { icon: <HandHeart size={24} className="text-primary" />, keyword: "Responsibility", keywordEs: "Responsabilidad" },
+    { icon: <Scale size={24} className="text-accent" />, keyword: "Balance", keywordEs: "Equilibrio" }
   ],
   "7": [
-    { icon: <Search size={24} className="text-primary" />, keyword: "Analysis" },
-    { icon: <BookOpen size={24} className="text-accent" />, keyword: "Wisdom" }
+    { icon: <Search size={24} className="text-primary" />, keyword: "Analysis", keywordEs: "Análisis" },
+    { icon: <BookOpen size={24} className="text-accent" />, keyword: "Wisdom", keywordEs: "Sabiduría" }
   ],
   "8": [
-    { icon: <Trophy size={24} className="text-primary" />, keyword: "Achievement" },
-    { icon: <Crown size={24} className="text-accent" />, keyword: "Authority" }
+    { icon: <Trophy size={24} className="text-primary" />, keyword: "Achievement", keywordEs: "Logro" },
+    { icon: <Crown size={24} className="text-accent" />, keyword: "Authority", keywordEs: "Autoridad" }
   ],
   "9": [
-    { icon: <HeartHandshake size={24} className="text-primary" />, keyword: "Compassion" },
-    { icon: <Users size={24} className="text-accent" />, keyword: "Humanitarian" }
+    { icon: <HeartHandshake size={24} className="text-primary" />, keyword: "Compassion", keywordEs: "Compasión" },
+    { icon: <Users size={24} className="text-accent" />, keyword: "Humanitarian", keywordEs: "Humanitario" }
   ],
   "11": [
-    { icon: <Lightbulb size={24} className="text-primary" />, keyword: "Intuition" },
-    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Inspiration" }
+    { icon: <Lightbulb size={24} className="text-primary" />, keyword: "Intuition", keywordEs: "Intuición" },
+    { icon: <Sparkles size={24} className="text-accent" />, keyword: "Inspiration", keywordEs: "Inspiración" }
   ],
   "22": [
-    { icon: <Brain size={24} className="text-primary" />, keyword: "Mastery" },
-    { icon: <Gem size={24} className="text-accent" />, keyword: "Manifestation" }
+    { icon: <Brain size={24} className="text-primary" />, keyword: "Mastery", keywordEs: "Maestría" },
+    { icon: <Gem size={24} className="text-accent" />, keyword: "Manifestation", keywordEs: "Manifestación" }
   ],
   "33": [
-    { icon: <Medal size={24} className="text-primary" />, keyword: "Teaching" },
-    { icon: <HandHeart size={24} className="text-accent" />, keyword: "Healing" }
+    { icon: <Medal size={24} className="text-primary" />, keyword: "Teaching", keywordEs: "Enseñanza" },
+    { icon: <HandHeart size={24} className="text-accent" />, keyword: "Healing", keywordEs: "Sanación" }
   ]
 };
 
 const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, onDateChange }) => {
   const [open, setOpen] = useState(false);
+  const { language } = useLanguage();
   
   // Find insights by type
   const personalDayInsight = insights.find(insight => insight.type === 'personalDay');
@@ -210,23 +210,21 @@ const ForecastCycles: React.FC<ForecastCyclesProps> = ({ insights, currentDate, 
                   {insight.description}
                 </div>
                 
-                {/* Theme Icons Section */}
+                {/* Theme Icons Section - Now with click-to-show tooltips */}
                 {numberIconsMap[insight.number.toString()] && (
                   <div className="mt-4 flex gap-4 p-4 rounded-lg border bg-background/50">
-                    <TooltipProvider>
-                      {numberIconsMap[insight.number.toString()].map((item, index) => (
-                        <Tooltip key={index}>
-                          <TooltipTrigger asChild>
-                            <div className="p-3 rounded-lg bg-accent/5 hover:bg-accent/10 transition-colors cursor-pointer">
-                              {item.icon}
-                            </div>
-                          </TooltipTrigger>
-                          <TooltipContent>
-                            <p>{item.keyword}</p>
-                          </TooltipContent>
-                        </Tooltip>
-                      ))}
-                    </TooltipProvider>
+                    {numberIconsMap[insight.number.toString()].map((item, index) => (
+                      <Popover key={index}>
+                        <PopoverTrigger asChild>
+                          <div className="p-3 rounded-lg bg-accent/5 hover:bg-accent/10 transition-colors cursor-pointer">
+                            {item.icon}
+                          </div>
+                        </PopoverTrigger>
+                        <PopoverContent className="w-auto p-2">
+                          <p>{language === 'es' && item.keywordEs ? item.keywordEs : item.keyword}</p>
+                        </PopoverContent>
+                      </Popover>
+                    ))}
                   </div>
                 )}
                 
