@@ -57,6 +57,7 @@ const ReadingContainer = () => {
 
   // Find Maturity insight from lifePathInsights
   const maturityInsight = lifePathInsights.find((insight) => insight.type === "maturity");
+  const lifePathNumber = lifePathInsights.find(insight => insight.type === "lifePath")?.number;
 
   return (
     <Layout>
@@ -80,6 +81,10 @@ const ReadingContainer = () => {
               forecastInsights={forecastInsights}
               currentDate={currentDate}
               updateDate={updateDate}
+              birthdate={birthdate}
+              name={name}
+              lifePathNumber={lifePathNumber}
+              expressionNumber={expressionNumber}
             />
           </div>
 

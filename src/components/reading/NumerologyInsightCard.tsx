@@ -12,9 +12,19 @@ import InsightLifeLessons from "./insight/InsightLifeLessons";
 
 interface NumerologyInsightCardProps {
   insight: NumerologyInsight;
+  birthdate?: string;
+  name?: string;
+  lifePathNumber?: number;
+  expressionNumber?: number;
 }
 
-const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }) => {
+const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ 
+  insight,
+  birthdate,
+  name,
+  lifePathNumber,
+  expressionNumber
+}) => {
   const showThemeIcons = insight.type === 'personalDay' || 
                          insight.type === 'personalMonth' || 
                          insight.type === 'personalYear';
@@ -27,7 +37,14 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({ insight }
           number={insight.number} 
         />
 
-        <InsightFormula formula={insight.formula} />
+        <InsightFormula 
+          formula={insight.formula} 
+          type={insight.type}
+          birthdate={birthdate}
+          name={name}
+          lifePathNumber={lifePathNumber}
+          expressionNumber={expressionNumber}
+        />
 
         <InsightDescription description={insight.description} />
 

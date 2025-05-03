@@ -1,3 +1,4 @@
+
 import React from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { NumerologyInsight } from "@/types/numerology";
@@ -12,6 +13,10 @@ interface ReadingTabsProps {
   forecastInsights: NumerologyInsight[];
   currentDate: Date;
   updateDate: (date: Date) => void;
+  birthdate?: string;
+  name?: string;
+  lifePathNumber?: number;
+  expressionNumber?: number;
 }
 
 const ReadingTabs: React.FC<ReadingTabsProps> = ({
@@ -21,6 +26,10 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
   forecastInsights,
   currentDate,
   updateDate,
+  birthdate,
+  name,
+  lifePathNumber,
+  expressionNumber
 }) => {
   return (
     <Tabs defaultValue="lifePath" className="w-full">
@@ -35,7 +44,11 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
 
       <TabsContent value="lifePath">
         {lifePathInsights.length > 0 ? (
-          <InsightTabs insights={lifePathInsights} />
+          <InsightTabs 
+            insights={lifePathInsights}
+            birthdate={birthdate}
+            lifePathNumber={lifePathNumber}
+          />
         ) : (
           <div className="p-6 glass dark:glass-dark rounded-xl">
             <p>Life Path information not available.</p>
@@ -45,13 +58,21 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
 
       {nameInsights.map((insight) => (
         <TabsContent key={insight.type} value={insight.type}>
-          <NumerologyInsightCard insight={insight} />
+          <NumerologyInsightCard 
+            insight={insight}
+            name={name}
+          />
         </TabsContent>
       ))}
 
       {maturityInsight && (
         <TabsContent value="maturity">
-          <NumerologyInsightCard insight={maturityInsight} />
+          <NumerologyInsightCard 
+            insight={maturityInsight}
+            birthdate={birthdate}
+            lifePathNumber={lifePathNumber}
+            expressionNumber={expressionNumber}
+          />
         </TabsContent>
       )}
 

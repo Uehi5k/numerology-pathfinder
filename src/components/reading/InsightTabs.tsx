@@ -9,9 +9,15 @@ import { useLanguage } from '@/contexts/LanguageContext';
 
 interface InsightTabsProps {
   insights: NumerologyInsight[];
+  birthdate?: string;
+  lifePathNumber?: number;
 }
 
-const InsightTabs: React.FC<InsightTabsProps> = ({ insights }) => {
+const InsightTabs: React.FC<InsightTabsProps> = ({ 
+  insights,
+  birthdate,
+  lifePathNumber
+}) => {
   const { language } = useLanguage();
   // Find the Life Path insight
   const lifePathInsight = insights.find(insight => insight.type === 'lifePath');
@@ -48,7 +54,10 @@ const InsightTabs: React.FC<InsightTabsProps> = ({ insights }) => {
       <TabsContent value="lifePath">
         {lifePathInsight && (
           <>
-            <NumerologyInsightCard insight={lifePathInsight} />
+            <NumerologyInsightCard 
+              insight={lifePathInsight} 
+              birthdate={birthdate}
+            />
             <div className="mt-6">
               <LifePathDetails 
                 meaning={lifePathInsight.description} 
@@ -62,14 +71,20 @@ const InsightTabs: React.FC<InsightTabsProps> = ({ insights }) => {
       
       {otherInsights.map(insight => (
         <TabsContent key={insight.type} value={insight.type}>
-          <NumerologyInsightCard insight={insight} />
+          <NumerologyInsightCard 
+            insight={insight} 
+            birthdate={birthdate}
+          />
         </TabsContent>
       ))}
       
       <TabsContent value="relationships">
         {lifePathInsight && compatibilityData && (
           <div>
-            <NumerologyInsightCard insight={lifePathInsight} />
+            <NumerologyInsightCard 
+              insight={lifePathInsight} 
+              birthdate={birthdate}
+            />
             <LifePathRelationships 
               lifePathNumber={lifePathInsight.number} 
               relationshipData={compatibilityData[lifePathInsight.number.toString()]} 
