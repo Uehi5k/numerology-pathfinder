@@ -1,0 +1,101 @@
+{
+  "1": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "El Año Personal 1 marca un nuevo ciclo de 9 años de crecimiento y nuevos comienzos. Este año es perfecto para iniciar nuevas empresas, establecer metas audaces y asumir roles de liderazgo.",
+      "bestMatchesDesc": "Los años 1, 3 y 5 amplifican tu energía pionera con inspiración creativa y momentum aventurero.",
+      "goodMatchesDesc": "Los años 7 y 9 proporcionan sabiduría espiritual y visión humanitaria para guiar tu nuevo viaje.",
+      "challengingMatchesDesc": "Los años 2, 4, 6 y 8 pueden sentirse lentos o restrictivos comparados con tu necesidad de independencia e innovación."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [7, 9],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "El Año Personal 2 se enfoca en cooperación, asociaciones y desarrollo paciente. Este año enfatiza construir relaciones y trabajar colaborativamente hacia tus metas.",
+      "bestMatchesDesc": "Los años 2, 4, 6 y 8 apoyan tu naturaleza colaborativa con estabilidad, estructura y ambiciones compartidas.",
+      "goodMatchesDesc": "Los años 7 y 9 añaden sabiduría y comprensión compasiva a tu enfoque diplomático.",
+      "challengingMatchesDesc": "Los años 1, 3 y 5 pueden crear tensión con sus energías independientes y espontáneas."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [6, 9],
+    "challengingMatches": [2, 4, 7, 8],
+    "compatibility": {
+      "overview": "El Año Personal 3 es un tiempo de expansión creativa, autoexpresión y crecimiento social. Este año favorece actividades artísticas, comunicación y construcción de tu red.",
+      "bestMatchesDesc": "Los años 1, 3 y 5 alimentan tu fuego creativo con energía de liderazgo y libertad de expresión.",
+      "goodMatchesDesc": "Los años 6 y 9 traen apoyo nutritivo y propósito humanitario a tus esfuerzos creativos.",
+      "challengingMatchesDesc": "Los años 2, 4, 7 y 8 pueden apagar tu espíritu creativo espontáneo con estructura excesiva o introspección."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1, 9],
+    "challengingMatches": [3, 5, 7],
+    "compatibility": {
+      "overview": "El Año Personal 4 enfatiza trabajo duro, organización y construcción de bases sólidas. Este año requiere paciencia, disciplina y esfuerzo sistemático hacia metas a largo plazo.",
+      "bestMatchesDesc": "Los años 2, 4, 6 y 8 apoyan tu enfoque metódico con cooperación, estabilidad y planificación ambiciosa.",
+      "goodMatchesDesc": "Los años 1 y 9 añaden dirección de liderazgo y propósito humanitario a tu trabajo diligente.",
+      "challengingMatchesDesc": "Los años 3, 5 y 7 pueden sentirse demasiado dispersos, impredecibles o teóricos para tu enfoque práctico."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "El Año Personal 5 trae libertad, aventura y cambios significativos. Este año fomenta viajar, aprender nuevas habilidades y liberarse de patrones restrictivos.",
+      "bestMatchesDesc": "Los años 1, 3 y 5 coinciden con tu espíritu aventurero con coraje de liderazgo y exploración creativa.",
+      "goodMatchesDesc": "Los años 7 y 9 añaden profundidad, sabiduría y significado a tus aventuras y exploraciones.",
+      "challengingMatchesDesc": "Los años 2, 4, 6 y 8 pueden sentirse demasiado restrictivos o enfocados en la rutina para tu necesidad de variedad y libertad."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [3, 9],
+    "challengingMatches": [1, 5, 7],
+    "compatibility": {
+      "overview": "El Año Personal 6 se centra en el hogar, familia y responsabilidades nutritivas. Este año enfatiza cuidar a otros, crear belleza y fortalecer vínculos familiares.",
+      "bestMatchesDesc": "Los años 2, 4, 6 y 8 apoyan tu enfoque nutritivo con cooperación, estabilidad y bases prácticas.",
+      "goodMatchesDesc": "Los años 3 y 9 añaden alegría, creatividad y servicio compasivo a tu naturaleza cariñosa.",
+      "challengingMatchesDesc": "Los años 1, 5 y 7 pueden sentirse demasiado independientes, inquietos o desapegados para tu energía enfocada en la familia."
+    }
+  },
+  "7": {
+    "bestMatches": [5, 7, 9],
+    "goodMatches": [2, 4],
+    "challengingMatches": [1, 3, 6, 8],
+    "compatibility": {
+      "overview": "El Año Personal 7 fomenta la introspección, estudio y desarrollo espiritual. Este año es perfecto para investigación, meditación y profundizar tu comprensión de los misterios de la vida.",
+      "bestMatchesDesc": "Los años 5, 7 y 9 complementan tu naturaleza introspectiva con exploración, sabiduría y perspicacia espiritual.",
+      "goodMatchesDesc": "Los años 2 y 4 proporcionan apoyo gentil y estructura para tus actividades contemplativas y estudiosas.",
+      "challengingMatchesDesc": "Los años 1, 3, 6 y 8 pueden sentirse demasiado demandantes, sociales o enfocados externamente para tu necesidad de solitud y reflexión."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1],
+    "challengingMatches": [3, 5, 7, 9],
+    "compatibility": {
+      "overview": "El Año Personal 8 se enfoca en logros materiales, éxito en negocios y reconocimiento. Este año trae oportunidades para crecimiento financiero y avance profesional.",
+      "bestMatchesDesc": "Los años 2, 4, 6 y 8 apoyan tus metas ambiciosas con cooperación, trabajo duro y bases prácticas.",
+      "goodMatchesDesc": "El año 1 añade iniciativa de liderazgo y energía pionera para complementar tu agudeza comercial.",
+      "challengingMatchesDesc": "Los años 3, 5, 7 y 9 pueden distraer de tu enfoque material con actividades creativas, aventureras o idealistas."
+    }
+  },
+  "9": {
+    "bestMatches": [3, 6, 9],
+    "goodMatches": [1, 2, 7],
+    "challengingMatches": [4, 5, 8],
+    "compatibility": {
+      "overview": "El Año Personal 9 completa el ciclo de 9 años con un enfoque en finalización, servicio humanitario y preparación para la renovación. Este año enfatiza dar a otros y soltar lo que ya no sirve.",
+      "bestMatchesDesc": "Los años 3, 6 y 9 amplifican tu naturaleza compasiva con creatividad, servicio nutritivo y visión humanitaria compartida.",
+      "goodMatchesDesc": "Los años 1, 2 y 7 añaden liderazgo, cooperación y sabiduría para apoyar tus esfuerzos humanitarios.",
+      "challengingMatchesDesc": "Los años 4, 5 y 8 pueden sentirse demasiado prácticos, inquietos o enfocados en lo material para tu energía generosa y orientada a la finalización."
+    }
+  }
+}

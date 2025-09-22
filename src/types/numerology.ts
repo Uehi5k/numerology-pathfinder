@@ -45,6 +45,21 @@ export interface ColorRecommendation {
 }
 
 /**
+ * Compatibility data interface
+ */
+export interface CompatibilityData {
+  bestMatches: number[];
+  goodMatches: number[];
+  challengingMatches: number[];
+  compatibility: {
+    overview: string;
+    bestMatchesDesc: string;
+    goodMatchesDesc: string;
+    challengingMatchesDesc: string;
+  };
+}
+
+/**
  * Numerology insight interface
  */
 export interface NumerologyInsight {
@@ -58,6 +73,7 @@ export interface NumerologyInsight {
   date?: Date; // For personal day/month/year calculations
   colorRecommendation?: ColorRecommendation;
   colorRecommendations?: ColorRecommendation[];
+  compatibility?: CompatibilityData;
 }
 
 /**

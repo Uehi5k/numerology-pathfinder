@@ -1,0 +1,101 @@
+{
+  "1": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Personal Year 1 marks a new 9-year cycle of growth and fresh beginnings. This year is perfect for starting new ventures, setting bold goals, and taking leadership roles.",
+      "bestMatchesDesc": "Years 1, 3, and 5 amplify your pioneering energy with creative inspiration and adventurous momentum.",
+      "goodMatchesDesc": "Years 7 and 9 provide spiritual wisdom and humanitarian vision to guide your new journey.",
+      "challengingMatchesDesc": "Years 2, 4, 6, and 8 may feel slow or restrictive compared to your need for independence and innovation."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [7, 9],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "Personal Year 2 focuses on cooperation, partnerships, and patient development. This year emphasizes building relationships and working collaboratively toward your goals.",
+      "bestMatchesDesc": "Years 2, 4, 6, and 8 support your collaborative nature with stability, structure, and shared ambitions.",
+      "goodMatchesDesc": "Years 7 and 9 add wisdom and compassionate understanding to your diplomatic approach.",
+      "challengingMatchesDesc": "Years 1, 3, and 5 may create tension with their independent and spontaneous energies."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [6, 9],
+    "challengingMatches": [2, 4, 7, 8],
+    "compatibility": {
+      "overview": "Personal Year 3 is a time of creative expansion, self-expression, and social growth. This year favors artistic pursuits, communication, and building your network.",
+      "bestMatchesDesc": "Years 1, 3, and 5 fuel your creative fire with leadership energy and freedom of expression.",
+      "goodMatchesDesc": "Years 6 and 9 bring nurturing support and humanitarian purpose to your creative endeavors.",
+      "challengingMatchesDesc": "Years 2, 4, 7, and 8 may dampen your spontaneous creative spirit with excessive structure or introspection."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1, 9],
+    "challengingMatches": [3, 5, 7],
+    "compatibility": {
+      "overview": "Personal Year 4 emphasizes hard work, organization, and building solid foundations. This year requires patience, discipline, and systematic effort toward long-term goals.",
+      "bestMatchesDesc": "Years 2, 4, 6, and 8 support your methodical approach with cooperation, stability, and ambitious planning.",
+      "goodMatchesDesc": "Years 1 and 9 add leadership direction and humanitarian purpose to your diligent work.",
+      "challengingMatchesDesc": "Years 3, 5, and 7 may feel too scattered, unpredictable, or theoretical for your practical focus."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Personal Year 5 brings freedom, adventure, and significant changes. This year encourages travel, learning new skills, and breaking free from restrictive patterns.",
+      "bestMatchesDesc": "Years 1, 3, and 5 match your adventurous spirit with leadership courage and creative exploration.",
+      "goodMatchesDesc": "Years 7 and 9 add depth, wisdom, and meaning to your adventures and explorations.",
+      "challengingMatchesDesc": "Years 2, 4, 6, and 8 may feel too restrictive or routine-focused for your need for variety and freedom."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [3, 9],
+    "challengingMatches": [1, 5, 7],
+    "compatibility": {
+      "overview": "Personal Year 6 centers on home, family, and nurturing responsibilities. This year emphasizes caring for others, creating beauty, and strengthening family bonds.",
+      "bestMatchesDesc": "Years 2, 4, 6, and 8 support your nurturing focus with cooperation, stability, and practical foundations.",
+      "goodMatchesDesc": "Years 3 and 9 add joy, creativity, and compassionate service to your caring nature.",
+      "challengingMatchesDesc": "Years 1, 5, and 7 may feel too independent, restless, or detached for your family-focused energy."
+    }
+  },
+  "7": {
+    "bestMatches": [5, 7, 9],
+    "goodMatches": [2, 4],
+    "challengingMatches": [1, 3, 6, 8],
+    "compatibility": {
+      "overview": "Personal Year 7 encourages introspection, study, and spiritual development. This year is perfect for research, meditation, and deepening your understanding of life's mysteries.",
+      "bestMatchesDesc": "Years 5, 7, and 9 complement your introspective nature with exploration, wisdom, and spiritual insight.",
+      "goodMatchesDesc": "Years 2 and 4 provide gentle support and structure for your contemplative and studious pursuits.",
+      "challengingMatchesDesc": "Years 1, 3, 6, and 8 may feel too demanding, social, or externally focused for your need for solitude and reflection."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1],
+    "challengingMatches": [3, 5, 7, 9],
+    "compatibility": {
+      "overview": "Personal Year 8 focuses on material achievement, business success, and recognition. This year brings opportunities for financial growth and career advancement.",
+      "bestMatchesDesc": "Years 2, 4, 6, and 8 support your ambitious goals with cooperation, hard work, and practical foundations.",
+      "goodMatchesDesc": "Year 1 adds leadership initiative and pioneering energy to complement your business acumen.",
+      "challengingMatchesDesc": "Years 3, 5, 7, and 9 may distract from your material focus with creative, adventurous, or idealistic pursuits."
+    }
+  },
+  "9": {
+    "bestMatches": [3, 6, 9],
+    "goodMatches": [1, 2, 7],
+    "challengingMatches": [4, 5, 8],
+    "compatibility": {
+      "overview": "Personal Year 9 completes the 9-year cycle with a focus on completion, humanitarian service, and preparing for renewal. This year emphasizes giving back and letting go of what no longer serves.",
+      "bestMatchesDesc": "Years 3, 6, and 9 amplify your compassionate nature with creativity, nurturing service, and shared humanitarian vision.",
+      "goodMatchesDesc": "Years 1, 2, and 7 add leadership, cooperation, and wisdom to support your humanitarian efforts.",
+      "challengingMatchesDesc": "Years 4, 5, and 8 may feel too practical, restless, or material-focused for your generous, completion-oriented energy."
+    }
+  }
+}

@@ -4,6 +4,7 @@ import { NumerologyInsight } from "@/types/numerology";
 import { Card } from "@/components/ui/card";
 import ThemeIconsSection from "./forecast/ThemeIconsSection";
 import ColorRecommendationsSection from "./ColorRecommendationsSection";
+import CompatibilitySection from "./CompatibilitySection";
 import InsightHeader from "./insight/InsightHeader";
 import InsightDescription from "./insight/InsightDescription";
 import InsightFormula from "./insight/InsightFormula";
@@ -72,6 +73,14 @@ const NumerologyInsightCard: React.FC<NumerologyInsightCardProps> = ({
         ) : insight.colorRecommendation ? (
           <ColorRecommendationsSection colorRecommendations={[insight.colorRecommendation]} />
         ) : null}
+
+        {/* Compatibility Section */}
+        {insight.compatibility && (
+          <CompatibilitySection 
+            compatibility={insight.compatibility} 
+            className="mt-6"
+          />
+        )}
       </div>
     </Card>
   );

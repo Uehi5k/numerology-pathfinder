@@ -1,0 +1,101 @@
+{
+  "1": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Personal Month 1 is your time for new beginnings and fresh starts. This month favors launching new projects and taking bold initiatives.",
+      "bestMatchesDesc": "Months 1, 3, and 5 amplify your pioneering spirit with creative energy and adventurous momentum.",
+      "goodMatchesDesc": "Months 7 and 9 provide spiritual insight and humanitarian vision to guide your new ventures.",
+      "challengingMatchesDesc": "Months 2, 4, 6, and 8 may feel restrictive to your need for independence and innovation."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [7, 9],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "Personal Month 2 emphasizes cooperation, partnerships, and patience. This is an excellent time for building relationships and working in teams.",
+      "bestMatchesDesc": "Months 2, 4, 6, and 8 support your collaborative nature with stability and structured progress.",
+      "goodMatchesDesc": "Months 7 and 9 add wisdom and compassionate understanding to your diplomatic efforts.",
+      "challengingMatchesDesc": "Months 1, 3, and 5 may create tension with their independent and spontaneous energies."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [6, 9],
+    "challengingMatches": [2, 4, 7, 8],
+    "compatibility": {
+      "overview": "Personal Month 3 sparks creativity, self-expression, and social connections. Perfect for artistic projects and expanding your social circle.",
+      "bestMatchesDesc": "Months 1, 3, and 5 fuel your creative fire with leadership energy and freedom of expression.",
+      "goodMatchesDesc": "Months 6 and 9 bring nurturing support and humanitarian purpose to your creative endeavors.",
+      "challengingMatchesDesc": "Months 2, 4, 7, and 8 may dampen your spontaneous creative spirit with excessive structure."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1, 9],
+    "challengingMatches": [3, 5, 7],
+    "compatibility": {
+      "overview": "Personal Month 4 focuses on hard work, organization, and building lasting foundations. Great for systematic progress and practical achievements.",
+      "bestMatchesDesc": "Months 2, 4, 6, and 8 support your methodical approach with cooperation and ambitious goal-setting.",
+      "goodMatchesDesc": "Months 1 and 9 add leadership direction and humanitarian purpose to your diligent work.",
+      "challengingMatchesDesc": "Months 3, 5, and 7 may feel too scattered or theoretical for your practical, focused energy."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Personal Month 5 brings freedom, adventure, and exciting changes. Excellent for travel, learning, and breaking free from routine.",
+      "bestMatchesDesc": "Months 1, 3, and 5 match your adventurous spirit with leadership courage and creative exploration.",
+      "goodMatchesDesc": "Months 7 and 9 add depth and meaning to your adventures and explorations.",
+      "challengingMatchesDesc": "Months 2, 4, 6, and 8 may feel too restrictive or routine-focused for your need for variety."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [3, 9],
+    "challengingMatches": [1, 5, 7],
+    "compatibility": {
+      "overview": "Personal Month 6 centers on home, family, and nurturing responsibilities. Perfect for strengthening family bonds and creating harmony.",
+      "bestMatchesDesc": "Months 2, 4, 6, and 8 support your nurturing focus with cooperation and stable foundations.",
+      "goodMatchesDesc": "Months 3 and 9 add joy and compassionate service to your caring nature.",
+      "challengingMatchesDesc": "Months 1, 5, and 7 may feel too independent or detached for your family-focused energy."
+    }
+  },
+  "7": {
+    "bestMatches": [5, 7, 9],
+    "goodMatches": [2, 4],
+    "challengingMatches": [1, 3, 6, 8],
+    "compatibility": {
+      "overview": "Personal Month 7 encourages introspection, study, and spiritual growth. Ideal for research, meditation, and inner development.",
+      "bestMatchesDesc": "Months 5, 7, and 9 complement your introspective nature with exploration and spiritual wisdom.",
+      "goodMatchesDesc": "Months 2 and 4 provide gentle support and structure for your contemplative pursuits.",
+      "challengingMatchesDesc": "Months 1, 3, 6, and 8 may feel too demanding or externally focused for your need for solitude."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1],
+    "challengingMatches": [3, 5, 7, 9],
+    "compatibility": {
+      "overview": "Personal Month 8 focuses on material success, business achievements, and financial progress. Great for career advancement and material gains.",
+      "bestMatchesDesc": "Months 2, 4, 6, and 8 support your ambitious goals with cooperation and practical action.",
+      "goodMatchesDesc": "Month 1 adds leadership initiative and pioneering energy to your business focus.",
+      "challengingMatchesDesc": "Months 3, 5, 7, and 9 may distract from your material focus with creative or idealistic pursuits."
+    }
+  },
+  "9": {
+    "bestMatches": [3, 6, 9],
+    "goodMatches": [1, 2, 7],
+    "challengingMatches": [4, 5, 8],
+    "compatibility": {
+      "overview": "Personal Month 9 emphasizes completion, humanitarian service, and letting go. Perfect for finishing projects and giving back to others.",
+      "bestMatchesDesc": "Months 3, 6, and 9 amplify your compassionate nature with creativity and nurturing service.",
+      "goodMatchesDesc": "Months 1, 2, and 7 add leadership, cooperation, and wisdom to your humanitarian efforts.",
+      "challengingMatchesDesc": "Months 4, 5, and 8 may feel too practical or self-focused for your generous, giving spirit."
+    }
+  }
+}

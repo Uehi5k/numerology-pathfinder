@@ -1,0 +1,101 @@
+{
+  "1": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "On Personal Day 1, you're energized for new beginnings and leadership. This is an excellent day for starting projects and taking initiative.",
+      "bestMatchesDesc": "Days 1, 3, and 5 amplify your leadership energy with creativity and freedom.",
+      "goodMatchesDesc": "Days 7 and 9 provide thoughtful planning and humanitarian perspective to your initiatives.",
+      "challengingMatchesDesc": "Days 2, 4, 6, and 8 may feel too slow or restrictive for your pioneering energy."
+    }
+  },
+  "2": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [7, 9],
+    "challengingMatches": [1, 3, 5],
+    "compatibility": {
+      "overview": "Personal Day 2 brings cooperation, sensitivity, and partnership focus. It's ideal for collaboration and building relationships.",
+      "bestMatchesDesc": "Days 2, 4, 6, and 8 support your cooperative nature with stability and structure.",
+      "goodMatchesDesc": "Days 7 and 9 add wisdom and compassion to your diplomatic approach.",
+      "challengingMatchesDesc": "Days 1, 3, and 5 may feel too aggressive or scattered for your gentle, collaborative energy."
+    }
+  },
+  "3": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [6, 9],
+    "challengingMatches": [2, 4, 7, 8],
+    "compatibility": {
+      "overview": "Personal Day 3 sparks creativity, communication, and social energy. Perfect for artistic pursuits and social connections.",
+      "bestMatchesDesc": "Days 1, 3, and 5 fuel your creative fire with leadership and adventure.",
+      "goodMatchesDesc": "Days 6 and 9 bring nurturing support and humanitarian vision to your creative expression.",
+      "challengingMatchesDesc": "Days 2, 4, 7, and 8 may dampen your spontaneous creative spirit with too much structure."
+    }
+  },
+  "4": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1, 9],
+    "challengingMatches": [3, 5, 7],
+    "compatibility": {
+      "overview": "Personal Day 4 emphasizes work, organization, and building solid foundations. Great for practical tasks and systematic progress.",
+      "bestMatchesDesc": "Days 2, 4, 6, and 8 support your methodical approach with cooperation and ambition.",
+      "goodMatchesDesc": "Days 1 and 9 add leadership direction and humanitarian purpose to your work.",
+      "challengingMatchesDesc": "Days 3, 5, and 7 may feel too unpredictable or theoretical for your practical focus."
+    }
+  },
+  "5": {
+    "bestMatches": [1, 3, 5],
+    "goodMatches": [7, 9],
+    "challengingMatches": [2, 4, 6, 8],
+    "compatibility": {
+      "overview": "Personal Day 5 brings freedom, adventure, and change. Excellent for travel, learning new things, and breaking routines.",
+      "bestMatchesDesc": "Days 1, 3, and 5 match your adventurous spirit with leadership and creativity.",
+      "goodMatchesDesc": "Days 7 and 9 add depth and meaning to your explorations.",
+      "challengingMatchesDesc": "Days 2, 4, 6, and 8 may feel too restrictive or routine-focused for your need for freedom."
+    }
+  },
+  "6": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [3, 9],
+    "challengingMatches": [1, 5, 7],
+    "compatibility": {
+      "overview": "Personal Day 6 focuses on home, family, and nurturing responsibilities. Perfect for caring for others and creating harmony.",
+      "bestMatchesDesc": "Days 2, 4, 6, and 8 support your nurturing nature with cooperation and stability.",
+      "goodMatchesDesc": "Days 3 and 9 add joy and compassionate service to your caring approach.",
+      "challengingMatchesDesc": "Days 1, 5, and 7 may feel too independent or detached for your family-focused energy."
+    }
+  },
+  "7": {
+    "bestMatches": [5, 7, 9],
+    "goodMatches": [2, 4],
+    "challengingMatches": [1, 3, 6, 8],
+    "compatibility": {
+      "overview": "Personal Day 7 encourages introspection, study, and spiritual pursuits. Ideal for research, meditation, and deep thinking.",
+      "bestMatchesDesc": "Days 5, 7, and 9 complement your introspective nature with exploration and wisdom.",
+      "goodMatchesDesc": "Days 2 and 4 provide gentle support and structure for your contemplative mood.",
+      "challengingMatchesDesc": "Days 1, 3, 6, and 8 may feel too demanding or social for your need for solitude."
+    }
+  },
+  "8": {
+    "bestMatches": [2, 4, 6, 8],
+    "goodMatches": [1],
+    "challengingMatches": [3, 5, 7, 9],
+    "compatibility": {
+      "overview": "Personal Day 8 focuses on material success, business, and achievement. Great for important meetings and financial decisions.",
+      "bestMatchesDesc": "Days 2, 4, 6, and 8 support your ambitious goals with cooperation and practical action.",
+      "goodMatchesDesc": "Day 1 adds leadership initiative to your business-focused energy.",
+      "challengingMatchesDesc": "Days 3, 5, 7, and 9 may distract from your material focus with creativity or idealism."
+    }
+  },
+  "9": {
+    "bestMatches": [3, 6, 9],
+    "goodMatches": [1, 2, 7],
+    "challengingMatches": [4, 5, 8],
+    "compatibility": {
+      "overview": "Personal Day 9 emphasizes completion, humanitarian service, and giving back. Perfect for charity work and helping others.",
+      "bestMatchesDesc": "Days 3, 6, and 9 amplify your compassionate nature with creativity and nurturing service.",
+      "goodMatchesDesc": "Days 1, 2, and 7 add leadership, cooperation, and wisdom to your humanitarian efforts.",
+      "challengingMatchesDesc": "Days 4, 5, and 8 may feel too practical or self-focused for your generous spirit."
+    }
+  }
+}
