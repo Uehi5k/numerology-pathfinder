@@ -5,6 +5,7 @@ import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/com
 import { NumerologyInsight } from '@/types/numerology';
 import ThemeIconsSection from './ThemeIconsSection';
 import ColorRecommendationSection from './ColorRecommendation';
+import CompatibilitySection from '../CompatibilitySection';
 
 interface ForecastTabContentProps {
   insight: NumerologyInsight;
@@ -33,6 +34,11 @@ const ForecastTabContent: React.FC<ForecastTabContentProps> = ({ insight, curren
         {/* Color Recommendation */}
         {insight.colorRecommendation && (
           <ColorRecommendationSection colorRecommendation={insight.colorRecommendation} />
+        )}
+        
+        {/* Compatibility Section */}
+        {insight.compatibility && (
+          <CompatibilitySection compatibility={insight.compatibility} className="mt-4" />
         )}
         
         <div className="text-sm text-foreground/60 mt-4">
