@@ -97,5 +97,38 @@
       "goodMatchesDesc": "Los meses 1, 2 y 7 añaden liderazgo, cooperación y sabiduría a tus esfuerzos humanitarios.",
       "challengingMatchesDesc": "Los meses 4, 5 y 8 pueden sentirse demasiado prácticos o centrados en sí mismos para tu espíritu generoso y dadivoso."
     }
+  },
+  "11": {
+    "bestMatches": [2, 7, 9, 11],
+    "goodMatches": [3, 6, 22],
+    "challengingMatches": [1, 4, 5, 8],
+    "compatibility": {
+      "overview": "El Mes Personal 11 es un mes de número maestro de intuición elevada, despertar espiritual y liderazgo inspirador. Este mes amplifica tu sensibilidad psíquica y habilidades visionarias.",
+      "bestMatchesDesc": "Los meses 2, 7, 9 y 11 resuenan con tu naturaleza intuitiva y espiritual, mejorando la sabiduría y comprensión profunda.",
+      "goodMatchesDesc": "Los meses 3, 6 y 22 añaden expresión creativa, apoyo nutritivo y visión de maestro constructor a tus percepciones espirituales.",
+      "challengingMatchesDesc": "Los meses 1, 4, 5 y 8 pueden sentirse demasiado orientados a la acción o enfocados en lo material para tu energía espiritual contemplativa."
+    }
+  },
+  "22": {
+    "bestMatches": [4, 6, 8, 22],
+    "goodMatches": [2, 9, 11],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "El Mes Personal 22 es un mes de maestro constructor para manifestar sueños ambiciosos en realidad tangible. Este mes combina visión espiritual con maestría práctica para logros a gran escala.",
+      "bestMatchesDesc": "Los meses 4, 6, 8 y 22 apoyan tu energía de maestro constructor con estructura, nutrición y logro de metas ambiciosas.",
+      "goodMatchesDesc": "Los meses 2, 9 y 11 añaden cooperación, propósito humanitario y percepción espiritual a tus esfuerzos de construcción.",
+      "challengingMatchesDesc": "Los meses 1, 3, 5 y 7 pueden sentirse demasiado independientes, dispersos o introspectivos para tu visión enfocada a gran escala."
+    }
+  },
+  "33": {
+    "bestMatches": [3, 6, 9, 33],
+    "goodMatches": [2, 11, 22],
+    "challengingMatches": [1, 4, 5, 7, 8],
+    "compatibility": {
+      "overview": "El Mes Personal 33 es un mes de maestro maestro de servicio compasivo, sanación espiritual y elevación de la humanidad. Este mes amplifica tu capacidad de guiar e inspirar a otros en su camino.",
+      "bestMatchesDesc": "Los meses 3, 6, 9 y 33 resuenan con tu energía nutritiva, creativa y humanitaria de maestro maestro.",
+      "goodMatchesDesc": "Los meses 2, 11 y 22 añaden cooperación, percepción espiritual y poder de manifestación a tu trabajo de sanación y enseñanza.",
+      "challengingMatchesDesc": "Los meses 1, 4, 5, 7 y 8 pueden sentirse demasiado centrados en sí mismos o materiales para tu energía de servicio desinteresado."
+    }
   }
 }
