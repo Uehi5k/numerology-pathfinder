@@ -97,5 +97,38 @@
       "goodMatchesDesc": "Years 1, 2, and 7 add leadership, cooperation, and wisdom to support your humanitarian efforts.",
       "challengingMatchesDesc": "Years 4, 5, and 8 may feel too practical, restless, or material-focused for your generous, completion-oriented energy."
     }
+  },
+  "11": {
+    "bestMatches": [2, 7, 9, 11],
+    "goodMatches": [3, 6, 22],
+    "challengingMatches": [1, 4, 5, 8],
+    "compatibility": {
+      "overview": "Personal Year 11 is a master number year of spiritual awakening, heightened intuition, and inspirational leadership. This year amplifies your psychic abilities and connection to universal wisdom.",
+      "bestMatchesDesc": "Years 2, 7, 9, and 11 resonate deeply with your intuitive and spiritual nature, enhancing wisdom and profound understanding.",
+      "goodMatchesDesc": "Years 3, 6, and 22 add creative expression, nurturing support, and master builder vision to your spiritual journey.",
+      "challengingMatchesDesc": "Years 1, 4, 5, and 8 may feel too action-oriented or material-focused for your contemplative spiritual growth."
+    }
+  },
+  "22": {
+    "bestMatches": [4, 6, 8, 22],
+    "goodMatches": [2, 9, 11],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "Personal Year 22 is a master builder year for manifesting grand visions into lasting reality. This powerful year combines spiritual insight with practical mastery for world-changing achievements.",
+      "bestMatchesDesc": "Years 4, 6, 8, and 22 support your master builder energy with structure, nurturing foundations, and ambitious achievement.",
+      "goodMatchesDesc": "Years 2, 9, and 11 add cooperation, humanitarian purpose, and spiritual insight to your building legacy.",
+      "challengingMatchesDesc": "Years 1, 3, 5, and 7 may feel too independent, scattered, or introspective for your focused, large-scale manifestation work."
+    }
+  },
+  "33": {
+    "bestMatches": [3, 6, 9, 33],
+    "goodMatches": [2, 11, 22],
+    "challengingMatches": [1, 4, 5, 7, 8],
+    "compatibility": {
+      "overview": "Personal Year 33 is a master teacher year of compassionate service, spiritual mastery, and uplifting humanity. This profound year amplifies your ability to heal, guide, and inspire on a global scale.",
+      "bestMatchesDesc": "Years 3, 6, 9, and 33 resonate with your nurturing, creative, and humanitarian master teacher energy.",
+      "goodMatchesDesc": "Years 2, 11, and 22 add cooperation, spiritual insight, and manifestation power to your healing and teaching mission.",
+      "challengingMatchesDesc": "Years 1, 4, 5, 7, and 8 may feel too self-focused or material-oriented for your selfless, world-serving energy."
+    }
   }
 }

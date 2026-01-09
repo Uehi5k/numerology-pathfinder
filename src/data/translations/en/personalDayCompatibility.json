@@ -97,5 +97,38 @@
       "goodMatchesDesc": "Days 1, 2, and 7 add leadership, cooperation, and wisdom to your humanitarian efforts.",
       "challengingMatchesDesc": "Days 4, 5, and 8 may feel too practical or self-focused for your generous spirit."
     }
+  },
+  "11": {
+    "bestMatches": [2, 7, 9, 11],
+    "goodMatches": [3, 6, 22],
+    "challengingMatches": [1, 4, 5, 8],
+    "compatibility": {
+      "overview": "Personal Day 11 is a master number day of spiritual insight, intuition, and inspiration. This day amplifies your psychic awareness and connection to higher guidance.",
+      "bestMatchesDesc": "Days 2, 7, 9, and 11 resonate with your intuitive and spiritual nature, enhancing wisdom and compassion.",
+      "goodMatchesDesc": "Days 3, 6, and 22 add creative expression, nurturing energy, and master builder vision to your insights.",
+      "challengingMatchesDesc": "Days 1, 4, 5, and 8 may feel too practical or action-oriented for your contemplative spiritual energy."
+    }
+  },
+  "22": {
+    "bestMatches": [4, 6, 8, 22],
+    "goodMatches": [2, 9, 11],
+    "challengingMatches": [1, 3, 5, 7],
+    "compatibility": {
+      "overview": "Personal Day 22 is a master builder day for manifesting large-scale dreams into reality. This day combines spiritual vision with practical mastery.",
+      "bestMatchesDesc": "Days 4, 6, 8, and 22 support your master builder energy with structure, nurturing, and ambitious achievement.",
+      "goodMatchesDesc": "Days 2, 9, and 11 add cooperation, humanitarian purpose, and spiritual insight to your building efforts.",
+      "challengingMatchesDesc": "Days 1, 3, 5, and 7 may feel too independent or scattered for your focused, large-scale vision."
+    }
+  },
+  "33": {
+    "bestMatches": [3, 6, 9, 33],
+    "goodMatches": [2, 11, 22],
+    "challengingMatches": [1, 4, 5, 7, 8],
+    "compatibility": {
+      "overview": "Personal Day 33 is a master teacher day of compassionate service and spiritual healing. This day amplifies your ability to uplift and inspire others.",
+      "bestMatchesDesc": "Days 3, 6, 9, and 33 resonate with your nurturing, creative, and humanitarian master teacher energy.",
+      "goodMatchesDesc": "Days 2, 11, and 22 add cooperation, spiritual insight, and manifestation power to your healing work.",
+      "challengingMatchesDesc": "Days 1, 4, 5, 7, and 8 may feel too self-focused or material-oriented for your selfless service energy."
+    }
   }
 }
