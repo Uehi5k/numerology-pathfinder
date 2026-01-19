@@ -1,0 +1,94 @@
+{
+  "milestones": {
+    "1": {
+      "title": "Foundation Years",
+      "guidance": "This period establishes your core identity and fundamental life patterns. Focus on building self-confidence and discovering your unique gifts."
+    },
+    "2": {
+      "title": "Development Phase",
+      "guidance": "A time of growth and learning through relationships. Develop cooperation skills while maintaining your individuality."
+    },
+    "3": {
+      "title": "Expression Period",
+      "guidance": "Your creative and expressive abilities reach their peak. Share your talents with the world and embrace opportunities for self-expression."
+    },
+    "4": {
+      "title": "Mastery Phase",
+      "guidance": "A period of consolidation and building lasting structures. Apply wisdom gained from previous milestones to create stability."
+    },
+    "5": {
+      "title": "Wisdom Years",
+      "guidance": "The culmination of life's lessons. Share your accumulated wisdom with others and embrace the freedom that comes with understanding."
+    }
+  },
+  "pinnacles": {
+    "1": {
+      "description": "A time of independence, leadership, and new beginnings. You are called to develop self-reliance and pioneer new paths."
+    },
+    "2": {
+      "description": "This pinnacle emphasizes cooperation, diplomacy, and partnerships. Learning patience and sensitivity to others is key."
+    },
+    "3": {
+      "description": "Creative expression, communication, and joy are highlighted. Embrace your artistic talents and social opportunities."
+    },
+    "4": {
+      "description": "Building foundations, hard work, and practical achievement define this period. Focus on creating lasting structures."
+    },
+    "5": {
+      "description": "Change, freedom, and adventure characterize this pinnacle. Embrace flexibility and diverse experiences."
+    },
+    "6": {
+      "description": "Family, responsibility, and nurturing others take center stage. Focus on home, community, and service."
+    },
+    "7": {
+      "description": "Spiritual development, introspection, and wisdom-seeking define this period. Time for study and inner growth."
+    },
+    "8": {
+      "description": "Material achievement, power, and recognition are emphasized. Focus on career success and financial mastery."
+    },
+    "9": {
+      "description": "Humanitarian service, completion, and universal love characterize this pinnacle. Time for giving back."
+    },
+    "11": {
+      "description": "Spiritual inspiration and intuitive mastery are heightened. You may become a source of illumination for others."
+    },
+    "22": {
+      "description": "Master builder energy for creating lasting legacies. Large-scale projects and visionary leadership are favored."
+    },
+    "33": {
+      "description": "Master teacher energy focused on uplifting humanity. Your compassion and wisdom can heal and inspire many."
+    }
+  },
+  "challenges": {
+    "0": {
+      "description": "The challenge of all or nothing. You may face lessons related to any number, requiring versatility and adaptability."
+    },
+    "1": {
+      "description": "Learning to stand on your own while avoiding excessive ego or dependency. Balance independence with cooperation."
+    },
+    "2": {
+      "description": "Overcoming hypersensitivity and developing self-confidence. Learning to assert yourself while maintaining harmony."
+    },
+    "3": {
+      "description": "Avoiding scattered energy and superficiality. Focus your creative talents and communicate authentically."
+    },
+    "4": {
+      "description": "Overcoming rigidity and learning to work within limitations. Find freedom through discipline and organization."
+    },
+    "5": {
+      "description": "Managing restlessness and avoiding excess. Learn to use freedom responsibly and embrace constructive change."
+    },
+    "6": {
+      "description": "Avoiding perfectionism and controlling tendencies. Learn to serve without sacrificing yourself."
+    },
+    "7": {
+      "description": "Overcoming isolation and cynicism. Balance intellectual pursuits with emotional connection."
+    },
+    "8": {
+      "description": "Learning to handle power and money wisely. Avoid materialism while building legitimate success."
+    },
+    "9": {
+      "description": "Releasing attachments and embracing universal love. Learn to give without expecting return."
+    }
+  }
+}

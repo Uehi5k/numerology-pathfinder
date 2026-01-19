@@ -1,0 +1,94 @@
+{
+  "milestones": {
+    "1": {
+      "title": "Años Fundamentales",
+      "guidance": "Este período establece tu identidad central y patrones de vida fundamentales. Enfócate en construir autoconfianza y descubrir tus dones únicos."
+    },
+    "2": {
+      "title": "Fase de Desarrollo",
+      "guidance": "Un tiempo de crecimiento y aprendizaje a través de las relaciones. Desarrolla habilidades de cooperación mientras mantienes tu individualidad."
+    },
+    "3": {
+      "title": "Período de Expresión",
+      "guidance": "Tus habilidades creativas y expresivas alcanzan su punto máximo. Comparte tus talentos con el mundo y abraza las oportunidades de autoexpresión."
+    },
+    "4": {
+      "title": "Fase de Maestría",
+      "guidance": "Un período de consolidación y construcción de estructuras duraderas. Aplica la sabiduría ganada de los hitos anteriores para crear estabilidad."
+    },
+    "5": {
+      "title": "Años de Sabiduría",
+      "guidance": "La culminación de las lecciones de la vida. Comparte tu sabiduría acumulada con otros y abraza la libertad que viene con la comprensión."
+    }
+  },
+  "pinnacles": {
+    "1": {
+      "description": "Un tiempo de independencia, liderazgo y nuevos comienzos. Estás llamado a desarrollar autosuficiencia y abrir nuevos caminos."
+    },
+    "2": {
+      "description": "Este pináculo enfatiza la cooperación, diplomacia y asociaciones. Aprender paciencia y sensibilidad hacia otros es clave."
+    },
+    "3": {
+      "description": "La expresión creativa, comunicación y alegría están destacadas. Abraza tus talentos artísticos y oportunidades sociales."
+    },
+    "4": {
+      "description": "Construir fundamentos, trabajo duro y logros prácticos definen este período. Enfócate en crear estructuras duraderas."
+    },
+    "5": {
+      "description": "El cambio, libertad y aventura caracterizan este pináculo. Abraza la flexibilidad y experiencias diversas."
+    },
+    "6": {
+      "description": "La familia, responsabilidad y cuidar de otros toman el centro del escenario. Enfócate en el hogar, comunidad y servicio."
+    },
+    "7": {
+      "description": "El desarrollo espiritual, introspección y búsqueda de sabiduría definen este período. Tiempo para estudio y crecimiento interior."
+    },
+    "8": {
+      "description": "El logro material, poder y reconocimiento están enfatizados. Enfócate en el éxito profesional y dominio financiero."
+    },
+    "9": {
+      "description": "El servicio humanitario, completitud y amor universal caracterizan este pináculo. Tiempo de retribuir."
+    },
+    "11": {
+      "description": "La inspiración espiritual y maestría intuitiva están elevadas. Puedes convertirte en una fuente de iluminación para otros."
+    },
+    "22": {
+      "description": "Energía de maestro constructor para crear legados duraderos. Proyectos a gran escala y liderazgo visionario son favorecidos."
+    },
+    "33": {
+      "description": "Energía de maestro maestro enfocada en elevar a la humanidad. Tu compasión y sabiduría pueden sanar e inspirar a muchos."
+    }
+  },
+  "challenges": {
+    "0": {
+      "description": "El desafío del todo o nada. Puedes enfrentar lecciones relacionadas con cualquier número, requiriendo versatilidad y adaptabilidad."
+    },
+    "1": {
+      "description": "Aprender a valerte por ti mismo evitando el ego excesivo o la dependencia. Equilibra la independencia con la cooperación."
+    },
+    "2": {
+      "description": "Superar la hipersensibilidad y desarrollar autoconfianza. Aprender a afirmarte manteniendo la armonía."
+    },
+    "3": {
+      "description": "Evitar la energía dispersa y la superficialidad. Enfoca tus talentos creativos y comunícate auténticamente."
+    },
+    "4": {
+      "description": "Superar la rigidez y aprender a trabajar dentro de las limitaciones. Encuentra libertad a través de la disciplina y organización."
+    },
+    "5": {
+      "description": "Manejar la inquietud y evitar los excesos. Aprende a usar la libertad responsablemente y abraza el cambio constructivo."
+    },
+    "6": {
+      "description": "Evitar el perfeccionismo y tendencias controladoras. Aprende a servir sin sacrificarte a ti mismo."
+    },
+    "7": {
+      "description": "Superar el aislamiento y el cinismo. Equilibra las búsquedas intelectuales con la conexión emocional."
+    },
+    "8": {
+      "description": "Aprender a manejar el poder y el dinero sabiamente. Evita el materialismo mientras construyes éxito legítimo."
+    },
+    "9": {
+      "description": "Liberar apegos y abrazar el amor universal. Aprende a dar sin esperar retorno."
+    }
+  }
+}
