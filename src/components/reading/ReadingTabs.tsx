@@ -41,8 +41,8 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
   );
   
   const labels = {
-    en: { milestones: "Milestones" },
-    es: { milestones: "Hitos" }
+    en: { milestones: "Milestones", comparison: "Comparison" },
+    es: { milestones: "Hitos", comparison: "Comparación" }
   };
   const t = labels[language as keyof typeof labels] || labels.en;
 
