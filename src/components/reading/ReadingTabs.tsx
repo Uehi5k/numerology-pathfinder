@@ -5,6 +5,7 @@ import InsightTabs from "./InsightTabs";
 import NumerologyInsightCard from "./NumerologyInsightCard";
 import ForecastCycles from "./forecast/ForecastCycles";
 import MilestoneSection from "./milestone/MilestoneSection";
+import ComparisonSection from "./comparison/ComparisonSection";
 import { useMilestones } from "@/hooks/useMilestones";
 import { useLanguage } from "@/contexts/LanguageContext";
 
@@ -40,14 +41,14 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
   );
   
   const labels = {
-    en: { milestones: "Milestones" },
-    es: { milestones: "Hitos" }
+    en: { milestones: "Milestones", comparison: "Comparison" },
+    es: { milestones: "Hitos", comparison: "Comparación" }
   };
   const t = labels[language as keyof typeof labels] || labels.en;
 
   return (
     <Tabs defaultValue="lifePath" className="w-full">
-      <TabsList className="w-full grid grid-cols-7">
+      <TabsList className="w-full grid grid-cols-8">
         <TabsTrigger value="lifePath">Life Path</TabsTrigger>
         <TabsTrigger value="expression">Expression</TabsTrigger>
         <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
@@ -55,6 +56,7 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
         {maturityInsight && <TabsTrigger value="maturity">Maturity</TabsTrigger>}
         <TabsTrigger value="milestones">{t.milestones}</TabsTrigger>
         <TabsTrigger value="forecast">Forecast</TabsTrigger>
+        <TabsTrigger value="comparison">{t.comparison}</TabsTrigger>
       </TabsList>
       <TabsContent value="lifePath">
         {lifePathInsights.length > 0 ? (
@@ -114,6 +116,16 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
         ) : (
           <div className="p-6 glass dark:glass-dark rounded-xl">
             <p>Forecast information not available without a birthdate.</p>
+          </div>
+        )}
+      </TabsContent>
+
+      <TabsContent value="comparison">
+        {name && birthdate ? (
+          <ComparisonSection name={name} birthdate={birthdate} />
+        ) : (
+          <div className="p-6 glass dark:glass-dark rounded-xl">
+            <p>{language === 'es' ? 'Se necesita nombre y fecha de nacimiento para el análisis comparativo.' : 'Name and birthdate are needed for comparative analysis.'}</p>
           </div>
         )}
       </TabsContent>
