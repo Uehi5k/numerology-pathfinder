@@ -5,6 +5,7 @@ import InsightTabs from "./InsightTabs";
 import NumerologyInsightCard from "./NumerologyInsightCard";
 import ForecastCycles from "./forecast/ForecastCycles";
 import MilestoneSection from "./milestone/MilestoneSection";
+import ComparisonSection from "./comparison/ComparisonSection";
 import { useMilestones } from "@/hooks/useMilestones";
 import { useLanguage } from "@/contexts/LanguageContext";
 
