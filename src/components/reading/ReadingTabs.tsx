@@ -119,6 +119,16 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
           </div>
         )}
       </TabsContent>
+
+      <TabsContent value="comparison">
+        {name && birthdate ? (
+          <ComparisonSection name={name} birthdate={birthdate} />
+        ) : (
+          <div className="p-6 glass dark:glass-dark rounded-xl">
+            <p>{language === 'es' ? 'Se necesita nombre y fecha de nacimiento para el análisis comparativo.' : 'Name and birthdate are needed for comparative analysis.'}</p>
+          </div>
+        )}
+      </TabsContent>
     </Tabs>
   );
 };
