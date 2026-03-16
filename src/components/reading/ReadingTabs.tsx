@@ -48,7 +48,7 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
 
   return (
     <Tabs defaultValue="lifePath" className="w-full">
-      <TabsList className="w-full grid grid-cols-7">
+      <TabsList className="w-full grid grid-cols-8">
         <TabsTrigger value="lifePath">Life Path</TabsTrigger>
         <TabsTrigger value="expression">Expression</TabsTrigger>
         <TabsTrigger value="soulUrge">Soul Urge</TabsTrigger>
@@ -56,6 +56,7 @@ const ReadingTabs: React.FC<ReadingTabsProps> = ({
         {maturityInsight && <TabsTrigger value="maturity">Maturity</TabsTrigger>}
         <TabsTrigger value="milestones">{t.milestones}</TabsTrigger>
         <TabsTrigger value="forecast">Forecast</TabsTrigger>
+        <TabsTrigger value="comparison">{t.comparison}</TabsTrigger>
       </TabsList>
       <TabsContent value="lifePath">
         {lifePathInsights.length > 0 ? (
