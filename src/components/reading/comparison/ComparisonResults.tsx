@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Button } from '@/components/ui/button';
-import { Heart, Users, MessageCircle, Target, TrendingUp, Lightbulb, CheckCircle, AlertTriangle, RotateCcw } from 'lucide-react';
+import { Heart, Users, MessageCircle, Target, TrendingUp, Lightbulb, CheckCircle, AlertTriangle, RotateCcw, Compass } from 'lucide-react';
 import { ComparisonResult } from '@/utils/numerology/comparativeAnalysis';
 import { useLanguage } from '@/contexts/LanguageContext';
 
@@ -31,6 +31,8 @@ const labels: Record<string, any> = {
     advice: "Relationship Advice",
     reset: "New Comparison",
     noData: "No compatibility data available for this combination.",
+    lifePathDescription: "Life Path Description",
+    relationshipLifePath: "Relationship's Life Path",
   },
   es: {
     results: "Resultados de Compatibilidad",
@@ -50,6 +52,8 @@ const labels: Record<string, any> = {
     advice: "Consejos para la Relación",
     reset: "Nueva Comparación",
     noData: "No hay datos de compatibilidad disponibles para esta combinación.",
+    lifePathDescription: "Descripción del Camino de Vida",
+    relationshipLifePath: "Camino de Vida de la Relación",
   },
 };
 
@@ -79,12 +83,22 @@ const ProfileCard: React.FC<{ label: string; profile: ComparisonResult['profile1
     <CardContent className="pt-4 pb-4">
       <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">{label}</p>
       <p className="font-bold text-lg mb-2">{profile.name}</p>
-      <div className="flex flex-wrap gap-2">
+      <div className="flex flex-wrap gap-2 mb-3">
         <Badge variant="secondary">{t.lifePath}: {profile.lifePath}</Badge>
         {profile.expression && <Badge variant="outline">{t.expression}: {profile.expression}</Badge>}
         {profile.soulUrge && <Badge variant="outline">{t.soulUrge}: {profile.soulUrge}</Badge>}
         {profile.personality && <Badge variant="outline">{t.personality}: {profile.personality}</Badge>}
       </div>
+      {profile.lifePathInfo && (
+        <div className="mt-3 pt-3 border-t border-border/50">
+          <p className="text-sm font-semibold text-primary mb-1">
+            {t.lifePath} {profile.lifePath}: {profile.lifePathInfo.title}
+          </p>
+          <p className="text-xs text-muted-foreground leading-relaxed">
+            {profile.lifePathInfo.meaning}
+          </p>
+        </div>
+      )}
     </CardContent>
   </Card>
 );
@@ -122,7 +136,18 @@ const ComparisonResults: React.FC<ComparisonResultsProps> = ({ result, onReset }
             </div>
           </CardHeader>
           <CardContent className="space-y-6">
-            <p className="text-muted-foreground text-center leading-relaxed">{compatibility.overview}</p>
+            {/* Relationship's Life Path Section */}
+            <Section icon={<Compass className="h-5 w-5 text-primary" />} title={t.relationshipLifePath}>
+              <p className="leading-relaxed">{compatibility.overview}</p>
+              {result.profile1.lifePathInfo && result.profile2.lifePathInfo && (
+                <p className="mt-2 leading-relaxed">
+                  {language === 'es'
+                    ? `Cuando el ${result.profile1.lifePathInfo.title} (Camino de Vida ${result.profile1.lifePath}) se une con el ${result.profile2.lifePathInfo.title} (Camino de Vida ${result.profile2.lifePath}), la relación adquiere una dinámica única. Las cualidades de liderazgo e independencia del ${result.profile1.lifePathInfo.title} se entrelazan con las características del ${result.profile2.lifePathInfo.title}, creando un vínculo que tiene el potencial de crecimiento mutuo y transformación profunda. Juntos, estos caminos de vida pueden complementarse de maneras que individualmente no serían posibles, aportando equilibrio y nuevas perspectivas a la relación.`
+                    : `When ${result.profile1.lifePathInfo.title} (Life Path ${result.profile1.lifePath}) joins with ${result.profile2.lifePathInfo.title} (Life Path ${result.profile2.lifePath}), the relationship takes on a unique dynamic. The leadership and independence qualities of ${result.profile1.lifePathInfo.title} interweave with the characteristics of ${result.profile2.lifePathInfo.title}, creating a bond that holds the potential for mutual growth and deep transformation. Together, these life paths can complement each other in ways that wouldn't be possible individually, bringing balance and new perspectives to the relationship.`
+                  }
+                </p>
+              )}
+            </Section>
             
             <Separator />
 

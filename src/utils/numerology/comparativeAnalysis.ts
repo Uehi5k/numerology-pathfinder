@@ -8,9 +8,15 @@ export interface ComparisonProfile {
   gender: string;
 }
 
+export interface LifePathInfo {
+  number: number;
+  title: string;
+  meaning: string;
+}
+
 export interface ComparisonResult {
-  profile1: { name: string; lifePath: number; expression?: number; soulUrge?: number; personality?: number };
-  profile2: { name: string; lifePath: number; expression?: number; soulUrge?: number; personality?: number };
+  profile1: { name: string; lifePath: number; expression?: number; soulUrge?: number; personality?: number; lifePathInfo?: LifePathInfo };
+  profile2: { name: string; lifePath: number; expression?: number; soulUrge?: number; personality?: number; lifePathInfo?: LifePathInfo };
   compatibility: {
     score: number;
     overview: string;
@@ -21,11 +27,13 @@ export interface ComparisonResult {
     sharedGoals: string;
     growthAreas: string;
     advice: string;
+    relationshipLifePath?: string;
   } | null;
 }
 
 // Cache for loaded translations
 const analysisCache: Record<string, any> = {};
+const lifePathCache: Record<string, any> = {};
 
 const loadAnalysisData = async (language: LanguageCode) => {
   if (analysisCache[language]) return analysisCache[language];
@@ -38,6 +46,22 @@ const loadAnalysisData = async (language: LanguageCode) => {
       const enModule = await import(`@/data/translations/en/comparativeAnalysis.json`);
       analysisCache['en'] = enModule.default;
       return analysisCache['en'];
+    }
+    return null;
+  }
+};
+
+const loadLifePathMeanings = async (language: LanguageCode) => {
+  if (lifePathCache[language]) return lifePathCache[language];
+  try {
+    const module = await import(`@/data/translations/${language}/lifePathMeanings.json`);
+    lifePathCache[language] = module.default;
+    return lifePathCache[language];
+  } catch {
+    if (language !== 'en') {
+      const enModule = await import(`@/data/translations/en/lifePathMeanings.json`);
+      lifePathCache['en'] = enModule.default;
+      return lifePathCache['en'];
     }
     return null;
   }
@@ -56,14 +80,23 @@ export const calculateComparison = async (
   const lp1 = calculateLifePath(profile1.birthdate);
   const lp2 = calculateLifePath(profile2.birthdate);
 
-  const [name1Result, name2Result] = await Promise.all([
+  const [name1Result, name2Result, data, lifePathMeanings] = await Promise.all([
     calculateNameNumerology(profile1.name, language),
     calculateNameNumerology(profile2.name, language),
+    loadAnalysisData(language),
+    loadLifePathMeanings(language),
   ]);
 
-  const data = await loadAnalysisData(language);
   const key = getCompatibilityKey(lp1, lp2);
   const compatData = data?.compatibility?.[key] || null;
+
+  const getLifePathInfo = (lp: number): LifePathInfo | undefined => {
+    const lpData = lifePathMeanings?.[String(lp)];
+    if (lpData) {
+      return { number: lp, title: lpData.title, meaning: lpData.meaning };
+    }
+    return undefined;
+  };
 
   return {
     profile1: {
@@ -72,6 +105,7 @@ export const calculateComparison = async (
       expression: name1Result.expression,
       soulUrge: name1Result.soulUrge,
       personality: name1Result.personality,
+      lifePathInfo: getLifePathInfo(lp1),
     },
     profile2: {
       name: profile2.name,
@@ -79,6 +113,7 @@ export const calculateComparison = async (
       expression: name2Result.expression,
       soulUrge: name2Result.soulUrge,
       personality: name2Result.personality,
+      lifePathInfo: getLifePathInfo(lp2),
     },
     compatibility: compatData,
   };
