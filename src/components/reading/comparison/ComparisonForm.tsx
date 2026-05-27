@@ -4,11 +4,13 @@ import { Label } from '@/components/ui/label';
 import { Button } from '@/components/ui/button';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
-import { Users, Sparkles } from 'lucide-react';
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
+import { Users, Sparkles, Heart, Briefcase } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
+import { RelationshipType } from '@/utils/numerology/comparativeAnalysis';
 
 interface ComparisonFormProps {
-  onSubmit: (profile: { name: string; birthdate: string; gender: string }) => void;
+  onSubmit: (profile: { name: string; birthdate: string; gender: string }, relationshipType: RelationshipType) => void;
   loading: boolean;
 }
 
@@ -25,6 +27,11 @@ const labels: Record<string, any> = {
     other: "Other",
     analyze: "Analyze Compatibility",
     namePlaceholder: "Enter full name",
+    relationshipType: "Relationship Type",
+    romantic: "Romantic",
+    working: "Working",
+    romanticDesc: "Personal & love connection",
+    workingDesc: "Professional collaboration",
   },
   es: {
     title: "Análisis Comparativo",
@@ -38,6 +45,11 @@ const labels: Record<string, any> = {
     other: "Otro",
     analyze: "Analizar Compatibilidad",
     namePlaceholder: "Ingrese nombre completo",
+    relationshipType: "Tipo de Relación",
+    romantic: "Romántica",
+    working: "Laboral",
+    romanticDesc: "Conexión personal y amorosa",
+    workingDesc: "Colaboración profesional",
   },
 };
 
@@ -47,11 +59,12 @@ const ComparisonForm: React.FC<ComparisonFormProps> = ({ onSubmit, loading }) =>
   const [name, setName] = useState('');
   const [birthdate, setBirthdate] = useState('');
   const [gender, setGender] = useState('');
+  const [relationshipType, setRelationshipType] = useState<RelationshipType>('romantic');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (name && birthdate && gender) {
-      onSubmit({ name, birthdate, gender });
+      onSubmit({ name, birthdate, gender }, relationshipType);
     }
   };
 
