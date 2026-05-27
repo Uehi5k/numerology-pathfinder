@@ -144,11 +144,21 @@ const Section: React.FC<{ icon: React.ReactNode; title: string; children: React.
 
 const ComparisonResults: React.FC<ComparisonResultsProps> = ({ result, onReset }) => {
   const { language } = useLanguage();
-  const t = labels[language] || labels.en;
+  const base = labels[language] || labels.en;
+  const typeLabels = base[result.relationshipType] || base.romantic;
+  const t = { ...base, ...typeLabels };
   const { compatibility } = result;
+  const isWorking = result.relationshipType === 'working';
 
   return (
     <div className="space-y-6">
+      <div className="flex justify-center">
+        <Badge variant="secondary" className="gap-1.5 px-3 py-1">
+          {isWorking ? <Briefcase className="h-3.5 w-3.5" /> : <Heart className="h-3.5 w-3.5" />}
+          {t.typeLabel}
+        </Badge>
+      </div>
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <ProfileCard label={t.profile1} profile={result.profile1} t={t} />
         <ProfileCard label={t.profile2} profile={result.profile2} t={t} />
@@ -168,10 +178,12 @@ const ComparisonResults: React.FC<ComparisonResultsProps> = ({ result, onReset }
             </div>
           </CardHeader>
           <CardContent className="space-y-6">
-            {/* Relationship's Life Path Section */}
-            <Section icon={<Compass className="h-5 w-5 text-primary" />} title={t.relationshipLifePath}>
+            <Section
+              icon={isWorking ? <Handshake className="h-5 w-5 text-primary" /> : <Compass className="h-5 w-5 text-primary" />}
+              title={t.relationshipLifePath}
+            >
               <p className="leading-relaxed">{compatibility.overview}</p>
-              {result.profile1.lifePathInfo && result.profile2.lifePathInfo && (
+              {result.profile1.lifePathInfo && result.profile2.lifePathInfo && !isWorking && (
                 <p className="mt-2 leading-relaxed">
                   {language === 'es'
                     ? `Cuando el ${result.profile1.lifePathInfo.title} (Camino de Vida ${result.profile1.lifePath}) se une con el ${result.profile2.lifePathInfo.title} (Camino de Vida ${result.profile2.lifePath}), la relación adquiere una dinámica única. Las cualidades de liderazgo e independencia del ${result.profile1.lifePathInfo.title} se entrelazan con las características del ${result.profile2.lifePathInfo.title}, creando un vínculo que tiene el potencial de crecimiento mutuo y transformación profunda. Juntos, estos caminos de vida pueden complementarse de maneras que individualmente no serían posibles, aportando equilibrio y nuevas perspectivas a la relación.`
