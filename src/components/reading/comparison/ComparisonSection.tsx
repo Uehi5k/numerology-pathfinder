@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ComparisonForm from './ComparisonForm';
 import ComparisonResults from './ComparisonResults';
-import { ComparisonResult, calculateComparison } from '@/utils/numerology/comparativeAnalysis';
+import { ComparisonResult, calculateComparison, RelationshipType } from '@/utils/numerology/comparativeAnalysis';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 interface ComparisonSectionProps {
@@ -14,13 +14,17 @@ const ComparisonSection: React.FC<ComparisonSectionProps> = ({ name, birthdate }
   const [result, setResult] = useState<ComparisonResult | null>(null);
   const [loading, setLoading] = useState(false);
 
-  const handleSubmit = async (profile2: { name: string; birthdate: string; gender: string }) => {
+  const handleSubmit = async (
+    profile2: { name: string; birthdate: string; gender: string },
+    relationshipType: RelationshipType
+  ) => {
     setLoading(true);
     try {
       const comparison = await calculateComparison(
         { name, birthdate, gender: '' },
         profile2,
-        language
+        language,
+        relationshipType
       );
       setResult(comparison);
     } catch (error) {

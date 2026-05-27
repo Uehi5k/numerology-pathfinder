@@ -1,0 +1,1657 @@
+{
+  "ui": {
+    "romantic": "Romántica",
+    "working": "Laboral",
+    "relationshipType": "Tipo de Relación",
+    "workTitle": "Compatibilidad en la Relación Laboral",
+    "workSubtitle": "Descubre cómo colaboran dos profesionales según su numerología",
+    "strengthsTogether": "Fortalezas en el Trabajo",
+    "challengesTogether": "Desafíos en el Trabajo",
+    "communication": "Estilo de Comunicación",
+    "emotionalConnection": "Confianza y Compenetración",
+    "sharedGoals": "Objetivos Compartidos",
+    "growthAreas": "Áreas a Desarrollar",
+    "advice": "Consejos de Colaboración",
+    "relationshipLifePath": "Dinámica Laboral"
+  },
+  "compatibility": {
+    "1-1": {
+      "score": 70,
+      "overview": "Dos Caminos de Vida 1 trabajando juntos forman un equipo de Pioneros—decisivo, ambicioso, autónomo. Comparten el instinto de impulsa proyectos y asume responsabilidad, pero deben cuidarse de amplificar la tendencia a puede ser dominante e impaciente con ritmos lentos.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo directo y asertivo",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Pionero es directo y asertivo. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Pionero lo hace al impulsa proyectos y asume responsabilidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Pionero aporta energía decisivo, ambicioso, autónomo que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Pionero temprano; el Pionero debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-2": {
+      "score": 88,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 2 (Diplomático) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades cooperativo, intuitivo, detallista. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Diplomático se asegura de que el equipo construye armonía y media en conflictos.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Diplomático construye armonía y media en conflictos",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo diplomático y orientado al consenso",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Diplomático es diplomático y orientado al consenso. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Diplomático lo hace al construye armonía y media en conflictos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Diplomático aporta energía cooperativo, intuitivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Diplomático temprano; el Diplomático debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-3": {
+      "score": 59,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 3 (Comunicador) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades creativo, expresivo, optimista. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Comunicador se asegura de que el equipo inspira al equipo y genera ideas frescas.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo entusiasta y conversacional",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Comunicador es entusiasta y conversacional. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Comunicador lo hace al inspira al equipo y genera ideas frescas.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Comunicador aporta energía creativo, expresivo, optimista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Comunicador temprano; el Comunicador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-4": {
+      "score": 60,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 4 (Constructor) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades disciplinado, metódico, confiable. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Constructor se asegura de que el equipo crea sistemas y entrega resultados consistentes.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo estructurado y orientado a procesos",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Constructor es estructurado y orientado a procesos. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Constructor lo hace al crea sistemas y entrega resultados consistentes.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Constructor aporta energía disciplinado, metódico, confiable que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Constructor temprano; el Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-5": {
+      "score": 85,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 5 (Innovador) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades adaptable, curioso, enérgico. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Innovador se asegura de que el equipo prospera con el cambio y abre nuevos caminos.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo dinámico y explorador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Innovador es dinámico y explorador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Innovador lo hace al prospera con el cambio y abre nuevos caminos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Innovador aporta energía adaptable, curioso, enérgico que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Innovador temprano; el Innovador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-6": {
+      "score": 74,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 6 (Mentor) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades responsable, protector, orientado al servicio. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Mentor se asegura de que el equipo apoya al equipo y mantiene altos estándares.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-7": {
+      "score": 55,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-8": {
+      "score": 88,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-9": {
+      "score": 77,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-11": {
+      "score": 79,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-22": {
+      "score": 76,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "1-33": {
+      "score": 73,
+      "overview": "Un Camino de Vida 1 (Pionero) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades decisivo, ambicioso, autónomo se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden impulsa proyectos y asume responsabilidad mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Pionero impulsa proyectos y asume responsabilidad",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo directo y asertivo como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Pionero puede ser dominante e impaciente con ritmos lentos",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Pionero suele ser directo y asertivo, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Pionero se gana la confianza al impulsa proyectos y asume responsabilidad, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Pionero aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Pionero debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-2": {
+      "score": 78,
+      "overview": "Dos Caminos de Vida 2 trabajando juntos forman un equipo de Diplomáticos—cooperativo, intuitivo, detallista. Comparten el instinto de construye armonía y media en conflictos, pero deben cuidarse de amplificar la tendencia a puede evitar la confrontación y sobreanalizar.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Diplomático construye armonía y media en conflictos",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo diplomático y orientado al consenso",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Diplomático es diplomático y orientado al consenso. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Diplomático lo hace al construye armonía y media en conflictos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Diplomático aporta energía cooperativo, intuitivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Diplomático temprano; el Diplomático debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-3": {
+      "score": 74,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 3 (Comunicador) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades creativo, expresivo, optimista. Juntos pueden construye armonía y media en conflictos mientras el Comunicador se asegura de que el equipo inspira al equipo y genera ideas frescas.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo entusiasta y conversacional",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Comunicador es entusiasta y conversacional. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Comunicador lo hace al inspira al equipo y genera ideas frescas.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Comunicador aporta energía creativo, expresivo, optimista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Comunicador temprano; el Comunicador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-4": {
+      "score": 76,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 4 (Constructor) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades disciplinado, metódico, confiable. Juntos pueden construye armonía y media en conflictos mientras el Constructor se asegura de que el equipo crea sistemas y entrega resultados consistentes.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo estructurado y orientado a procesos",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Constructor es estructurado y orientado a procesos. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Constructor lo hace al crea sistemas y entrega resultados consistentes.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Constructor aporta energía disciplinado, metódico, confiable que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Constructor temprano; el Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-5": {
+      "score": 62,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 5 (Innovador) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades adaptable, curioso, enérgico. Juntos pueden construye armonía y media en conflictos mientras el Innovador se asegura de que el equipo prospera con el cambio y abre nuevos caminos.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo dinámico y explorador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Innovador es dinámico y explorador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Innovador lo hace al prospera con el cambio y abre nuevos caminos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Innovador aporta energía adaptable, curioso, enérgico que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Innovador temprano; el Innovador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-6": {
+      "score": 87,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 6 (Mentor) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades responsable, protector, orientado al servicio. Juntos pueden construye armonía y media en conflictos mientras el Mentor se asegura de que el equipo apoya al equipo y mantiene altos estándares.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-7": {
+      "score": 68,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden construye armonía y media en conflictos mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-8": {
+      "score": 70,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden construye armonía y media en conflictos mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-9": {
+      "score": 90,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden construye armonía y media en conflictos mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-11": {
+      "score": 86,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden construye armonía y media en conflictos mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-22": {
+      "score": 70,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden construye armonía y media en conflictos mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "2-33": {
+      "score": 78,
+      "overview": "Un Camino de Vida 2 (Diplomático) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades cooperativo, intuitivo, detallista se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden construye armonía y media en conflictos mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Diplomático construye armonía y media en conflictos",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo diplomático y orientado al consenso como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Diplomático puede evitar la confrontación y sobreanalizar",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Diplomático suele ser diplomático y orientado al consenso, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Diplomático se gana la confianza al construye armonía y media en conflictos, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Diplomático aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Diplomático debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-3": {
+      "score": 75,
+      "overview": "Dos Caminos de Vida 3 trabajando juntos forman un equipo de Comunicadors—creativo, expresivo, optimista. Comparten el instinto de inspira al equipo y genera ideas frescas, pero deben cuidarse de amplificar la tendencia a puede dispersar el enfoque y descuidar el seguimiento.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo entusiasta y conversacional",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Comunicador es entusiasta y conversacional. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Comunicador lo hace al inspira al equipo y genera ideas frescas.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Comunicador aporta energía creativo, expresivo, optimista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Comunicador temprano; el Comunicador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-4": {
+      "score": 62,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 4 (Constructor) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades disciplinado, metódico, confiable. Juntos pueden inspira al equipo y genera ideas frescas mientras el Constructor se asegura de que el equipo crea sistemas y entrega resultados consistentes.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo estructurado y orientado a procesos",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Constructor es estructurado y orientado a procesos. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Constructor lo hace al crea sistemas y entrega resultados consistentes.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Constructor aporta energía disciplinado, metódico, confiable que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Constructor temprano; el Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-5": {
+      "score": 87,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 5 (Innovador) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades adaptable, curioso, enérgico. Juntos pueden inspira al equipo y genera ideas frescas mientras el Innovador se asegura de que el equipo prospera con el cambio y abre nuevos caminos.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo dinámico y explorador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Innovador es dinámico y explorador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Innovador lo hace al prospera con el cambio y abre nuevos caminos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Innovador aporta energía adaptable, curioso, enérgico que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Innovador temprano; el Innovador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-6": {
+      "score": 88,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 6 (Mentor) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades responsable, protector, orientado al servicio. Juntos pueden inspira al equipo y genera ideas frescas mientras el Mentor se asegura de que el equipo apoya al equipo y mantiene altos estándares.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-7": {
+      "score": 75,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden inspira al equipo y genera ideas frescas mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-8": {
+      "score": 78,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden inspira al equipo y genera ideas frescas mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-9": {
+      "score": 85,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden inspira al equipo y genera ideas frescas mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-11": {
+      "score": 73,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden inspira al equipo y genera ideas frescas mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-22": {
+      "score": 78,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden inspira al equipo y genera ideas frescas mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "3-33": {
+      "score": 69,
+      "overview": "Un Camino de Vida 3 (Comunicador) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades creativo, expresivo, optimista se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden inspira al equipo y genera ideas frescas mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Comunicador inspira al equipo y genera ideas frescas",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo entusiasta y conversacional como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Comunicador puede dispersar el enfoque y descuidar el seguimiento",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Comunicador suele ser entusiasta y conversacional, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Comunicador se gana la confianza al inspira al equipo y genera ideas frescas, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Comunicador aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Comunicador debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-4": {
+      "score": 72,
+      "overview": "Dos Caminos de Vida 4 trabajando juntos forman un equipo de Constructors—disciplinado, metódico, confiable. Comparten el instinto de crea sistemas y entrega resultados consistentes, pero deben cuidarse de amplificar la tendencia a puede resistirse al cambio y volverse rígido.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo estructurado y orientado a procesos",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Constructor es estructurado y orientado a procesos. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Constructor lo hace al crea sistemas y entrega resultados consistentes.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Constructor aporta energía disciplinado, metódico, confiable que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Constructor temprano; el Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-5": {
+      "score": 56,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 5 (Innovador) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades adaptable, curioso, enérgico. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Innovador se asegura de que el equipo prospera con el cambio y abre nuevos caminos.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo dinámico y explorador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Innovador es dinámico y explorador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Innovador lo hace al prospera con el cambio y abre nuevos caminos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Innovador aporta energía adaptable, curioso, enérgico que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Innovador temprano; el Innovador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-6": {
+      "score": 89,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 6 (Mentor) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades responsable, protector, orientado al servicio. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Mentor se asegura de que el equipo apoya al equipo y mantiene altos estándares.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-7": {
+      "score": 68,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-8": {
+      "score": 85,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-9": {
+      "score": 60,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-11": {
+      "score": 70,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-22": {
+      "score": 87,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "4-33": {
+      "score": 74,
+      "overview": "Un Camino de Vida 4 (Constructor) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades disciplinado, metódico, confiable se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden crea sistemas y entrega resultados consistentes mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Constructor crea sistemas y entrega resultados consistentes",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo estructurado y orientado a procesos como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Constructor puede resistirse al cambio y volverse rígido",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Constructor suele ser estructurado y orientado a procesos, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Constructor se gana la confianza al crea sistemas y entrega resultados consistentes, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Constructor aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Constructor debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-5": {
+      "score": 80,
+      "overview": "Dos Caminos de Vida 5 trabajando juntos forman un equipo de Innovadors—adaptable, curioso, enérgico. Comparten el instinto de prospera con el cambio y abre nuevos caminos, pero deben cuidarse de amplificar la tendencia a tiene dificultades con la rutina y los compromisos largos.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo dinámico y explorador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Innovador es dinámico y explorador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Innovador lo hace al prospera con el cambio y abre nuevos caminos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Innovador aporta energía adaptable, curioso, enérgico que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Innovador temprano; el Innovador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-6": {
+      "score": 58,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 6 (Mentor) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades responsable, protector, orientado al servicio. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Mentor se asegura de que el equipo apoya al equipo y mantiene altos estándares.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-7": {
+      "score": 85,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-8": {
+      "score": 60,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-9": {
+      "score": 87,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-11": {
+      "score": 81,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-22": {
+      "score": 80,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "5-33": {
+      "score": 79,
+      "overview": "Un Camino de Vida 5 (Innovador) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades adaptable, curioso, enérgico se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden prospera con el cambio y abre nuevos caminos mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Innovador prospera con el cambio y abre nuevos caminos",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo dinámico y explorador como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Innovador tiene dificultades con la rutina y los compromisos largos",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Innovador suele ser dinámico y explorador, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Innovador se gana la confianza al prospera con el cambio y abre nuevos caminos, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Innovador aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Innovador debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-6": {
+      "score": 74,
+      "overview": "Dos Caminos de Vida 6 trabajando juntos forman un equipo de Mentors—responsable, protector, orientado al servicio. Comparten el instinto de apoya al equipo y mantiene altos estándares, pero deben cuidarse de amplificar la tendencia a puede asumir demasiado y volverse controlador.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo solidario y responsable",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Mentor es solidario y responsable. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Mentor lo hace al apoya al equipo y mantiene altos estándares.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Mentor aporta energía responsable, protector, orientado al servicio que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Mentor temprano; el Mentor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-7": {
+      "score": 68,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 7 (Analista) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades analítico, introspectivo, detallista. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Analista se asegura de que el equipo descubre ideas y garantiza la calidad.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-8": {
+      "score": 74,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-9": {
+      "score": 88,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-11": {
+      "score": 78,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-22": {
+      "score": 74,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "6-33": {
+      "score": 88,
+      "overview": "Un Camino de Vida 6 (Mentor) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades responsable, protector, orientado al servicio se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden apoya al equipo y mantiene altos estándares mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Mentor apoya al equipo y mantiene altos estándares",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo solidario y responsable como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Mentor puede asumir demasiado y volverse controlador",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Mentor suele ser solidario y responsable, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Mentor se gana la confianza al apoya al equipo y mantiene altos estándares, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Mentor aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Mentor debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-7": {
+      "score": 76,
+      "overview": "Dos Caminos de Vida 7 trabajando juntos forman un equipo de Analistas—analítico, introspectivo, detallista. Comparten el instinto de descubre ideas y garantiza la calidad, pero deben cuidarse de amplificar la tendencia a puede aislarse y sobreanalizar.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Analista descubre ideas y garantiza la calidad",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo reservado y basado en investigación",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Analista puede aislarse y sobreanalizar",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Analista es reservado y basado en investigación. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Analista lo hace al descubre ideas y garantiza la calidad.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Analista aporta energía analítico, introspectivo, detallista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Analista temprano; el Analista debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-8": {
+      "score": 62,
+      "overview": "Un Camino de Vida 7 (Analista) y un Camino de Vida 8 (Ejecutivo) forman una sociedad profesional donde cualidades analítico, introspectivo, detallista se encuentran con cualidades estratégico, orientado a resultados, con autoridad. Juntos pueden descubre ideas y garantiza la calidad mientras el Ejecutivo se asegura de que el equipo escala operaciones y gestiona recursos.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-9": {
+      "score": 89,
+      "overview": "Un Camino de Vida 7 (Analista) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades analítico, introspectivo, detallista se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden descubre ideas y garantiza la calidad mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-11": {
+      "score": 75,
+      "overview": "Un Camino de Vida 7 (Analista) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades analítico, introspectivo, detallista se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden descubre ideas y garantiza la calidad mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-22": {
+      "score": 68,
+      "overview": "Un Camino de Vida 7 (Analista) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades analítico, introspectivo, detallista se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden descubre ideas y garantiza la calidad mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "7-33": {
+      "score": 75,
+      "overview": "Un Camino de Vida 7 (Analista) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades analítico, introspectivo, detallista se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden descubre ideas y garantiza la calidad mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Analista descubre ideas y garantiza la calidad",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo reservado y basado en investigación como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Analista puede aislarse y sobreanalizar",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Analista suele ser reservado y basado en investigación, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Analista se gana la confianza al descubre ideas y garantiza la calidad, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Analista aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Analista debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "8-8": {
+      "score": 82,
+      "overview": "Dos Caminos de Vida 8 trabajando juntos forman un equipo de Ejecutivos—estratégico, orientado a resultados, con autoridad. Comparten el instinto de escala operaciones y gestiona recursos, pero deben cuidarse de amplificar la tendencia a puede priorizar resultados sobre personas.",
+      "strengths": [
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El conjunto combinado cubre tanto el estilo imperativo y enfocado en logros como el estilo imperativo y enfocado en logros",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Ejecutivo suele ser imperativo y enfocado en logros, mientras el Ejecutivo es imperativo y enfocado en logros. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Ejecutivo se gana la confianza al escala operaciones y gestiona recursos, mientras el Ejecutivo lo hace al escala operaciones y gestiona recursos.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Ejecutivo aporta ambición y ritmo; el Ejecutivo aporta energía estratégico, orientado a resultados, con autoridad que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Ejecutivo debe invitar la perspectiva del Ejecutivo temprano; el Ejecutivo debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "8-9": {
+      "score": 70,
+      "overview": "Un Camino de Vida 8 (Ejecutivo) y un Camino de Vida 9 (Visionario) forman una sociedad profesional donde cualidades estratégico, orientado a resultados, con autoridad se encuentran con cualidades compasivo, holístico, idealista. Juntos pueden escala operaciones y gestiona recursos mientras el Visionario se asegura de que el equipo alinea el trabajo con un propósito mayor.",
+      "strengths": [
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo imperativo y enfocado en logros como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Ejecutivo suele ser imperativo y enfocado en logros, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Ejecutivo se gana la confianza al escala operaciones y gestiona recursos, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Ejecutivo aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Ejecutivo debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "8-11": {
+      "score": 72,
+      "overview": "Un Camino de Vida 8 (Ejecutivo) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades estratégico, orientado a resultados, con autoridad se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden escala operaciones y gestiona recursos mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo imperativo y enfocado en logros como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Ejecutivo suele ser imperativo y enfocado en logros, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Ejecutivo se gana la confianza al escala operaciones y gestiona recursos, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Ejecutivo aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Ejecutivo debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "8-22": {
+      "score": 85,
+      "overview": "Un Camino de Vida 8 (Ejecutivo) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades estratégico, orientado a resultados, con autoridad se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden escala operaciones y gestiona recursos mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo imperativo y enfocado en logros como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Ejecutivo suele ser imperativo y enfocado en logros, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Ejecutivo se gana la confianza al escala operaciones y gestiona recursos, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Ejecutivo aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Ejecutivo debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "8-33": {
+      "score": 80,
+      "overview": "Un Camino de Vida 8 (Ejecutivo) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades estratégico, orientado a resultados, con autoridad se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden escala operaciones y gestiona recursos mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Ejecutivo escala operaciones y gestiona recursos",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo imperativo y enfocado en logros como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Ejecutivo puede priorizar resultados sobre personas",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Ejecutivo suele ser imperativo y enfocado en logros, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Ejecutivo se gana la confianza al escala operaciones y gestiona recursos, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Ejecutivo aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Ejecutivo debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "9-9": {
+      "score": 78,
+      "overview": "Dos Caminos de Vida 9 trabajando juntos forman un equipo de Visionarios—compasivo, holístico, idealista. Comparten el instinto de alinea el trabajo con un propósito mayor, pero deben cuidarse de amplificar la tendencia a puede tener dificultades con tareas mundanas.",
+      "strengths": [
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El conjunto combinado cubre tanto el estilo inspirador y orientado a la misión como el estilo inspirador y orientado a la misión",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Visionario suele ser inspirador y orientado a la misión, mientras el Visionario es inspirador y orientado a la misión. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Visionario se gana la confianza al alinea el trabajo con un propósito mayor, mientras el Visionario lo hace al alinea el trabajo con un propósito mayor.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Visionario aporta ambición y ritmo; el Visionario aporta energía compasivo, holístico, idealista que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Visionario debe invitar la perspectiva del Visionario temprano; el Visionario debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "9-11": {
+      "score": 69,
+      "overview": "Un Camino de Vida 9 (Visionario) y un Camino de Vida 11 (Inspirador) forman una sociedad profesional donde cualidades compasivo, holístico, idealista se encuentran con cualidades intuitivo, visionario, sensible. Juntos pueden alinea el trabajo con un propósito mayor mientras el Inspirador se asegura de que el equipo aporta ideas inspiradas e inteligencia emocional.",
+      "strengths": [
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo inspirador y orientado a la misión como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Visionario suele ser inspirador y orientado a la misión, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Visionario se gana la confianza al alinea el trabajo con un propósito mayor, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Visionario aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Visionario debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "9-22": {
+      "score": 70,
+      "overview": "Un Camino de Vida 9 (Visionario) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades compasivo, holístico, idealista se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden alinea el trabajo con un propósito mayor mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo inspirador y orientado a la misión como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Visionario suele ser inspirador y orientado a la misión, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Visionario se gana la confianza al alinea el trabajo con un propósito mayor, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Visionario aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Visionario debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "9-33": {
+      "score": 71,
+      "overview": "Un Camino de Vida 9 (Visionario) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades compasivo, holístico, idealista se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden alinea el trabajo con un propósito mayor mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Visionario alinea el trabajo con un propósito mayor",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo inspirador y orientado a la misión como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Visionario puede tener dificultades con tareas mundanas",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Visionario suele ser inspirador y orientado a la misión, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Visionario se gana la confianza al alinea el trabajo con un propósito mayor, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Visionario aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Visionario debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "11-11": {
+      "score": 85,
+      "overview": "Dos Caminos de Vida 11 trabajando juntos forman un equipo de Inspiradors—intuitivo, visionario, sensible. Comparten el instinto de aporta ideas inspiradas e inteligencia emocional, pero deben cuidarse de amplificar la tendencia a propenso al agobio y la duda.",
+      "strengths": [
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El conjunto combinado cubre tanto el estilo intuitivo e idealista como el estilo intuitivo e idealista",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Inspirador propenso al agobio y la duda",
+        "El Inspirador propenso al agobio y la duda",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Inspirador suele ser intuitivo e idealista, mientras el Inspirador es intuitivo e idealista. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Inspirador se gana la confianza al aporta ideas inspiradas e inteligencia emocional, mientras el Inspirador lo hace al aporta ideas inspiradas e inteligencia emocional.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Inspirador aporta ambición y ritmo; el Inspirador aporta energía intuitivo, visionario, sensible que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Inspirador debe invitar la perspectiva del Inspirador temprano; el Inspirador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "11-22": {
+      "score": 88,
+      "overview": "Un Camino de Vida 11 (Inspirador) y un Camino de Vida 22 (Maestro Constructor) forman una sociedad profesional donde cualidades intuitivo, visionario, sensible se encuentran con cualidades ambicioso, práctico, de gran escala. Juntos pueden aporta ideas inspiradas e inteligencia emocional mientras el Maestro Constructor se asegura de que el equipo convierte ideas visionarias en estructuras tangibles.",
+      "strengths": [
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo intuitivo e idealista como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Inspirador propenso al agobio y la duda",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Inspirador suele ser intuitivo e idealista, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Inspirador se gana la confianza al aporta ideas inspiradas e inteligencia emocional, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Inspirador aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Inspirador debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "11-33": {
+      "score": 87,
+      "overview": "Un Camino de Vida 11 (Inspirador) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades intuitivo, visionario, sensible se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden aporta ideas inspiradas e inteligencia emocional mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Inspirador aporta ideas inspiradas e inteligencia emocional",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo intuitivo e idealista como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Inspirador propenso al agobio y la duda",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Inspirador suele ser intuitivo e idealista, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Inspirador se gana la confianza al aporta ideas inspiradas e inteligencia emocional, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Inspirador aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Inspirador debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "22-22": {
+      "score": 88,
+      "overview": "Dos Caminos de Vida 22 trabajando juntos forman un equipo de Maestro Constructors—ambicioso, práctico, de gran escala. Comparten el instinto de convierte ideas visionarias en estructuras tangibles, pero deben cuidarse de amplificar la tendencia a soporta gran presión y perfeccionismo.",
+      "strengths": [
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El conjunto combinado cubre tanto el estilo aterrizado y visionario como el estilo aterrizado y visionario",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Maestro Constructor suele ser aterrizado y visionario, mientras el Maestro Constructor es aterrizado y visionario. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Maestro Constructor se gana la confianza al convierte ideas visionarias en estructuras tangibles, mientras el Maestro Constructor lo hace al convierte ideas visionarias en estructuras tangibles.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Maestro Constructor aporta ambición y ritmo; el Maestro Constructor aporta energía ambicioso, práctico, de gran escala que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Maestro Constructor debe invitar la perspectiva del Maestro Constructor temprano; el Maestro Constructor debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "22-33": {
+      "score": 86,
+      "overview": "Un Camino de Vida 22 (Maestro Constructor) y un Camino de Vida 33 (Maestro Educador) forman una sociedad profesional donde cualidades ambicioso, práctico, de gran escala se encuentran con cualidades compasivo, alentador, servicial. Juntos pueden convierte ideas visionarias en estructuras tangibles mientras el Maestro Educador se asegura de que el equipo eleva al equipo con sabiduría y cuidado.",
+      "strengths": [
+        "El Maestro Constructor convierte ideas visionarias en estructuras tangibles",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo aterrizado y visionario como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Maestro Constructor soporta gran presión y perfeccionismo",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Maestro Constructor suele ser aterrizado y visionario, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Maestro Constructor se gana la confianza al convierte ideas visionarias en estructuras tangibles, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Maestro Constructor aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Maestro Constructor debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    },
+    "33-33": {
+      "score": 90,
+      "overview": "Dos Caminos de Vida 33 trabajando juntos forman un equipo de Maestro Educadors—compasivo, alentador, servicial. Comparten el instinto de eleva al equipo con sabiduría y cuidado, pero deben cuidarse de amplificar la tendencia a puede sacrificar sus límites y agotarse.",
+      "strengths": [
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El Maestro Educador eleva al equipo con sabiduría y cuidado",
+        "El conjunto combinado cubre tanto el estilo nutritivo e inspirador como el estilo nutritivo e inspirador",
+        "El respeto mutuo crece cuando se reconoce cada aporte"
+      ],
+      "challenges": [
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "El Maestro Educador puede sacrificar sus límites y agotarse",
+        "Ritmos de trabajo distintos pueden generar fricción ante plazos ajustados",
+        "Prioridades desalineadas si no se aclaran roles y expectativas"
+      ],
+      "communication": "El Maestro Educador suele ser nutritivo e inspirador, mientras el Maestro Educador es nutritivo e inspirador. Una colaboración efectiva requiere traducir entre estos estilos—definir agendas claras, documentar decisiones y confirmar el entendimiento antes de avanzar.",
+      "emotionalConnection": "En un contexto laboral, esta dupla construye confianza con base en la fiabilidad demostrada y el respeto mutuo. El Maestro Educador se gana la confianza al eleva al equipo con sabiduría y cuidado, mientras el Maestro Educador lo hace al eleva al equipo con sabiduría y cuidado.",
+      "sharedGoals": "Ambos pueden alinearse en torno a entregar resultados de calidad. El Maestro Educador aporta ambición y ritmo; el Maestro Educador aporta energía compasivo, alentador, servicial que complementa la estrategia. Indicadores compartidos y una visión escrita los mantienen en sintonía.",
+      "growthAreas": "Aprender a aprovechar las fortalezas del otro en lugar de competir. El Maestro Educador debe invitar la perspectiva del Maestro Educador temprano; el Maestro Educador debe expresar sus inquietudes directamente en lugar de guardarlas.",
+      "advice": "Definan roles, derechos de decisión y cadencia de seguimiento al inicio de cualquier colaboración. Celebren los logros juntos y hagan retrospectivas honestas. Con claridad y respeto mutuo, esta dupla puede entregar resultados sólidos y sostenibles."
+    }
+  }
+}

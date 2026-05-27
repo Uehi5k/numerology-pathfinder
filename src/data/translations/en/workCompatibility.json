@@ -1,0 +1,1657 @@
+{
+  "ui": {
+    "romantic": "Romantic",
+    "working": "Working",
+    "relationshipType": "Relationship Type",
+    "workTitle": "Working Relationship Compatibility",
+    "workSubtitle": "Discover how two professionals collaborate based on their numerology",
+    "strengthsTogether": "Strengths at Work",
+    "challengesTogether": "Challenges at Work",
+    "communication": "Communication Style",
+    "emotionalConnection": "Trust & Rapport",
+    "sharedGoals": "Shared Objectives",
+    "growthAreas": "Areas to Develop",
+    "advice": "Collaboration Advice",
+    "relationshipLifePath": "Working Dynamic"
+  },
+  "compatibility": {
+    "1-1": {
+      "score": 70,
+      "overview": "Two Life Path 1s working together form a team of Pioneers—decisive, ambitious, self-starting. They share a strong instinct for drives projects forward and takes ownership, but must guard against amplifying each other's tendency to can be domineering and impatient with slower paces.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Pioneer drives projects forward and takes ownership",
+        "Combined skill set covers both direct and assertive and direct and assertive working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Pioneer can be domineering and impatient with slower paces",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Pioneer is direct and assertive. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Pioneer earns it by drives projects forward and takes ownership.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Pioneer brings decisive, ambitious, self-starting energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Pioneer's perspective early; the Pioneer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-2": {
+      "score": 88,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 2 (Diplomat) form a professional partnership where decisive, ambitious, self-starting qualities meet cooperative, intuitive, detail-oriented qualities. Together they can drives projects forward and takes ownership while the Diplomat ensures the team builds harmony and mediates conflict.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Diplomat builds harmony and mediates conflict",
+        "Combined skill set covers both direct and assertive and tactful and consensus-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Diplomat is tactful and consensus-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Diplomat earns it by builds harmony and mediates conflict.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Diplomat brings cooperative, intuitive, detail-oriented energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Diplomat's perspective early; the Diplomat should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-3": {
+      "score": 59,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 3 (Communicator) form a professional partnership where decisive, ambitious, self-starting qualities meet creative, expressive, optimistic qualities. Together they can drives projects forward and takes ownership while the Communicator ensures the team inspires teams and generates fresh ideas.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Communicator inspires teams and generates fresh ideas",
+        "Combined skill set covers both direct and assertive and enthusiastic and conversational working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Communicator can scatter focus and miss follow-through",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Communicator is enthusiastic and conversational. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Communicator earns it by inspires teams and generates fresh ideas.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Communicator brings creative, expressive, optimistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Communicator's perspective early; the Communicator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-4": {
+      "score": 60,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 4 (Builder) form a professional partnership where decisive, ambitious, self-starting qualities meet disciplined, methodical, reliable qualities. Together they can drives projects forward and takes ownership while the Builder ensures the team creates systems and delivers consistent results.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Builder creates systems and delivers consistent results",
+        "Combined skill set covers both direct and assertive and structured and process-oriented working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Builder may resist change and become rigid",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Builder is structured and process-oriented. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Builder earns it by creates systems and delivers consistent results.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Builder brings disciplined, methodical, reliable energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Builder's perspective early; the Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-5": {
+      "score": 85,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 5 (Innovator) form a professional partnership where decisive, ambitious, self-starting qualities meet adaptable, curious, energetic qualities. Together they can drives projects forward and takes ownership while the Innovator ensures the team thrives on change and pushes new directions.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Innovator thrives on change and pushes new directions",
+        "Combined skill set covers both direct and assertive and dynamic and exploratory working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Innovator struggles with routine and long-term commitments",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Innovator is dynamic and exploratory. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Innovator earns it by thrives on change and pushes new directions.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Innovator brings adaptable, curious, energetic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Innovator's perspective early; the Innovator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-6": {
+      "score": 74,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 6 (Mentor) form a professional partnership where decisive, ambitious, self-starting qualities meet responsible, nurturing, service-minded qualities. Together they can drives projects forward and takes ownership while the Mentor ensures the team supports teammates and upholds standards.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both direct and assertive and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-7": {
+      "score": 55,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 7 (Analyst) form a professional partnership where decisive, ambitious, self-starting qualities meet analytical, introspective, detail-driven qualities. Together they can drives projects forward and takes ownership while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both direct and assertive and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-8": {
+      "score": 88,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 8 (Executive) form a professional partnership where decisive, ambitious, self-starting qualities meet strategic, results-oriented, authoritative qualities. Together they can drives projects forward and takes ownership while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both direct and assertive and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-9": {
+      "score": 77,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 9 (Visionary) form a professional partnership where decisive, ambitious, self-starting qualities meet compassionate, big-picture, idealistic qualities. Together they can drives projects forward and takes ownership while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both direct and assertive and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-11": {
+      "score": 79,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 11 (Inspirer) form a professional partnership where decisive, ambitious, self-starting qualities meet intuitive, visionary, sensitive qualities. Together they can drives projects forward and takes ownership while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both direct and assertive and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-22": {
+      "score": 76,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 22 (Master Builder) form a professional partnership where decisive, ambitious, self-starting qualities meet ambitious, practical, large-scale thinker qualities. Together they can drives projects forward and takes ownership while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both direct and assertive and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "1-33": {
+      "score": 73,
+      "overview": "A Life Path 1 (Pioneer) and Life Path 33 (Master Teacher) form a professional partnership where decisive, ambitious, self-starting qualities meet compassionate, uplifting, service-driven qualities. Together they can drives projects forward and takes ownership while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Pioneer drives projects forward and takes ownership",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both direct and assertive and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Pioneer can be domineering and impatient with slower paces",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Pioneer tends to be direct and assertive, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Pioneer earns trust by drives projects forward and takes ownership, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Pioneer pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Pioneer should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-2": {
+      "score": 78,
+      "overview": "Two Life Path 2s working together form a team of Diplomats—cooperative, intuitive, detail-oriented. They share a strong instinct for builds harmony and mediates conflict, but must guard against amplifying each other's tendency to may avoid confrontation and overthink decisions.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Diplomat builds harmony and mediates conflict",
+        "Combined skill set covers both tactful and consensus-driven and tactful and consensus-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Diplomat is tactful and consensus-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Diplomat earns it by builds harmony and mediates conflict.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Diplomat brings cooperative, intuitive, detail-oriented energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Diplomat's perspective early; the Diplomat should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-3": {
+      "score": 74,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 3 (Communicator) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet creative, expressive, optimistic qualities. Together they can builds harmony and mediates conflict while the Communicator ensures the team inspires teams and generates fresh ideas.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Communicator inspires teams and generates fresh ideas",
+        "Combined skill set covers both tactful and consensus-driven and enthusiastic and conversational working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Communicator can scatter focus and miss follow-through",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Communicator is enthusiastic and conversational. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Communicator earns it by inspires teams and generates fresh ideas.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Communicator brings creative, expressive, optimistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Communicator's perspective early; the Communicator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-4": {
+      "score": 76,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 4 (Builder) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet disciplined, methodical, reliable qualities. Together they can builds harmony and mediates conflict while the Builder ensures the team creates systems and delivers consistent results.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Builder creates systems and delivers consistent results",
+        "Combined skill set covers both tactful and consensus-driven and structured and process-oriented working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Builder may resist change and become rigid",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Builder is structured and process-oriented. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Builder earns it by creates systems and delivers consistent results.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Builder brings disciplined, methodical, reliable energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Builder's perspective early; the Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-5": {
+      "score": 62,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 5 (Innovator) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet adaptable, curious, energetic qualities. Together they can builds harmony and mediates conflict while the Innovator ensures the team thrives on change and pushes new directions.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Innovator thrives on change and pushes new directions",
+        "Combined skill set covers both tactful and consensus-driven and dynamic and exploratory working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Innovator struggles with routine and long-term commitments",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Innovator is dynamic and exploratory. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Innovator earns it by thrives on change and pushes new directions.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Innovator brings adaptable, curious, energetic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Innovator's perspective early; the Innovator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-6": {
+      "score": 87,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 6 (Mentor) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet responsible, nurturing, service-minded qualities. Together they can builds harmony and mediates conflict while the Mentor ensures the team supports teammates and upholds standards.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both tactful and consensus-driven and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-7": {
+      "score": 68,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 7 (Analyst) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet analytical, introspective, detail-driven qualities. Together they can builds harmony and mediates conflict while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both tactful and consensus-driven and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-8": {
+      "score": 70,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 8 (Executive) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet strategic, results-oriented, authoritative qualities. Together they can builds harmony and mediates conflict while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both tactful and consensus-driven and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-9": {
+      "score": 90,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 9 (Visionary) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet compassionate, big-picture, idealistic qualities. Together they can builds harmony and mediates conflict while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both tactful and consensus-driven and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-11": {
+      "score": 86,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 11 (Inspirer) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet intuitive, visionary, sensitive qualities. Together they can builds harmony and mediates conflict while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both tactful and consensus-driven and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-22": {
+      "score": 70,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 22 (Master Builder) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet ambitious, practical, large-scale thinker qualities. Together they can builds harmony and mediates conflict while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both tactful and consensus-driven and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "2-33": {
+      "score": 78,
+      "overview": "A Life Path 2 (Diplomat) and Life Path 33 (Master Teacher) form a professional partnership where cooperative, intuitive, detail-oriented qualities meet compassionate, uplifting, service-driven qualities. Together they can builds harmony and mediates conflict while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Diplomat builds harmony and mediates conflict",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both tactful and consensus-driven and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Diplomat may avoid confrontation and overthink decisions",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Diplomat tends to be tactful and consensus-driven, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Diplomat earns trust by builds harmony and mediates conflict, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Diplomat pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Diplomat should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-3": {
+      "score": 75,
+      "overview": "Two Life Path 3s working together form a team of Communicators—creative, expressive, optimistic. They share a strong instinct for inspires teams and generates fresh ideas, but must guard against amplifying each other's tendency to can scatter focus and miss follow-through.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Communicator inspires teams and generates fresh ideas",
+        "Combined skill set covers both enthusiastic and conversational and enthusiastic and conversational working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Communicator can scatter focus and miss follow-through",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Communicator is enthusiastic and conversational. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Communicator earns it by inspires teams and generates fresh ideas.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Communicator brings creative, expressive, optimistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Communicator's perspective early; the Communicator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-4": {
+      "score": 62,
+      "overview": "A Life Path 3 (Communicator) and Life Path 4 (Builder) form a professional partnership where creative, expressive, optimistic qualities meet disciplined, methodical, reliable qualities. Together they can inspires teams and generates fresh ideas while the Builder ensures the team creates systems and delivers consistent results.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Builder creates systems and delivers consistent results",
+        "Combined skill set covers both enthusiastic and conversational and structured and process-oriented working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Builder may resist change and become rigid",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Builder is structured and process-oriented. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Builder earns it by creates systems and delivers consistent results.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Builder brings disciplined, methodical, reliable energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Builder's perspective early; the Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-5": {
+      "score": 87,
+      "overview": "A Life Path 3 (Communicator) and Life Path 5 (Innovator) form a professional partnership where creative, expressive, optimistic qualities meet adaptable, curious, energetic qualities. Together they can inspires teams and generates fresh ideas while the Innovator ensures the team thrives on change and pushes new directions.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Innovator thrives on change and pushes new directions",
+        "Combined skill set covers both enthusiastic and conversational and dynamic and exploratory working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Innovator struggles with routine and long-term commitments",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Innovator is dynamic and exploratory. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Innovator earns it by thrives on change and pushes new directions.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Innovator brings adaptable, curious, energetic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Innovator's perspective early; the Innovator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-6": {
+      "score": 88,
+      "overview": "A Life Path 3 (Communicator) and Life Path 6 (Mentor) form a professional partnership where creative, expressive, optimistic qualities meet responsible, nurturing, service-minded qualities. Together they can inspires teams and generates fresh ideas while the Mentor ensures the team supports teammates and upholds standards.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both enthusiastic and conversational and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-7": {
+      "score": 75,
+      "overview": "A Life Path 3 (Communicator) and Life Path 7 (Analyst) form a professional partnership where creative, expressive, optimistic qualities meet analytical, introspective, detail-driven qualities. Together they can inspires teams and generates fresh ideas while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both enthusiastic and conversational and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-8": {
+      "score": 78,
+      "overview": "A Life Path 3 (Communicator) and Life Path 8 (Executive) form a professional partnership where creative, expressive, optimistic qualities meet strategic, results-oriented, authoritative qualities. Together they can inspires teams and generates fresh ideas while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both enthusiastic and conversational and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-9": {
+      "score": 85,
+      "overview": "A Life Path 3 (Communicator) and Life Path 9 (Visionary) form a professional partnership where creative, expressive, optimistic qualities meet compassionate, big-picture, idealistic qualities. Together they can inspires teams and generates fresh ideas while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both enthusiastic and conversational and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-11": {
+      "score": 73,
+      "overview": "A Life Path 3 (Communicator) and Life Path 11 (Inspirer) form a professional partnership where creative, expressive, optimistic qualities meet intuitive, visionary, sensitive qualities. Together they can inspires teams and generates fresh ideas while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both enthusiastic and conversational and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-22": {
+      "score": 78,
+      "overview": "A Life Path 3 (Communicator) and Life Path 22 (Master Builder) form a professional partnership where creative, expressive, optimistic qualities meet ambitious, practical, large-scale thinker qualities. Together they can inspires teams and generates fresh ideas while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both enthusiastic and conversational and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "3-33": {
+      "score": 69,
+      "overview": "A Life Path 3 (Communicator) and Life Path 33 (Master Teacher) form a professional partnership where creative, expressive, optimistic qualities meet compassionate, uplifting, service-driven qualities. Together they can inspires teams and generates fresh ideas while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Communicator inspires teams and generates fresh ideas",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both enthusiastic and conversational and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Communicator can scatter focus and miss follow-through",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Communicator tends to be enthusiastic and conversational, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Communicator earns trust by inspires teams and generates fresh ideas, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Communicator pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Communicator should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-4": {
+      "score": 72,
+      "overview": "Two Life Path 4s working together form a team of Builders—disciplined, methodical, reliable. They share a strong instinct for creates systems and delivers consistent results, but must guard against amplifying each other's tendency to may resist change and become rigid.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Builder creates systems and delivers consistent results",
+        "Combined skill set covers both structured and process-oriented and structured and process-oriented working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Builder may resist change and become rigid",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Builder is structured and process-oriented. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Builder earns it by creates systems and delivers consistent results.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Builder brings disciplined, methodical, reliable energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Builder's perspective early; the Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-5": {
+      "score": 56,
+      "overview": "A Life Path 4 (Builder) and Life Path 5 (Innovator) form a professional partnership where disciplined, methodical, reliable qualities meet adaptable, curious, energetic qualities. Together they can creates systems and delivers consistent results while the Innovator ensures the team thrives on change and pushes new directions.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Innovator thrives on change and pushes new directions",
+        "Combined skill set covers both structured and process-oriented and dynamic and exploratory working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Innovator struggles with routine and long-term commitments",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Innovator is dynamic and exploratory. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Innovator earns it by thrives on change and pushes new directions.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Innovator brings adaptable, curious, energetic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Innovator's perspective early; the Innovator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-6": {
+      "score": 89,
+      "overview": "A Life Path 4 (Builder) and Life Path 6 (Mentor) form a professional partnership where disciplined, methodical, reliable qualities meet responsible, nurturing, service-minded qualities. Together they can creates systems and delivers consistent results while the Mentor ensures the team supports teammates and upholds standards.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both structured and process-oriented and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-7": {
+      "score": 68,
+      "overview": "A Life Path 4 (Builder) and Life Path 7 (Analyst) form a professional partnership where disciplined, methodical, reliable qualities meet analytical, introspective, detail-driven qualities. Together they can creates systems and delivers consistent results while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both structured and process-oriented and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-8": {
+      "score": 85,
+      "overview": "A Life Path 4 (Builder) and Life Path 8 (Executive) form a professional partnership where disciplined, methodical, reliable qualities meet strategic, results-oriented, authoritative qualities. Together they can creates systems and delivers consistent results while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both structured and process-oriented and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-9": {
+      "score": 60,
+      "overview": "A Life Path 4 (Builder) and Life Path 9 (Visionary) form a professional partnership where disciplined, methodical, reliable qualities meet compassionate, big-picture, idealistic qualities. Together they can creates systems and delivers consistent results while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both structured and process-oriented and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-11": {
+      "score": 70,
+      "overview": "A Life Path 4 (Builder) and Life Path 11 (Inspirer) form a professional partnership where disciplined, methodical, reliable qualities meet intuitive, visionary, sensitive qualities. Together they can creates systems and delivers consistent results while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both structured and process-oriented and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-22": {
+      "score": 87,
+      "overview": "A Life Path 4 (Builder) and Life Path 22 (Master Builder) form a professional partnership where disciplined, methodical, reliable qualities meet ambitious, practical, large-scale thinker qualities. Together they can creates systems and delivers consistent results while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both structured and process-oriented and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "4-33": {
+      "score": 74,
+      "overview": "A Life Path 4 (Builder) and Life Path 33 (Master Teacher) form a professional partnership where disciplined, methodical, reliable qualities meet compassionate, uplifting, service-driven qualities. Together they can creates systems and delivers consistent results while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Builder creates systems and delivers consistent results",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both structured and process-oriented and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Builder may resist change and become rigid",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Builder tends to be structured and process-oriented, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Builder earns trust by creates systems and delivers consistent results, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Builder pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Builder should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-5": {
+      "score": 80,
+      "overview": "Two Life Path 5s working together form a team of Innovators—adaptable, curious, energetic. They share a strong instinct for thrives on change and pushes new directions, but must guard against amplifying each other's tendency to struggles with routine and long-term commitments.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Innovator thrives on change and pushes new directions",
+        "Combined skill set covers both dynamic and exploratory and dynamic and exploratory working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Innovator struggles with routine and long-term commitments",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Innovator is dynamic and exploratory. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Innovator earns it by thrives on change and pushes new directions.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Innovator brings adaptable, curious, energetic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Innovator's perspective early; the Innovator should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-6": {
+      "score": 58,
+      "overview": "A Life Path 5 (Innovator) and Life Path 6 (Mentor) form a professional partnership where adaptable, curious, energetic qualities meet responsible, nurturing, service-minded qualities. Together they can thrives on change and pushes new directions while the Mentor ensures the team supports teammates and upholds standards.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both dynamic and exploratory and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-7": {
+      "score": 85,
+      "overview": "A Life Path 5 (Innovator) and Life Path 7 (Analyst) form a professional partnership where adaptable, curious, energetic qualities meet analytical, introspective, detail-driven qualities. Together they can thrives on change and pushes new directions while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both dynamic and exploratory and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-8": {
+      "score": 60,
+      "overview": "A Life Path 5 (Innovator) and Life Path 8 (Executive) form a professional partnership where adaptable, curious, energetic qualities meet strategic, results-oriented, authoritative qualities. Together they can thrives on change and pushes new directions while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both dynamic and exploratory and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-9": {
+      "score": 87,
+      "overview": "A Life Path 5 (Innovator) and Life Path 9 (Visionary) form a professional partnership where adaptable, curious, energetic qualities meet compassionate, big-picture, idealistic qualities. Together they can thrives on change and pushes new directions while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both dynamic and exploratory and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-11": {
+      "score": 81,
+      "overview": "A Life Path 5 (Innovator) and Life Path 11 (Inspirer) form a professional partnership where adaptable, curious, energetic qualities meet intuitive, visionary, sensitive qualities. Together they can thrives on change and pushes new directions while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both dynamic and exploratory and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-22": {
+      "score": 80,
+      "overview": "A Life Path 5 (Innovator) and Life Path 22 (Master Builder) form a professional partnership where adaptable, curious, energetic qualities meet ambitious, practical, large-scale thinker qualities. Together they can thrives on change and pushes new directions while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both dynamic and exploratory and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "5-33": {
+      "score": 79,
+      "overview": "A Life Path 5 (Innovator) and Life Path 33 (Master Teacher) form a professional partnership where adaptable, curious, energetic qualities meet compassionate, uplifting, service-driven qualities. Together they can thrives on change and pushes new directions while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Innovator thrives on change and pushes new directions",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both dynamic and exploratory and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Innovator struggles with routine and long-term commitments",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Innovator tends to be dynamic and exploratory, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Innovator earns trust by thrives on change and pushes new directions, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Innovator pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Innovator should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-6": {
+      "score": 74,
+      "overview": "Two Life Path 6s working together form a team of Mentors—responsible, nurturing, service-minded. They share a strong instinct for supports teammates and upholds standards, but must guard against amplifying each other's tendency to can take on too much and become controlling.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Mentor supports teammates and upholds standards",
+        "Combined skill set covers both supportive and accountable and supportive and accountable working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Mentor can take on too much and become controlling",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Mentor is supportive and accountable. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Mentor earns it by supports teammates and upholds standards.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Mentor brings responsible, nurturing, service-minded energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Mentor's perspective early; the Mentor should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-7": {
+      "score": 68,
+      "overview": "A Life Path 6 (Mentor) and Life Path 7 (Analyst) form a professional partnership where responsible, nurturing, service-minded qualities meet analytical, introspective, detail-driven qualities. Together they can supports teammates and upholds standards while the Analyst ensures the team uncovers insights and ensures quality.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both supportive and accountable and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-8": {
+      "score": 74,
+      "overview": "A Life Path 6 (Mentor) and Life Path 8 (Executive) form a professional partnership where responsible, nurturing, service-minded qualities meet strategic, results-oriented, authoritative qualities. Together they can supports teammates and upholds standards while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both supportive and accountable and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-9": {
+      "score": 88,
+      "overview": "A Life Path 6 (Mentor) and Life Path 9 (Visionary) form a professional partnership where responsible, nurturing, service-minded qualities meet compassionate, big-picture, idealistic qualities. Together they can supports teammates and upholds standards while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both supportive and accountable and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-11": {
+      "score": 78,
+      "overview": "A Life Path 6 (Mentor) and Life Path 11 (Inspirer) form a professional partnership where responsible, nurturing, service-minded qualities meet intuitive, visionary, sensitive qualities. Together they can supports teammates and upholds standards while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both supportive and accountable and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-22": {
+      "score": 74,
+      "overview": "A Life Path 6 (Mentor) and Life Path 22 (Master Builder) form a professional partnership where responsible, nurturing, service-minded qualities meet ambitious, practical, large-scale thinker qualities. Together they can supports teammates and upholds standards while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both supportive and accountable and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "6-33": {
+      "score": 88,
+      "overview": "A Life Path 6 (Mentor) and Life Path 33 (Master Teacher) form a professional partnership where responsible, nurturing, service-minded qualities meet compassionate, uplifting, service-driven qualities. Together they can supports teammates and upholds standards while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Mentor supports teammates and upholds standards",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both supportive and accountable and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Mentor can take on too much and become controlling",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Mentor tends to be supportive and accountable, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Mentor earns trust by supports teammates and upholds standards, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Mentor pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Mentor should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-7": {
+      "score": 76,
+      "overview": "Two Life Path 7s working together form a team of Analysts—analytical, introspective, detail-driven. They share a strong instinct for uncovers insights and ensures quality, but must guard against amplifying each other's tendency to may withdraw and over-analyze.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Analyst uncovers insights and ensures quality",
+        "Combined skill set covers both reserved and research-based and reserved and research-based working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Analyst may withdraw and over-analyze",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Analyst is reserved and research-based. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Analyst earns it by uncovers insights and ensures quality.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Analyst brings analytical, introspective, detail-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Analyst's perspective early; the Analyst should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-8": {
+      "score": 62,
+      "overview": "A Life Path 7 (Analyst) and Life Path 8 (Executive) form a professional partnership where analytical, introspective, detail-driven qualities meet strategic, results-oriented, authoritative qualities. Together they can uncovers insights and ensures quality while the Executive ensures the team scales operations and manages resources.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both reserved and research-based and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-9": {
+      "score": 89,
+      "overview": "A Life Path 7 (Analyst) and Life Path 9 (Visionary) form a professional partnership where analytical, introspective, detail-driven qualities meet compassionate, big-picture, idealistic qualities. Together they can uncovers insights and ensures quality while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both reserved and research-based and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-11": {
+      "score": 75,
+      "overview": "A Life Path 7 (Analyst) and Life Path 11 (Inspirer) form a professional partnership where analytical, introspective, detail-driven qualities meet intuitive, visionary, sensitive qualities. Together they can uncovers insights and ensures quality while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both reserved and research-based and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-22": {
+      "score": 68,
+      "overview": "A Life Path 7 (Analyst) and Life Path 22 (Master Builder) form a professional partnership where analytical, introspective, detail-driven qualities meet ambitious, practical, large-scale thinker qualities. Together they can uncovers insights and ensures quality while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both reserved and research-based and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "7-33": {
+      "score": 75,
+      "overview": "A Life Path 7 (Analyst) and Life Path 33 (Master Teacher) form a professional partnership where analytical, introspective, detail-driven qualities meet compassionate, uplifting, service-driven qualities. Together they can uncovers insights and ensures quality while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Analyst uncovers insights and ensures quality",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both reserved and research-based and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Analyst may withdraw and over-analyze",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Analyst tends to be reserved and research-based, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Analyst earns trust by uncovers insights and ensures quality, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Analyst pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Analyst should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "8-8": {
+      "score": 82,
+      "overview": "Two Life Path 8s working together form a team of Executives—strategic, results-oriented, authoritative. They share a strong instinct for scales operations and manages resources, but must guard against amplifying each other's tendency to can prioritize results over people.",
+      "strengths": [
+        "Executive scales operations and manages resources",
+        "Executive scales operations and manages resources",
+        "Combined skill set covers both commanding and outcome-focused and commanding and outcome-focused working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Executive can prioritize results over people",
+        "Executive can prioritize results over people",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Executive tends to be commanding and outcome-focused, while the Executive is commanding and outcome-focused. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Executive earns trust by scales operations and manages resources, while the Executive earns it by scales operations and manages resources.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Executive pushes ambition and pace; the Executive brings strategic, results-oriented, authoritative energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Executive should invite the Executive's perspective early; the Executive should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "8-9": {
+      "score": 70,
+      "overview": "A Life Path 8 (Executive) and Life Path 9 (Visionary) form a professional partnership where strategic, results-oriented, authoritative qualities meet compassionate, big-picture, idealistic qualities. Together they can scales operations and manages resources while the Visionary ensures the team aligns work with purpose and humanitarian goals.",
+      "strengths": [
+        "Executive scales operations and manages resources",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both commanding and outcome-focused and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Executive can prioritize results over people",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Executive tends to be commanding and outcome-focused, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Executive earns trust by scales operations and manages resources, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Executive pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Executive should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "8-11": {
+      "score": 72,
+      "overview": "A Life Path 8 (Executive) and Life Path 11 (Inspirer) form a professional partnership where strategic, results-oriented, authoritative qualities meet intuitive, visionary, sensitive qualities. Together they can scales operations and manages resources while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Executive scales operations and manages resources",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both commanding and outcome-focused and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Executive can prioritize results over people",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Executive tends to be commanding and outcome-focused, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Executive earns trust by scales operations and manages resources, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Executive pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Executive should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "8-22": {
+      "score": 85,
+      "overview": "A Life Path 8 (Executive) and Life Path 22 (Master Builder) form a professional partnership where strategic, results-oriented, authoritative qualities meet ambitious, practical, large-scale thinker qualities. Together they can scales operations and manages resources while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Executive scales operations and manages resources",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both commanding and outcome-focused and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Executive can prioritize results over people",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Executive tends to be commanding and outcome-focused, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Executive earns trust by scales operations and manages resources, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Executive pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Executive should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "8-33": {
+      "score": 80,
+      "overview": "A Life Path 8 (Executive) and Life Path 33 (Master Teacher) form a professional partnership where strategic, results-oriented, authoritative qualities meet compassionate, uplifting, service-driven qualities. Together they can scales operations and manages resources while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Executive scales operations and manages resources",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both commanding and outcome-focused and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Executive can prioritize results over people",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Executive tends to be commanding and outcome-focused, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Executive earns trust by scales operations and manages resources, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Executive pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Executive should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "9-9": {
+      "score": 78,
+      "overview": "Two Life Path 9s working together form a team of Visionarys—compassionate, big-picture, idealistic. They share a strong instinct for aligns work with purpose and humanitarian goals, but must guard against amplifying each other's tendency to may struggle with mundane tasks and detachment.",
+      "strengths": [
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Combined skill set covers both inspirational and mission-driven and inspirational and mission-driven working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Visionary may struggle with mundane tasks and detachment",
+        "Visionary may struggle with mundane tasks and detachment",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Visionary tends to be inspirational and mission-driven, while the Visionary is inspirational and mission-driven. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Visionary earns trust by aligns work with purpose and humanitarian goals, while the Visionary earns it by aligns work with purpose and humanitarian goals.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Visionary pushes ambition and pace; the Visionary brings compassionate, big-picture, idealistic energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Visionary should invite the Visionary's perspective early; the Visionary should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "9-11": {
+      "score": 69,
+      "overview": "A Life Path 9 (Visionary) and Life Path 11 (Inspirer) form a professional partnership where compassionate, big-picture, idealistic qualities meet intuitive, visionary, sensitive qualities. Together they can aligns work with purpose and humanitarian goals while the Inspirer ensures the team brings inspired ideas and emotional intelligence.",
+      "strengths": [
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both inspirational and mission-driven and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Visionary may struggle with mundane tasks and detachment",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Visionary tends to be inspirational and mission-driven, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Visionary earns trust by aligns work with purpose and humanitarian goals, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Visionary pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Visionary should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "9-22": {
+      "score": 70,
+      "overview": "A Life Path 9 (Visionary) and Life Path 22 (Master Builder) form a professional partnership where compassionate, big-picture, idealistic qualities meet ambitious, practical, large-scale thinker qualities. Together they can aligns work with purpose and humanitarian goals while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both inspirational and mission-driven and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Visionary may struggle with mundane tasks and detachment",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Visionary tends to be inspirational and mission-driven, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Visionary earns trust by aligns work with purpose and humanitarian goals, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Visionary pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Visionary should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "9-33": {
+      "score": 71,
+      "overview": "A Life Path 9 (Visionary) and Life Path 33 (Master Teacher) form a professional partnership where compassionate, big-picture, idealistic qualities meet compassionate, uplifting, service-driven qualities. Together they can aligns work with purpose and humanitarian goals while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Visionary aligns work with purpose and humanitarian goals",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both inspirational and mission-driven and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Visionary may struggle with mundane tasks and detachment",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Visionary tends to be inspirational and mission-driven, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Visionary earns trust by aligns work with purpose and humanitarian goals, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Visionary pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Visionary should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "11-11": {
+      "score": 85,
+      "overview": "Two Life Path 11s working together form a team of Inspirers—intuitive, visionary, sensitive. They share a strong instinct for brings inspired ideas and emotional intelligence, but must guard against amplifying each other's tendency to prone to overwhelm and self-doubt.",
+      "strengths": [
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Combined skill set covers both intuitive and idealistic and intuitive and idealistic working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Inspirer prone to overwhelm and self-doubt",
+        "Inspirer prone to overwhelm and self-doubt",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Inspirer tends to be intuitive and idealistic, while the Inspirer is intuitive and idealistic. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Inspirer earns trust by brings inspired ideas and emotional intelligence, while the Inspirer earns it by brings inspired ideas and emotional intelligence.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Inspirer pushes ambition and pace; the Inspirer brings intuitive, visionary, sensitive energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Inspirer should invite the Inspirer's perspective early; the Inspirer should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "11-22": {
+      "score": 88,
+      "overview": "A Life Path 11 (Inspirer) and Life Path 22 (Master Builder) form a professional partnership where intuitive, visionary, sensitive qualities meet ambitious, practical, large-scale thinker qualities. Together they can brings inspired ideas and emotional intelligence while the Master Builder ensures the team turns visionary ideas into tangible structures.",
+      "strengths": [
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both intuitive and idealistic and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Inspirer prone to overwhelm and self-doubt",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Inspirer tends to be intuitive and idealistic, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Inspirer earns trust by brings inspired ideas and emotional intelligence, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Inspirer pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Inspirer should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "11-33": {
+      "score": 87,
+      "overview": "A Life Path 11 (Inspirer) and Life Path 33 (Master Teacher) form a professional partnership where intuitive, visionary, sensitive qualities meet compassionate, uplifting, service-driven qualities. Together they can brings inspired ideas and emotional intelligence while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Inspirer brings inspired ideas and emotional intelligence",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both intuitive and idealistic and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Inspirer prone to overwhelm and self-doubt",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Inspirer tends to be intuitive and idealistic, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Inspirer earns trust by brings inspired ideas and emotional intelligence, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Inspirer pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Inspirer should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "22-22": {
+      "score": 88,
+      "overview": "Two Life Path 22s working together form a team of Master Builders—ambitious, practical, large-scale thinker. They share a strong instinct for turns visionary ideas into tangible structures, but must guard against amplifying each other's tendency to carries heavy pressure and perfectionism.",
+      "strengths": [
+        "Master Builder turns visionary ideas into tangible structures",
+        "Master Builder turns visionary ideas into tangible structures",
+        "Combined skill set covers both grounded and visionary and grounded and visionary working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Master Builder carries heavy pressure and perfectionism",
+        "Master Builder carries heavy pressure and perfectionism",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Master Builder tends to be grounded and visionary, while the Master Builder is grounded and visionary. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Master Builder earns trust by turns visionary ideas into tangible structures, while the Master Builder earns it by turns visionary ideas into tangible structures.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Master Builder pushes ambition and pace; the Master Builder brings ambitious, practical, large-scale thinker energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Master Builder should invite the Master Builder's perspective early; the Master Builder should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "22-33": {
+      "score": 86,
+      "overview": "A Life Path 22 (Master Builder) and Life Path 33 (Master Teacher) form a professional partnership where ambitious, practical, large-scale thinker qualities meet compassionate, uplifting, service-driven qualities. Together they can turns visionary ideas into tangible structures while the Master Teacher ensures the team uplifts teams through wisdom and care.",
+      "strengths": [
+        "Master Builder turns visionary ideas into tangible structures",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both grounded and visionary and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Master Builder carries heavy pressure and perfectionism",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Master Builder tends to be grounded and visionary, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Master Builder earns trust by turns visionary ideas into tangible structures, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Master Builder pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Master Builder should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    },
+    "33-33": {
+      "score": 90,
+      "overview": "Two Life Path 33s working together form a team of Master Teachers—compassionate, uplifting, service-driven. They share a strong instinct for uplifts teams through wisdom and care, but must guard against amplifying each other's tendency to may sacrifice personal limits and burn out.",
+      "strengths": [
+        "Master Teacher uplifts teams through wisdom and care",
+        "Master Teacher uplifts teams through wisdom and care",
+        "Combined skill set covers both nurturing and inspiring and nurturing and inspiring working modes",
+        "Mutual respect grows when each contribution is recognized"
+      ],
+      "challenges": [
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Master Teacher may sacrifice personal limits and burn out",
+        "Different working rhythms can create friction during deadlines",
+        "Misaligned priorities if roles and expectations are not clarified"
+      ],
+      "communication": "The Master Teacher tends to be nurturing and inspiring, while the Master Teacher is nurturing and inspiring. Effective collaboration requires translating between these styles—setting clear agendas, documenting decisions, and confirming understanding before moving forward.",
+      "emotionalConnection": "In a workplace context, this pair builds trust through demonstrated reliability and mutual respect. The Master Teacher earns trust by uplifts teams through wisdom and care, while the Master Teacher earns it by uplifts teams through wisdom and care.",
+      "sharedGoals": "Both can align around delivering quality outcomes. The Master Teacher pushes ambition and pace; the Master Teacher brings compassionate, uplifting, service-driven energy that rounds out the strategy. Shared KPIs and a written vision keep them on the same page.",
+      "growthAreas": "Learn to leverage each other's strengths instead of competing. The Master Teacher should invite the Master Teacher's perspective early; the Master Teacher should voice concerns directly rather than holding back.",
+      "advice": "Define roles, decision rights, and check-in cadence at the start of any collaboration. Celebrate wins together and conduct honest retrospectives. With clarity and mutual respect, this pairing can deliver strong, sustainable results."
+    }
+  }
+}

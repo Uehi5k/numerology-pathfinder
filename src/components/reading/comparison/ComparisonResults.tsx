@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Button } from '@/components/ui/button';
-import { Heart, Users, MessageCircle, Target, TrendingUp, Lightbulb, CheckCircle, AlertTriangle, RotateCcw, Compass } from 'lucide-react';
+import { Heart, Users, MessageCircle, Target, TrendingUp, Lightbulb, CheckCircle, AlertTriangle, RotateCcw, Compass, Briefcase, Handshake } from 'lucide-react';
 import { ComparisonResult } from '@/utils/numerology/comparativeAnalysis';
 import { useLanguage } from '@/contexts/LanguageContext';
 
@@ -14,46 +14,78 @@ interface ComparisonResultsProps {
 
 const labels: Record<string, any> = {
   en: {
-    results: "Compatibility Results",
+    romantic: {
+      results: "Compatibility Results",
+      overallCompatibility: "Overall Compatibility",
+      strengthsTogether: "Strengths Together",
+      challengesTogether: "Challenges Together",
+      communication: "Communication Style",
+      emotionalConnection: "Emotional Connection",
+      sharedGoals: "Shared Goals & Values",
+      growthAreas: "Growth Areas",
+      advice: "Relationship Advice",
+      relationshipLifePath: "Relationship's Life Path",
+      typeLabel: "Romantic Relationship",
+    },
+    working: {
+      results: "Working Compatibility",
+      overallCompatibility: "Workplace Compatibility",
+      strengthsTogether: "Strengths at Work",
+      challengesTogether: "Challenges at Work",
+      communication: "Communication Style",
+      emotionalConnection: "Trust & Rapport",
+      sharedGoals: "Shared Objectives",
+      growthAreas: "Areas to Develop",
+      advice: "Collaboration Advice",
+      relationshipLifePath: "Working Dynamic",
+      typeLabel: "Working Relationship",
+    },
     profile1: "Profile 1",
     profile2: "Profile 2",
     lifePath: "Life Path",
     expression: "Expression",
     soulUrge: "Soul Urge",
     personality: "Personality",
-    overallCompatibility: "Overall Compatibility",
-    strengthsTogether: "Strengths Together",
-    challengesTogether: "Challenges Together",
-    communication: "Communication Style",
-    emotionalConnection: "Emotional Connection",
-    sharedGoals: "Shared Goals & Values",
-    growthAreas: "Growth Areas",
-    advice: "Relationship Advice",
     reset: "New Comparison",
     noData: "No compatibility data available for this combination.",
     lifePathDescription: "Life Path Description",
-    relationshipLifePath: "Relationship's Life Path",
   },
   es: {
-    results: "Resultados de Compatibilidad",
+    romantic: {
+      results: "Resultados de Compatibilidad",
+      overallCompatibility: "Compatibilidad General",
+      strengthsTogether: "Fortalezas Juntos",
+      challengesTogether: "Desafíos Juntos",
+      communication: "Estilo de Comunicación",
+      emotionalConnection: "Conexión Emocional",
+      sharedGoals: "Metas y Valores Compartidos",
+      growthAreas: "Áreas de Crecimiento",
+      advice: "Consejos para la Relación",
+      relationshipLifePath: "Camino de Vida de la Relación",
+      typeLabel: "Relación Romántica",
+    },
+    working: {
+      results: "Compatibilidad Laboral",
+      overallCompatibility: "Compatibilidad en el Trabajo",
+      strengthsTogether: "Fortalezas en el Trabajo",
+      challengesTogether: "Desafíos en el Trabajo",
+      communication: "Estilo de Comunicación",
+      emotionalConnection: "Confianza y Compenetración",
+      sharedGoals: "Objetivos Compartidos",
+      growthAreas: "Áreas a Desarrollar",
+      advice: "Consejos de Colaboración",
+      relationshipLifePath: "Dinámica Laboral",
+      typeLabel: "Relación Laboral",
+    },
     profile1: "Perfil 1",
     profile2: "Perfil 2",
     lifePath: "Camino de Vida",
     expression: "Expresión",
     soulUrge: "Impulso del Alma",
     personality: "Personalidad",
-    overallCompatibility: "Compatibilidad General",
-    strengthsTogether: "Fortalezas Juntos",
-    challengesTogether: "Desafíos Juntos",
-    communication: "Estilo de Comunicación",
-    emotionalConnection: "Conexión Emocional",
-    sharedGoals: "Metas y Valores Compartidos",
-    growthAreas: "Áreas de Crecimiento",
-    advice: "Consejos para la Relación",
     reset: "Nueva Comparación",
     noData: "No hay datos de compatibilidad disponibles para esta combinación.",
     lifePathDescription: "Descripción del Camino de Vida",
-    relationshipLifePath: "Camino de Vida de la Relación",
   },
 };
 
@@ -112,11 +144,21 @@ const Section: React.FC<{ icon: React.ReactNode; title: string; children: React.
 
 const ComparisonResults: React.FC<ComparisonResultsProps> = ({ result, onReset }) => {
   const { language } = useLanguage();
-  const t = labels[language] || labels.en;
+  const base = labels[language] || labels.en;
+  const typeLabels = base[result.relationshipType] || base.romantic;
+  const t = { ...base, ...typeLabels };
   const { compatibility } = result;
+  const isWorking = result.relationshipType === 'working';
 
   return (
     <div className="space-y-6">
+      <div className="flex justify-center">
+        <Badge variant="secondary" className="gap-1.5 px-3 py-1">
+          {isWorking ? <Briefcase className="h-3.5 w-3.5" /> : <Heart className="h-3.5 w-3.5" />}
+          {t.typeLabel}
+        </Badge>
+      </div>
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <ProfileCard label={t.profile1} profile={result.profile1} t={t} />
         <ProfileCard label={t.profile2} profile={result.profile2} t={t} />
@@ -136,10 +178,12 @@ const ComparisonResults: React.FC<ComparisonResultsProps> = ({ result, onReset }
             </div>
           </CardHeader>
           <CardContent className="space-y-6">
-            {/* Relationship's Life Path Section */}
-            <Section icon={<Compass className="h-5 w-5 text-primary" />} title={t.relationshipLifePath}>
+            <Section
+              icon={isWorking ? <Handshake className="h-5 w-5 text-primary" /> : <Compass className="h-5 w-5 text-primary" />}
+              title={t.relationshipLifePath}
+            >
               <p className="leading-relaxed">{compatibility.overview}</p>
-              {result.profile1.lifePathInfo && result.profile2.lifePathInfo && (
+              {result.profile1.lifePathInfo && result.profile2.lifePathInfo && !isWorking && (
                 <p className="mt-2 leading-relaxed">
                   {language === 'es'
                     ? `Cuando el ${result.profile1.lifePathInfo.title} (Camino de Vida ${result.profile1.lifePath}) se une con el ${result.profile2.lifePathInfo.title} (Camino de Vida ${result.profile2.lifePath}), la relación adquiere una dinámica única. Las cualidades de liderazgo e independencia del ${result.profile1.lifePathInfo.title} se entrelazan con las características del ${result.profile2.lifePathInfo.title}, creando un vínculo que tiene el potencial de crecimiento mutuo y transformación profunda. Juntos, estos caminos de vida pueden complementarse de maneras que individualmente no serían posibles, aportando equilibrio y nuevas perspectivas a la relación.`
