@@ -81,6 +81,45 @@ const ComparisonForm: React.FC<ComparisonFormProps> = ({ onSubmit, loading }) =>
       </CardHeader>
       <CardContent>
         <form onSubmit={handleSubmit} className="space-y-4">
+          <div className="space-y-2">
+            <Label>{t.relationshipType}</Label>
+            <RadioGroup
+              value={relationshipType}
+              onValueChange={(v) => setRelationshipType(v as RelationshipType)}
+              className="grid grid-cols-2 gap-3"
+            >
+              <Label
+                htmlFor="rt-romantic"
+                className={`flex items-start gap-3 rounded-lg border p-3 cursor-pointer transition-colors ${
+                  relationshipType === 'romantic' ? 'border-primary bg-primary/5' : 'border-border'
+                }`}
+              >
+                <RadioGroupItem value="romantic" id="rt-romantic" className="mt-1" />
+                <div className="flex-1">
+                  <div className="flex items-center gap-2 font-medium">
+                    <Heart className="h-4 w-4 text-red-500" />
+                    {t.romantic}
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-1">{t.romanticDesc}</p>
+                </div>
+              </Label>
+              <Label
+                htmlFor="rt-working"
+                className={`flex items-start gap-3 rounded-lg border p-3 cursor-pointer transition-colors ${
+                  relationshipType === 'working' ? 'border-primary bg-primary/5' : 'border-border'
+                }`}
+              >
+                <RadioGroupItem value="working" id="rt-working" className="mt-1" />
+                <div className="flex-1">
+                  <div className="flex items-center gap-2 font-medium">
+                    <Briefcase className="h-4 w-4 text-blue-500" />
+                    {t.working}
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-1">{t.workingDesc}</p>
+                </div>
+              </Label>
+            </RadioGroup>
+          </div>
           <h3 className="font-semibold text-lg flex items-center gap-2">
             <Sparkles className="h-5 w-5 text-primary" />
             {t.secondProfile}
