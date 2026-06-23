@@ -87,6 +87,43 @@ const labels: Record<string, any> = {
     noData: "No hay datos de compatibilidad disponibles para esta combinación.",
     lifePathDescription: "Descripción del Camino de Vida",
   },
+  vi: {
+    romantic: {
+      results: "Kết Quả Tương Hợp",
+      overallCompatibility: "Tương Hợp Tổng Thể",
+      strengthsTogether: "Điểm Mạnh Khi Bên Nhau",
+      challengesTogether: "Thách Thức Khi Bên Nhau",
+      communication: "Phong Cách Giao Tiếp",
+      emotionalConnection: "Kết Nối Cảm Xúc",
+      sharedGoals: "Mục Tiêu & Giá Trị Chung",
+      growthAreas: "Lĩnh Vực Phát Triển",
+      advice: "Lời Khuyên Cho Mối Quan Hệ",
+      relationshipLifePath: "Con Đường Cuộc Đời Của Mối Quan Hệ",
+      typeLabel: "Mối Quan Hệ Tình Cảm",
+    },
+    working: {
+      results: "Tương Hợp Trong Công Việc",
+      overallCompatibility: "Tương Hợp Nơi Làm Việc",
+      strengthsTogether: "Điểm Mạnh Trong Công Việc",
+      challengesTogether: "Thách Thức Trong Công Việc",
+      communication: "Phong Cách Giao Tiếp",
+      emotionalConnection: "Niềm Tin & Sự Đồng Điệu",
+      sharedGoals: "Mục Tiêu Chung",
+      growthAreas: "Lĩnh Vực Cần Phát Triển",
+      advice: "Lời Khuyên Hợp Tác",
+      relationshipLifePath: "Động Lực Làm Việc",
+      typeLabel: "Mối Quan Hệ Công Việc",
+    },
+    profile1: "Hồ Sơ 1",
+    profile2: "Hồ Sơ 2",
+    lifePath: "Con Đường Cuộc Đời",
+    expression: "Biểu Đạt",
+    soulUrge: "Khát Vọng Tâm Hồn",
+    personality: "Tính Cách",
+    reset: "So Sánh Mới",
+    noData: "Không có dữ liệu tương hợp cho sự kết hợp này.",
+    lifePathDescription: "Mô Tả Con Đường Cuộc Đời",
+  },
 };
 
 const getScoreColor = (score: number) => {
@@ -102,6 +139,13 @@ const getScoreLabel = (score: number, lang: string) => {
     if (score >= 65) return 'Buena';
     if (score >= 55) return 'Moderada';
     return 'Desafiante';
+  }
+  if (lang === 'vi') {
+    if (score >= 85) return 'Xuất Sắc';
+    if (score >= 75) return 'Rất Tốt';
+    if (score >= 65) return 'Tốt';
+    if (score >= 55) return 'Trung Bình';
+    return 'Thử Thách';
   }
   if (score >= 85) return 'Excellent';
   if (score >= 75) return 'Very Good';

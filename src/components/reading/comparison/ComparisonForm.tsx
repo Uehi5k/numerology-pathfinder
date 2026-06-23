@@ -51,6 +51,24 @@ const labels: Record<string, any> = {
     romanticDesc: "Conexión personal y amorosa",
     workingDesc: "Colaboración profesional",
   },
+  vi: {
+    title: "Phân Tích So Sánh",
+    subtitle: "So sánh hai hồ sơ thần số học để khám phá động lực mối quan hệ",
+    secondProfile: "Hồ Sơ Thứ Hai",
+    name: "Họ và Tên",
+    birthdate: "Ngày Sinh",
+    gender: "Giới Tính",
+    male: "Nam",
+    female: "Nữ",
+    other: "Khác",
+    analyze: "Phân Tích Tương Hợp",
+    namePlaceholder: "Nhập họ và tên đầy đủ",
+    relationshipType: "Loại Mối Quan Hệ",
+    romantic: "Tình Cảm",
+    working: "Công Việc",
+    romanticDesc: "Kết nối cá nhân & tình yêu",
+    workingDesc: "Hợp tác chuyên nghiệp",
+  },
 };
 
 const ComparisonForm: React.FC<ComparisonFormProps> = ({ onSubmit, loading }) => {
