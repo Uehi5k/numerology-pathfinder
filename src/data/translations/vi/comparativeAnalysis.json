@@ -1,0 +1,368 @@
+{
+  "ui": {
+    "title": "Phân Tích So Sánh",
+    "subtitle": "So sánh hai hồ sơ thần số học để khám phá động lực mối quan hệ",
+    "addProfile": "Thêm Hồ Sơ Thứ Hai",
+    "secondProfile": "Hồ Sơ Thứ Hai",
+    "name": "Họ và Tên",
+    "birthdate": "Ngày Sinh",
+    "gender": "Giới Tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác",
+    "analyze": "Phân Tích Độ Tương Thích",
+    "results": "Kết Quả Tương Thích",
+    "profile1": "Hồ Sơ 1",
+    "profile2": "Hồ Sơ 2",
+    "lifePath": "Đường Đời",
+    "overallCompatibility": "Độ Tương Thích Tổng Thể",
+    "strengthsTogether": "Điểm Mạnh Khi Bên Nhau",
+    "challengesTogether": "Thách Thức Khi Bên Nhau",
+    "advice": "Lời Khuyên Cho Mối Quan Hệ",
+    "dynamics": "Động Lực Mối Quan Hệ",
+    "communication": "Phong Cách Giao Tiếp",
+    "emotionalConnection": "Kết Nối Cảm Xúc",
+    "sharedGoals": "Mục Tiêu & Giá Trị Chung",
+    "growthAreas": "Lĩnh Vực Cần Phát Triển",
+    "namePlaceholder": "Nhập họ và tên đầy đủ",
+    "reset": "Đặt Lại"
+  },
+  "compatibility": {
+    "1-1": {
+      "score": 70,
+      "overview": "Hai người mang Thần số học số 1 tạo nên một mối quan hệ tràn đầy tham vọng, khả năng lãnh đạo và tính độc lập. Cả hai đối tác đều có động lực, tự thúc đẩy bản thân và mong muốn dẫn đầu trong các nỗ lực của mình.",
+      "strengths": [
+        "Sự tôn trọng lẫn nhau về tính độc lập và tham vọng",
+        "Động lực mạnh mẽ để đạt được các mục tiêu chung",
+        "Cả hai đều mang lại những ý tưởng đổi mới và phẩm chất lãnh đạo",
+        "Năng lượng và động lực cao thúc đẩy mối quan hệ đối tác"
+      ],
+      "challenges": [
+        "Sự tranh giành quyền lực và cái tôi đối đầu",
+        "Khó khăn trong việc thỏa hiệp hoặc nhường nhịn đối phương",
+        "Cả hai có thể ưu tiên sự nghiệp hơn mối quan hệ",
+        "Xu hướng bướng bỉnh có thể tạo ra những bế tắc"
+      ],
+      "communication": "Trực tiếp và quyết đoán. Cả hai đều thích giao tiếp thẳng thắn nhưng phải học cách lắng nghe nhiều như khi nói. Tránh biến các cuộc thảo luận thành những cuộc tranh luận về việc ai đúng.",
+      "emotionalConnection": "Mặc dù cả hai đều nồng nhiệt, nhưng sự bộc lộ cảm xúc có thể gặp khó khăn. Không ai tự nhiên hướng tới việc thể hiện cảm xúc sâu sắc, vì vậy cần nỗ lực có chủ đích để xây dựng sự thân mật.",
+      "sharedGoals": "Cả hai đều coi trọng thành tựu, sự công nhận và việc tiên phong đi những con đường mới. Khi cùng hướng tới một tầm nhìn chung, cặp đôi này có thể cùng nhau hoàn thành những điều phi thường.",
+      "growthAreas": "Học cách khiêm tốn, rèn luyện sự kiên nhẫn và phát triển sự cởi mở về cảm xúc. Thay phiên nhau lãnh đạo và hỗ trợ sẽ làm bền chặt mối quan hệ.",
+      "advice": "Tạo không gian để cả hai đối tác cùng tỏa sáng cá nhân trong khi xây dựng một tầm nhìn chung. Lên lịch kiểm tra định kỳ để đảm bảo cả hai đều cảm thấy được lắng nghe và tôn trọng. Hãy nhớ rằng thỏa hiệp không phải là yếu đuối—đó là sự khôn ngoan."
+    },
+    "1-2": {
+      "score": 85,
+      "overview": "Thần số học số 1 và số 2 tạo thành một mối quan hệ bổ trợ cổ điển. Số 1 dẫn dắt bằng sự tự tin và định hướng, trong khi số 2 hỗ trợ bằng sự ngoại giao, trực giác và chiều sâu cảm xúc.",
+      "strengths": [
+        "Sự cân bằng tự nhiên giữa lãnh đạo và hỗ trợ",
+        "Số 2 làm dịu đi sự mãnh liệt của số 1 bằng sự duyên dáng",
+        "Nền tảng cảm xúc vững chắc từ số 2",
+        "Số 1 cung cấp định hướng và sự quyết đoán"
+      ],
+      "challenges": [
+        "Số 1 có thể bỏ qua nhu cầu tình cảm của số 2",
+        "Số 2 có thể cảm thấy bị lu mờ hoặc bị đánh giá thấp",
+        "Cách tiếp cận giải quyết xung đột khác nhau",
+        "Sự thẳng thắn của số 1 có thể làm tổn thương sự nhạy cảm của số 2"
+      ],
+      "communication": "Số 1 giao tiếp trực tiếp trong khi số 2 ngoại giao hơn. Tìm kiếm một điểm chung nơi sự trung thực gặp gỡ sự nhạy cảm sẽ tạo ra động lực tốt nhất.",
+      "emotionalConnection": "Tiềm năng rất sâu sắc. Số 2 tự nhiên tạo ra sự thân mật về cảm xúc, trong khi số 1 phải học cách đáp lại và hiện diện về mặt cảm xúc.",
+      "sharedGoals": "Số 1 đặt ra các mục tiêu đầy tham vọng trong khi số 2 đảm bảo sự hài hòa trong suốt quá trình. Cùng nhau, họ có thể xây dựng một điều gì đó vừa ý nghĩa vừa thành công.",
+      "growthAreas": "Số 1 nên thực hành lắng nghe chủ động và sẵn sàng về mặt cảm xúc. Số 2 nên khẳng định nhu cầu của mình một cách tự tin hơn và duy trì bản sắc riêng của mình.",
+      "advice": "Trân trọng và nói lời cảm ơn đối với những thế mạnh bổ trợ của nhau. Số 1 nên thường xuyên ghi nhận những đóng góp của số 2, và số 2 nên cảm thấy được tiếp thêm sức mạnh để nói lên tiếng nói của mình."
+    },
+    "1-3": {
+      "score": 80,
+      "overview": "Một sự kết hợp sôi động và đầy năng lượng. Sự thúc đẩy của Số 1 gặp gỡ sự sáng tạo và niềm vui của Số 3, tạo nên một mối quan hệ năng động, đầy cảm hứng và sự thể hiện.",
+      "strengths": [
+        "Năng lượng cao và sự nhiệt huyết khi ở bên nhau",
+        "Số 3 mang lại sự sáng tạo cho tầm nhìn của Số 1",
+        "Sự ngưỡng mộ và khuyến khích lẫn nhau",
+        "Sự năng động, yêu đời và thích phiêu lưu"
+      ],
+      "challenges": [
+        "Số 3 có vẻ phân tán trong mắt Số 1 vốn tập trung cao độ",
+        "Cường độ của Số 1 có thể kìm hãm sự vui tươi của Số 3",
+        "Sự khác biệt về ưu tiên—thành tựu so với sự thể hiện",
+        "Số 3 có thể né tránh các cuộc trò chuyện nghiêm túc"
+      ],
+      "communication": "Sinh động và lôi cuốn. Số 3 thêm vào sự hài hước và ấm áp, trong khi Số 1 giữ cho mọi thứ tập trung. Cả hai cần đảm bảo nội dung sâu sắc đi kèm với phong cách.",
+      "emotionalConnection": "Ấm áp và cởi mở. Số 3 mang lại sự cởi mở về cảm xúc giúp Số 1 kết nối ở mức độ sâu sắc hơn. Niềm vui và tiếng cười làm bền chặt mối quan hệ của họ.",
+      "sharedGoals": "Các dự án sáng tạo và tham vọng đều được hưởng lợi từ cặp đôi này. Số 1 cung cấp cấu trúc trong khi Số 3 thêm vào sự đổi mới và tinh tế nghệ thuật.",
+      "growthAreas": "Số 1 nên đón nhận sự tự phát và biểu đạt sáng tạo. Số 3 nên phát triển sự tập trung và tuân thủ các cam kết.",
+      "advice": "Hãy hướng năng lượng kết hợp của các bạn vào các dự án sáng tạo chung. Hãy ăn mừng chiến thắng của nhau và duy trì cảm giác vui vẻ ngay cả trong những thời điểm khó khăn."
+    },
+    "1-4": {
+      "score": 65,
+      "overview": "Một mối quan hệ được xây dựng trên sự quyết tâm và làm việc chăm chỉ. Tham vọng của Số 1 kết hợp với sự tận tụy và cách tiếp cận thực tế của Số 4, tạo ra một động lực vững chắc nhưng đôi khi cứng nhắc.",
+      "strengths": [
+        "Cả hai đều chăm chỉ và tận tâm",
+        "Số 4 mang lại sự ổn định cho tham vọng của Số 1",
+        "Đạo đức nghề nghiệp mạnh mẽ ở cả hai bên",
+        "Quan hệ đối tác thực tế và định hướng mục tiêu"
+      ],
+      "challenges": [
+        "Nhu cầu về thói quen của Số 4 có thể làm Số 1 nhàm chán",
+        "Sự bốc đồng của Số 1 xung đột với sự thận trọng của Số 4",
+        "Cả hai đều có thể bướng bỉnh và cứng nhắc",
+        "Nguy cơ trở thành 'chỉ làm mà không chơi'"
+      ],
+      "communication": "Thực tế và định hướng công việc. Cả hai đều thích các cuộc thảo luận cụ thể nhưng có thể gặp khó khăn với việc biểu đạt cảm xúc và sự tổn thương.",
+      "emotionalConnection": "Đòi hỏi nỗ lực có ý thức từ cả hai phía. Không ai tự nhiên dẫn dắt bằng cảm xúc, vì vậy việc xây dựng sự thân mật đòi hỏi sự yếu lòng có chủ đích.",
+      "sharedGoals": "Tuyệt vời trong việc cùng nhau xây dựng những thứ hữu hình—doanh nghiệp, nhà cửa và các dự án dài hạn. Kỷ luật kết hợp của họ rất đáng gờm.",
+      "growthAreas": "Cả hai nên thực hành sự linh hoạt và biểu đạt cảm xúc. Dành thời gian cho niềm vui và sự tự phát sẽ ngăn mối quan hệ trở nên quá nghiêm trọng.",
+      "advice": "Cân bằng đạo đức làm việc chung với thời gian nghỉ ngơi chất lượng. Hãy trân trọng sự tin cậy của Số 4 và tầm nhìn của Số 1. Sự linh hoạt là chìa khóa để tránh các cuộc tranh giành quyền lực."
+    },
+    "1-5": {
+      "score": 75,
+      "overview": "Một sự kết hợp thú vị và năng động. Sự lãnh đạo của Số Chủ Đạo 1 gặp gỡ tình yêu tự do và phiêu lưu của Số Chủ Đạo 5, tạo nên một mối quan hệ tràn đầy năng lượng và sự thay đổi.",
+      "strengths": [
+        "Cả hai đều yêu thích sự phấn khích và những trải nghiệm mới",
+        "Năng lượng và đam mê cao trong mối quan hệ",
+        "Sự tôn trọng lẫn nhau về tính độc lập",
+        "Không ai quá đeo bám hay phụ thuộc quá mức"
+      ],
+      "challenges": [
+        "Cả hai đều có thể kháng cự việc cam kết",
+        "Sự bồn chồn của số 5 có thể làm số 1 vốn tập trung cảm thấy nản lòng",
+        "Sự cạnh tranh về quyền kiểm soát và định hướng",
+        "Khó khăn trong việc thiết lập sự ổn định và nề nếp"
+      ],
+      "communication": "Nhịp độ nhanh và đầy kích thích. Cả hai đều thích trao đổi trí tuệ nhưng cần chậm lại để giải quyết các chủ đề cảm xúc sâu sắc hơn.",
+      "emotionalConnection": "Đam mê nhưng có khả năng chỉ dừng lại ở mức bề mặt. Cả hai phải nỗ lực để tạo ra chiều sâu cảm xúc ngoài sự phấn khích của những cuộc phiêu lưu.",
+      "sharedGoals": "Du lịch, khởi nghiệp và phiêu lưu là những thứ gắn kết họ. Họ cần một tầm nhìn chung để định hướng nguồn năng lượng kết hợp một cách hiệu quả.",
+      "growthAreas": "Phát triển sự kiên nhẫn, lòng cam kết và chiều sâu cảm xúc. Học cách tìm thấy sự phấn khích trong sự ổn định thay vì luôn tìm kiếm những cảm giác mạnh tiếp theo.",
+      "advice": "Hãy lập kế hoạch phiêu lưu chung đồng thời xây dựng một nền tảng vững chắc. Cho nhau sự tự do nhưng phải thiết lập các cam kết và ranh giới rõ ràng."
+    },
+    "1-6": {
+      "score": 75,
+      "overview": "Sự kết hợp giữa nuôi dưỡng và tham vọng. Sự thúc đẩy của Số Chủ Đạo 1 được bổ sung bởi bản chất quan tâm và trách nhiệm của Số Chủ Đạo 6, tạo ra một động lực cân bằng giữa gia đình và sự nghiệp.",
+      "strengths": [
+        "Số 6 tạo ra một tổ ấm yêu thương cho số 1",
+        "Thành công của số 1 mang lại sự an tâm mà số 6 coi trọng",
+        "Định hướng gia đình mạnh mẽ khi kết hợp cùng nhau",
+        "Các vai trò bổ trợ lẫn nhau trong mối quan hệ"
+      ],
+      "challenges": [
+        "Số 6 có thể cảm thấy bị bỏ rơi khi số 1 tập trung vào các mục tiêu",
+        "Số 1 có thể cảm thấy bị ngột ngạt bởi sự quan tâm quá mức của số 6",
+        "Sự ưu tiên khác nhau — sự nghiệp so với gia đình",
+        "Nhu cầu hòa hợp của số 6 có thể xung đột với sự trực diện của số 1"
+      ],
+      "communication": "Số 6 giao tiếp với sự ấm áp và quan tâm, trong khi số 1 thẳng thắn hơn. Số 6 có thể giúp số 1 phát triển sự thấu cảm trong giao tiếp.",
+      "emotionalConnection": "Tiềm năng mạnh mẽ. Số 6 đương nhiên tạo ra sự an toàn về cảm xúc, khuyến khích số 1 cởi mở hơn mức bình thường.",
+      "sharedGoals": "Xây dựng một mái ấm và cuộc sống gia đình đẹp đẽ. Số 1 cung cấp tham vọng và nguồn lực, trong khi số 6 tạo ra môi trường nuôi dưỡng.",
+      "growthAreas": "Số 1 nên ưu tiên thời gian cho gia đình cùng với sự nghiệp. Số 6 nên duy trì bản sắc riêng ngoài việc chăm sóc người khác.",
+      "advice": "Hãy tôn trọng cả nhu cầu đạt được thành tựu của số 1 và nhu cầu kết nối của số 6. Tạo ra những thói quen giúp gắn kết hai bạn thường xuyên và ưu tiên mái ấm gia đình."
+    },
+    "1-7": {
+      "score": 70,
+      "overview": "Một sự kết hợp đầy kích thích về mặt trí tuệ. Bản chất hướng tới hành động của Số Chủ Đạo 1 gặp gỡ sự suy tư và nội tâm sâu sắc của Số Chủ Đạo 7, tạo nên một mối quan hệ của sự phát triển và khám phá.",
+      "strengths": [
+        "Sự tôn trọng lẫn nhau về trí tuệ",
+        "Số 7 thêm chiều sâu cho tầm nhìn của số 1",
+        "Cả hai đều coi trọng sự độc lập và không gian riêng",
+        "Những cuộc trò chuyện kích thích tư duy"
+      ],
+      "challenges": [
+        "Nhu cầu cô độc của số 7 có thể khiến số 1 cảm thấy bị từ chối",
+        "Nhịp độ của số 1 có thể làm số 7 trầm tư cảm thấy quá tải",
+        "Nhu cầu xã hội và mức năng lượng khác nhau",
+        "Sự hoài nghi của số 7 có thể làm số 1 lạc quan cảm thấy nản lòng"
+      ],
+      "communication": "Sâu sắc và thấu đáo khi diễn ra. Số 7 thích những cuộc trò chuyện có ý nghĩa hơn là xã giao, điều mà số 1 có thể đánh giá cao nhưng cần phải kiên nhẫn.",
+      "emotionalConnection": "Phát triển chậm nhưng có thể rất sâu sắc. Số 7 xử lý cảm xúc nội tâm, và số 1 phải học cách tôn trọng nhịp độ này.",
+      "sharedGoals": "Nghiên cứu, phát triển tâm linh và các hoạt động trí tuệ gắn kết họ. Họ cần những mục tiêu riêng tư cũng như những mục tiêu chung.",
+      "growthAreas": "Số 1 nên tôn trọng nhu cầu thời gian riêng của số 7. Số 7 nên nỗ lực tham gia các hoạt động xã hội và chia sẻ thế giới nội tâm của mình.",
+      "advice": "Tạo ra một mối quan hệ tôn trọng cả sự gắn kết và sự riêng tư. Chia sẻ các mục tiêu trí tuệ và tôn trọng nhu cầu về không gian cá nhân của nhau."
+    },
+    "1-8": {
+      "score": 80,
+      "overview": "Một sự kết hợp đầy quyền năng. Cả Số Chủ Đạo 1 và 8 đều đầy tham vọng, quyết đoán và định hướng mục tiêu, tạo nên một mối quan hệ với tiềm năng to lớn về thành công vật chất và cá nhân.",
+      "strengths": [
+        "Chia sẻ tham vọng và khát vọng thành công",
+        "Cả hai đều thấu hiểu những yêu cầu của vai trò lãnh đạo",
+        "Nền tảng vật chất vững chắc khi ở bên nhau",
+        "Sự tôn trọng lẫn nhau về quyền lực của mỗi người"
+      ],
+      "challenges": [
+        "Có khả năng xảy ra những cuộc tranh giành quyền lực gay gắt",
+        "Cả hai đều muốn nắm quyền điều hành",
+        "Công việc có thể lấn át mối quan hệ",
+        "Sự cạnh tranh thay vì cộng tác"
+      ],
+      "communication": "Mang tính chất công việc và hiệu quả. Cả hai đều tôn trọng sự thẳng thắn nhưng phải nhớ giao tiếp bằng tình yêu và sự trân trọng, không chỉ là kế hoạch và chiến lược.",
+      "emotionalConnection": "Đòi hỏi sự vun đắp có chủ đích. Cả hai đều thoải mái hơn trong lĩnh vực thành tựu hơn là cảm xúc, vì vậy cần thực hành sự cởi mở.",
+      "sharedGoals": "Xây dựng đế chế—kinh doanh, giàu có và địa vị. Cặp đôi này có thể đạt được thành công vật chất đáng kinh ngạc khi làm việc như một đội.",
+      "growthAreas": "Phát triển sự gần gũi về cảm xúc và học cách chia sẻ quyền lực. Dành thời gian cho sự lãng mạn và vui chơi giữa những tham vọng.",
+      "advice": "Thiết lập vai trò và trách nhiệm rõ ràng ngay từ đầu. Chúc mừng chiến thắng của nhau một cách chân thành. Hãy nhớ rằng những đế chế vững mạnh nhất được xây dựng trên tình yêu, không chỉ là tham vọng."
+    },
+    "1-9": {
+      "score": 75,
+      "overview": "Mối quan hệ giữa một người tiên phong và một người nhân đạo. Tham vọng cá nhân của Số 1 gặp gỡ lòng trắc ẩn phổ quát của Số 9, tạo nên một sự kết hợp đầy cảm hứng và mục đích.",
+      "strengths": [
+        "Số 9 mở rộng tầm nhìn của Số 1 vượt ra khỏi cái tôi cá nhân",
+        "Số 1 giúp Số 9 thực hiện những hành động có trọng tâm",
+        "Cả hai đều đam mê và có lý tưởng",
+        "Tiềm năng cùng nhau tạo ra tác động đáng kể"
+      ],
+      "challenges": [
+        "Sự tập trung vào bản thân của Số 1 có thể mâu thuẫn với sự vị tha của Số 9",
+        "Số 9 có vẻ quá lý tưởng hóa đối với Số 1 thực tế",
+        "Định nghĩa về thành công khác nhau",
+        "Chiều sâu cảm xúc của Số 9 có thể làm Số 1 bị choáng ngợp"
+      ],
+      "communication": "Đầy cảm hứng và tầm nhìn. Cả hai đều thích thảo luận về những ý tưởng lớn, nhưng Số 1 tập trung vào thành tích cá nhân trong khi Số 9 suy nghĩ theo quy mô toàn cầu.",
+      "emotionalConnection": "Số 9 mang lại lòng trắc ẩn sâu sắc và trí tuệ cảm xúc. Số 1 có thể học hỏi chiều sâu cảm xúc từ trái tim bao dung của Số 9.",
+      "sharedGoals": "Các hoạt động từ thiện, doanh nghiệp xã hội và công việc có ý nghĩa gắn kết họ. Họ có thể cùng nhau tạo ra sự thay đổi thực sự cho thế giới.",
+      "growthAreas": "Số 1 nên mở rộng tầm nhìn vượt ra ngoài lợi ích cá nhân. Số 9 nên học cách chấp nhận sự trợ giúp và tập trung năng lượng một cách hiệu quả.",
+      "advice": "Hãy tìm một mục tiêu hoặc sứ mệnh kết hợp khả năng lãnh đạo của Số 1 với lòng trắc ẩn của Số 9. Hỗ trợ đam mê riêng của nhau trong khi xây dựng mục đích chung."
+    },
+    "1-11": {
+      "score": 78,
+      "overview": "Một sự kết hợp đầy cảm hứng giữa khả năng lãnh đạo và cái nhìn tâm linh. Tinh thần tiên phong của Số 1 gặp gỡ trực giác nhạy bén của Số 11, tạo nên một mối quan hệ với tiềm năng chuyển hóa mạnh mẽ.",
+      "strengths": [
+        "Số 11 truyền cảm hứng cho Số 1 bằng tầm nhìn tâm linh",
+        "Số 1 giúp hiện thực hóa lý tưởng của Số 11 thành hành động",
+        "Cả hai đều độc lập và có động lực lớn",
+        "Tiềm năng cho sự hợp tác sáng tạo phi thường"
+      ],
+      "challenges": [
+        "Sự nhạy cảm của Số 11 có thể xung đột với sự thẳng thắn của Số 1",
+        "Tốc độ xử lý khác nhau giữa hành động và suy ngẫm",
+        "Số 1 có thể bác bỏ những hiểu biết sâu sắc mang tính trực giác của Số 11",
+        "Cường độ cảm xúc từ Số 11 có thể gây áp lực cho Số 1"
+      ],
+      "communication": "Số 11 giao tiếp bằng trực giác và cảm xúc, trong khi Số 1 trực diện và hướng tới hành động. Việc tìm tiếng nói chung đòi hỏi sự kiên nhẫn từ cả hai.",
+      "emotionalConnection": "Số 11 mang lại chiều sâu cảm xúc và tâm linh sâu sắc. Số 1 phải sẵn lòng khám phá những khía cạnh này để kết nối bền chặt hơn.",
+      "sharedGoals": "Các dự án có tầm nhìn kết hợp hành động thực tế với mục đích tâm linh. Họ có thể cùng nhau hiện thực hóa những ý tưởng truyền cảm hứng cho người khác.",
+      "growthAreas": "Số 1 nên tôn trọng trực giác song hành cùng logic. Số 11 nên phát triển các kỹ năng thực tế để bổ trợ cho tầm nhìn của mình.",
+      "advice": "Đây là một mối quan hệ cùng nâng tầm nhau. Hãy để tầm nhìn của Số 11 dẫn dắt hướng đi trong khi khả năng lãnh đạo của Số 1 biến nó thành hiện thực. Hãy tôn trọng cả yếu tố thực tế và huyền học."
+    },
+    "1-22": {
+      "score": 82,
+      "overview": "Sự kết hợp đáng gờm giữa khả năng lãnh đạo cá nhân và bậc thầy kiến thiết. Số Chủ đạo 1 mang lại động lực cá nhân trong khi Số Chủ đạo 22 mang lại khả năng hiện thực hóa các tầm nhìn quy mô lớn.",
+      "strengths": [
+        "Cả hai đều đầy tham vọng và hướng đến kết quả",
+        "Số 22 có thể xây dựng tầm nhìn của số 1 trên một quy mô lớn",
+        "Nền tảng thực tế vững chắc kết hợp với khả năng lãnh đạo",
+        "Tiềm năng đạt được thành tựu đáng kể khi đồng hành cùng nhau"
+      ],
+      "challenges": [
+        "Cách tiếp cận có phương pháp của số 22 có thể làm số 1 thiếu kiên nhẫn cảm thấy nản lòng",
+        "Động lực quyền lực cần được quản lý cẩn thận",
+        "Cả hai đều có thể là những người cuồng công việc",
+        "Áp lực đạt được thành công của số 22 có thể gây ra căng thẳng"
+      ],
+      "communication": "Có cấu trúc và có mục đích. Cả hai đều thích các cuộc thảo luận ý nghĩa về mục tiêu và kế hoạch. Giao tiếp cảm xúc cần sự nỗ lực có ý thức.",
+      "emotionalConnection": "Được xây dựng thông qua những thành tựu chung. Cả hai đều thể hiện tình yêu qua hành động và thành quả thay vì lời nói.",
+      "sharedGoals": "Các dự án quy mô lớn, đế chế kinh doanh và xây dựng di sản. Cặp đôi này có tiềm năng tạo ra thứ gì đó thực sự bền vững.",
+      "growthAreas": "Cân bằng giữa tham vọng và sự kết nối cá nhân. Dành thời gian để nghỉ ngơi, vui chơi và thân mật về mặt cảm xúc.",
+      "advice": "Hãy tận dụng sức mạnh kết hợp của bạn cho một sứ mệnh chung. Số 1 dẫn đầu trong khi số 22 xây dựng nền tảng hạ tầng. Đừng quên tận hưởng hành trình, chứ không chỉ là đích đến."
+    },
+    "1-33": {
+      "score": 73,
+      "overview": "Sự lãnh đạo gặp gỡ bậc thầy giảng dạy. Động lực cá nhân của Số Chủ đạo 1 kết hợp với trí tuệ giàu lòng trắc ẩn của Số Chủ đạo 33, tạo nên một mối quan hệ tập trung vào sự phát triển và phục vụ.",
+      "strengths": [
+        "Số 33 nâng tầm mục đích của số 1 vượt ra ngoài lợi ích cá nhân",
+        "Số 1 giúp số 33 đưa ra những hành động quyết đoán",
+        "Tiềm năng phát triển tâm linh sâu sắc",
+        "Tình yêu vô điều kiện của số 33 làm mềm mỏng số 1"
+      ],
+      "challenges": [
+        "Sự tập trung vào bản thân của số 1 mâu thuẫn với sự vị tha của số 33",
+        "Số 33 có thể hy sinh quá nhiều cho số 1",
+        "Động lực khác nhau—cá nhân so với phổ quát",
+        "Số 1 có thể không hiểu được tiếng gọi tâm linh của số 33"
+      ],
+      "communication": "Số 33 giao tiếp với lòng trắc ẩn và trí tuệ sâu sắc, trong khi số 1 trực tiếp và thực tế. Sự tương phản có thể làm phong phú hoặc gây khó chịu.",
+      "emotionalConnection": "Số 33 mang lại tình yêu vô điều kiện sâu sắc. Số 1 phải học cách tiếp nhận và đáp lại chiều sâu của sự kết nối cảm xúc này.",
+      "sharedGoals": "Giảng dạy, chữa lành và phục vụ cộng đồng. Khả năng lãnh đạo của số 1 kết hợp với trí tuệ của số 33 có thể tạo ra các chương trình có tính chuyển đổi.",
+      "growthAreas": "Số 1 nên mở lòng với sự phát triển tâm linh và sự phục vụ. Số 33 nên duy trì các ranh giới lành mạnh và chăm sóc bản thân.",
+      "advice": "Hãy để trí tuệ của số 33 dẫn dắt mục đích của mối quan hệ trong khi động lực của số 1 làm cho nó trở nên hữu hình. Mối quan hệ đối tác này có tiềm năng chạm đến cuộc đời của nhiều người."
+    },
+    "2-2": {
+      "score": 75,
+      "overview": "Một sự kết hợp sâu sắc, nhạy cảm và hài hòa. Hai người mang Số đạo đời 2 tạo nên một mối quan hệ dựa trên trực giác, sự khéo léo và thấu hiểu cảm xúc.",
+      "strengths": [
+        "Sự hòa hợp sâu sắc về cảm xúc với đối phương",
+        "Sự hài hòa và hợp tác tự nhiên",
+        "Cả hai đều ưu tiên cho mối quan hệ",
+        "Động lực nhẹ nhàng và hỗ trợ lẫn nhau"
+      ],
+      "challenges": [
+        "Sự quá nhạy cảm có thể dẫn đến bế tắc cảm xúc",
+        "Cả hai có thể không ai chịu dẫn dắt khi cần thiết",
+        "Việc né tránh xung đột có thể khiến các vấn đề trở nên trầm trọng",
+        "Cả hai có thể trở nên quá phụ thuộc vào nhau"
+      ],
+      "communication": "Trực giác và nhẹ nhàng. Cả hai đều cảm nhận được cảm xúc của đối phương, nhưng điều này có thể dẫn đến những giả định thay vì trò chuyện trực tiếp.",
+      "emotionalConnection": "Sâu sắc và nuôi dưỡng một cách tự nhiên. Cả hai đều khao khát sự gần gũi về cảm xúc và tạo ra không gian an toàn cho sự tổn thương.",
+      "sharedGoals": "Cùng nhau tạo dựng một cuộc sống bình yên và tươi đẹp. Cả hai đều coi trọng sự hài hòa, tình bạn đời và sự thỏa mãn về cảm xúc hơn là tham vọng vật chất.",
+      "growthAreas": "Phát triển tính quyết đoán và sự độc lập. Học cách giải quyết xung đột trực tiếp thay vì né tránh chúng.",
+      "advice": "Hãy vun đắp sức mạnh cá nhân bên cạnh mối quan hệ tốt đẹp của bạn. Thực hành giao tiếp trung thực, trực tiếp ngay cả khi cảm thấy không thoải mái. Không nhất thiết lúc nào cũng phải đồng ý với nhau mới là yêu thương."
+    },
+    "2-3": {
+      "score": 82,
+      "overview": "Một mối quan hệ nồng ấm và sáng tạo. Sự nhạy cảm của Số đạo đời 2 hòa hợp với sự biểu cảm của Số đạo đời 3, tạo nên một mối quan hệ đầy ắp tình cảm và sự cộng tác nghệ thuật.",
+      "strengths": [
+        "Động lực nồng ấm, trìu mến và giàu sức biểu cảm",
+        "Số 3 giúp Số 2 bước ra khỏi vỏ bọc của mình",
+        "Số 2 cung cấp chiều sâu cảm xúc mà Số 3 cần",
+        "Sự hiệp lực sáng tạo và truyền cảm hứng lẫn nhau"
+      ],
+      "challenges": [
+        "Bản tính xã giao của Số 3 có thể gây ra sự bất an cho Số 2",
+        "Số 2 có thể cảm thấy Số 3 không coi trọng mọi việc đúng mức",
+        "Sự khác biệt về chiều sâu giao tiếp",
+        "Số 3 có thể làm phân tán năng lượng trong khi Số 2 khao khát sự tập trung"
+      ],
+      "communication": "Biểu cảm và chân thành. Số 3 thêm niềm vui và sự sáng tạo vào các cuộc trò chuyện, trong khi Số 2 mang lại chiều sâu cảm xúc và sự chân thật.",
+      "emotionalConnection": "Phong phú và đa diện. Trí tuệ cảm xúc của Số 2 kết hợp với khả năng biểu đạt của Số 3 tạo nên một cảnh quan cảm xúc rực rỡ.",
+      "sharedGoals": "Các dự án nghệ thuật, tụ tập xã hội và cùng nhau tạo ra cái đẹp. Cả hai đều trân trọng thẩm mỹ và sự phong phú của cảm xúc.",
+      "growthAreas": "Số 2 nên phát triển sự tự tin và không nên để tâm quá mức đến bản tính xã giao của Số 3. Số 3 nên làm sâu sắc thêm sự hiện diện cảm xúc của mình.",
+      "advice": "Hãy cùng nhau sáng tạo—nghệ thuật, âm nhạc, trải nghiệm. Hãy sử dụng trí tuệ cảm xúc và sự sáng tạo kết hợp của các bạn để xây dựng một cuộc sống vừa đẹp đẽ vừa mang ý nghĩa sâu sắc."
+    },
+    "2-4": {
+      "score": 72,
+      "overview": "Một sự kết hợp ổn định và mang tính nuôi dưỡng. Chiều sâu cảm xúc của Số 2 kết hợp với sự tin cậy của Số 4, tạo nên một mối quan hệ an toàn và vững chãi.",
+      "strengths": [
+        "Số 4 mang lại sự an toàn mà Số 2 khao khát",
+        "Số 2 làm dịu đi sự cứng nhắc của Số 4 bằng sự ấm áp",
+        "Cả hai đều coi trọng sự cam kết và lòng trung thành",
+        "Một mối quan hệ hợp tác đáng tin cậy"
+      ],
+      "challenges": [
+        "Tính thực tế của Số 4 có thể bị coi là lạnh lùng đối với Số 2 tình cảm",
+        "Nhu cầu cảm xúc của Số 2 có thể làm Số 4 quá tải",
+        "Nguy cơ rơi vào những thói quen nhàm chán",
+        "Cách thể hiện tình yêu khác nhau"
+      ],
+      "communication": "Số 2 giao tiếp bằng cảm xúc trong khi Số 4 thực tế hơn. Việc kết nối hai phong cách này đòi hỏi nỗ lực từ cả hai phía.",
+      "emotionalConnection": "Số 2 tạo ra chiều sâu cảm xúc trong khi Số 4 thể hiện tình yêu thông qua hành động và sự ổn định. Hiểu ngôn ngữ tình yêu của nhau là chìa khóa.",
+      "sharedGoals": "Xây dựng một mái ấm an toàn và cuộc sống ổn định. Cả hai đều coi trọng sự cam kết lâu dài và việc tạo dựng một nền tảng vững chắc.",
+      "growthAreas": "Số 4 nên thực hành bộc lộ cảm xúc. Số 2 nên trân trọng những hành động giúp đỡ như một cách thể hiện tình yêu.",
+      "advice": "Hãy nhận ra rằng các bạn thể hiện tình yêu khác nhau—Số 2 qua lời nói và cảm xúc, Số 4 qua sự tin cậy và hành động. Cả hai đều có giá trị và ý nghĩa."
+    },
+    "2-5": {
+      "score": 58,
+      "overview": "Một sự kết hợp đầy thử thách nhưng có tiềm năng phát triển. Nhu cầu ổn định của Số 2 gặp gỡ khao khát tự do và thay đổi của Số 5.",
+      "strengths": [
+        "Số 5 mang lại sự thú vị cho thế giới của Số 2",
+        "Số 2 cung cấp nền tảng cảm xúc cho Số 5",
+        "Cơ hội để phát triển cá nhân đáng kể",
+        "Mỗi người đề bù đắp những gì người kia thiếu"
+      ],
+      "challenges": [
+        "Sự độc lập của Số 5 đe dọa nhu cầu an toàn của Số 2",
+        "Sự đeo bám của Số 2 có thể làm Số 5 ngạt thở",
+        "Sở thích lối sống rất khác biệt",
+        "Sự bồn chồn của Số 5 gây ra lo lắng cho Số 2"
+      ],
+      "communication": "Số 2 tìm kiếm lời đối thoại sâu sắc, kết nối trong khi Số 5 thích những trao đổi ngẫu hứng, đa dạng. Tìm kiếm một nhịp điệu thỏa mãn cả hai là một thử thách.",
+      "emotionalConnection": "Số 2 khao khát sự gắn kết cảm xúc sâu sắc trong khi Số 5 giữ mọi thứ nhẹ nhàng hơn. Số 5 phải học cách đi sâu hơn, và Số 2 phải học cách thả lỏng hơn.",
+      "sharedGoals": "Tìm kiếm mục tiêu chung là thử thách chính. Số 2 muốn có sự đồng hành và tổ ấm, Số 5 muốn phiêu lưu và tự do.",
+      "growthAreas": "Số 2 nên phát triển sự độc lập và tự lực. Số 5 nên thực hành sự cam kết và hiện diện về mặt cảm xúc.",
+      "advice": "Mối quan hệ này đòi hỏi sự thỏa hiệp đáng kể. Nếu cả hai sẵn sàng cùng nhau phát triển, nó có thể mang tính biến đổi mạnh mẽ. Số 2 học được sự độc lập, Số 5 học được sự cam kết."
+    }
+  }
+}
