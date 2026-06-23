@@ -10,7 +10,7 @@ export interface LifePathMeaning {
 /**
  * Supported language codes
  */
-export type LanguageCode = 'en' | 'es' | 'fr' | 'de';
+export type LanguageCode = 'en' | 'es' | 'fr' | 'de' | 'vi';
 
 /**
  * User preferences interface

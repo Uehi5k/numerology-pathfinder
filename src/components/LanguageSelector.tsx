@@ -16,6 +16,7 @@ const languages: { code: LanguageCode; name: string }[] = [
   { code: 'es', name: 'Español' },
   { code: 'fr', name: 'Français' },
   { code: 'de', name: 'Deutsch' },
+  { code: 'vi', name: 'Tiếng Việt' },
 ];
 
 const LanguageSelector: React.FC = () => {
