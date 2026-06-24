@@ -363,6 +363,1225 @@
       "sharedGoals": "Tìm kiếm mục tiêu chung là thử thách chính. Số 2 muốn có sự đồng hành và tổ ấm, Số 5 muốn phiêu lưu và tự do.",
       "growthAreas": "Số 2 nên phát triển sự độc lập và tự lực. Số 5 nên thực hành sự cam kết và hiện diện về mặt cảm xúc.",
       "advice": "Mối quan hệ này đòi hỏi sự thỏa hiệp đáng kể. Nếu cả hai sẵn sàng cùng nhau phát triển, nó có thể mang tính biến đổi mạnh mẽ. Số 2 học được sự độc lập, Số 5 học được sự cam kết."
+    },
+    "2-6": {
+      "score": 90,
+      "overview": "Một trong những cặp đôi tương thích tự nhiên nhất. Sự nhạy cảm của Đường đời số 2 và bản tính nuôi dưỡng của Đường đời số 6 tạo nên một mối quan hệ đầy yêu thương, hài hòa và hướng về gia đình sâu sắc.",
+      "strengths": [
+        "Hòa hợp và thấu hiểu cảm xúc tự nhiên",
+        "Cả hai đều ưu tiên tình yêu, gia đình và các mối quan hệ",
+        "Sự bảo vệ của số 6 khiến số 2 cảm thấy an toàn",
+        "Sự quan tâm và tận tâm sâu sắc từ cả hai phía"
+      ],
+      "challenges": [
+        "Cả hai có thể né tránh đối đầu cần thiết",
+        "Sự cho đi quá mức có thể dẫn đến sự oán giận",
+        "Có thể trở nên cô lập và mất đi các kết nối bên ngoài",
+        "Nguy cơ đồng phụ thuộc cao"
+      ],
+      "communication": "Ấm áp, quan tâm và giàu cảm xúc. Cả hai tự nhiên quan tâm đến cảm xúc của đối phương, tạo không gian an toàn cho sự thể hiện chân thật.",
+      "emotionalConnection": "Sâu sắc một cách đặc biệt. Cả hai đều hướng về cảm xúc và tạo ra một môi trường yêu thương, nuôi dưỡng cho nhau.",
+      "sharedGoals": "Gia đình, nhà cửa và cộng đồng. Cả hai đều mơ ước tạo ra một ngôi nhà đẹp đẽ, tràn đầy yêu thương và đóng góp cho cộng đồng của mình.",
+      "growthAreas": "Duy trì bản sắc cá nhân trong mối quan hệ. Học cách giải quyết xung đột thay vì lẩn tránh.",
+      "advice": "Sự hài hòa tự nhiên của bạn là món quà—hãy bảo vệ nó bằng cách thành thật ngay cả khi điều đó khó khăn. Duy trì tình bạn bên ngoài và sở thích cá nhân để giữ cho mối quan hệ luôn tươi mới."
+    },
+    "2-7": {
+      "score": 68,
+      "overview": "Sự kết hợp này mang tính chiêm nghiệm và giàu có về mặt tinh thần. Trực giác cảm xúc của Đường đời số 2 gặp gỡ chiều sâu trí tuệ của Đường đời số 7, tạo nên một mối quan hệ khám phá nội tâm sâu sắc.",
+      "strengths": [
+        "Cả hai đều coi trọng chiều sâu hơn sự hời hợt",
+        "Cùng nhau phát triển về mặt tinh thần và trí tuệ",
+        "Tôn trọng lẫn nhau về thế giới nội tâm",
+        "Kết nối thầm lặng, ý nghĩa"
+      ],
+      "challenges": [
+        "Sự tách biệt của số 7 có thể làm tổn thương cảm xúc của số 2",
+        "Nhu cầu xã hội khác nhau—số 2 muốn sự gắn bó, số 7 cần sự cô độc",
+        "Khoảng cách giao tiếp giữa cảm xúc và trí tuệ",
+        "Cả hai có thể rút lui hơn là giải quyết vấn đề"
+      ],
+      "communication": "Số 2 giao tiếp thông qua cảm xúc, số 7 thông qua phân tích. Tìm kiếm một ngôn ngữ cảm xúc-trí tuệ chung cần thời gian và sự kiên nhẫn.",
+      "emotionalConnection": "Có thể sâu sắc khi niềm tin được xây dựng. Số 7 phải học cách chia sẻ thế giới nội tâm của mình, và số 2 không nên xem nhu cầu không gian riêng của số 7 là chuyện cá nhân.",
+      "sharedGoals": "Phát triển tinh thần, học hỏi và tạo ra một nơi trú ẩn bình yên. Cả hai đều coi trọng chất lượng hơn số lượng trong mọi lĩnh vực của cuộc sống.",
+      "growthAreas": "Số 7 nên thực hành thể hiện cảm xúc. Số 2 nên phát triển sở thích trí tuệ và sự thoải mái với sự cô độc.",
+      "advice": "Hãy tôn trọng những cách xử lý thế giới khác nhau của nhau. Trí tuệ của trái tim số 2 và trí tuệ của khối óc số 7 tạo nên một bức tranh hoàn chỉnh khi được đánh giá ngang bằng nhau."
+    },
+    "2-8": {
+      "score": 72,
+      "overview": "Một sự kết hợp bổ trợ giữa trái tim và tham vọng. Sự hỗ trợ về tình cảm của Số mệnh 2 gặp gỡ động lực thành công của Số mệnh 8, tạo ra một động lực cân bằng giữa cá nhân và sự nghiệp.",
+      "strengths": [
+        "Số 2 cung cấp sự hỗ trợ tình cảm cho Số 8 đầy động lực",
+        "Số 8 cung cấp sự an toàn về vật chất mà Số 2 trân trọng",
+        "Sức mạnh bổ trợ trong gia đình và sự nghiệp",
+        "Sự khéo léo của Số 2 giúp ích cho các mối quan hệ của Số 8"
+      ],
+      "challenges": [
+        "Số 8 có thể ưu tiên sự nghiệp hơn mối quan hệ",
+        "Số 2 có thể cảm thấy mình là ưu tiên thứ hai",
+        "Sự mất cân bằng quyền lực nếu Số 8 lấn át",
+        "Những giá trị khác nhau—tình cảm so với vật chất"
+      ],
+      "communication": "Số 8 trực tiếp và thực tế, Số 2 nhẹ nhàng và giàu cảm xúc. Số 2 phải lên tiếng, và Số 8 phải nhẹ nhàng hơn trong cách tiếp cận của mình.",
+      "emotionalConnection": "Số 2 tạo ra chiều sâu tình cảm, nhưng Số 8 phải sẵn lòng tham gia. Cân bằng giữa công việc và cuộc sống là điều cần thiết cho sự thân mật về cảm xúc.",
+      "sharedGoals": "Xây dựng một cuộc sống thành công với cả sự thoải mái về vật chất và sự thỏa mãn về cảm xúc. Số 8 kiếm tiền trong khi Số 2 vun đắp.",
+      "growthAreas": "Số 8 nên ưu tiên mối quan hệ ngang bằng với sự nghiệp. Số 2 nên phát triển sự tự tin và không đánh mất bản thân khi hỗ trợ Số 8.",
+      "advice": "Số 2 là tài sản lớn nhất của Số 8—trái tim, trực giác và trí tuệ cảm xúc. Số 8 phải nhận ra điều này và làm cho Số 2 cảm thấy được trân trọng vượt ra ngoài vai trò hỗ trợ của họ."
+    },
+    "2-9": {
+      "score": 74,
+      "overview": "Mối quan hệ đầy lòng trắc ẩn và lý tưởng. Sự tận tâm cá nhân của Thần số học số 2 kết hợp với tình yêu bao la của Thần số học số 9, tạo nên một mối quan hệ tập trung vào sự quan tâm và phục vụ.",
+      "strengths": [
+        "Cả hai đều chu đáo và giàu lòng trắc ẩn",
+        "Tầm nhìn của số 9 truyền cảm hứng cho số 2",
+        "Sự tận tâm của số 2 giúp số 9 vững vàng",
+        "Cùng mong muốn làm cho thế giới tốt đẹp hơn"
+      ],
+      "challenges": [
+        "Sự thờ ơ của số 9 có thể làm tổn thương số 2 đầy tận tâm",
+        "Số 2 muốn sự tập trung độc quyền, số 9 yêu thương một cách phổ quát",
+        "Số 9 có vẻ không thể hiện cảm xúc",
+        "Thang đo quan tâm khác nhau—cá nhân so với phổ quát"
+      ],
+      "communication": "Cả hai đều là những người giao tiếp nhẹ nhàng nhưng ở những tần số khác nhau. Số 2 nói từ cảm xúc cá nhân, số 9 từ góc độ phổ quát.",
+      "emotionalConnection": "Số 2 tìm kiếm sự gắn kết cá nhân sâu sắc. Số 9 mang đến lòng trắc ẩn rộng lớn mà có thể không đủ tính cá nhân đối với số 2.",
+      "sharedGoals": "Các hoạt động nhân đạo và dự án sáng tạo. Cả hai đều muốn đóng góp tích cực nhưng ở các quy mô khác nhau.",
+      "growthAreas": "Số 9 nên khiến số 2 cảm thấy được yêu thương đặc biệt, chứ không chỉ là một phần trong lòng trắc ẩn bao la của họ. Số 2 nên mở rộng sự quan tâm của mình ra ngoài mối quan hệ.",
+      "advice": "Tìm một mục tiêu chung thỏa mãn cả nhu cầu về mối quan hệ của số 2 và nhu cầu phục vụ nhân loại của số 9. Tình yêu của bạn có thể lan tỏa ra bên ngoài khi nó đã vững chắc bên trong."
+    },
+    "2-11": {
+      "score": 85,
+      "overview": "Một cặp đôi có trực giác sâu sắc và kết nối tâm linh. Đường đời 2 và 11 chia sẻ những năng lượng tương tự (11 rút gọn thành 2) nhưng số 11 bổ sung một chiều kích tâm linh cao hơn.",
+      "strengths": [
+        "Kết nối cảm xúc và trực giác đặc biệt",
+        "Cả hai đều nhạy cảm và đồng cảm",
+        "Hiểu biết chung về các năng lượng tinh tế",
+        "Tiềm năng trở thành đối tác tâm linh sâu sắc"
+      ],
+      "challenges": [
+        "Sự nhạy cảm kết hợp có thể gây choáng ngợp",
+        "Cả hai có thể tránh đối đầu",
+        "Cường độ của số 11 có thể quá lớn đối với số 2",
+        "Nguy cơ phụ thuộc cảm xúc lẫn nhau"
+      ],
+      "communication": "Hiểu biết gần như thần giao cách cảm. Cả hai giao tiếp ở cấp độ cảm xúc và trực giác, nhưng cũng phải phát triển kỹ năng giao tiếp thực tế.",
+      "emotionalConnection": "Sâu sắc một cách triệt để. Đây là một trong những sự kết hợp có kết nối cảm xúc sâu sắc nhất có thể, nhưng cả hai phải quản lý sự nhạy cảm của mình.",
+      "sharedGoals": "Phát triển tâm linh, công việc chữa lành và tạo ra sự hài hòa. Cùng nhau, họ có thể thực hiện những công việc có ý nghĩa sâu sắc trong tư vấn, nghệ thuật hoặc chữa bệnh.",
+      "growthAreas": "Xây dựng khả năng phục hồi cảm xúc. Phát triển các kỹ năng thực tế song song với các năng khiếu tâm linh. Duy trì ranh giới lành mạnh.",
+      "advice": "Kết nối của bạn là hiếm có và quý giá. Bảo vệ nó bằng những ranh giới lành mạnh và sức mạnh cá nhân. Sử dụng trực giác kết hợp của hai bạn để dẫn dắt con đường chung."
+    },
+    "2-22": {
+      "score": 76,
+      "overview": "Sự nhạy cảm gặp gỡ người kiến tạo vĩ đại. Trí tuệ cảm xúc của Đường đời số 2 hỗ trợ những tầm nhìn lớn của Đường đời số 22, tạo nên một mối quan hệ của trái tim và những thành tựu vĩ đại.",
+      "strengths": [
+        "Số 2 cung cấp nền tảng cảm xúc cho tham vọng của số 22",
+        "Số 22 mang đến cho số 2 một mục đích lớn để hỗ trợ",
+        "Kỹ năng bổ trợ nhau—cảm xúc và sự hiện thực hóa",
+        "Sự trung thành và cam kết mạnh mẽ từ cả hai"
+      ],
+      "challenges": [
+        "Áp lực thành công của số 22 có thể gây căng thẳng cho số 2",
+        "Số 2 có thể cảm thấy bị lu mờ bởi những kế hoạch lớn của số 22",
+        "Các vấn đề cân bằng giữa công việc và cuộc sống",
+        "Số 22 có thể bỏ bê nhu cầu cảm xúc của số 2"
+      ],
+      "communication": "Số 2 giao tiếp bằng cảm xúc, số 22 giao tiếp có chiến lược. Cả hai phải học ngôn ngữ của nhau để có mối quan hệ đối tác hiệu quả.",
+      "emotionalConnection": "Số 2 tạo ra thế giới cảm xúc mà số 22 cần nhưng có thể bỏ bê. Số 22 phải ưu tiên kết nối này.",
+      "sharedGoals": "Tầm nhìn của số 22 kết hợp với sự hỗ trợ của số 2 có thể tạo ra những thành tựu đáng kể. Cùng nhau xây dựng điều gì đó ý nghĩa sẽ gắn kết họ.",
+      "growthAreas": "Số 22 nên tôn trọng nhu cầu cảm xúc của số 2 ngang bằng với tham vọng của mình. Số 2 nên phát triển mục tiêu riêng bên cạnh việc hỗ trợ số 22.",
+      "advice": "Số 2 là sức mạnh bí mật đằng sau thành công của số 22. Hãy công khai thừa nhận điều này. Cùng nhau xây dựng tầm nhìn vĩ đại đồng thời nuôi dưỡng sự kết nối thân mật làm cho tất cả trở nên đáng giá."
+    },
+    "2-33": {
+      "score": 80,
+      "overview": "Sự nhạy cảm gặp gỡ người thầy vĩ đại. Sự sâu sắc về cảm xúc của Đường đời số 2 kết hợp với trí tuệ nhân ái của Đường đời số 33, tạo nên một mối quan hệ đầy yêu thương và nhận thức tâm linh sâu sắc.",
+      "strengths": [
+        "Cả hai đều có lòng trắc ẩn và sự thấu hiểu sâu sắc",
+        "Cùng cam kết với tình yêu và sự phục vụ",
+        "Trí tuệ của số 33 dẫn lối cho mối quan hệ",
+        "Cả hai đều trân trọng sự hòa hợp và bình yên"
+      ],
+      "challenges": [
+        "Cả hai có thể cho đi quá nhiều và kiệt sức",
+        "Gặp khó khăn trong các vấn đề thực tế",
+        "Lý tưởng hóa quá mức mối quan hệ",
+        "Cả hai có thể tránh đối đầu cần thiết"
+      ],
+      "communication": "Giao tiếp đầy lòng trắc ẩn và sự thấu hiểu sâu sắc. Cả hai đều giao tiếp từ trái tim, tạo ra một không gian an toàn và yêu thương để thể hiện bản thân.",
+      "emotionalConnection": "Kết nối cảm xúc cực kỳ sâu sắc và tâm linh. Sự kết hợp này tạo ra một trong những mối liên hệ cảm xúc phong phú nhất có thể.",
+      "sharedGoals": "Chữa lành, giảng dạy và phục vụ. Cùng nhau, họ có thể tạo ra các chương trình và không gian để thay đổi cuộc sống thông qua tình yêu và trí tuệ.",
+      "growthAreas": "Phát triển các kỹ năng thực tế và ranh giới. Học cách chấp nhận rằng chăm sóc bản thân không phải là ích kỷ. Giải quyết xung đột một cách trực tiếp.",
+      "advice": "Tình yêu của bạn có sức mạnh không chỉ để chữa lành cho nhau mà còn cho thế giới xung quanh. Hãy neo giữ mối liên hệ tâm linh của bạn bằng các thói quen thực tế và ranh giới lành mạnh."
+    },
+    "3-3": {
+      "score": 72,
+      "overview": "Mối quan hệ sôi nổi và sáng tạo. Hai người có Đường đời số 3 tạo nên một mối quan hệ tràn đầy niềm vui, sự thể hiện và năng lượng xã hội, mặc dù có thể thiếu sự vững chắc.",
+      "strengths": [
+        "Sáng tạo và truyền cảm hứng không ngừng nghỉ cùng nhau",
+        "Vui vẻ, tinh nghịch và sôi động trong xã hội",
+        "Cả hai đều hiểu nhu cầu thể hiện bản thân",
+        "Cuộc sống không bao giờ nhàm chán với hai số 3"
+      ],
+      "challenges": [
+        "Thiếu tập trung và không kiên trì theo đuổi",
+        "Cả hai có thể né tránh các chủ đề nghiêm túc hoặc khó khăn",
+        "Nguy cơ thiếu trách nhiệm tài chính",
+        "Sự hời hợt nếu không vun đắp chiều sâu"
+      ],
+      "communication": "Sống động, sáng tạo và lôi cuốn. Các cuộc trò chuyện diễn ra dễ dàng nhưng có thể chỉ ở bề mặt trừ khi cả hai nỗ lực đi sâu hơn.",
+      "emotionalConnection": "Vui vẻ và ấm áp nhưng có khả năng thiếu chiều sâu. Cả hai phải cam kết sự dễ bị tổn thương vượt ra ngoài vẻ ngoài hạnh phúc.",
+      "sharedGoals": "Thể hiện sáng tạo, kết nối xã hội và tận hưởng cuộc sống. Họ cần thêm các mục tiêu thực tế vào danh sách ước mơ chung của mình.",
+      "growthAreas": "Phát triển kỷ luật và trách nhiệm tài chính. Vượt ra ngoài niềm vui bề mặt để đạt được sự thân mật cảm xúc sâu sắc.",
+      "advice": "Sự sáng tạo kết hợp của hai bạn là siêu năng lực. Hãy định hướng nó vào các dự án cụ thể. Dành không gian cho những cuộc trò chuyện nghiêm túc bên cạnh những niềm vui, và xây dựng cấu trúc để hỗ trợ ước mơ của bạn."
+    },
+    "3-4": {
+      "score": 60,
+      "overview": "Sự sáng tạo kết hợp với cấu trúc. Sự thể hiện tự phát của Con số chủ đạo 3 gặp gỡ cách tiếp cận có phương pháp của Con số chủ đạo 4, tạo nên một mối quan hệ tiềm năng mang tính bổ trợ hoặc đối kháng.",
+      "strengths": [
+        "Số 4 cung cấp cấu trúc cho sự sáng tạo của Số 3",
+        "Số 3 mang lại sự nhẹ nhàng cho sự nghiêm túc của Số 4",
+        "Cùng nhau, họ cân bằng giữa ước mơ và thực tế",
+        "Kỹ năng bổ trợ khi được tôn trọng"
+      ],
+      "challenges": [
+        "Số 4 có thể bị Số 3 coi là cứng nhắc và nhàm chán",
+        "Số 3 có thể bị Số 4 coi là vô trách nhiệm",
+        "Lối sống và ưu tiên rất khác biệt",
+        "Sự chỉ trích của Số 4 dập tắt sự thể hiện của Số 3"
+      ],
+      "communication": "Phong cách rất khác biệt—Số 3 thể hiện cảm xúc tự do và phóng khoáng, Số 4 chính xác và có cấu trúc. Gặp gỡ ở giữa đòi hỏi sự kiên nhẫn.",
+      "emotionalConnection": "Số 3 thể hiện cảm xúc tự do trong khi Số 4 kín đáo. Số 3 phải kiên nhẫn, và Số 4 phải nỗ lực để mở lòng.",
+      "sharedGoals": "Khi tìm thấy mục tiêu chung, cặp đôi này có thể xây dựng những đế chế sáng tạo. Số 3 đổi mới trong khi Số 4 thực hiện một cách có phương pháp.",
+      "growthAreas": "Số 3 nên phát triển tính kỷ luật. Số 4 nên đón nhận sự tự phát và thể hiện sáng tạo.",
+      "advice": "Tôn trọng những khác biệt của bạn như những thế mạnh bổ sung, không phải là khuyết điểm. Số 3 cần sự ổn định của Số 4, và Số 4 cần niềm vui của Số 3. Cùng nhau xây dựng thứ gì đó thể hiện cả hai."
+    },
+    "3-5": {
+      "score": 78,
+      "overview": "Một mối quan hệ năng động và thú vị. Tính sáng tạo của Đường đời 3 kết hợp với tinh thần phiêu lưu của Đường đời 5, tạo nên một mối quan hệ tràn đầy sự kích thích và những trải nghiệm mới.",
+      "strengths": [
+        "Cả hai đều yêu tự do và sự đa dạng",
+        "Đời sống xã hội thú vị khi ở bên nhau",
+        "Cùng có tình yêu phiêu lưu và những trải nghiệm mới",
+        "Sáng tạo và kích thích trí tuệ"
+      ],
+      "challenges": [
+        "Thiếu ổn định và nền tảng vững chắc",
+        "Không ai muốn gánh vác trách nhiệm thực tế",
+        "Việc cam kết có thể khó khăn cho cả hai",
+        "Nguy cơ kiệt sức do sự kích thích liên tục"
+      ],
+      "communication": "Nhanh chóng, dí dỏm và lôi cuốn. Cả hai đều là những người giao tiếp xuất sắc, luôn giữ cho đối phương được giải trí và hứng thú.",
+      "emotionalConnection": "Vui vẻ và nhẹ nhàng nhưng có thể thiếu chiều sâu. Cả hai phải nỗ lực tạo ra sự gần gũi về mặt cảm xúc vượt ra ngoài sự phấn khích.",
+      "sharedGoals": "Du lịch, các dự án sáng tạo và các hoạt động xã hội. Họ cũng cần phát triển các mục tiêu hướng tới sự ổn định.",
+      "growthAreas": "Phát triển sự cam kết và trách nhiệm. Xây dựng một nền tảng vững chắc trong khi vẫn duy trì tinh thần phiêu lưu của mình.",
+      "advice": "Năng lượng tổng hợp của bạn rất lôi cuốn. Hãy hướng nó vào những cuộc phiêu lưu đồng thời xây dựng điều gì đó lâu dài. Đừng nhầm lẫn sự phấn khích với chiều sâu – hãy vun đắp cả hai."
+    },
+    "3-6": {
+      "score": 85,
+      "overview": "Một sự kết hợp hài hòa tuyệt đẹp. Niềm vui và sự sáng tạo của Thần số học số 3 hòa quyện với tình yêu và sự nuôi dưỡng của Thần số học số 6, tạo nên một mối quan hệ ấm áp, nghệ thuật và hướng về gia đình.",
+      "strengths": [
+        "Cả hai đều trân trọng cái đẹp và sự sáng tạo",
+        "Số 6 mang đến một mái ấm yêu thương mà số 3 cần để phát triển",
+        "Số 3 mang lại niềm vui và sự nhẹ nhàng cho bản chất chu đáo của số 6",
+        "Định hướng gia đình và cộng đồng mạnh mẽ"
+      ],
+      "challenges": [
+        "Số 3 có thể cảm thấy bị hạn chế bởi trách nhiệm của số 6",
+        "Số 6 có thể mong muốn số 3 đáng tin cậy hơn",
+        "Bản chất thích giao lưu của số 3 có thể khiến số 6 lo ngại",
+        "Ưu tiên khác nhau giữa nghĩa vụ và tự do"
+      ],
+      "communication": "Ấm áp, biểu cảm và chu đáo. Cả hai đều thích những cuộc trò chuyện chân thành và tạo ra một bầu không khí tích cực, hỗ trợ lẫn nhau.",
+      "emotionalConnection": "Phong phú và nuôi dưỡng. Tình yêu của số 6 kết hợp với sự biểu cảm của số 3 tạo nên một mối liên kết cảm xúc sâu sắc và thỏa mãn.",
+      "sharedGoals": "Tạo dựng một ngôi nhà đẹp, nuôi nấng một gia đình và cùng nhau tham gia vào các dự án sáng tạo hoặc cộng đồng.",
+      "growthAreas": "Số 3 nên phát triển sự đáng tin cậy và cam kết với các nghĩa vụ gia đình. Số 6 nên cho phép nhiều sự tự phát và niềm vui hơn.",
+      "advice": "Ngôi nhà của bạn nên là một chốn thiêng liêng sáng tạo, tràn đầy tình yêu. Hãy để niềm vui của số 3 lấp đầy không gian đẹp đẽ mà số 6 tạo ra. Hỗ trợ những biểu hiện tình yêu riêng của nhau."
+    },
+    "3-7": {
+      "score": 62,
+      "overview": "Bề nổi gặp chiều sâu. Tính cách cởi mở, hướng ngoại của Đường đời số 3 chạm trán với bản chất hướng nội của Đường đời số 7, tạo nên một mối quan hệ thú vị nhưng đầy thử thách.",
+      "strengths": [
+        "Sự tò mò về trí tuệ từ cả hai phía",
+        "Số 3 giúp số 7 hòa nhập xã hội",
+        "Số 7 bổ sung chiều sâu cho những ý tưởng của số 3",
+        "Sự cuốn hút lẫn nhau từ những thế giới quan khác biệt"
+      ],
+      "challenges": [
+        "Bản chất xã giao của số 3 làm số 7 hướng nội cảm thấy mệt mỏi",
+        "Sự rút lui của số 7 làm số 3 biểu cảm bối rối",
+        "Mức năng lượng và nhu cầu xã hội rất khác nhau",
+        "Số 7 có thể xem số 3 là người hời hợt"
+      ],
+      "communication": "Số 3 giao tiếp cởi mở và tự do, số 7 có chọn lọc và sâu sắc. Tìm ra một phong cách giao tiếp chung là thử thách chính.",
+      "emotionalConnection": "Đòi hỏi nỗ lực đáng kể. Số 3 bộc lộ cảm xúc tự do trong khi số 7 xử lý nội tâm. Sự kiên nhẫn và thấu hiểu là rất cần thiết.",
+      "sharedGoals": "Các dự án sáng tạo-trí tuệ kết hợp sự biểu đạt của số 3 với chiều sâu của số 7. Viết lách, nghiên cứu và các hoạt động nghệ thuật gắn kết họ.",
+      "growthAreas": "Số 3 nên phát triển chiều sâu và sự thoải mái với tĩnh lặng. Số 7 nên thực hành tương tác xã hội và bộc lộ cảm xúc.",
+      "advice": "Hãy trân trọng những gì đối phương mang lại mà bạn còn thiếu. Số 3 cần chiều sâu của số 7; số 7 cần sự nhẹ nhàng của số 3. Tạo dựng một mối quan hệ tôn vinh cả thế giới nội tâm và thế giới bên ngoài."
+    },
+    "3-8": {
+      "score": 70,
+      "overview": "Sự sáng tạo gặp gỡ quyền lực. Khả năng thể hiện nghệ thuật của Đường đời số 3 kết hợp với tham vọng vật chất của Đường đời số 8, tạo nên một mối quan hệ có tiềm năng cho cả thành công nghệ thuật và tài chính.",
+      "strengths": [
+        "Số 3 bổ sung sự sáng tạo vào các dự án của số 8",
+        "Số 8 mang lại sự ổn định tài chính cho nghệ thuật của số 3",
+        "Cùng nhau tạo ấn tượng tốt trong các mối quan hệ xã hội",
+        "Kỹ năng bổ trợ nhau trong kinh doanh và sáng tạo"
+      ],
+      "challenges": [
+        "Số 8 có thể kiểm soát sự tự do sáng tạo của số 3",
+        "Định nghĩa thành công khác nhau",
+        "Sự vui tươi của số 3 đối lập với sự nghiêm túc của số 8",
+        "Động lực quyền lực xoay quanh tiền bạc và sự kiểm soát"
+      ],
+      "communication": "Số 3 biểu cảm và nhẹ nhàng, số 8 có uy quyền và trực tiếp. Cả hai phải điều chỉnh phong cách của mình để phù hợp với người kia.",
+      "emotionalConnection": "Số 3 tạo ra sự ấm áp, nhưng số 8 có thể ưu tiên công việc hơn là sự gắn kết tình cảm. Thời gian chất lượng được lên kế hoạch sẽ giúp ích.",
+      "sharedGoals": "Các doanh nghiệp sáng tạo, giải trí và xây dựng một lối sống kết hợp nghệ thuật với sự phong phú.",
+      "growthAreas": "Số 8 nên coi trọng sự sáng tạo ngang bằng với lợi nhuận. Số 3 nên phát triển sự nhạy bén trong kinh doanh và trách nhiệm tài chính.",
+      "advice": "Cùng nhau xây dựng một doanh nghiệp sáng tạo, nơi tài năng của số 3 và sự nhạy bén trong kinh doanh của số 8 đều tỏa sáng. Đảm bảo mối quan hệ không trở nên đơn thuần là giao dịch."
+    },
+    "3-9": {
+      "score": 88,
+      "overview": "Một sự kết hợp đầy sáng tạo và truyền cảm hứng. Cả đường đời số 3 và số 9 đều sáng tạo, biểu cảm và lý tưởng, tạo nên một mối quan hệ phong phú về nghệ thuật, lòng trắc ẩn và tầm nhìn chung.",
+      "strengths": [
+        "Sức mạnh tổng hợp sáng tạo đặc biệt",
+        "Cả hai đều rộng lượng và ấm áp",
+        "Lý tưởng và tầm nhìn chung về cái đẹp",
+        "Truyền cảm hứng và nâng đỡ lẫn nhau"
+      ],
+      "challenges": [
+        "Cả hai có thể né tránh những trách nhiệm thực tế",
+        "Việc quản lý tài chính có thể gặp khó khăn",
+        "Bản chất buông bỏ của số 9 có thể gây khó hiểu cho số 3 vốn nặng tình cảm",
+        "Cả hai có thể không chịu dẫn dắt trong thời điểm khó khăn"
+      ],
+      "communication": "Hùng hồn, truyền cảm hứng và chân thành. Cả hai đều là những người giao tiếp giỏi, tạo ra những cuộc trò chuyện đẹp đẽ và tầm nhìn chung.",
+      "emotionalConnection": "Ấm áp, rộng lượng và quan tâm sâu sắc. Cả hai đều trao đi cảm xúc một cách tự do và tạo ra một không gian yêu thương, hỗ trợ.",
+      "sharedGoals": "Nghệ thuật, công việc nhân đạo và thể hiện sáng tạo. Cùng nhau, họ có thể tạo ra những tác phẩm chạm đến nhiều trái tim.",
+      "growthAreas": "Phát triển các kỹ năng thực tế và kỷ luật tài chính. Cụ thể hóa lý tưởng của họ bằng các kế hoạch hành động.",
+      "advice": "Sự sáng tạo và lòng trắc ẩn kết hợp của bạn là một món quà cho thế giới. Hãy đặt những ước mơ của bạn vào các kế hoạch thực tế và hỗ trợ lẫn nhau qua những khía cạnh ít hào nhoáng hơn của cuộc sống."
+    },
+    "3-11": {
+      "score": 80,
+      "overview": "Sự sáng tạo gặp gỡ tầm nhìn tâm linh. Sự thể hiện nghệ thuật của Đường đời 3 kết hợp với trí tuệ trực giác của Đường đời 11, tạo nên một mối quan hệ đầy cảm hứng và giàu trí tưởng tượng.",
+      "strengths": [
+        "Cùng nhau rất sáng tạo và giàu trí tưởng tượng",
+        "Số 11 thêm chiều sâu tâm linh vào nghệ thuật của số 3",
+        "Cả hai đều biểu cảm và giao tiếp tốt",
+        "Năng động, truyền cảm hứng và nâng đỡ tinh thần"
+      ],
+      "challenges": [
+        "Cả hai đều có thể dễ biến động về mặt cảm xúc",
+        "Cường độ cảm xúc của số 11 có thể làm cho số 3 nhẹ nhàng cảm thấy choáng ngợp",
+        "Các vấn đề thực tế và nền tảng có thể bị bỏ bê",
+        "Cả hai có thể sống nhiều hơn trong trí tưởng tượng hơn là hiện thực"
+      ],
+      "communication": "Rất biểu cảm và trực giác. Các cuộc trò chuyện phong phú với ý tưởng, cảm hứng và tầm nhìn sáng tạo.",
+      "emotionalConnection": "Sâu sắc và đa diện. Chiều sâu cảm xúc của số 11 kết hợp với sự ấm áp của số 3 tạo nên một thế giới nội tâm phong phú cùng nhau.",
+      "sharedGoals": "Sáng tạo nghệ thuật, giảng dạy tâm linh và truyền cảm hứng cho người khác. Những món quà kết hợp của họ có thể tạo ra những tác phẩm có sức lay động sâu sắc.",
+      "growthAreas": "Định hình những tầm nhìn của họ vào thực tế. Phát triển sự ổn định cảm xúc và trách nhiệm tài chính.",
+      "advice": "Hãy tạo ra nghệ thuật có ý nghĩa. Sự sáng tạo và cái nhìn sâu sắc về tâm linh kết hợp của bạn có thể tạo ra những tác phẩm làm thay đổi người khác. Đừng quên thanh toán các hóa đơn nữa nhé."
+    },
+    "3-22": {
+      "score": 68,
+      "overview": "Sự sáng tạo vui tươi gặp gỡ bậc thầy xây dựng. Lối sống số 3 với sự biểu đạt vui vẻ, hứng khởi sẽ kết hợp với tham vọng xây dựng thế giới nghiêm túc của Lối sống số 22, tạo nên một sự tương phản thú vị.",
+      "strengths": [
+        "Số 3 giúp giảm bớt gánh nặng trách nhiệm của Số 22",
+        "Số 22 mang lại mục đích lớn lao cho sự sáng tạo của Số 3",
+        "Giải quyết vấn đề sáng tạo từ cả hai bên",
+        "Tiềm năng cho các dự án sáng tạo quy mô lớn"
+      ],
+      "challenges": [
+        "Số 22 có thể thấy Số 3 không đủ nghiêm túc",
+        "Số 3 có thể cảm thấy áp lực bởi sự mãnh liệt của Số 22",
+        "Cách tiếp cận cuộc sống và công việc rất khác nhau",
+        "Tính cách tỉ mỉ của Số 22 xung đột với sự tự phát của Số 3"
+      ],
+      "communication": "Số 3 cởi mở và giàu biểu cảm, Số 22 có chiến lược và mục đích. Cả hai phải thích nghi để giao tiếp hiệu quả.",
+      "emotionalConnection": "Số 3 mang đến sự nhẹ nhàng và niềm vui mà Số 22 cần nhưng có thể không nhận ra. Số 22 mang đến chiều sâu để Số 3 có thể phát triển.",
+      "sharedGoals": "Các dự án sáng tạo quy mô lớn phục vụ nhân loại. Khi hòa hợp, tài năng kết hợp của họ có thể tạo ra những kết quả đáng nể.",
+      "growthAreas": "Số 3 nên phát triển tính kỷ luật và cam kết với các dự án lớn. Số 22 nên đón nhận niềm vui và sự sáng tạo tự phát.",
+      "advice": "Hãy tôn trọng tốc độ hoạt động khác nhau của bạn. Số 3 bứt tốc với niềm vui, Số 22 xây dựng các cuộc chạy marathon. Hãy tìm những dự án mà cả hai cách tiếp cận đều mang lại giá trị."
+    },
+    "3-33": {
+      "score": 82,
+      "overview": "Sự thể hiện sáng tạo gặp gỡ người thầy vĩ đại. Năng khiếu nghệ thuật của Đường đời số 3 kết hợp với trí tuệ nhân ái của Đường đời số 33, tạo nên một mối quan hệ tập trung vào việc nâng đỡ người khác thông qua vẻ đẹp và tình yêu.",
+      "strengths": [
+        "Cả hai đều cực kỳ sáng tạo và giàu cảm xúc",
+        "Số 33 thêm ý nghĩa sâu sắc vào nghệ thuật của số 3",
+        "Cả hai đều yêu thích vẻ đẹp và sự hài hòa",
+        "Cùng nhau, họ truyền cảm hứng và chữa lành thông qua sự sáng tạo"
+      ],
+      "challenges": [
+        "Cả hai có thể bỏ bê trách nhiệm thực tế",
+        "Gánh nặng trách nhiệm của số 33 có thể làm giảm niềm vui của số 3",
+        "Quá lý tưởng hóa trong mối quan hệ",
+        "Cả hai có thể cho đi quá nhiều cho người khác mà không đủ cho nhau"
+      ],
+      "communication": "Chân thành, giàu cảm xúc và sâu sắc lòng trắc ẩn. Những cuộc trò chuyện của họ có thể mang tính chữa lành và biến đổi.",
+      "emotionalConnection": "Đẹp đẽ, sâu sắc và nuôi dưỡng. Cả hai đều tiếp cận thế giới bằng tình yêu, tạo nên một mối liên kết ấm áp phi thường.",
+      "sharedGoals": "Giảng dạy sáng tạo, nghệ thuật chữa lành và xây dựng cộng đồng. Những món quà kết hợp của họ có thể tạo ra các chương trình thay đổi cuộc sống.",
+      "growthAreas": "Phát triển các kỹ năng thực tế và kinh doanh. Duy trì ranh giới lành mạnh. Đảm bảo rằng họ nuôi dưỡng mối quan hệ của chính mình.",
+      "advice": "Tình yêu và sự sáng tạo của bạn là những món quà để chia sẻ với thế giới. Nhưng hãy nhớ lấp đầy ly của chính mình trước. Xây dựng một thực hành bền vững xung quanh những tài năng kết hợp của bạn."
+    },
+    "4-4": {
+      "score": 68,
+      "overview": "Sự ổn định gấp đôi. Hai con số Đường đời 4 tạo nên một mối quan hệ cực kỳ vững chắc, đáng tin cậy nhưng có thể gặp khó khăn với sự cứng nhắc, thói quen và thiếu đi sự thú vị.",
+      "strengths": [
+        "Sự ổn định và đáng tin cậy không gì sánh bằng",
+        "Cả hai đều coi trọng sự chăm chỉ và tận tâm",
+        "Lập kế hoạch tài chính và an ninh vững chắc",
+        "Thấu hiểu lẫn nhau về nhu cầu cấu trúc"
+      ],
+      "challenges": [
+        "Có thể trở nên quá cứng nhắc và dễ đoán",
+        "Thiếu sự tự phát và phiêu lưu",
+        "Cả hai đều chống lại sự thay đổi ngay cả khi cần thiết",
+        "Khả năng thể hiện cảm xúc bị hạn chế"
+      ],
+      "communication": "Thực tế, thẳng thắn và định hướng công việc. Các cuộc trò chuyện cảm xúc sâu sắc đòi hỏi sự nỗ lực có chủ đích từ cả hai.",
+      "emotionalConnection": "Ổn định nhưng có khả năng khô khan. Cả hai phải chủ động vun đắp sự lãng mạn và sự thân mật về cảm xúc.",
+      "sharedGoals": "Xây dựng một cuộc sống an toàn—nhà cửa, tài chính và các kế hoạch dài hạn. Kỷ luật kết hợp của họ là đáng nể.",
+      "growthAreas": "Nắm lấy sự linh hoạt và tự phát. Phát triển sự thể hiện cảm xúc và sự sáng tạo lãng mạn.",
+      "advice": "Nền tảng của bạn vững như đá—bây giờ hãy xây dựng một cái gì đó đẹp đẽ trên đó. Lên kế hoạch cho những cuộc phiêu lưu, gây bất ngờ cho nhau và nhớ rằng cuộc sống cần niềm vui cũng như cấu trúc."
+    },
+    "4-5": {
+      "score": 50,
+      "overview": "Một trong những cặp đôi thử thách nhất. Nhu cầu ổn định của Đường đời số 4 xung đột trực tiếp với nhu cầu tự do của Đường đời số 5, tạo ra sự căng thẳng cơ bản.",
+      "strengths": [
+        "Mỗi bên đều mang lại chính xác những gì bên kia cần để phát triển",
+        "Số 5 mang lại sự hứng thú cho thế giới của số 4",
+        "Số 4 cung cấp nền tảng vững chắc cho số 5",
+        "Tiềm năng phát triển cá nhân đáng kể"
+      ],
+      "challenges": [
+        "Nhu cầu và giá trị khác biệt về cơ bản",
+        "Thói quen của số 4 làm số 5 ngột ngạt",
+        "Sự khó đoán của số 5 làm số 4 mất ổn định",
+        "Cần thương lượng liên tục"
+      ],
+      "communication": "Số 4 muốn các cuộc thảo luận có kế hoạch, có cấu trúc; số 5 giao tiếp một cách tự phát. Sự khác biệt cơ bản này tạo ra ma sát liên tục.",
+      "emotionalConnection": "Khó thiết lập. Số 4 cần sự nhất quán để cảm thấy an toàn về mặt cảm xúc, trong khi số 5 sợ các thói quen cảm xúc.",
+      "sharedGoals": "Tìm kiếm điểm chung là thách thức chính. Sự thỏa hiệp về lối sống là điều cần thiết để mọi mục tiêu chung có thể thực hiện được.",
+      "growthAreas": "Số 4 phải học cách linh hoạt. Số 5 phải học cách cam kết. Cả hai phải mở rộng đáng kể khỏi vùng an toàn của mình.",
+      "advice": "Mối quan hệ này chỉ thành công nếu cả hai đều cam kết phát triển. Phần thưởng là rất đáng kể—mỗi người trở thành một cá nhân hoàn thiện hơn—nhưng công việc là liên tục."
+    },
+    "4-6": {
+      "score": 82,
+      "overview": "Một sự kết hợp tự nhiên hài hòa và ổn định. Sự tận tâm của số Đường Đời 4 kết hợp với sự bao dung, chăm sóc của số Đường Đời 6, tạo nên một mối quan hệ đáng tin cậy, hướng về gia đình.",
+      "strengths": [
+        "Cả hai đều coi trọng gia đình, tổ ấm và sự ổn định",
+        "Sự ấm áp của số 6 bổ sung cho sự đáng tin cậy của số 4",
+        "Sự cam kết và lòng trung thành mạnh mẽ từ cả hai phía",
+        "Mối quan hệ thực tế và đầy sự chăm sóc"
+      ],
+      "challenges": [
+        "Có thể trở nên quá hướng về gia đình và khép kín",
+        "Cả hai có thể chống lại sự thay đổi và phát triển",
+        "Nhu cầu cảm xúc của số 6 có thể vượt quá khả năng của số 4",
+        "Nguy cơ xem nhẹ nhau"
+      ],
+      "communication": "Ấm áp và thực tế. Số 6 thêm sự ấm áp về cảm xúc vào phong cách thẳng thắn của số 4, tạo ra những cuộc trò chuyện cân bằng.",
+      "emotionalConnection": "Vững chắc và nuôi dưỡng. Số 6 tạo ra sự ấm áp về cảm xúc trong khi số 4 mang lại sự hiện diện và tin cậy nhất quán.",
+      "sharedGoals": "Xây dựng một tổ ấm đẹp đẽ, an toàn. Tạo dựng di sản thông qua gia đình và sự tham gia vào cộng đồng.",
+      "growthAreas": "Cùng nhau tìm kiếm những trải nghiệm mới. Duy trì sự lãng mạn và tránh rơi vào cái bẫy của cuộc sống thuần túy gia đình.",
+      "advice": "Sự tương hợp tự nhiên của bạn là một phước lành. Hãy giữ cho nó sống động bằng những buổi hẹn hò, những trải nghiệm mới và sự phát triển liên tục. Đừng để sự thoải mái trở thành sự tự mãn."
+    },
+    "4-7": {
+      "score": 73,
+      "overview": "Cấu trúc gặp gỡ chiều sâu. Sự thực tế của Đường Đời số 4 kết hợp với trí tuệ của Đường Đời số 7, tạo nên một mối quan hệ sâu sắc và vững chắc.",
+      "strengths": [
+        "Cả hai đều coi trọng chất lượng và sự tỉ mỉ",
+        "Cùng thích những tương tác yên tĩnh, ý nghĩa",
+        "Cái nhìn sâu sắc của số 7 làm phong phú thêm kế hoạch của số 4",
+        "Tôn trọng lẫn nhau về năng lực"
+      ],
+      "challenges": [
+        "Cả hai đều có thể quá nghiêm túc",
+        "Đời sống xã hội có thể bị hạn chế",
+        "Bản chất triết lý của số 7 có thể có vẻ không thực tế đối với số 4",
+        "Thể hiện cảm xúc là thử thách cho cả hai"
+      ],
+      "communication": "Sâu sắc và chính xác. Cả hai đều ưu tiên nội dung hơn hình thức, tạo ra những cuộc trò chuyện sâu sắc mặc dù không thường xuyên.",
+      "emotionalConnection": "Phát triển chậm nhưng có tiềm năng sâu sắc. Cả hai phải nỗ lực có ý thức để thể hiện cảm xúc và tình cảm.",
+      "sharedGoals": "Nghiên cứu, học tập và xây dựng chuyên môn. Cả hai đều coi trọng sự tinh thông và có thể làm việc cùng nhau trong các dự án phức tạp, dài hạn.",
+      "growthAreas": "Cùng nhau phát triển kỹ năng xã hội và khả năng biểu cảm cảm xúc. Thêm sự nhẹ nhàng và vui tươi vào mối quan hệ nghiêm túc của họ.",
+      "advice": "Chiều sâu chung là sức mạnh của bạn. Nhưng hãy nhớ rằng, hãy hít thở không khí trong lành — giao lưu, vui chơi và thể hiện tình cảm thường xuyên."
+    },
+    "4-8": {
+      "score": 78,
+      "overview": "Một mối quan hệ hợp tác quyền lực được xây dựng dựa trên những thành tựu thực tế. Sự siêng năng của Đường đời số 4 và tham vọng của Đường đời số 8 tạo nên một đội ngũ đáng gờm để đạt được thành công về vật chất.",
+      "strengths": [
+        "Đạo đức làm việc và năng suất đặc biệt xuất sắc",
+        "Số 4 xây dựng những gì Số 8 hình dung",
+        "Quan hệ đối tác tài chính vững mạnh",
+        "Tôn trọng lẫn nhau đối với sự cống hiến và kết quả"
+      ],
+      "challenges": [
+        "Mối quan hệ có thể giống một quan hệ đối tác kinh doanh",
+        "Cả hai đều ưu tiên công việc hơn tình yêu",
+        "Động lực quyền lực cần được quản lý cẩn thận",
+        "Ít chỗ cho sự tổn thương về mặt cảm xúc"
+      ],
+      "communication": "Hiệu quả và năng suất. Cả hai đều giao tiếp tốt về các nhiệm vụ và mục tiêu nhưng có thể bỏ qua giao tiếp về cảm xúc và các mối quan hệ.",
+      "emotionalConnection": "Phải được vun đắp một cách có chủ ý. Cả hai đều mặc định ở chế độ thực tế, vì vậy kết nối lãng mạn và cảm xúc đòi hỏi nỗ lực có ý thức.",
+      "sharedGoals": "Xây dựng sự giàu có, các doanh nghiệp và an ninh vật chất. Sức mạnh thực tế tổng hợp của họ là phi thường.",
+      "growthAreas": "Phát triển sự thân mật về cảm xúc. Dành thời gian cho vui chơi, lãng mạn và các hoạt động ngoài công việc.",
+      "advice": "Hai bạn có thể cùng nhau xây dựng những đế chế, nhưng đừng quên xây dựng tình yêu. Hãy lên lịch trình cho sự lãng mạn một cách có chủ đích như cách bạn lên lịch cho các cuộc họp kinh doanh."
+    },
+    "4-9": {
+      "score": 55,
+      "overview": "Thực tế gặp lý tưởng. Con đường số 4 với cách tiếp cận thực tế đụng độ với tầm nhìn phổ quát của Con đường số 9, tạo ra một mối quan hệ với những quan điểm thế giới đối lập.",
+      "strengths": [
+        "Mỗi bên mở rộng quan điểm của người kia",
+        "Số 4 giúp các lý tưởng của số 9 trở nên thực tế",
+        "Số 9 mở rộng tư duy của số 4 đến những khả năng lớn hơn",
+        "Tiềm năng phát triển đáng kể"
+      ],
+      "challenges": [
+        "Quan điểm và giá trị thế giới rất khác nhau",
+        "Số 4 coi số 9 là không thực tế",
+        "Số 9 coi số 4 là hạn hẹp",
+        "Nhiều khả năng xảy ra bất đồng tài chính"
+      ],
+      "communication": "Số 4 giao tiếp thực tế, số 9 giao tiếp triết học. Những tần số khác biệt này có thể tạo ra sự thất vọng hoặc sự mê hoặc.",
+      "emotionalConnection": "Số 9 cảm nhận sâu sắc về thế giới, số 4 tập trung vào thực tại trước mắt. Hiểu được những ưu tiên cảm xúc của nhau là điều then chốt.",
+      "sharedGoals": "Tìm thấy mục tiêu chung đòi hỏi sự thỏa hiệp. Số 4 muốn kết quả thực tế, số 9 muốn tác động có ý nghĩa.",
+      "growthAreas": "Số 4 nên mở rộng thế giới quan của mình. Số 9 nên phát triển các kỹ năng thực hiện thực tế.",
+      "advice": "Sự khác biệt của bạn là những người thầy vĩ đại nhất. Nếu bạn có thể kết nối giữa thực tế và lý tưởng, bạn có thể tạo ra một điều gì đó vừa có ý nghĩa vừa có thể đạt được."
+    },
+    "4-11": {
+      "score": 62,
+      "overview": "Cấu trúc gặp gỡ tầm nhìn tâm linh. Cách tiếp cận thực tế của Đường Đời số 4 đối đầu với sự sáng chói trực giác của Đường Đời số 11, tạo nên một sự kết hợp đầy thách thức nhưng có tiềm năng biến đổi.",
+      "strengths": [
+        "Số 4 giúp những tầm nhìn của số 11 trở nên thực tế hơn",
+        "Số 11 truyền cảm hứng cho số 4 vượt ra ngoài những điều tầm thường",
+        "Kỹ năng bổ trợ—xây dựng và hình dung",
+        "Phát triển thông qua việc hiểu các quan điểm khác biệt"
+      ],
+      "challenges": [
+        "Số 4 có thể gạt bỏ trực giác của số 11 là không thực tế",
+        "Số 11 có thể cảm thấy bị hạn chế bởi sự cứng nhắc của số 4",
+        "Tốc độ và cách tiếp cận cuộc sống rất khác nhau",
+        "Cường độ cảm xúc của số 11 có thể làm cho số 4 bị choáng ngợp"
+      ],
+      "communication": "Số 4 nói chuyện thực tế, số 11 nói chuyện bằng trực giác. Điều này có thể tạo ra một cuộc đối thoại hiệu quả hoặc một sự ngắt kết nối gây khó chịu.",
+      "emotionalConnection": "Số 11 mang đến năng lượng cảm xúc và tâm linh sâu sắc. Số 4 phải học cách tương tác với khía cạnh này thay vì gạt bỏ nó.",
+      "sharedGoals": "Xây dựng các dự án đầy cảm hứng có cả tầm nhìn và cấu trúc. Số 11 ước mơ, số 4 xây dựng.",
+      "growthAreas": "Số 4 nên mở lòng với trực giác và tâm linh. Số 11 nên phát triển tính kỷ luật và sự kiên nhẫn thực tế.",
+      "advice": "Bạn là người mơ mộng và là người xây dựng. Khi các bạn làm việc cùng nhau một cách tôn trọng, các dự án của các bạn sẽ có cả tâm hồn và thực chất."
+    },
+    "4-22": {
+      "score": 85,
+      "overview": "Đồng minh tự nhiên trong việc xây dựng. Con số Đường đời 4 và 22 có chung năng lượng của người kiến tạo (22 là Bậc thầy Kiến tạo và chứa bản chất của số 4), tạo nên một mối quan hệ đối tác năng suất đặc biệt.",
+      "strengths": [
+        "Thấu hiểu chung về việc xây dựng và sáng tạo",
+        "Cả hai đều kỷ luật và chăm chỉ",
+        "Số 22 nâng tầm nỗ lực của số 4 lên quy mô lớn",
+        "Cùng nhau đạt được những thành tựu thực tế phi thường"
+      ],
+      "challenges": [
+        "Áp lực và tầm nhìn của số 22 có thể làm số 4 choáng ngợp",
+        "Cả hai đều có thể là người nghiện công việc",
+        "Hạn chế biểu lộ cảm xúc từ cả hai",
+        "Số 22 có thể vượt quá phạm vi của số 4"
+      ],
+      "communication": "Hiệu quả, thực tế và hướng tới mục tiêu. Cả hai giao tiếp tốt về các dự án và kế hoạch.",
+      "emotionalConnection": "Được xây dựng thông qua công việc và thành tựu chung. Cả hai thể hiện tình yêu qua sự cống hiến và lòng trung thành hơn là lời nói.",
+      "sharedGoals": "Xây dựng các cấu trúc, tổ chức và di sản lâu dài. Năng lượng xây dựng kết hợp của họ là phi thường.",
+      "growthAreas": "Phát triển biểu cảm cảm xúc và cân bằng cuộc sống-công việc. Dành thời gian cho niềm vui và giải trí.",
+      "advice": "Mối quan hệ đối tác xây dựng của bạn là tự nhiên và mạnh mẽ. Hãy nhớ rằng điều quan trọng nhất bạn đang xây dựng là mối quan hệ của bạn với nhau."
+    },
+    "4-33": {
+      "score": 65,
+      "overview": "Thực tế gặp gỡ bậc thầy giảng dạy. Cách tiếp cận có cấu trúc của Con đường đời số 4 gặp gỡ trí tuệ từ bi của Con đường đời số 33, tạo nên một mối quan hệ kết nối giữa vật chất và tinh thần.",
+      "strengths": [
+        "Số 4 cung cấp sự hỗ trợ thiết thực cho sứ mệnh của số 33",
+        "Số 33 thêm trái tim và ý nghĩa vào công việc của số 4",
+        "Cả hai đều tận tâm và có trách nhiệm",
+        "Những món quà thực tế và tinh thần bổ sung cho nhau"
+      ],
+      "challenges": [
+        "Động lực rất khác nhau – an ninh so với phục vụ",
+        "Lý tưởng của số 33 có thể làm thất vọng số 4 thực tế",
+        "Số 4 có thể không hiểu được tiếng gọi tâm linh của số 33",
+        "Những định nghĩa khác nhau về thành công và sự viên mãn"
+      ],
+      "communication": "Số 4 giao tiếp một cách thực tế, số 33 giao tiếp bằng sự từ bi. Cả hai phải nỗ lực để hiểu ngôn ngữ của đối phương.",
+      "emotionalConnection": "Số 33 mang đến tình yêu và lòng trắc ẩn sâu sắc. Số 4 phải học cách đón nhận và hòa nhập với chiều sâu cảm xúc này.",
+      "sharedGoals": "Xây dựng các tổ chức hoặc cấu trúc phục vụ người khác. Kỹ năng xây dựng của số 4 hỗ trợ sứ mệnh giảng dạy của số 33.",
+      "growthAreas": "Số 4 nên khám phá các khía cạnh tinh thần và cảm xúc. Số 33 nên phát triển các kỹ năng thực tế và sự vững vàng.",
+      "advice": "Số 4 xây dựng sân khấu, số 33 truyền tải thông điệp. Khi bạn hợp nhất nỗ lực của mình, bạn có thể tạo ra những thể chế phục vụ và nâng đỡ cộng đồng."
+    },
+    "5-5": {
+      "score": 65,
+      "overview": "Tự do gấp đôi. Hai Đường đời số 5 tạo nên một mối quan hệ đầy điện, tràn ngập phiêu lưu, thay đổi và phấn khích, nhưng sự ổn định có thể khó nắm bắt.",
+      "strengths": [
+        "Sự phấn khích và phiêu lưu không ngừng",
+        "Cả hai đều hiểu được nhu cầu tự do",
+        "Rất dễ thích nghi và linh hoạt khi ở bên nhau",
+        "Mối quan hệ kích thích trí tuệ"
+      ],
+      "challenges": [
+        "Không ai mang lại sự ổn định hay nền tảng",
+        "Cam kết là thách thức cho cả hai",
+        "Khủng hoảng tài chính có thể xảy ra",
+        "Mối quan hệ có thể thiếu chiều sâu"
+      ],
+      "communication": "Nhanh chóng, hóm hỉnh và đa dạng. Cả hai đều thích những cuộc trò chuyện kích thích nhưng có thể bỏ qua những chủ đề sâu sắc hơn, khó khăn hơn.",
+      "emotionalConnection": "Hấp dẫn nhưng có thể nông cạn. Cả hai phải nỗ lực để tạo ra chiều sâu bên dưới sự phấn khích bề ngoài.",
+      "sharedGoals": "Du lịch, khám phá và những trải nghiệm mới. Họ cũng cần phát triển các mục tiêu ổn định dài hạn.",
+      "growthAreas": "Học cách cam kết và phát triển chiều sâu. Xây dựng sự ổn định mà không hoàn toàn hy sinh tự do.",
+      "advice": "Tình yêu phiêu lưu chung của hai bạn thật tuyệt vời, nhưng mỗi nhà phiêu lưu đều cần một mái nhà. Hãy xây dựng một số cấu trúc vào cuộc sống thú vị của bạn và đào sâu hơn vào sự thân mật về mặt cảm xúc."
+    },
+    "5-6": {
+      "score": 55,
+      "overview": "Tự do đối đầu với trách nhiệm. Khát khao phiêu lưu của Đường đời số 5 mâu thuẫn với nhu cầu về gia đình và tổ ấm của Đường đời số 6, tạo ra sự căng thẳng đáng kể.",
+      "strengths": [
+        "Mỗi bên cung cấp những gì đối phương cần để cân bằng",
+        "Số 5 mang lại sự phấn khích cho thế giới ổn định của Số 6",
+        "Số 6 mang đến cho Số 5 một mái ấm yêu thương",
+        "Tiềm năng phát triển là rất lớn"
+      ],
+      "challenges": [
+        "Những ưu tiên khác biệt về cơ bản",
+        "Số 5 cảm thấy bị mắc kẹt bởi sự hướng nội của Số 6",
+        "Số 6 cảm thấy bị bỏ rơi bởi sự lang thang của Số 5",
+        "Yêu cầu đàm phán liên tục"
+      ],
+      "communication": "Số 6 giao tiếp với sự quan tâm và lo lắng, Số 5 với sự phấn khích và đa dạng. Những ưu tiên khác nhau này tạo ra những thách thức trong giao tiếp.",
+      "emotionalConnection": "Số 6 tạo ra những mối liên kết cảm xúc sâu sắc trong khi Số 5 giữ mọi thứ nhẹ nhàng hơn. Số 6 có thể cảm thấy Số 5 không đầu tư đủ về mặt cảm xúc.",
+      "sharedGoals": "Tìm kiếm điểm chung giữa phiêu lưu và ổn định. Tạo dựng một cuộc sống gia đình bao gồm cả hai yếu tố.",
+      "growthAreas": "Số 5 phải phát triển sự cam kết và trân trọng sự ổn định. Số 6 phải phát triển sự linh hoạt và thoải mái với sự thay đổi.",
+      "advice": "Mối quan hệ này đòi hỏi sự thỏa hiệp đáng kể nhưng mang lại sự phát triển vượt bậc. Hãy tạo dựng một cuộc sống bao gồm cả phiêu lưu và một mái ấm yêu thương."
+    },
+    "5-7": {
+      "score": 70,
+      "overview": "Cuộc phiêu lưu gặp gỡ sự nội tâm. Cuộc đời số 5 với hành trình khám phá bên ngoài kết hợp với cuộc đời số 7 với hành trình khám phá bên trong, tạo nên một mối quan hệ trí tuệ phong phú.",
+      "strengths": [
+        "Cả hai đều tò mò và yêu thích học hỏi",
+        "Tôn trọng lẫn nhau về sự độc lập",
+        "Trao đổi trí tuệ kích thích",
+        "Không ai bám víu hay sở hữu"
+      ],
+      "challenges": [
+        "Số 5 khám phá bên ngoài, số 7 khám phá bên trong",
+        "Nhu cầu xã hội và mức năng lượng khác nhau",
+        "Số 5 có thể bị số 7 sâu sắc coi là hời hợt",
+        "Sự rút lui của số 7 làm số 5 xã giao bối rối"
+      ],
+      "communication": "Giàu trí tuệ nhưng trên những tần số khác nhau. Số 5 giao tiếp rộng rãi, số 7 sâu sắc. Cả hai cách tiếp cận đều có giá trị.",
+      "emotionalConnection": "Cả hai có thể tránh chiều sâu cảm xúc vì những lý do khác nhau. Tạo ra sự thân mật cảm xúc đòi hỏi nỗ lực có ý thức từ cả hai.",
+      "sharedGoals": "Học hỏi, nghiên cứu và theo đuổi trí tuệ. Du lịch bao gồm khám phá văn hóa và tâm linh gắn kết họ.",
+      "growthAreas": "Số 5 nên phát triển chiều sâu và sự tập trung. Số 7 nên đón nhận những trải nghiệm mới và sự hòa nhập xã hội.",
+      "advice": "Kết hợp bề rộng kinh nghiệm của số 5 với chiều sâu hiểu biết của số 7. Cùng nhau đi đến những nơi mang lại cả phiêu lưu và sự phong phú về mặt tâm linh."
+    },
+    "5-8": {
+      "score": 68,
+      "overview": "Sự tự do gặp gỡ quyền lực. Tình yêu thay đổi của Đường đời số 5 đối mặt với mong muốn kiểm soát của Đường đời số 8, tạo nên một mối quan hệ năng động nhưng tiềm ẩn nhiều xung đột.",
+      "strengths": [
+        "Cả hai đều năng động và tràn đầy năng lượng",
+        "Số 5 mang lại sự linh hoạt cho các dự án của số 8",
+        "Số 8 cung cấp nguồn lực cho những cuộc phiêu lưu của số 5",
+        "Sức mạnh tổng hợp cao và ấn tượng",
+        "Cả hai đều có tham vọng và không ngại rủi ro"
+      ],
+      "challenges": [
+        "Số 8 muốn kiểm soát, số 5 chống lại điều đó",
+        "Các cuộc đấu tranh quyền lực diễn ra thường xuyên",
+        "Cách tiếp cận tiền bạc khác nhau – tiêu xài so với tích lũy",
+        "Sự khó đoán của số 5 khiến số 8 chiến lược cảm thấy thất vọng"
+      ],
+      "communication": "Cả hai đều giao tiếp trực tiếp và mạnh mẽ, nhưng sự chuyên quyền của số 8 có thể đối đầu với sự nổi loạn của số 5.",
+      "emotionalConnection": "Đam mê và mãnh liệt nhưng có thể thiên về động lực quyền lực hơn là sự thân mật thực sự.",
+      "sharedGoals": "Các dự án kinh doanh kết hợp sự nhạy bén trong kinh doanh của số 8 với khả năng thích ứng và kỹ năng bán hàng của số 5.",
+      "growthAreas": "Số 8 nên nới lỏng sự kiểm soát. Số 5 nên phát triển kỷ luật và tôn trọng cấu trúc.",
+      "advice": "Hãy hướng sức mạnh tổng hợp của bạn vào các dự án cho phép cả sự tự do và cấu trúc. Thiết lập các thỏa thuận rõ ràng về tiền bạc, cam kết và không gian cá nhân."
+    },
+    "5-9": {
+      "score": 76,
+      "overview": "Sự phiêu lưu gặp gỡ lòng trắc ẩn. Tình yêu trải nghiệm của Đường Đời số 5 kết hợp với tinh thần nhân đạo của Đường Đời số 9, tạo nên một mối quan hệ cởi mở và giàu lòng trắc ẩn.",
+      "strengths": [
+        "Cả hai đều có tư tưởng rộng mở và am hiểu thế giới",
+        "Cùng yêu thích du lịch và các nền văn hóa đa dạng",
+        "Số 9 mang lại ý nghĩa cho những cuộc phiêu lưu của số 5",
+        "Cả hai đều dễ thích nghi và chấp nhận"
+      ],
+      "challenges": [
+        "Cả hai có thể né tránh cam kết sâu sắc",
+        "Số 5 sống vì trải nghiệm, số 9 sống vì ý nghĩa",
+        "Không ai trong số họ có thể mang lại sự ổn định",
+        "Sự quên mình của số 9 có thể mâu thuẫn với sự tập trung vào bản thân của số 5"
+      ],
+      "communication": "Rộng mở và thú vị. Cả hai đều thích thảo luận về các vấn đề thế giới, triết học và trải nghiệm.",
+      "emotionalConnection": "Ấm áp và chu đáo nhưng cả hai có thể che giấu sự yếu đuối hoàn toàn. Tình yêu phổ quát của số 9 có thể không đủ cá nhân đối với số 5.",
+      "sharedGoals": "Du lịch có mục đích, những chuyến phiêu lưu nhân đạo và khám phá văn hóa. Cùng nhau họ có thể tạo ra ảnh hưởng toàn cầu.",
+      "growthAreas": "Phát triển cam kết và xây dựng nền tảng vững chắc. Số 5 nên tìm kiếm ý nghĩa sâu sắc hơn, số 9 nên tận hưởng những trải nghiệm vì chính bản thân chúng.",
+      "advice": "Cùng nhau khám phá thế giới với cả trái tim và trí óc rộng mở. Tạo ra những cuộc phiêu lưu phục vụ người khác và làm phong phú thêm mối liên kết của bạn."
+    },
+    "5-11": {
+      "score": 66,
+      "overview": "Năng lượng không ngừng nghỉ gặp gỡ sự nhạy cảm tinh thần. Cuộc sống Số 5 không ngừng thay đổi đối mặt với trực giác nhạy bén của Cuộc sống Số 11, tạo ra một động lực kích thích nhưng tiềm ẩn nguy cơ quá tải.",
+      "strengths": [
+        "Cả hai đều tò mò về những bí ẩn của cuộc sống",
+        "Số 5 giúp Số 11 tham gia vào thế giới vật chất",
+        "Số 11 thêm chiều sâu tinh thần vào trải nghiệm của Số 5",
+        "Mối quan hệ của cả hai không bao giờ nhàm chán"
+      ],
+      "challenges": [
+        "Sự hỗn loạn của Số 5 có thể làm mất ổn định Số 11 nhạy cảm",
+        "Sự mãnh liệt của Số 11 có thể khiến Số 5 yêu tự do cảm thấy nặng nề",
+        "Nhu cầu quản lý năng lượng rất khác nhau",
+        "Tốc độ của Số 5 có thể quá nhanh đối với Số 11"
+      ],
+      "communication": "Số 5 giao tiếp rộng rãi và nhanh chóng, Số 11 giao tiếp sâu sắc và trực giác. Tìm thấy một nhịp điệu chung là thách thức nhưng đáng giá.",
+      "emotionalConnection": "Số 11 cảm nhận sâu sắc trong khi Số 5 di chuyển nhanh chóng. Số 5 phải chậm lại, và Số 11 phải nhẹ nhàng hơn để kết nối.",
+      "sharedGoals": "Khám phá cả thế giới vật chất và tinh thần. Du lịch đến những địa điểm linh thiêng kết hợp cả hai sở thích của họ.",
+      "growthAreas": "Số 5 nên phát triển sự tĩnh lặng và chiều sâu. Số 11 nên đón nhận những cuộc phiêu lưu vật lý và sự linh hoạt.",
+      "advice": "Cân bằng sự khám phá vật chất của Số 5 với chiều sâu tinh thần của Số 11. Tạo ra những trải nghiệm nuôi dưỡng cả thể xác và tâm hồn."
+    },
+    "5-22": {
+      "score": 55,
+      "overview": "Tự do gặp gỡ nhà kiến tạo vĩ đại. Bản chất không ngừng nghỉ của Đường đời số 5 đối mặt với năng lượng xây dựng to lớn của Đường đời số 22, tạo ra một động lực về cơ bản là đầy thử thách.",
+      "strengths": [
+        "Số 5 mang lại khả năng thích ứng cho các dự án của số 22",
+        "Số 22 có thể định hướng năng lượng của số 5 một cách có tính xây dựng",
+        "Cả hai đều năng động và có năng lực",
+        "Khi có sự đồng điệu, họ có thể đạt được những điều đáng chú ý"
+      ],
+      "challenges": [
+        "Số 22 cần sự cam kết mà số 5 khó lòng trao gửi",
+        "Sự khó đoán của số 5 làm lung lay kế hoạch của số 22",
+        "Cách tiếp cận trách nhiệm rất khác nhau",
+        "Số 22 có thể thấy số 5 là không đáng tin cậy"
+      ],
+      "communication": "Số 22 giao tiếp với mục đích chiến lược, số 5 giao tiếp một cách tự phát. Điều này thường xuyên tạo ra sự lệch lạc trong giao tiếp.",
+      "emotionalConnection": "Khó thiết lập một cách nhất quán. Số 22 cần sự đáng tin cậy, số 5 cần sự đa dạng.",
+      "sharedGoals": "Việc tìm thấy chúng là một thách thức. Nếu số 5 có thể cam kết với tầm nhìn của số 22, những điều tuyệt vời có thể xảy ra.",
+      "growthAreas": "Số 5 phải phát triển khả năng cam kết và thực hiện. Số 22 phải chấp nhận một số sự hỗn loạn và linh hoạt.",
+      "advice": "Sự kết hợp này hoạt động tốt nhất khi số 5 có những vai trò cụ thể, đa dạng trong tầm nhìn lớn hơn của số 22. Cấu trúc có tích hợp sự tự do là chìa khóa."
+    },
+    "5-33": {
+      "score": 60,
+      "overview": "Tự do gặp gỡ tình yêu vô điều kiện. Tinh thần không ngừng nghỉ của Đường đời số 5 gặp gỡ sự cống hiến vô vị kỷ của Đường đời số 33, tạo nên một mối quan hệ của những năng lượng đối lập.",
+      "strengths": [
+        "Tình yêu của số 33 đủ bao dung cho bản chất của số 5",
+        "Số 5 mang đến sự đa dạng cho thế giới của số 33",
+        "Cả hai đều có trái tim rộng mở theo những cách khác nhau",
+        "Sự khôn ngoan của số 33 có thể hướng dẫn sự khám phá của số 5"
+      ],
+      "challenges": [
+        "Số 5 có thể coi thường tình yêu của số 33",
+        "Số 33 có thể hy sinh quá nhiều cho số 5",
+        "Khái niệm khác nhau về sự cam kết và tình yêu",
+        "Sự không ngừng nghỉ của số 5 có thể làm tổn thương số 33"
+      ],
+      "communication": "Số 33 giao tiếp với lòng trắc ẩn sâu sắc, số 5 với sự đa dạng và phấn khích. Cả hai phải dung hòa những phong cách khác nhau của họ.",
+      "emotionalConnection": "Số 33 mang đến tình yêu vô điều kiện sâu sắc. Số 5 phải học cách đón nhận và đền đáp chiều sâu này.",
+      "sharedGoals": "Dạy dỗ thông qua kinh nghiệm và du lịch. Những cuộc phiêu lưu nhân đạo kết hợp năng lượng của số 5 với sự khôn ngoan của số 33.",
+      "growthAreas": "Số 5 nên phát triển chiều sâu cảm xúc và sự cam kết. Số 33 nên duy trì ranh giới và sự tự chăm sóc.",
+      "advice": "Tình yêu vô điều kiện của số 33 có thể tạo không gian cho bản chất của số 5, nhưng số 5 không được coi thường điều này. Hãy đền đáp tình yêu một cách có ý thức và nhất quán."
+    },
+    "6-6": {
+      "score": 78,
+      "overview": "Sự chăm sóc gấp đôi. Hai người thuộc Đường Đời số 6 tạo nên một mối quan hệ đầy tình yêu thương, hướng về gia đình với những giá trị mạnh mẽ và sự tận tâm lẫn nhau.",
+      "strengths": [
+        "Sự quan tâm và tận tâm đặc biệt dành cho nhau",
+        "Mối liên kết gia đình và cộng đồng bền chặt",
+        "Cuộc sống gia đình hạnh phúc bên nhau",
+        "Hiểu sâu sắc về bản chất cho đi của nhau"
+      ],
+      "challenges": [
+        "Cả hai có thể cho đi quá nhiều và trở nên hy sinh",
+        "Có thể quá tập trung vào người khác mà bỏ bê bản thân",
+        "Kiểm soát dưới vỏ bọc quan tâm",
+        "Khó khăn trong việc nhận lại nhiều như khi cho đi"
+      ],
+      "communication": "Ấm áp, quan tâm và phong phú cảm xúc. Cả hai tự nhiên quan tâm đến cảm xúc của đối phương và giao tiếp bằng sự tử tế.",
+      "emotionalConnection": "Nuôi dưỡng sâu sắc và đầy yêu thương. Cả hai tạo ra sự an toàn và ấm áp về mặt cảm xúc, khiến đây trở thành một mối quan hệ rất thoải mái.",
+      "sharedGoals": "Gia đình, tổ ấm và phục vụ cộng đồng. Cùng nhau, họ tạo ra một thiên đường của tình yêu và sự quan tâm.",
+      "growthAreas": "Thiết lập ranh giới. Học cách đón nhận sự giúp đỡ. Duy trì bản sắc cá nhân ngoài vai trò chăm sóc.",
+      "advice": "Tình yêu của bạn rất dồi dào—hãy đảm bảo rằng một phần trong đó dành cho chính mình. Thực hành tự chăm sóc bản thân như một cặp đôi và duy trì bản sắc cá nhân ngoài vai trò người chăm sóc của bạn."
+    },
+    "6-7": {
+      "score": 58,
+      "overview": "Trái tim gặp lý trí. Sự ấm áp về cảm xúc của Đường đời số 6 đối diện với sự tách biệt về trí tuệ của Đường đời số 7, tạo nên một mối quan hệ với những năng lượng bổ sung nhưng cũng đầy thử thách.",
+      "strengths": [
+        "Số 6 tạo ra sự ấm áp mà số 7 thầm cần",
+        "Số 7 bổ sung chiều sâu trí tuệ cho mối quan hệ",
+        "Sự bổ sung quà tặng về cảm xúc và trí tuệ",
+        "Cả hai đều coi trọng chất lượng và chiều sâu"
+      ],
+      "challenges": [
+        "Nhu cầu gần gũi của số 6 mâu thuẫn với nhu cầu không gian riêng của số 7",
+        "Sự tách biệt của số 7 làm tổn thương số 6",
+        "Nhu cầu xã hội rất khác nhau",
+        "Số 6 có thể cảm thấy không được trân trọng"
+      ],
+      "communication": "Số 6 giao tiếp bằng trái tim, số 7 bằng lý trí. Thu hẹp khoảng cách này đòi hỏi sự tôn trọng và nỗ lực từ cả hai phía.",
+      "emotionalConnection": "Số 6 tạo ra sự ấm áp về cảm xúc, nhưng số 7 có thể không đáp lại ở cùng một mức độ, gây ra nỗi đau cho số 6.",
+      "sharedGoals": "Cùng nhau tạo dựng một cuộc sống ý nghĩa, chất lượng. Cả hai đều coi trọng bản chất hơn sự hời hợt nhưng định nghĩa nó khác nhau.",
+      "growthAreas": "Số 7 nên thực hành thể hiện cảm xúc và sự gắn kết. Số 6 nên phát triển sự thoải mái với các hoạt động trí tuệ và thời gian ở một mình.",
+      "advice": "Tình yêu nói những ngôn ngữ khác nhau trong mối quan hệ này. Hãy học ngôn ngữ của nhau—những hành động quan tâm của số 6 và những món quà sâu sắc của số 7—và trân trọng cả hai."
+    },
+    "6-8": {
+      "score": 77,
+      "overview": "Sự nuôi dưỡng gặp gỡ tham vọng. Bản chất chu đáo của Đường đời số 6 hỗ trợ động lực thành công của Đường đời số 8, tạo nên một mối quan hệ cân bằng giữa trái tim và thành tựu.",
+      "strengths": [
+        "Số 6 tạo một tổ ấm yêu thương cho số 8 tham vọng",
+        "Số 8 mang lại sự an toàn về vật chất mà số 6 coi trọng",
+        "Vai trò bổ sung cho nhau—người chăm sóc và người chu cấp",
+        "Đơn vị gia đình mạnh mẽ khi cân bằng"
+      ],
+      "challenges": [
+        "Số 8 có thể ưu tiên sự nghiệp hơn gia đình",
+        "Số 6 có thể cảm thấy mối quan hệ mang tính giao dịch",
+        "Động lực quyền lực xung quanh việc ai quyết định điều gì",
+        "Nhu cầu cảm xúc của số 6 đối lập với sự tập trung vào vật chất của số 8"
+      ],
+      "communication": "Số 6 giao tiếp bằng cảm xúc, số 8 giao tiếp một cách có thẩm quyền. Tìm kiếm sự trao đổi cân bằng đòi hỏi sự điều chỉnh từ cả hai phía.",
+      "emotionalConnection": "Số 6 mang lại sự phong phú về cảm xúc. Số 8 phải dành thời gian và nỗ lực để tương tác về mặt cảm xúc thay vì chỉ vật chất.",
+      "sharedGoals": "Xây dựng một cuộc sống gia đình đẹp đẽ, thành công. Số 8 kiếm tiền và đạt được thành tựu, số 6 nuôi dưỡng và duy trì.",
+      "growthAreas": "Số 8 nên coi trọng cuộc sống gia đình ngang bằng với sự nghiệp. Số 6 nên phát triển tham vọng cá nhân bên ngoài gia đình.",
+      "advice": "Tạo dựng một mối quan hệ đối tác mà cả thành công vật chất và sự thỏa mãn cảm xúc đều được coi trọng như nhau. Tình yêu của số 6 không kém giá trị hơn thu nhập của số 8."
+    },
+    "6-9": {
+      "score": 83,
+      "overview": "Sự quan tâm cá nhân gặp gỡ lòng trắc ẩn phổ quát. Số Đường Đời 6 và 9 chia sẻ cam kết sâu sắc về tình yêu và sự phục vụ, tạo nên một mối quan hệ đẹp đẽ, có mục đích rõ ràng.",
+      "strengths": [
+        "Cả hai đều tử tế, giàu lòng trắc ẩn và hướng về phục vụ cộng đồng",
+        "Số 6 tập trung tình yêu của mình, số 9 mở rộng nó",
+        "Gia đình và cộng đồng gắn bó sâu sắc",
+        "Chia sẻ các giá trị về tình yêu và trách nhiệm"
+      ],
+      "challenges": [
+        "Số 9 cống hiến cho thế giới, số 6 muốn họ ở nhà",
+        "Phạm vi quan tâm khác nhau—cá nhân so với phổ quát",
+        "Triết lý buông bỏ của số 9 đối lập với sự gắn bó của số 6",
+        "Cả hai có thể cho đi quá nhiều và kiệt sức"
+      ],
+      "communication": "Ấm áp, chu đáo và định hướng theo giá trị. Cả hai giao tiếp với lòng trắc ẩn và sự quan tâm chân thành đến hạnh phúc của nhau.",
+      "emotionalConnection": "Sâu sắc và chân thành. Cả hai đều dẫn dắt bằng tình yêu, tạo nên một mối liên kết ủng hộ và đầy quan tâm sâu sắc.",
+      "sharedGoals": "Gia đình, phục vụ cộng đồng và làm cho thế giới trở nên yêu thương hơn. Cùng nhau, họ có thể tạo ra các chương trình và gia đình mẫu mực về lòng trắc ẩn.",
+      "growthAreas": "Số 6 nên mở rộng vòng tròn quan tâm của mình. Số 9 nên ưu tiên gia đình trực hệ bên cạnh việc phục vụ toàn cầu.",
+      "advice": "Tình yêu chung của bạn có thể thay đổi thế giới. Bắt đầu từ gia đình bạn, mở rộng ra cộng đồng, và để tình yêu của bạn lan tỏa. Chỉ cần nhớ chăm sóc bản thân mình nữa."
+    },
+    "6-11": {
+      "score": 78,
+      "overview": "Sự nuôi dưỡng gặp gỡ tầm nhìn tâm linh. Bản chất quan tâm của Con số Đường đời 6 hỗ trợ những món quà trực giác của Con số Đường đời 11, tạo nên một mối quan hệ yêu thương và có ý thức tâm linh.",
+      "strengths": [
+        "Con số 6 mang lại mái ấm yêu thương mà Con số 11 nhạy cảm cần",
+        "Con số 11 bổ sung chiều sâu tâm linh cho sự chăm sóc của Con số 6",
+        "Cả hai đều nhân ái và quan tâm",
+        "Sự ổn định của Con số 6 giúp Con số 11 bớt nhạy cảm"
+      ],
+      "challenges": [
+        "Cường độ tâm linh của Con số 11 có thể làm cho Con số 6 thực tế cảm thấy quá tải",
+        "Con số 6 có thể không hiểu những trải nghiệm nội tâm của Con số 11",
+        "Cách tiếp cận khác nhau trong việc giúp đỡ người khác",
+        "Nhu cầu không gian riêng của Con số 11 so với nhu cầu gần gũi của Con số 6"
+      ],
+      "communication": "Con số 6 giao tiếp bằng sự ấm áp và quan tâm, Con số 11 bằng trực giác và chiều sâu. Cả hai đều là những người giao tiếp giàu lòng trắc ẩn.",
+      "emotionalConnection": "Phong phú và nhiều tầng lớp. Tình yêu của Con số 6 tạo ra sự an toàn cho sự nhạy cảm của Con số 11, và Con số 11 bổ sung chiều sâu tâm linh cho mối liên kết cảm xúc.",
+      "sharedGoals": "Chữa lành, tư vấn và phục vụ cộng đồng. Cùng nhau, họ có thể tạo ra những không gian nuôi dưỡng cho sự phát triển của người khác.",
+      "growthAreas": "Con số 6 nên khám phá các khía cạnh tâm linh. Con số 11 nên tham gia nhiều hơn vào các trách nhiệm thực tế, hàng ngày.",
+      "advice": "Tạo một ngôi nhà vừa là nơi ẩn náu vừa là không gian chữa lành. Những món quà nuôi dưỡng và tâm linh kết hợp của bạn có thể thay đổi cuộc sống của những người xung quanh bạn."
+    },
+    "6-22": {
+      "score": 80,
+      "overview": "Sự nuôi dưỡng và người xây dựng bậc thầy gặp nhau. Bản chất quan tâm của Đường đời số 6 hỗ trợ những tầm nhìn lớn của Đường đời số 22, tạo nên một mối quan hệ xây dựng dựa trên cả trái tim và mục đích.",
+      "strengths": [
+        "Số 6 tạo ra nền tảng yêu thương mà số 22 cần",
+        "Số 22 mang lại cho số 6 một mục đích lớn hơn để nuôi dưỡng",
+        "Cả hai đều có trách nhiệm và cam kết",
+        "Sự bổ sung trong việc xây dựng gia đình và thế giới"
+      ],
+      "challenges": [
+        "Tham vọng của số 22 có thể ưu tiên hơn cuộc sống gia đình",
+        "Số 6 có thể cảm thấy số 22 quá tập trung vào công việc",
+        "Quy mô quan tâm và xây dựng khác nhau",
+        "Áp lực của số 22 có thể làm số 6 nuôi dưỡng căng thẳng"
+      ],
+      "communication": "Số 6 ấm áp và hướng về cá nhân, số 22 có chiến lược và tầm nhìn. Cả hai đều giao tiếp hiệu quả trong lĩnh vực của mình.",
+      "emotionalConnection": "Số 6 tạo ra sự ấm áp và an toàn về mặt cảm xúc. Số 22 đáp lại bằng cách cùng nhau xây dựng một cuộc sống ý nghĩa.",
+      "sharedGoals": "Xây dựng các thể chế phục vụ gia đình và cộng đồng. Số 6 nuôi dưỡng những gì số 22 xây dựng.",
+      "growthAreas": "Số 22 nên ưu tiên cuộc sống gia đình. Số 6 nên chấp nhận tầm nhìn lớn của số 22 và tìm vai trò của mình trong đó.",
+      "advice": "Xây dựng đế chế của bạn từ nền tảng tình yêu. Số 6 làm cho thành tựu của số 22 trở nên ý nghĩa, và số 22 mang lại cho tình yêu của số 6 một bức tranh lớn hơn."
+    },
+    "6-33": {
+      "score": 88,
+      "overview": "Sự nuôi dưỡng gặp gỡ sự dạy dỗ bậc thầy. Số đường đời 6 và 33 chia sẻ cam kết sâu sắc về tình yêu, gia đình và phục vụ, tạo nên một trong những mối quan hệ chăm sóc sâu sắc nhất có thể.",
+      "strengths": [
+        "Tình yêu và lòng trắc ẩn vô song khi ở bên nhau",
+        "Cả hai đều tận tâm với gia đình và cộng đồng",
+        "Số 33 nâng tầm sự chăm sóc của số 6 lên một cấp độ tâm linh",
+        "Sự hiểu biết lẫn nhau về trách nhiệm đối với người khác"
+      ],
+      "challenges": [
+        "Cả hai có thể dâng hiến tất cả cho người khác mà không còn gì cho bản thân",
+        "Tiếng gọi tâm linh của số 33 có thể đưa họ rời xa gia đình",
+        "Lý tưởng hóa quá mức tình yêu của họ",
+        "Cả hai có thể né tránh giải quyết các vấn đề trong mối quan hệ"
+      ],
+      "communication": "Sâu sắc từ bi và tràn đầy tình yêu. Các cuộc trò chuyện của họ mang tính chữa lành và nuôi dưỡng cho cả hai.",
+      "emotionalConnection": "Phi thường sâu sắc và tâm linh. Đây là một trong những cặp đôi có sự kết nối về cảm xúc và tâm linh sâu sắc nhất.",
+      "sharedGoals": "Tạo dựng những gia đình yêu thương, giảng dạy, chữa lành và xây dựng cộng đồng. Cùng nhau, họ thể hiện tình yêu trong hành động.",
+      "growthAreas": "Chăm sóc bản thân và thiết lập ranh giới. Học cách đôi khi từ chối người khác có nghĩa là đồng ý với nhau.",
+      "advice": "Tình yêu của bạn là ngọn hải đăng cho người khác. Chỉ cần đảm bảo rằng những người canh giữ ngọn hải đăng cũng được chăm sóc tốt. Hãy thực hành chăm sóc bản thân một cách triệt để song song với việc phục vụ người khác."
+    },
+    "7-7": {
+      "score": 72,
+      "overview": "Độ sâu gấp đôi. Hai con số Đường đời 7 tạo ra một mối quan hệ trí tuệ và tâm linh sâu sắc nhưng có thể gặp khó khăn với sự cô lập và thể hiện cảm xúc.",
+      "strengths": [
+        "Mối liên hệ trí tuệ và tâm linh sâu sắc",
+        "Tôn trọng lẫn nhau sự riêng tư và cô độc",
+        "Cả hai đều coi trọng chiều sâu và sự chân thực",
+        "Chia sẻ đời sống nội tâm phong phú"
+      ],
+      "challenges": [
+        "Nguy cơ cô lập xã hội",
+        "Không ai chủ động thể hiện cảm xúc",
+        "Có thể sống trong thế giới nội tâm riêng biệt",
+        "Các vấn đề thực tế có thể bị bỏ bê"
+      ],
+      "communication": "Sâu sắc và ý nghĩa khi giao tiếp, nhưng cả hai có thể rút vào im lặng. Chất lượng hơn số lượng định nghĩa sự trao đổi của họ.",
+      "emotionalConnection": "Có khả năng sâu sắc nhưng đòi hỏi nỗ lực để thể hiện. Cả hai đều cảm nhận sâu sắc nhưng hiếm khi thể hiện ra bên ngoài.",
+      "sharedGoals": "Phát triển tâm linh, nghiên cứu và tìm hiểu những bí ẩn của cuộc sống. Cùng nhau họ có thể khám phá những câu hỏi sâu sắc nhất.",
+      "growthAreas": "Phát triển các mối quan hệ xã hội và khả năng thể hiện cảm xúc. Cùng nhau tham gia vào thế giới thực tế.",
+      "advice": "Chiều sâu chung của các bạn là hiếm có và quý giá. Nhưng hãy thường xuyên bước ra khỏi hang động riêng của mình để chia sẻ những gì bạn đã khám phá. Thể hiện tình yêu của bạn bằng lời nói và hành động, không chỉ bằng suy nghĩ."
+    },
+    "7-8": {
+      "score": 65,
+      "overview": "Trí tuệ gặp sức mạnh. Chi số Đường đời 7 với chiều sâu tri thức gặp gỡ tham vọng vật chất của Chi số Đường đời 8, tạo nên một mối quan hệ với những ưu tiên khác biệt.",
+      "strengths": [
+        "Số 7 bổ sung trí tuệ cho sức mạnh của số 8",
+        "Số 8 mang lại sự ổn định vật chất cho các mục tiêu của số 7",
+        "Tôn trọng lẫn nhau về năng lực",
+        "Tiềm năng trở thành đối tác chiến lược"
+      ],
+      "challenges": [
+        "Số 7 coi trọng kiến thức, số 8 coi trọng tài sản",
+        "Ưu tiên và định nghĩa thành công khác nhau",
+        "Tốc độ của số 8 có thể làm cho số 7 trầm tư bị choáng ngợp",
+        "Cả hai có thể ưu tiên lợi ích cá nhân hơn mối quan hệ"
+      ],
+      "communication": "Số 7 thiên về triết học, số 8 thiên về thực tế. Cả hai đều thông minh nhưng giao tiếp trên những tần sóng khác nhau.",
+      "emotionalConnection": "Đòi hỏi nỗ lực có chủ đích từ cả hai. Cả hai đều không tự nhiên thể hiện cảm xúc.",
+      "sharedGoals": "Nghiên cứu của số 7 và công việc kinh doanh của số 8 có thể kết hợp trong các lĩnh vực tư vấn, công nghệ hoặc các dự án chiến lược.",
+      "growthAreas": "Số 7 nên tham gia vào thực tế vật chất. Số 8 nên khám phá các chiều kích triết học và tinh thần.",
+      "advice": "Hãy tôn trọng những định nghĩa thành công khác nhau của nhau. Trí tuệ của số 7 giúp sức mạnh của số 8 trở nên ý nghĩa hơn, và nguồn lực của số 8 hỗ trợ hành trình tìm kiếm sự hiểu biết của số 7."
+    },
+    "7-9": {
+      "score": 75,
+      "overview": "Người tìm kiếm gặp hiền triết. Hành trình tìm kiếm sự thật của Đường đời số 7 kết hợp với trí tuệ nhân đạo của Đường đời số 9, tạo nên một mối quan hệ triết lý sâu sắc và giàu giá trị tinh thần.",
+      "strengths": [
+        "Kết nối trí tuệ và tinh thần sâu sắc",
+        "Cả hai đều lý tưởng và tìm kiếm ý nghĩa cuộc sống",
+        "Lòng trắc ẩn của số 9 sưởi ấm trí tuệ lạnh lùng của số 7",
+        "Cùng yêu thích trí tuệ và sự thấu hiểu"
+      ],
+      "challenges": [
+        "Cả hai có thể quá tách rời các vấn đề thực tế",
+        "Sự hoài nghi của số 7 có thể thách thức niềm tin của số 9",
+        "Cách tiếp cận khác nhau—phân tích so với lòng trắc ẩn",
+        "Nhu cầu xã hội khác biệt đáng kể"
+      ],
+      "communication": "Sâu sắc, triết lý và đầy ý nghĩa. Cả hai đều thích khám phá những câu hỏi lớn của cuộc sống và chia sẻ những hiểu biết sâu sắc.",
+      "emotionalConnection": "Số 9 mang lại sự ấm áp cho cách tiếp cận trí tuệ của số 7. Cùng nhau, họ tạo ra một kết nối bao gồm cả trái tim và khối óc.",
+      "sharedGoals": "Nghiên cứu triết học, khám phá tâm linh và công việc có ý nghĩa. Cùng nhau, họ có thể đóng góp trí tuệ đáng kể cho thế giới.",
+      "growthAreas": "Kết nối với thực tế và trách nhiệm hàng ngày. Phát triển sự nhẹ nhàng và vui vẻ.",
+      "advice": "Hành trình tìm kiếm ý nghĩa chung của bạn thật tuyệt vời. Hãy đặt trí tuệ của mình vào hành động thực tế, và hãy nhớ rằng niềm vui và sự vui chơi cũng là những phần thiết yếu của một cuộc sống ý nghĩa."
+    },
+    "7-11": {
+      "score": 80,
+      "overview": "Phân tích gặp gỡ trực giác. Người mang Đường đời số 7 đi tìm kiếm tri thức kết hợp với nhận thức tâm linh của người mang Đường đời số 11, tạo nên một trong những cặp đôi có mối liên hệ tâm linh sâu sắc nhất.",
+      "strengths": [
+        "Sự cộng hưởng trí tuệ và tâm linh sâu sắc",
+        "Cả hai đều coi trọng sự phát triển nội tâm hơn vật chất",
+        "Trực giác của số 11 bổ sung cho khả năng phân tích của số 7",
+        "Cùng chung sự mê hoặc với những bí ẩn của cuộc đời"
+      ],
+      "challenges": [
+        "Có thể trở nên quá tách biệt với thế giới bên ngoài",
+        "Cả hai có thể sống quá nhiều trong suy nghĩ của mình",
+        "Cuộc sống thực tế và xã hội có thể bị ảnh hưởng",
+        "Cường độ cảm xúc của số 11 có thể khiến số 7 xa cách cảm thấy choáng ngợp"
+      ],
+      "communication": "Sâu sắc và đa chiều. Các cuộc trò chuyện trải dài từ phân tích trí tuệ đến cái nhìn sâu sắc trực giác, tạo ra một cuộc đối thoại phong phú.",
+      "emotionalConnection": "Người mang số 11 mang đến chiều sâu cảm xúc mà người mang số 7 có thể tiếp cận trong không gian an toàn này. Cùng nhau, họ tạo ra một mối liên kết cảm xúc-tâm linh độc đáo.",
+      "sharedGoals": "Nghiên cứu tâm linh, học thuật siêu hình và khám phá nội tâm. Cùng nhau, họ có thể tạo ra những khám phá tâm linh quan trọng.",
+      "growthAreas": "Tương tác với thế giới vật chất. Xây dựng các kết nối xã hội và kỹ năng thực tế.",
+      "advice": "Mối liên hệ tâm linh và trí tuệ của bạn là rất hiếm. Hãy chia sẻ những khám phá của bạn với thế giới – đừng giữ sự khôn ngoan của bạn bị khóa trong thánh đường riêng tư."
+    },
+    "7-22": {
+      "score": 67,
+      "overview": "Trí tuệ nội tâm gặp gỡ khả năng xây dựng thế giới bên ngoài. Bản chất trầm tư của Đường Đời số 7 đối đầu với tham vọng kiến tạo thế giới của Đường Đời số 22, tạo nên sự tương phản giữa tập trung bên trong và bên ngoài.",
+      "strengths": [
+        "Nghiên cứu của số 7 hỗ trợ cho các kế hoạch lớn của số 22",
+        "Số 22 mang lại ứng dụng thực tế cho kiến thức của số 7",
+        "Tôn trọng lẫn nhau về sự cống hiến và chuyên môn",
+        "Mối quan hệ đối tác có chiến lược và đầy đủ thông tin"
+      ],
+      "challenges": [
+        "Sự tập trung rất khác nhau—thế giới bên trong so với thế giới bên ngoài",
+        "Nhịp độ của số 22 có thể làm số 7 choáng ngợp",
+        "Số 7 có thể tỏ ra không mấy nhiệt tình đối với số 22 năng động",
+        "Nhu cầu xã hội khác biệt đáng kể"
+      ],
+      "communication": "Số 7 thiên về phân tích và thận trọng, số 22 có chiến lược và định hướng hành động. Cả hai đều thông minh nhưng vận hành khác nhau.",
+      "emotionalConnection": "Đòi hỏi nỗ lực đáng kể. Cả hai đều có xu hướng mặc định là không thể hiện cảm xúc—tư duy đối với số 7, hành động đối với số 22.",
+      "sharedGoals": "Các dự án quy mô lớn được hỗ trợ bởi nghiên cứu. Số 7 cung cấp nền tảng kiến thức, số 22 xây dựng dựa trên đó.",
+      "growthAreas": "Số 7 nên tham gia nhiều hơn vào việc triển khai thực tế. Số 22 nên trân trọng sự suy tư và trí tuệ nội tâm.",
+      "advice": "Hãy xem bản thân bạn như bộ phận nghiên cứu và phát triển của cuộc sống. Số 7 nghiên cứu, số 22 phát triển. Sự hợp tác của bạn hoạt động tốt nhất trong khuôn khổ bổ trợ này."
+    },
+    "7-33": {
+      "score": 72,
+      "overview": "Sự tìm kiếm gặp gỡ sự chỉ dạy. Cuộc sống Đường đời số 7 đi tìm chân lý kết hợp với sự khôn ngoan đầy lòng trắc ẩn của Đường đời số 33, tạo nên một mối quan hệ phong phú trong khám phá tâm linh và phụng sự.",
+      "strengths": [
+        "Kết nối tâm linh sâu sắc và sự tôn trọng lẫn nhau",
+        "Số 33 thêm lòng trắc ẩn vào sự hiểu biết của số 7",
+        "Số 7 thêm chiều sâu phân tích vào sự khôn ngoan của số 33",
+        "Cùng nhau cam kết với chân lý và ý nghĩa"
+      ],
+      "challenges": [
+        "Sự tách biệt của số 7 đối lập với sự cởi mở về cảm xúc của số 33",
+        "Cách tiếp cận khác nhau trong việc giúp đỡ – phân tích đối lập với yêu thương",
+        "Tính cách xã hội của số 33 đối lập với sự cô độc của số 7",
+        "Có thể gặp khó khăn với các trách nhiệm thực tế"
+      ],
+      "communication": "Số 7 giao tiếp một cách phân tích, số 33 giao tiếp một cách từ bi. Cùng nhau, họ tạo ra những góc nhìn toàn diện.",
+      "emotionalConnection": "Tình yêu vô điều kiện của số 33 có thể chạm đến trái tim đề phòng của số 7. Số 7 phải sẵn lòng đón nhận và đáp lại.",
+      "sharedGoals": "Giảng dạy tâm linh, viết triết học và phục vụ dựa trên trí tuệ. Những hiểu biết sâu sắc kết hợp của họ có thể soi sáng những chân lý sâu xa.",
+      "growthAreas": "Số 7 nên mở lòng cùng với trí óc của mình. Số 33 nên phát triển tư duy phân tích cùng với lòng trắc ẩn.",
+      "advice": "Mối quan hệ đối tác của bạn là cầu nối giữa lý trí và trái tim. Sự khôn ngoan phân tích của số 7 kết hợp với sự khôn ngoan đầy yêu thương của số 33 tạo nên sự hiểu biết trọn vẹn."
+    },
+    "8-8": {
+      "score": 70,
+      "overview": "Sức mạnh nhân đôi. Hai người có Đường đời số 8 tạo thành một mối quan hệ đối tác vô cùng mạnh mẽ với tiềm năng phi thường để đạt được thành công về vật chất, nhưng những cuộc đấu tranh quyền lực là không thể tránh khỏi.",
+      "strengths": [
+        "Tham vọng và động lực kết hợp mạnh mẽ",
+        "Cả hai đều hiểu ngôn ngữ của quyền lực và thành công",
+        "Quan hệ đối tác tài chính và kinh doanh đặc biệt",
+        "Tôn trọng lẫn nhau về sức mạnh và thành tựu"
+      ],
+      "challenges": [
+        "Xung đột quyền lực gay gắt được đảm bảo",
+        "Cả hai đều muốn nắm quyền kiểm soát",
+        "Mối quan hệ có thể trở nên thuần túy dựa trên các giao dịch",
+        "Công việc có thể hoàn toàn chi phối đời sống cá nhân"
+      ],
+      "communication": "Trực tiếp, mạnh mẽ và hiệu quả. Cả hai giao tiếp như những giám đốc điều hành, điều này có hiệu quả trong kinh doanh nhưng không phù hợp cho sự thân mật.",
+      "emotionalConnection": "Thử thách lớn nhất. Cả hai phải chủ động chọn sự tổn thương thay vì quyền lực để tạo ra sự thân mật chân chính.",
+      "sharedGoals": "Xây dựng đế chế, của cải và tầm ảnh hưởng. Sức mạnh tổng hợp của họ là phi thường khi được định hướng cùng nhau.",
+      "growthAreas": "Phát triển sự dễ tổn thương về cảm xúc và sự thân mật. Chia sẻ quyền lực một cách chân thật và tôn trọng.",
+      "advice": "Hai bạn có thể cùng nhau chinh phục thế giới, nhưng đừng để nó chinh phục mối quan hệ của bạn. Hãy thiết lập các thỏa thuận rõ ràng về việc chia sẻ quyền lực và đầu tư vào đời sống tình cảm của bạn nhiều như vào đời sống kinh doanh."
+    },
+    "8-9": {
+      "score": 62,
+      "overview": "Sức mạnh vật chất gặp gỡ mục đích tâm linh. Tham vọng của Số chủ đạo 8 đối đầu với lý tưởng của Số chủ đạo 9, tạo ra sự căng thẳng năng động giữa của cải và sự phục vụ.",
+      "strengths": [
+        "Số 9 mang lại mục đích cao hơn cho của cải của Số 8",
+        "Số 8 cung cấp nguồn lực cho các mục tiêu của Số 9",
+        "Cả hai đều đam mê và có động lực",
+        "Tiềm năng trở thành tổ chức từ thiện quyền lực"
+      ],
+      "challenges": [
+        "Giá trị khác nhau—vật chất so với tâm linh",
+        "Số 8 tích lũy, Số 9 buông bỏ",
+        "Số 9 có thể đánh giá tính vật chất của Số 8",
+        "Số 8 có thể thấy Số 9 không thực tế"
+      ],
+      "communication": "Số 8 nói về quyền lực và kết quả, Số 9 nói về ý nghĩa và sự phục vụ. Việc tìm thấy ngôn ngữ chung đòi hỏi nỗ lực.",
+      "emotionalConnection": "Số 9 mang lại chiều sâu cảm xúc và lòng trắc ẩn. Số 8 phải sẵn lòng tham gia ở cấp độ này.",
+      "sharedGoals": "Hoạt động từ thiện và doanh nghiệp xã hội. Nguồn lực của Số 8 kết hợp với tầm nhìn của Số 9 có thể tạo ra tác động từ thiện đáng kể.",
+      "growthAreas": "Số 8 nên khám phá mục đích vượt ra ngoài lợi nhuận. Số 9 nên phát triển các kỹ năng thực tế để thực hiện tầm nhìn của mình.",
+      "advice": "Trở thành đối tác từ thiện. Khả năng tạo ra của cải của Số 8 kết hợp với khả năng hình dung sự thay đổi của Số 9 có thể giúp chuyển đổi cộng đồng."
+    },
+    "8-11": {
+      "score": 65,
+      "overview": "Sức mạnh vật chất gặp gỡ tầm nhìn tâm linh. Tham vọng trần thế của con số Đường đời 8 đối mặt với trực giác nhạy bén của con số Đường đời 11, tạo nên một động lực phức tạp với nhiều khía cạnh khác nhau.",
+      "strengths": [
+        "Con số 11 thêm tầm nhìn và trực giác vào các kế hoạch của con số 8",
+        "Con số 8 cung cấp nguồn lực cho công việc tâm linh của con số 11",
+        "Những món quà trần thế và tâm linh bổ sung cho nhau",
+        "Tiềm năng cho những dự án kinh doanh đầy cảm hứng"
+      ],
+      "challenges": [
+        "Giá trị và ưu tiên rất khác nhau",
+        "Con số 8 có thể bỏ qua trực giác của con số 11",
+        "Con số 11 có thể đánh giá thấp chủ nghĩa vật chất của con số 8",
+        "Động lực quyền lực có thể trở nên độc hại"
+      ],
+      "communication": "Con số 8 nói một cách thực dụng, con số 11 nói một cách trực giác. Cả hai phải phát triển sự tôn trọng đối với phong cách giao tiếp của đối phương.",
+      "emotionalConnection": "Con số 11 mang đến chiều sâu cảm xúc, nhưng con số 8 có thể không đáp lại. Sự đầu tư cảm xúc phải đến từ cả hai phía.",
+      "sharedGoals": "Các doanh nghiệp có yếu tố tâm linh hoặc chữa lành. Con số 8 xây dựng, con số 11 truyền cảm hứng.",
+      "growthAreas": "Con số 8 nên tôn trọng trực giác và các giá trị tâm linh. Con số 11 nên phát triển các kỹ năng thực tế và kinh doanh.",
+      "advice": "Hãy tạo ra một điều gì đó kết hợp sức mạnh vật chất của con số 8 với tầm nhìn tâm linh của con số 11. Một doanh nghiệp có tâm hồn—đó là tiềm năng chung của các bạn."
+    },
+    "8-22": {
+      "score": 83,
+      "overview": "Một mối quan hệ hợp tác quyền lực tối cao. Tham vọng vật chất của Đường đời số 8 hòa hợp với năng lượng xây dựng bậc thầy của Đường đời số 22, tạo ra tiềm năng phi thường để đạt được thành tựu và để lại di sản.",
+      "strengths": [
+        "Tham vọng và năng lực vô song khi kết hợp cùng nhau",
+        "Cả hai đều hiểu về quyền lực và cách sử dụng nó",
+        "Tiềm năng đặc biệt trong việc xây dựng các tổ chức trường tồn",
+        "Sự tôn trọng lẫn nhau đối với thành tựu và sự cống hiến"
+      ],
+      "challenges": [
+        "Cả hai đều là những người nghiện công việc",
+        "Tranh giành quyền lực giữa vật chất và tầm nhìn",
+        "Cuộc sống cá nhân có thể bị hy sinh vì thành tựu",
+        "Áp lực lên cả hai là rất lớn"
+      ],
+      "communication": "Chiến lược, có mục đích và hiệu quả. Cả hai giao tiếp hiệu quả về các kế hoạch và mục tiêu.",
+      "emotionalConnection": "Lĩnh vực lớn nhất cần phát triển. Cả hai phải nỗ lực có ý thức để hiện diện về mặt cảm xúc.",
+      "sharedGoals": "Xây dựng những di sản, tổ chức và sự giàu có lâu dài. Sức mạnh xây dựng kết hợp của họ là phi thường.",
+      "growthAreas": "Cân bằng giữa công việc và cuộc sống. Sự thân mật và dễ bị tổn thương về mặt cảm xúc. Dành thời gian để nghỉ ngơi và vui chơi.",
+      "advice": "Bạn có thể cùng nhau thay đổi thế giới. Nhưng đừng đánh mất chính mình trong quá trình đó. Di sản bạn để lại nên bao gồm một câu chuyện tình yêu, không chỉ là một câu chuyện kinh doanh."
+    },
+    "8-33": {
+      "score": 68,
+      "overview": "Sức mạnh vật chất gặp gỡ sự thông tuệ tâm linh. Tham vọng thế tục của Đường đời số 8 đối đầu với tình yêu vị tha của Đường đời số 33, tạo ra sự căng thẳng giữa tích lũy và cho đi.",
+      "strengths": [
+        "Số 8 có thể tài trợ cho tầm nhìn từ thiện của số 33",
+        "Số 33 mang lại ý nghĩa sâu sắc hơn cho thành công của số 8",
+        "Sức mạnh vật chất và tinh thần bổ sung cho nhau",
+        "Tiềm năng tạo ra tác động từ thiện đáng kể"
+      ],
+      "challenges": [
+        "Động lực cơ bản khác nhau",
+        "Số 33 có thể đánh giá sự thực dụng của số 8",
+        "Số 8 có thể thấy số 33 là không thực tế",
+        "Mâu thuẫn về giá trị xoay quanh tiền bạc và sự phục vụ"
+      ],
+      "communication": "Số 8 mang tính quyền uy và trực tiếp, số 33 thì đầy lòng từ bi và khôn ngoan. Cả hai phải nỗ lực để hiểu đối phương.",
+      "emotionalConnection": "Số 33 mang đến tình yêu sâu sắc và lòng trắc ẩn. Số 8 phải học cách đón nhận và đáp lại chiều sâu cảm xúc này.",
+      "sharedGoals": "Hoạt động từ thiện, doanh nghiệp xã hội và tạo ra các tổ chức phục vụ nhân loại đồng thời đảm bảo bền vững về tài chính.",
+      "growthAreas": "Số 8 nên khám phá sự rộng lượng và các giá trị tâm linh. Số 33 nên phát triển sự nhạy bén trong kinh doanh và các kỹ năng thực tế.",
+      "advice": "Kết hợp sự tinh thông vật chất của số 8 với sự thông tuệ tâm linh của số 33. Xây dựng những tổ chức vừa có lợi nhuận vừa có mục đích."
+    },
+    "9-9": {
+      "score": 74,
+      "overview": "Long lân trắc ẩn. Hai Con số đường đời 9 tạo nên một mối quan hệ nhân đạo sâu sắc, hợp nhất bởi tình yêu nhân loại và mong muốn tạo ra sự khác biệt.",
+      "strengths": [
+        "Chia sẻ lòng trắc ẩn và lý tưởng sâu sắc",
+        "Cả hai đều hào phóng và chu đáo",
+        "Hiểu biết lẫn nhau về nhu cầu phục vụ",
+        "Mối quan hệ sáng tạo và đầy cảm hứng"
+      ],
+      "challenges": [
+        "Cả hai có thể cho đi tất cả và bỏ bê bản thân",
+        "Khó khăn với những trách nhiệm thực tế, trần tục",
+        "Bản chất buông bỏ của số 9 có thể ngăn cản việc xây dựng sự ổn định",
+        "Có thể quá lý tưởng hóa về mối quan hệ"
+      ],
+      "communication": "Mang tính triết học, từ bi và có tầm nhìn. Cả hai đều giao tiếp về những ý tưởng lớn và các vấn đề toàn cầu.",
+      "emotionalConnection": "Ấm áp và hào phóng nhưng có thể thiếu chiều sâu cá nhân nếu cả hai đều hướng ra bên ngoài. Sự thân mật cá nhân đòi hỏi sự tập trung có ý thức.",
+      "sharedGoals": "Công việc nhân đạo, nghệ thuật và cải thiện thế giới. Cùng nhau, họ có thể tạo ra sự thay đổi tích cực đáng kể.",
+      "growthAreas": "Phát triển các kỹ năng sống thực tế. Tập trung vào mối quan hệ cá nhân của họ bên cạnh việc phục vụ người khác.",
+      "advice": "Lòng trắc ẩn kết hợp của bạn là một lực lượng mạnh mẽ cho điều tốt đẹp. Nhưng hãy nhớ rằng – bạn phải chăm sóc bản thân và mối quan hệ của mình một cách tận tâm như bạn chăm sóc thế giới."
+    },
+    "9-11": {
+      "score": 80,
+      "overview": "Trí tuệ bác ái gặp gỡ tầm nhìn tâm linh. Lòng trắc ẩn của Đường đời số 9 kết hợp với sự sáng suốt trực giác của Đường đời số 11, tạo nên một mối quan hệ đầy cảm hứng và mục đích.",
+      "strengths": [
+        "Cả hai đều có tầm nhìn và lòng trắc ẩn",
+        "Kết nối tâm linh sâu sắc và mục đích chung",
+        "Số 11 trực giác được điều mà số 9 biết qua kinh nghiệm",
+        "Dẫn dắt đầy cảm hứng cùng nhau"
+      ],
+      "challenges": [
+        "Cả hai có thể quá lý tưởng",
+        "Các vấn đề thực tế có thể bị bỏ bê",
+        "Cường độ cảm xúc từ cả hai có thể quá lớn",
+        "Không ai có thể mang lại sự vững vàng"
+      ],
+      "communication": "Mang tính tiên phong, trực giác và từ bi. Các cuộc trò chuyện của họ có thể truyền cảm hứng và mang tính chuyển đổi sâu sắc.",
+      "emotionalConnection": "Sâu sắc và tâm linh. Cả hai đều cảm nhận sâu sắc và tạo ra một mối liên kết cảm xúc-tâm linh phong phú.",
+      "sharedGoals": "Giảng dạy tâm linh, công việc nhân đạo và các dự án có tầm nhìn. Cùng nhau, họ có thể truyền cảm hứng và nâng đỡ nhiều người.",
+      "growthAreas": "Định hướng tầm nhìn của họ vào thực tế thực tiễn. Phát triển kỹ năng tài chính và tổ chức.",
+      "advice": "Tầm nhìn và lòng trắc ẩn kết hợp của bạn có thể thay đổi thế giới. Hợp tác với những người thực tế để thực hiện ước mơ của bạn và đặt nền tảng cho tình yêu của bạn bằng những hành động chăm sóc hàng ngày."
+    },
+    "9-22": {
+      "score": 73,
+      "overview": "Lòng trắc ẩn phổ quát gặp gỡ khả năng xây dựng bậc thầy. Lý tưởng của Đường đời số 9 kết hợp với tầm nhìn thực tế của Đường đời số 22, tạo tiềm năng cho các dự án nhân đạo quy mô lớn.",
+      "strengths": [
+        "Tầm nhìn của số 9 truyền cảm hứng cho khả năng xây dựng của số 22",
+        "Số 22 có thể hiện thực hóa lý tưởng nhân đạo của số 9",
+        "Cả hai đều suy nghĩ ở quy mô lớn",
+        "Tiềm năng tạo ra tác động toàn cầu cùng nhau"
+      ],
+      "challenges": [
+        "Lý tưởng của số 9 có thể xung đột với chủ nghĩa thực dụng của số 22",
+        "Cách tiếp cận khác nhau—buông bỏ so với xây dựng",
+        "Sự mãnh liệt của số 22 có thể áp đảo số 9",
+        "Thách thức về cân bằng giữa công việc và cuộc sống"
+      ],
+      "communication": "Số 9 nói chuyện triết lý, số 22 nói chuyện chiến lược. Cả hai đều có tư duy lớn nhưng tiếp cận việc thực hiện khác nhau.",
+      "emotionalConnection": "Số 9 mang đến lòng trắc ẩn và chiều sâu cảm xúc. Số 22 thể hiện tình yêu thông qua việc xây dựng và thành tựu.",
+      "sharedGoals": "Các dự án nhân đạo quy mô lớn. Xây dựng các tổ chức phục vụ nhân loại một cách hiệu quả.",
+      "growthAreas": "Số 9 nên phát triển các kỹ năng xây dựng thực tế. Số 22 nên đón nhận sự khôn ngoan của số 9 về việc buông bỏ.",
+      "advice": "Xây dựng các tổ chức phục vụ tầm nhìn của số 9. Thiên tài thực tế của số 22 kết hợp với trái tim nhân đạo của số 9 có thể tạo ra những tổ chức thay đổi thế giới."
+    },
+    "9-33": {
+      "score": 86,
+      "overview": "Con người nhân ái gặp gỡ bậc thầy. Đường Đời 9 và 33 chia sẻ sự cống hiến sâu sắc nhất cho phục vụ và tình yêu, tạo nên một trong những mối quan hệ phát triển tâm linh nhất.",
+      "strengths": [
+        "Cam kết phục vụ chung vô song",
+        "Cả hai đều nhân ái và yêu thương sâu sắc",
+        "Kết nối tâm linh sâu sắc",
+        "Cùng nhau, họ có thể thay đổi cộng đồng"
+      ],
+      "challenges": [
+        "Cả hai có thể bỏ bê nhu cầu cá nhân",
+        "Cho đi quá nhiều cho thế giới mà quên đi nhau",
+        "Có thể không thực tế về các vấn đề thực tế",
+        "Áp lực từ sứ mệnh chung có thể nặng nề"
+      ],
+      "communication": "Sâu sắc từ bi, khôn ngoan và nâng đỡ. Các cuộc trò chuyện của họ không chỉ chữa lành cho nhau mà còn cho bất cứ ai chứng kiến.",
+      "emotionalConnection": "Sâu sắc và tâm linh vô cùng. Đây là một trong những cặp đôi có sự kết nối cảm xúc và tâm linh sâu sắc nhất có thể.",
+      "sharedGoals": "Chữa lành toàn cầu, giảng dạy và phục vụ. Cùng nhau, họ có thể tạo ra các phong trào nâng cao nhân loại.",
+      "growthAreas": "Tự chăm sóc bản thân và thiết lập ranh giới cá nhân. Phát triển các kỹ năng thực tế và tài chính để duy trì công việc phục vụ của họ.",
+      "advice": "Tình yêu của bạn là một món quà cho thế giới. Hãy bảo vệ nó một cách mãnh liệt bằng cách chăm sóc bản thân và lẫn nhau. Sự phục vụ của bạn mạnh mẽ nhất khi nó đến từ một mối quan hệ được vun đắp tốt đẹp."
+    },
+    "11-11": {
+      "score": 75,
+      "overview": "Tầm nhìn tâm linh kép. Hai Số Đường Đời 11 tạo nên một mối quan hệ trực giác và tâm linh cực kỳ mãnh liệt, vừa có thể thỏa mãn sâu sắc vừa có thể quá tải.",
+      "strengths": [
+        "Kết nối tâm linh và trực giác không gì sánh bằng",
+        "Cả hai hiểu sâu sắc sự nhạy cảm của đối phương",
+        "Tiềm năng sáng tạo và tâm linh sâu sắc",
+        "Hiểu biết gần như thần giao cách cảm"
+      ],
+      "challenges": [
+        "Sự nhạy cảm kết hợp có thể gây tê liệt",
+        "Cả hai có thể né tránh thực tế thực dụng",
+        "Cường độ cảm xúc cực đoan",
+        "Không ai có thể mang lại sự ổn định"
+      ],
+      "communication": "Trực giác và sâu sắc. Họ có thể giao tiếp không lời, nhưng vẫn nên thực hành diễn đạt bằng lời nói để rõ ràng hơn.",
+      "emotionalConnection": "Sâu sắc phi thường nhưng có khả năng gây quá tải. Cả hai phải phát triển khả năng phục hồi cảm xúc.",
+      "sharedGoals": "Giảng dạy tâm linh, công việc chữa lành và thể hiện sáng tạo. Cùng nhau họ có thể truyền đạt những hiểu biết sâu sắc.",
+      "growthAreas": "Phát triển các kỹ năng thực tế và sự ổn định cảm xúc. Neo giữ những món quà tâm linh của họ vào cuộc sống hàng ngày.",
+      "advice": "Mối liên kết của bạn là hiếm có và thiêng liêng. Hãy neo giữ nó bằng các thói quen thực tế và tìm kiếm sự hỗ trợ từ những người bạn và cố vấn thực tế hơn."
+    },
+    "11-22": {
+      "score": 82,
+      "overview": "Tầm nhìn tâm linh gặp gỡ khả năng xây dựng bậc thầy. Sự sáng suốt trực giác của Đường đời số 11 kết hợp với sức mạnh biểu hiện thực tế của Đường đời số 22, tạo nên một mối quan hệ đối tác của những thành tựu đầy cảm hứng.",
+      "strengths": [
+        "Số 11 hình dung những gì số 22 xây dựng",
+        "Năng lượng số chủ đạo bổ sung cho nhau",
+        "Cả hai đều hoạt động ở cấp độ cao hơn",
+        "Tiềm năng đạt được những thành tựu phi thường"
+      ],
+      "challenges": [
+        "Áp lực rất lớn lên cả hai từ năng lượng số chủ đạo của họ",
+        "Sự thực dụng của số 22 có thể bỏ qua trực giác của số 11",
+        "Cả hai đều mang gánh nặng năng lượng lớn",
+        "Cân bằng giữa công việc và cuộc sống là rất quan trọng"
+      ],
+      "communication": "Số 11 giao tiếp bằng trực giác, số 22 giao tiếp có chiến lược. Cùng nhau họ tạo ra những kế hoạch có cả tầm nhìn và khả năng thực hiện.",
+      "emotionalConnection": "Số 11 mang đến chiều sâu cảm xúc và tâm linh. Số 22 phải dành không gian cho điều này giữa các dự án xây dựng của họ.",
+      "sharedGoals": "Xây dựng các thể chế và tổ chức đầy cảm hứng. Số 11 cung cấp tầm nhìn, số 22 biến nó thành hiện thực.",
+      "growthAreas": "Quản lý cường độ năng lượng số chủ đạo kết hợp của họ. Tạo không gian cho sự nghỉ ngơi và kết nối cá nhân.",
+      "advice": "Các bạn là người có tầm nhìn và người xây dựng ở cấp độ bậc thầy. Hãy hỗ trợ lẫn nhau vượt qua năng lượng mãnh liệt mà cả hai đang mang, và tạo ra điều gì đó phục vụ mục đích cao cả hơn."
     }
   }
 }
