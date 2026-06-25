@@ -1,0 +1,1174 @@
+{
+  "ui": {
+    "romantic": "Lãng mạn",
+    "working": "Công việc",
+    "relationshipType": "Loại hình mối quan hệ",
+    "workTitle": "Mức độ tương hợp trong công việc",
+    "workSubtitle": "Khám phá cách hai chuyên gia cộng tác dựa trên nhân số học",
+    "strengthsTogether": "Thế mạnh khi làm việc chung",
+    "challengesTogether": "Thách thức khi làm việc chung",
+    "communication": "Phong cách giao tiếp",
+    "emotionalConnection": "Sự tin tưởng và Hòa hợp",
+    "sharedGoals": "Mục tiêu chung",
+    "growthAreas": "Các lĩnh vực cần phát triển",
+    "advice": "Lời khuyên cộng tác",
+    "relationshipLifePath": "Động lực làm việc"
+  },
+  "compatibility": {
+    "1-1": {
+      "score": 70,
+      "overview": "Hai người cùng mang Con số Đường đời 1 làm việc cùng nhau tạo thành một đội của những Người tiên phong—quyết đoán, đầy tham vọng và tự khởi xướng. Họ chia sẻ bản năng mạnh mẽ trong việc thúc đẩy dự án và chịu trách nhiệm, nhưng phải cẩn thận để không làm gia tăng xu hướng áp đặt và mất kiên nhẫn với những nhịp độ chậm hơn.",
+      "strengths": [
+        "Người tiên phong thúc đẩy các dự án tiến lên và chịu trách nhiệm",
+        "Người tiên phong thúc đẩy các dự án tiến lên và chịu trách nhiệm",
+        "Kỹ năng kết hợp bao quát cả hai chế độ làm việc trực diện và quyết đoán",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được công nhận"
+      ],
+      "challenges": [
+        "Người tiên phong có thể áp đặt và mất kiên nhẫn với nhịp độ làm việc chậm",
+        "Người tiên phong có thể áp đặt và mất kiên nhẫn với nhịp độ làm việc chậm",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành",
+        "Sự ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người tiên phong có xu hướng trực tiếp và quyết đoán, trong khi Người tiên phong cũng trực tiếp và quyết đoán. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và tôn trọng lẫn nhau. Người tiên phong tạo dựng niềm tin bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người tiên phong tạo dựng niềm tin bằng cách tương tự.",
+      "sharedGoals": "Cả hai có thể đồng lòng xoay quanh việc mang lại kết quả chất lượng. Người tiên phong thúc đẩy tham vọng và tốc độ; Người tiên phong mang lại năng lượng quyết đoán, tự khởi xướng để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người tiên phong nên tham khảo góc nhìn của người kia sớm; Người tiên phong nên nêu lên những lo ngại trực tiếp thay vì giữ lại trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và tiến hành các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-2": {
+      "score": 88,
+      "overview": "Sự kết hợp giữa số Đường Đời 1 (Người Tiên Phong) và số Đường Đời 2 (Người Ngoại Giao) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất quyết đoán, tham vọng và chủ động gặp gỡ sự hợp tác, trực giác và định hướng chi tiết. Cùng nhau, họ có thể thúc đẩy dự án tiến xa và chịu trách nhiệm chính trong khi Người Ngoại Giao đảm bảo nhóm xây dựng được sự hòa hợp và hòa giải xung đột.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến triển và thể hiện tinh thần làm chủ",
+        "Người Ngoại Giao xây dựng sự hòa hợp và đóng vai trò trung gian hòa giải",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực diện, quyết đoán lẫn tinh tế, đồng thuận",
+        "Sự tôn trọng lẫn nhau sẽ nhân lên khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên áp đặt và thiếu kiên nhẫn với nhịp độ làm việc chậm",
+        "Người Ngoại Giao có thể né tránh đối đầu và suy nghĩ quá nhiều trước khi ra quyết định",
+        "Nhịp điệu làm việc khác biệt có thể gây ra ma sát trong các thời hạn công việc",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ ngay từ đầu"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Người Ngoại Giao lại tinh tế và thiên về sự đồng thuận. Sự hợp tác hiệu quả đòi hỏi sự điều tiết giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dưng niềm tin thông qua việc thể hiện sự tin cậy và tôn trọng lẫn nhau. Người Tiên Phong có được niềm tin khi dẫn dắt các dự án tiến lên, trong khi Người Ngoại Giao xây dựng niềm tin bằng cách duy trì sự ổn định và hòa giải các mâu thuẫn nội bộ.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh mục tiêu mang lại kết quả chất lượng cao. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Ngoại Giao mang lại năng lượng hợp tác, trực giác và tỉ mỉ giúp hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo ý kiến của Người Ngoại Giao sớm hơn; Người Ngoại Giao nên thẳng thắn nói lên những lo ngại thay vì kìm nén.",
+      "advice": "Hãy xác định rõ vai trò, quyền ra quyết định và tần suất trao đổi ngay khi bắt đầu bất kỳ sự hợp tác nào. Cùng nhau ăn mừng những chiến thắng và thực hiện các buổi đánh giá trung thực sau mỗi dự án. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-3": {
+      "score": 59,
+      "overview": "Sự kết hợp giữa Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 3 (Người Truyền Thông) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi những phẩm chất quyết đoán, tham vọng và chủ động gặp gỡ những đặc tính sáng tạo, diễn đạt tốt và lạc quan. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Người Truyền Thông đảm bảo việc truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy dự án tiến xa và luôn làm chủ công việc",
+        "Người Truyền Thông truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ",
+        "Bộ kỹ năng kết hợp bao quát được cả phong cách làm việc trực tiếp, quyết liệt lẫn nhiệt huyết và cởi mở",
+        "Sự tôn trọng lẫn nhau gia tăng khi đóng góp của mỗi cá nhân được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên áp đặt và thiếu kiên nhẫn với tốc độ làm việc chậm hơn",
+        "Người Truyền Thông có thể bị phân tán sự tập trung và thiếu sự theo sát công việc đến cùng",
+        "Nhịp độ làm việc khác nhau có thể gây ra xung đột trong thời hạn chót (deadlines)",
+        "Các ưu tiên bị lệch nhau nếu vai trò và kỳ vọng không được làm rõ từ đầu"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quả quyết, trong khi Người Truyền Thông lại nhiệt tình và thích trò chuyện. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy và tôn trọng lẫn nhau đã được chứng minh. Người Tiên Phong giành được niềm tin bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người Truyền Thông đạt được điều đó bằng cách truyền cảm hứng và đưa ra những ý tưởng sáng tạo.",
+      "sharedGoals": "Cả hai có thể cùng hướng tới việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Truyền Thông mang lại năng lượng sáng tạo, biểu cảm và lạc quan để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên lắng nghe quan điểm của Người Truyền Thông từ sớm; Người Truyền Thông nên bày tỏ mối quan ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ trao đổi ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-4": {
+      "score": 60,
+      "overview": "Sự kết hợp giữa Đường Đời 1 (Người Tiên Phong) và Đường Đời 4 (Người Xây Dựng) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi những phẩm chất quyết đoán, đầy tham vọng và chủ động gặp gỡ những phẩm chất kỷ luật, phương pháp và đáng tin cậy. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Người Xây Dựng đảm bảo nhóm tạo ra các hệ thống và mang lại kết quả nhất quán.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến triển và dám chịu trách nhiệm",
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực tiếp, quyết liệt lẫn phong cách có cấu trúc, định hướng quy trình",
+        "Sự tôn trọng lẫn nhau sẽ tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên độc đoán và thiếu kiên nhẫn với những nhịp độ chậm hơn",
+        "Người Xây Dựng có thể phản kháng sự thay đổi và trở nên cứng nhắc",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến thời hạn hoàn thành",
+        "Các ưu tiên có thể bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết liệt, trong khi Người Xây Dựng thiên về cấu trúc và quy trình. Sự cộng tác hiệu quả đòi hỏi sự chuyển đổi qua lại giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến xa hơn.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Tiên Phong giành được sự tin tưởng bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người Xây Dựng có được điều đó bằng cách tạo ra các hệ thống và mang lại kết quả ổn định.",
+      "sharedGoals": "Cả hai có thể đồng hướng trong việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Xây Dựng mang đến năng lượng kỷ luật, phương pháp và đáng tin cậy để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ luôn thống nhất với nhau.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên hỏi ý kiến của Người Xây Dựng từ sớm; Người Xây Dựng nên nêu lên những lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ trao đổi định kỳ ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-5": {
+      "score": 85,
+      "overview": "Sự kết hợp giữa Đường Đời 1 (Người tiên phong) và Đường Đời 5 (Người đổi mới) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất quyết đoán, tham vọng và chủ động gặp gỡ sự thích nghi, tò mò và tràn đầy năng lượng. Cùng nhau, họ có thể thúc đẩy các dự án tiến xa và chịu trách nhiệm chính, trong khi Người đổi mới đảm bảo đội ngũ phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy những hướng đi mới.",
+      "strengths": [
+        "Người tiên phong thúc đẩy các dự án tiến lên và chịu trách nhiệm thực thi",
+        "Người đổi mới phát triển mạnh mẽ nhờ sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bộ kỹ năng kết hợp bao quát được cả phong cách làm việc trực tiếp, quyết đoán lẫn năng động và khám phá",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người tiên phong có thể trở nên áp đặt và thiếu kiên nhẫn với tốc độ chậm hơn",
+        "Người đổi mới gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời gian cao điểm chạy dự án",
+        "Ưu tiên không đồng nhất nếu vai trò và mong đợi không được làm rõ từ đầu"
+      ],
+      "communication": "Người tiên phong có xu hướng trực tiếp và quyết đoán, trong khi Người đổi mới năng động và ham học hỏi. Sự hợp tác hiệu quả đòi hỏi việc kết nối giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy và tôn trọng lẫn nhau. Người tiên phong giành được sự tin tưởng bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người đổi mới tạo dựng niềm tin bằng khả năng thích nghi với sự thay đổi và khai phá những hướng đi mới.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người tiên phong thúc đẩy tham vọng và tốc độ; Người đổi mới mang lại năng lượng thích nghi, tò mò để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản sẽ giúp họ có cùng tiếng nói.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người tiên phong nên tham khảo quan điểm của Người đổi mới từ sớm; Người đổi mới nên bày tỏ mối quan tâm một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu hợp tác. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá khách quan. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-6": {
+      "score": 74,
+      "overview": "Sự kết hợp giữa Đường Đời 1 (Người Tiên Phong) và Đường Đời 6 (Người Cố Vấn) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất quyết đoán, tham vọng và chủ động gặp gỡ các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Người Cố Vấn đảm bảo đội ngũ hỗ trợ các thành viên và duy trì các tiêu chuẩn.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến triển và dám chịu trách nhiệm",
+        "Người Cố Vấn hỗ trợ đồng nghiệp và duy trì các tiêu chuẩn",
+        "Bộ kỹ năng kết hợp bao quát cả hai phương thức làm việc: trực tiếp, quyết đoán và hỗ trợ, trách nhiệm",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể độc đoán và thiếu kiên nhẫn với tốc độ làm việc chậm hơn",
+        "Người Cố Vấn có thể ôm đồm quá nhiều việc và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến hạn chót (deadline)",
+        "Các ưu tiên có thể bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Người Cố Vấn lại mang tính hỗ trợ và có trách nhiệm giải trình. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy được chứng minh qua hành động và sự tôn trọng lẫn nhau. Người Tiên Phong giành được niềm tin bằng cách thúc đẩy dự án và dám chịu trách nhiệm, trong khi Người Cố Vấn giành được niềm tin bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Cố Vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tinh thần phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo ý kiến của Người Cố Vấn từ sớm; Người Cố Vấn nên nói ra các mối quan ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-7": {
+      "score": 55,
+      "overview": "Sự kết hợp giữa Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 7 (Nhà Phân Tích) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi những phẩm chất quyết đoán, tham vọng và chủ động gặp gỡ sự phân tích, nội tâm và chú trọng vào chi tiết. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Nhà Phân Tích đảm bảo nhóm khai thác được các thông tin chuyên sâu và đảm bảo chất lượng.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến triển và dám chịu trách nhiệm",
+        "Nhà Phân Tích khai thác các thông tin chuyên sâu và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực tiếp, quyết đoán lẫn phong cách dè dặt và dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau sẽ tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên độc đoán và thiếu kiên nhẫn với nhịp độ chậm hơn",
+        "Nhà Phân Tích có thể thu mình lại và phân tích quá mức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến thời hạn bàn giao (deadlines)",
+        "Các ưu tiên có thể bị sai lệch nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Nhà Phân Tích lại dè dặt và thiên về nghiên cứu. Sự hợp tác hiệu quả đòi hỏi việc kết nối giữa hai phong cách này — thông qua việc thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy và tôn trọng lẫn nhau được thể hiện cụ thể. Người Tiên Phong giành được lòng tin bằng cách thúc đẩy dự án và dám chịu trách nhiệm, trong khi Nhà Phân Tích đạt được điều đó bằng cách tìm ra các thông tin giá trị và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể đồng thuận về việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Nhà Phân Tích mang lại năng lượng phân tích, nội tâm và tỉ mỉ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản sẽ giúp họ luôn thống nhất với nhau.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên lắng nghe quan điểm của Nhà Phân Tích từ sớm; Nhà Phân Tích nên lên tiếng về các mối quan tâm trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và tần suất trao đổi ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-8": {
+      "score": 88,
+      "overview": "Sự kết hợp giữa Con Số Đường Đời 1 (Người Tiên Phong) và Con Số Đường Đời 8 (Người Điều Hành) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi những phẩm chất quyết đoán, tham vọng và tự khởi xướng gặp gỡ các đặc tính chiến lược, định hướng kết quả và uy quyền. Cùng nhau, họ có thể thúc đẩy các dự án tiến xa và chịu trách nhiệm chính, trong khi Người Điều Hành đảm bảo đội ngũ mở rộng quy mô vận hành và quản lý nguồn lực hiệu quả.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến lên và dám chịu trách nhiệm",
+        "Người Điều Hành mở rộng quy mô vận hành và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao quát cả hai phong cách làm việc: trực diện, quyết đoán và chỉ huy, tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được ghi nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên áp đặt và thiếu kiên nhẫn với tốc độ chậm",
+        "Người Điều Hành có thể ưu tiên kết quả hơn là con người",
+        "Nhịp điệu làm việc khác nhau có thể gây ra xích mích trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Người Điều Hành có phong cách chỉ huy và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng lòng tin thông qua sự tin cậy được chứng minh và tôn trọng lẫn nhau. Người Tiên Phong giành được sự tin tưởng bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người Điều Hành đạt được điều đó bằng cách mở rộng quy mô vận hành và quản lý nguồn lực.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Điều Hành mang lại năng lượng chiến lược, định hướng kết quả và uy quyền để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ cùng chung chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo góc nhìn của Người Điều Hành từ sớm; Người Điều Hành nên nói lên mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá rút kinh nghiệm một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-9": {
+      "score": 77,
+      "overview": "Sự kết hợp giữa Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 9 (Người Có Tầm Nhìn) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi những phẩm chất quyết đoán, tham vọng và tự chủ gặp gỡ những đức tính bao dung, có tầm nhìn xa trông rộng và lý tưởng. Cùng nhau, họ có khả năng thúc đẩy dự án tiến xa và chịu trách nhiệm chính, trong khi Người Có Tầm Nhìn đảm bảo đội ngũ luôn gắn kết công việc với mục đích cao cả và các mục tiêu nhân văn.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy dự án tiến lên và luôn chủ động chịu trách nhiệm",
+        "Người Có Tầm Nhìn kết nối công việc với các mục tiêu nhân văn và ý nghĩa cuộc sống",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực diện, quyết đoán lẫn phong cách truyền cảm hứng và định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau sẽ tăng dần khi đóng góp của mỗi người được ghi nhận xứng đáng"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên độc đoán và thiếu kiên nhẫn với những nhịp độ chậm hơn",
+        "Người Có Tầm Nhìn có thể gặp khó khăn với các nhiệm vụ tẻ nhạt hoặc có xu hướng xa rời thực tế",
+        "Nhịp điệu làm việc khác biệt có thể gây ra ma sát trong giai đoạn chạy deadline",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ ngay từ đầu"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực diện và quyết đoán, trong khi Người Có Tầm Nhìn thường truyền cảm hứng và định hướng theo sứ mệnh. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết lẫn nhau trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Người Tiên Phong gây dựng niềm tin bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người Có Tầm Nhìn tạo niềm tin bằng cách định hướng công việc theo mục đích và các giá trị nhân văn.",
+      "sharedGoals": "Cả hai đều có thể đồng lòng hướng tới việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Có Tầm Nhìn mang đến năng lượng bao dung, tầm nhìn bao quát và lý tưởng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ luôn cùng chí hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo góc nhìn của Người Có Tầm Nhìn từ sớm; Người Có Tầm Nhìn nên bày tỏ các lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và tần suất trao đổi ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá rút kinh nghiệm một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-11": {
+      "score": 79,
+      "overview": "Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 11 (Người Truyền Cảm Hứng) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất quyết đoán, đầy tham vọng và tự khởi xướng kết hợp với các đặc điểm trực giác, tầm nhìn và sự nhạy cảm. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Người Truyền Cảm Hứng đảm bảo đội ngũ mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến về phía trước và chủ động nhận trách nhiệm",
+        "Người Truyền Cảm Hứng mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao quát cả phương thức làm việc trực tiếp, quyết liệt lẫn trực giác và lý tưởng",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên áp đặt và thiếu kiên nhẫn với nhịp độ chậm hơn",
+        "Người Truyền Cảm Hứng dễ bị choáng ngợp và nghi ngờ bản thân",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót (deadlines)",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Người Truyền Cảm Hứng có trực giác và lý tưởng. Sự hợp tác hiệu quả đòi hỏi phải chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Tiên Phong giành được lòng tin bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Người Truyền Cảm Hứng giành được lòng tin bằng việc mang đến những ý tưởng truyền cảm hứng và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Người Truyền Cảm Hứng mang lại năng lượng trực giác, tầm nhìn và sự nhạy cảm để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn cùng chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên hỏi ý kiến của Người Truyền Cảm Hứng từ sớm; Người Truyền Cảm Hứng nên nói ra những lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-22": {
+      "score": 76,
+      "overview": "Sự kết hợp giữa Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 22 (Bậc Thầy Kiến Thiết) tạo nên một mối quan hệ cộng tác chuyên nghiệp, nơi các phẩm chất quyết đoán, đầy tham vọng và chủ động gặp gỡ tư duy thực tế, quy mô lớn. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính trong khi Bậc Thầy Kiến Thiết đảm bảo đội ngũ biến những ý tưởng tầm vóc thành những cấu trúc hữu hình.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án tiến xa và chủ động chịu trách nhiệm",
+        "Bậc Thầy Kiến Thiết biến những ý tưởng tầm nhìn thành những công trình thực tế",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực diện, quyết đoán lẫn phong thái thực tế, có tầm nhìn",
+        "Sự tôn trọng lẫn nhau nảy nở khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể áp đặt và thiếu kiên nhẫn với nhịp độ chậm hơn",
+        "Bậc Thầy Kiến Thiết mang áp lực nặng nề và chủ nghĩa hoàn hảo",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra mâu thuẫn trong các thời hạn công việc",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ từ đầu"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực diện và quyết đoán, trong khi Bậc Thầy Kiến Thiết lại thực tế và có tầm nhìn xa. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua việc thể hiện sự tin cậy và tôn trọng lẫn nhau. Người Tiên Phong giành được sự tin tưởng bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Bậc Thầy Kiến Thiết tạo niềm tin bằng cách chuyển hóa các ý tưởng lớn lao thành hiện thực.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Bậc Thầy Kiến Thiết mang lại năng lượng tư duy thực tế, quy mô lớn để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo ý kiến của Bậc Thầy Kiến Thiết từ sớm; Bậc Thầy Kiến Thiết nên trực tiếp nói ra những lo ngại thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ trao đổi công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá rút kinh nghiệm một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "1-33": {
+      "score": 73,
+      "overview": "Sự kết hợp giữa Số Đường Đời 1 (Người Tiên Phong) và Số Đường Đời 33 (Bậc Thầy Giác Ngộ) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất quyết đoán, tham vọng và tự khởi xướng gặp gỡ lòng trắc ẩn, sự khích lệ và tinh thần phụng sự. Cùng nhau, họ có thể thúc đẩy các dự án tiến triển và chịu trách nhiệm chính, trong khi Bậc Thầy Giác Ngộ đảm bảo sự phát triển của đội ngũ thông qua trí tuệ và sự tận tâm.",
+      "strengths": [
+        "Người Tiên Phong thúc đẩy các dự án và chủ động chịu trách nhiệm",
+        "Bậc Thầy Giác Ngộ nâng đỡ đội ngũ thông qua trí tuệ và sự chăm sóc",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc trực tiếp, quyết đoán lẫn nuôi dưỡng và truyền cảm hứng",
+        "Sự tôn trọng lẫn nhau phát triển khi những đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Tiên Phong có thể trở nên độc đoán và thiếu kiên nhẫn với tốc độ làm việc chậm hơn",
+        "Bậc Thầy Giác Ngộ có thể hy sinh các giới hạn cá nhân và dẫn đến kiệt sức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến hạn chót (deadline)",
+        "Các ưu tiên có thể bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Tiên Phong có xu hướng trực tiếp và quyết đoán, trong khi Bậc Thầy Giác Ngộ thường nuôi dưỡng và truyền cảm hứng. Sự cộng tác hiệu quả đòi hỏi việc kết nối giữa hai phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Người Tiên Phong có được niềm tin bằng cách thúc đẩy dự án và chịu trách nhiệm, trong khi Bậc Thầy Giác Ngộ đạt được điều đó bằng cách nâng đỡ đội ngũ thông qua trí tuệ và sự quan tâm.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Tiên Phong thúc đẩy tham vọng và tốc độ; Bậc Thầy Giác Ngộ mang lại năng lượng nhân ái, truyền cảm hứng và tinh thần phụng sự để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Tiên Phong nên tham khảo ý kiến của Bậc Thầy Giác Ngộ từ sớm; Bậc Thầy Giác Ngộ nên nói rõ những lo ngại của mình một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại (retrospective) một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-2": {
+      "score": 78,
+      "overview": "Hai người cùng sở hữu con số Đường đời 2 làm việc với nhau tạo thành một đội ngũ gồm những Nhà ngoại giao—hợp tác, trực giác và tỉ mỉ. Họ cùng chia sẻ bản năng mạnh mẽ trong việc xây dựng sự hòa hợp và hòa giải xung đột, nhưng cần cẩn trọng để không làm trầm trọng thêm xu hướng né tránh đối đầu và suy nghĩ quá mức khi đưa ra quyết định.",
+      "strengths": [
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Kỹ năng kết hợp bao quát cả phong cách làm việc khéo léo và hướng tới sự đồng thuận",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá mức về các quyết định",
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá mức về các quyết định",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời gian cao điểm",
+        "Ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận. Sự cộng tác hiệu quả đòi hỏi việc kết nối giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Nhà ngoại giao tạo dựng niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Nhà ngoại giao thúc đẩy tham vọng và tốc độ; Nhà ngoại giao mang lại năng lượng hợp tác, trực giác và tỉ mỉ để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà ngoại giao nên chủ động hỏi ý kiến của đối phương từ sớm; Nhà ngoại giao nên bày tỏ những lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-3": {
+      "score": 74,
+      "overview": "Con số Đường đời 2 (Nhà ngoại giao) và Đường đời 3 (Người truyền thông) tạo thành một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và định hướng chi tiết gặp gỡ các phẩm chất sáng tạo, biểu cảm và lạc quan. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Người truyền thông đảm bảo việc truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ.",
+      "strengths": [
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc khéo léo, dựa trên sự đồng thuận lẫn phong cách nhiệt huyết và cởi mở",
+        "Sự tôn trọng lẫn nhau nảy nở khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá mức khi đưa ra quyết định",
+        "Người truyền thông có thể làm phân tán sự tập trung và thiếu sự theo sát công việc",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót (deadline)",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà ngoại giao có xu hướng khéo léo và nỗ lực đạt được sự đồng thuận, trong khi Người truyền thông lại nhiệt tình và thích trò chuyện. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy và tôn trọng lẫn nhau. Nhà ngoại giao giành được sự tin tưởng bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Người truyền thông có được niềm tin bằng việc truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Nhà ngoại giao thúc đẩy tham vọng và tốc độ; Người truyền thông mang lại năng lượng sáng tạo, biểu cảm và lạc quan để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ có cùng tiếng nói.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà ngoại giao nên khuyến khích quan điểm của Người truyền thông từ sớm; Người truyền thông nên nói rõ những lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền ra quyết định và tần suất kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại những kết quả mạnh mẽ và bền vững."
+    },
+    "2-4": {
+      "score": 76,
+      "overview": "Sự kết hợp giữa Con Số Đường Đời 2 (Nhà Ngoại Giao) và Con Số Đường Đời 4 (Người Xây Dựng) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và tỉ mỉ gặp gỡ tính kỷ luật, phương pháp và sự tin cậy. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Người Xây Dựng đảm bảo nhóm tạo ra các hệ thống và mang lại kết quả nhất quán.",
+      "strengths": [
+        "Nhà Ngoại Giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc khéo léo, hướng tới sự đồng thuận lẫn phong cách có cấu trúc và định hướng quy trình",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà Ngoại Giao có thể né tránh đối đầu và suy nghĩ quá nhiều khi ra quyết định",
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót (deadlines)",
+        "Ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà Ngoại Giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Người Xây Dựng có cấu trúc và định hướng quy trình. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Nhà Ngoại Giao có được lòng tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Người Xây Dựng đạt được điều đó bằng cách tạo ra các hệ thống và mang lại kết quả ổn định.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Nhà Ngoại Giao thúc đẩy tham vọng và tiến độ; Người Xây Dựng mang lại năng lượng kỷ luật, có phương pháp và đáng tin cậy để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ luôn cùng chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà Ngoại Giao nên mời gọi góc nhìn của Người Xây Dựng từ sớm; Người Xây Dựng nên nói ra những lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại (retrospectives) một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-5": {
+      "score": 62,
+      "overview": "Sự kết hợp giữa Con số Đường đời 2 (Nhà Ngoại giao) và Con số Đường đời 5 (Nhà Cách tân) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và tỉ mỉ gặp gỡ sự linh hoạt, tò mò và năng lượng. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Nhà Cách tân đảm bảo nhóm phát triển dựa trên sự thay đổi và thúc đẩy các hướng đi mới.",
+      "strengths": [
+        "Nhà Ngoại giao xây dựng sự hòa hợp và giải quyết các xung đột",
+        "Nhà Cách tân phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc khéo léo, hướng tới sự đồng thuận lẫn phong cách năng động và khám phá",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được công nhận"
+      ],
+      "challenges": [
+        "Nhà Ngoại giao có thể né tránh đối đầu và suy nghĩ quá nhiều khi đưa ra quyết định",
+        "Nhà Cách tân gặp khó khăn với các công việc thường nhật và các cam kết dài hạn",
+        "Nhịp độ làm việc khác nhau có thể gây ra xích mích khi đến hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà Ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Nhà Cách tân năng động và thích khám phá. Sự hợp tác hiệu quả đòi hỏi việc kết nối giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Nhà Ngoại giao giành được sự tin tưởng bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Nhà Cách tân đạt được điều đó bằng cách thích nghi với thay đổi và thúc đẩy các hướng đi mới.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Nhà Ngoại giao thúc đẩy tham vọng và tốc độ; Nhà Cách tân mang lại năng lượng linh hoạt, tò mò và tràn đầy sức sống để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà Ngoại giao nên sớm tham khảo góc nhìn của Nhà Cách tân; Nhà Cách tân nên bày tỏ mối quan tâm một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-6": {
+      "score": 87,
+      "overview": "Sự kết hợp giữa Con số Đường đời 2 (Nhà ngoại giao) và Con số Đường đời 6 (Người cố vấn) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và định hướng chi tiết gặp gỡ các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Người cố vấn đảm bảo đội ngũ hỗ trợ lẫn nhau và duy trì các tiêu chuẩn.",
+      "strengths": [
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Người cố vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc khéo léo, dựa trên sự đồng thuận và phong cách hỗ trợ, có trách nhiệm",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi bên được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá nhiều về các quyết định",
+        "Người cố vấn có thể ôm đồm quá nhiều việc và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Các ưu tiên không thống nhất nếu vai trò và mong đợi không được làm rõ"
+      ],
+      "communication": "Nhà ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Người cố vấn luôn hỗ trợ và có trách nhiệm. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Nhà ngoại giao tạo dựng niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Người cố vấn tạo dựng niềm tin bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Nhà ngoại giao thúc đẩy tham vọng và nhịp độ; Người cố vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tinh thần phục vụ để hoàn thiện chiến lược. Các KPI chung và tầm nhìn bằng văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà ngoại giao nên tham khảo góc nhìn của Người cố vấn từ sớm; Người cố vấn nên lên tiếng về các mối quan ngại một cách trực tiếp thay vì giữ kín.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-7": {
+      "score": 68,
+      "overview": "Sự kết hợp giữa Đường đời số 2 (Người ngoại giao) và Đường đời số 7 (Nhà phân tích) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và định hướng chi tiết gặp gỡ các đặc tính phân tích, nội tâm và chú trọng chất lượng. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Nhà phân tích đảm bảo nhóm khám phá ra các thông tin chi tiết và đảm bảo chất lượng công việc.",
+      "strengths": [
+        "Người ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Nhà phân tích khám phá các thông tin chuyên sâu và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc khéo léo, hướng tới sự đồng thuận và phong cách làm việc kín đáo, dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người ngoại giao có thể né tránh đối đầu và suy nghĩ quá mức về các quyết định",
+        "Nhà phân tích có thể trở nên khép kín và phân tích quá mức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra mâu thuẫn trong thời gian cao điểm (deadline)",
+        "Thứ tự ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Nhà phân tích thường kín đáo và dựa trên nghiên cứu. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, lập tài liệu cho các quyết định và xác nhận sự thấu hiểu trước khi tiến tới.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người ngoại giao giành được sự tin tưởng bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Nhà phân tích có được niềm tin bằng cách khám phá các thông tin chuyên sâu và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người ngoại giao thúc đẩy tham vọng và tốc độ; Nhà phân tích mang lại năng lượng phân tích, nội tâm và chi tiết giúp hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ cùng chung chí hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người ngoại giao nên trưng cầu góc nhìn của Nhà phân tích ngay từ đầu; Nhà phân tích nên trực tiếp bày tỏ những lo ngại thay vì giữ trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Cùng nhau ăn mừng những chiến thắng và thực hiện các buổi đánh giá khách quan. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-8": {
+      "score": 70,
+      "overview": "Số Đường Đời 2 (Nhà ngoại giao) và Số Đường Đời 8 (Nhà điều hành) tạo thành một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và chú trọng chi tiết kết hợp với các phẩm chất chiến lược, định hướng kết quả và uy quyền. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Nhà điều hành đảm bảo nhóm mở rộng quy mô hoạt động và quản lý nguồn lực.",
+      "strengths": [
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Nhà điều hành mở rộng quy mô hoạt động và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao gồm cả chế độ làm việc khéo léo, đồng thuận và chế độ chỉ huy, tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá nhiều khi ra quyết định",
+        "Nhà điều hành có thể ưu tiên kết quả hơn con người",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Các ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Nhà điều hành mang tính chỉ huy và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua độ tin cậy được chứng minh và sự tôn trọng lẫn nhau. Nhà ngoại giao giành được niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Nhà điều hành giành được nó bằng cách mở rộng quy mô hoạt động và quản lý nguồn lực.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Nhà ngoại giao thúc đẩy tham vọng và tốc độ; Nhà điều hành mang lại năng lượng chiến lược, định hướng kết quả và uy quyền để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản giúp họ cùng chung chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà ngoại giao nên mời gọi góc nhìn của Nhà điều hành từ sớm; Nhà điều hành nên nói ra những lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định vai trò, quyền ra quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-9": {
+      "score": 90,
+      "overview": "Sự kết hợp giữa Số Đường Đời 2 (Người ngoại giao) và Số Đường Đời 9 (Người tầm nhìn) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và chú trọng chi tiết gặp gỡ các phẩm chất nhân ái, tầm nhìn xa rộng và lý tưởng. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Người tầm nhìn đảm bảo đội ngũ căn chỉnh công việc theo mục đích và các mục tiêu nhân văn.",
+      "strengths": [
+        "Người ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Người tầm nhìn căn chỉnh công việc với mục đích và các mục tiêu nhân văn",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc khéo léo, đồng thuận lẫn phong cách truyền cảm hứng và định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người ngoại giao có thể né tránh đối đầu và suy nghĩ quá mức về các quyết định",
+        "Người tầm nhìn có thể gặp khó khăn với các nhiệm vụ thực tế tầm thường và sự tách biệt",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Người tầm nhìn mang tính truyền cảm hứng và định hướng sứ mệnh. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy được chứng minh và sự tôn trọng lẫn nhau. Người ngoại giao giành được niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Người tầm nhìn đạt được điều đó bằng cách căn chỉnh công việc với mục đích và các mục tiêu nhân văn.",
+      "sharedGoals": "Cả hai có thể đồng lòng xoay quanh việc mang lại kết quả chất lượng. Người ngoại giao thúc đẩy hoài bão và tốc độ; Người tầm nhìn mang lại năng lượng nhân ái, tầm nhìn xa và lý tưởng để hoàn thiện hóa chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng chung chí hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người ngoại giao nên mời gọi góc nhìn của Người tầm nhìn từ sớm; Người tầm nhìn nên lên tiếng về các mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-11": {
+      "score": 86,
+      "overview": "Con số Đường đời 2 (Người ngoại giao) và Đường đời 11 (Người truyền cảm hứng) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và định hướng chi tiết gặp gỡ các phẩm chất nhạy bén, tầm nhìn và trực giác nhạy bén. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Người truyền cảm hứng đảm bảo nhóm mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Người truyền cảm hứng mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao gồm cả phương thức làm việc khéo léo, dựa trên sự đồng thuận và phương thức làm việc trực giác, duy tâm",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được công nhận"
+      ],
+      "challenges": [
+        "Người ngoại giao có thể né tránh đối đầu và suy nghĩ quá nhiều trước các quyết định",
+        "Người truyền cảm hứng dễ bị quá tải và tự ti",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành công việc",
+        "Các ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người ngoại giao có xu hướng khéo léo và hướng tới sự đồng thuận, trong khi Người truyền cảm hứng thiên về trực giác và duy tâm. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi qua lại giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người ngoại giao giành được sự tin tưởng bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Người truyền cảm hứng giành được niềm tin bằng cách đưa ra những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người ngoại giao thúc đẩy tham vọng và tốc độ; Người truyền cảm hứng mang lại năng lượng trực giác, tầm nhìn và sự nhạy cảm để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản giúp họ cùng đi trên một con đường.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người ngoại giao nên tham khảo góc nhìn của Người truyền cảm hứng từ sớm; Người truyền cảm hứng nên nói rõ các mối quan tâm trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và tiến hành các cuộc đánh giá trung thực sau mỗi dự án. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-22": {
+      "score": 70,
+      "overview": "Người mang Con số Đường đời 2 (Nhà ngoại giao) và Số 22 (Bậc thầy kiến thiết) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và định hướng chi tiết kết hợp với tinh thần tham vọng, thực tế và tư duy tầm vóc lớn. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Bậc thầy kiến thiết đảm bảo nhóm biến các ý tưởng tầm nhìn thành những cấu trúc hữu hình.",
+      "strengths": [
+        "Nhà ngoại giao xây dựng sự hòa hợp và hòa giải xung đột",
+        "Bậc thầy kiến thiết biến các ý tưởng tầm nhìn thành những cấu trúc hữu hình",
+        "Kỹ năng kết hợp bao quát cả phong cách làm việc khéo léo, dựa trên sự đồng thuận và phong cách thực tế, đầy tầm nhìn",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà ngoại giao có thể né tránh đối đầu và suy nghĩ quá nhiều trước các quyết định",
+        "Bậc thầy kiến thiết gánh vác áp lực nặng nề và chủ nghĩa hoàn hảo",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời gian cao điểm (deadlines)",
+        "Ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà ngoại giao có xu hướng khéo léo và ưu tiên sự đồng thuận, trong khi Bậc thầy kiến thiết lại thực tế và có tầm nhìn xa. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Nhà ngoại giao tạo dựng niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Bậc thầy kiến thiết tạo dựng niềm tin bằng cách biến các ý tưởng tầm nhìn thành những cấu trúc hữu hình.",
+      "sharedGoals": "Cả hai có thể thống nhất trong việc mang lại kết quả chất lượng. Nhà ngoại giao thúc đẩy tham vọng và tiến độ; Bậc thầy kiến thiết mang đến năng lượng của một nhà tư duy thực tế, quy mô lớn, giúp hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn đi đúng hướng cùng nhau.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà ngoại giao nên tham khảo góc nhìn của Bậc thầy kiến thiết từ sớm; Bậc thầy kiến thiết nên bày tỏ các lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và tần suất kiểm tra công việc ngay khi bắt đầu hợp tác. Cùng nhau ăn mừng thắng lợi và thực hiện các buổi đánh giá rút kinh nghiệm một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "2-33": {
+      "score": 78,
+      "overview": "Con Số Đường Đời 2 (Nhà Ngoại Giao) và Con Số Đường Đời 33 (Bậc Thầy Giác Ngộ) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất hợp tác, trực giác và chú trọng chi tiết gặp gỡ các phẩm chất nhân ái, truyền cảm hứng và định hướng phục vụ. Cùng nhau, họ có thể xây dựng sự hòa hợp và hòa giải xung đột trong khi Bậc Thầy Giác Ngộ đảm bảo nâng tầm đội ngũ thông qua trí tuệ và sự quan tâm.",
+      "strengths": [
+        "Nhà Ngoại Giao xây dựng sự hòa hợp và hòa giải các xung đột",
+        "Bậc Thầy Giác Ngộ nâng tầm đội ngũ thông qua trí tuệ và sự chăm sóc",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc khéo léo, dựa trên sự đồng thuận lẫn phong cách nuôi dưỡng và truyền cảm hứng",
+        "Sự tôn trọng lẫn nhau được bồi đắp khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Nhà Ngoại Giao có thể né tránh đối đầu và suy nghĩ quá mức về các quyết định",
+        "Bậc Thầy Giác Ngộ có thể hy sinh các giới hạn cá nhân và dẫn đến kiệt sức",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong các thời hạn công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà Ngoại Giao có xu hướng khéo léo và ưu tiên sự đồng thuận, trong khi Bậc Thầy Giác Ngộ mang tính nuôi dưỡng và truyền cảm hứng. Sự cộng tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Nhà Ngoại Giao tạo dựng niềm tin bằng cách xây dựng sự hòa hợp và hòa giải xung đột, trong khi Bậc Thầy Giác Ngộ tạo dựng niềm tin bằng cách nâng tầm đội ngũ thông qua trí tuệ và sự tận tâm.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Nhà Ngoại Giao thúc đẩy tham vọng và nhịp độ; Bậc Thầy Giác Ngộ mang lại nguồn năng lượng nhân ái, nâng cao tinh thần và định hướng phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ luôn đi cùng hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà Ngoại Giao nên mời gọi góc nhìn của Bậc Thầy Giác Ngộ từ sớm; Bậc Thầy Giác Ngộ nên nói rõ những lo ngại một cách trực tiếp thay vì giữ lại trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-3": {
+      "score": 75,
+      "overview": "Hai người cùng mang Con số Đường đời 3 khi làm việc cùng nhau sẽ tạo nên một đội ngũ của những Người truyền thông — sáng tạo, biểu cảm và lạc quan. Họ chia sẻ bản năng mạnh mẽ trong việc truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ, nhưng phải cẩn trọng để không làm trầm trọng thêm xu hướng dễ phân tán sự tập trung và thiếu đi sự theo sát công việc đến cùng của nhau.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới",
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới",
+        "Kỹ năng kết hợp bao hàm cả phong cách làm việc nhiệt huyết lẫn phong cách trò chuyện cởi mở",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể làm xao nhãng sự tập trung và thiếu sự kiên trì theo đuổi mục tiêu",
+        "Người truyền thông có thể làm xao nhãng sự tập trung và thiếu sự kiên trì theo đuổi mục tiêu",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong các thời hạn công việc (deadlines)",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người truyền thông thường có xu hướng nhiệt huyết và thích trò chuyện, trong khi đồng nghiệp cùng số 3 cũng rất hăng hái và cởi mở. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người truyền thông giành được sự tin tưởng bằng cách truyền cảm hứng cho đội ngũ và tạo ra ý tưởng mới, và đối phương cũng làm điều tương tự.",
+      "sharedGoals": "Cả hai có thể thống nhất về việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và tốc độ; người còn lại mang đến nguồn năng lượng sáng tạo, biểu cảm và lạc quan để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản hóa giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên mời gọi góc nhìn của đối phương ngay từ sớm; còn đối phương nên bày tỏ mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-4": {
+      "score": 62,
+      "overview": "Sự kết hợp giữa Đường đời 3 (Người truyền cảm hứng) và Đường đời 4 (Người xây dựng) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu đạt và lạc quan gặp gỡ với sự kỷ luật, phương pháp và đáng tin cậy. Cùng nhau, họ có thể truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ trong khi Người xây dựng đảm bảo nhóm thiết lập được các hệ thống và mang lại kết quả nhất quán.",
+      "strengths": [
+        "Người truyền cảm hứng tạo động lực cho đội ngũ và đưa ra các ý tưởng mới lạ",
+        "Người xây dựng thiết lập hệ thống và đảm bảo kết quả đầu ra ổn định",
+        "Bộ kỹ năng kết hợp bao quát cả hai phong cách làm việc: nhiệt huyết, giao tiếp tốt và có cấu trúc, hướng tới quy trình",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người truyền cảm hứng có thể làm phân tán sự tập trung và thiếu đi sự theo dõi sát sao",
+        "Người xây dựng có thể phản kháng lại sự thay đổi và trở nên cứng nhắc",
+        "Sự khác biệt về nhịp độ làm việc có thể gây ra ma sát khi đến hạn chót (deadline)",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ ngay từ đầu"
+      ],
+      "communication": "Người truyền cảm hứng có xu hướng nhiệt huyết và thích trò chuyện, trong khi Người xây dựng lại có tổ chức và tập trung vào quy trình. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình họp rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Người truyền cảm hứng tạo dựng niềm tin bằng cách truyền cảm hứng cho đội ngũ và tạo ra ý tưởng mới, trong khi Người xây dựng làm điều đó bằng cách tạo ra hệ thống và mang lại kết quả nhất quán.",
+      "sharedGoals": "Cả hai có thể đồng lòng xoay quanh việc mang lại kết quả chất lượng. Người truyền cảm hứng thúc đẩy tham vọng và tốc độ; Người xây dựng mang lại năng lượng kỷ luật, có phương pháp và đáng tin cậy để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được viết ra giấy sẽ giúp họ đi cùng một hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền cảm hứng nên hỏi ý kiến của Người xây dựng từ sớm; Người xây dựng nên lên tiếng về các lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu hợp tác. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá rút kinh nghiệm một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-5": {
+      "score": 87,
+      "overview": "Số Đường Đời 3 (Người Truyền Thông) và Số Đường Đời 5 (Người Đổi Mới) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu cảm, lạc quan gặp gỡ các đặc tính thích nghi, tò mò và tràn đầy năng lượng. Cùng nhau, họ có thể truyền cảm hứng cho các đội nhóm và tạo ra những ý tưởng mới mẻ, trong khi Người Đổi Mới đảm bảo nhóm phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới.",
+      "strengths": [
+        "Người Truyền Thông truyền cảm hứng cho các nhóm và tạo ra các ý tưởng mới",
+        "Người Đổi Mới phát triển mạnh mẽ khi có sự thay đổi và thúc đẩy những hướng đi mới",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc nhiệt huyết, cởi mở lẫn phong cách năng động, khám phá",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Truyền Thông có thể bị phân tán sự tập trung và thiếu sự theo sát đến cùng",
+        "Người Đổi Mới gặp khó khăn với các công việc thường nhật và những cam kết dài hạn",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Truyền Thông có xu hướng nhiệt tình và hay trò chuyện, trong khi Người Đổi Mới thì năng động và thích khám phá. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi qua lại giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Truyền Thông giành được sự tin tưởng bằng cách truyền cảm hứng cho đội ngũ và tạo ra ý tưởng mới, trong khi Người Đổi Mới đạt được điều đó bằng cách thích nghi với thay đổi và thúc đẩy các định hướng mới.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Truyền Thông thúc đẩy tham vọng và nhịp độ; Người Đổi Mới mang lại năng lượng thích nghi, tò mò và năng động để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng chung chí hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Truyền Thông nên tham khảo góc nhìn của Người Đổi Mới sớm; Người Đổi Mới nên nói rõ các mối quan ngại một cách trực tiếp thay vì giữ kín.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá thẳng thắn. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-6": {
+      "score": 88,
+      "overview": "Sự kết hợp giữa Số Đường Đời 3 (Người truyền thông) và Số Đường Đời 6 (Người cố vấn) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu đạt và lạc quan gặp gỡ các đặc tính trách nhiệm, nuôi dưỡng và tinh thần phục vụ. Cùng nhau, họ có thể truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ, trong khi Người cố vấn đảm bảo đội ngũ hỗ trợ lẫn nhau và duy trì các tiêu chuẩn.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới",
+        "Người cố vấn hỗ trợ đồng nghiệp và duy trì các tiêu chuẩn",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc nhiệt huyết, cởi mở lẫn phong cách hỗ trợ và trách nhiệm",
+        "Sự tôn trọng lẫn nhau được bồi đắp khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể bị phân tán sự tập trung và thiếu sự theo sát công việc",
+        "Người cố vấn có thể ôm đồm quá nhiều việc và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác biệt có thể gây ra ma sát trong giai đoạn nước rút",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người truyền thông có xu hướng nhiệt tình và thích trò chuyện, trong khi Người cố vấn lại mang tính hỗ trợ và có trách nhiệm giải trình. Việc cộng tác hiệu quả đòi hỏi sự chuyển đổi qua lại giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy được chứng minh và sự tôn trọng lẫn nhau. Người truyền thông giành được sự tin tưởng bằng cách truyền cảm hứng và tạo ra ý tưởng mới, trong khi Người cố vấn có được niềm tin nhờ việc hỗ trợ đồng đội và giữ vững các tiêu chuẩn.",
+      "sharedGoals": "Cả hai có thể cùng hướng tới việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và tốc độ; Người cố vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tinh thần phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên mời gọi góc nhìn của Người cố vấn ngay từ sớm; Người cố vấn nên nói thẳng những lo ngại của mình thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-7": {
+      "score": 75,
+      "overview": "Sự kết hợp giữa Con số Đường đời 3 (Người truyền thông) và Con số Đường đời 7 (Nhà phân tích) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu đạt và lạc quan gặp gỡ các phẩm chất phân tích, nội tâm và chú trọng chi tiết. Họ cùng nhau truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ, trong khi Nhà phân tích đảm bảo nhóm khám phá ra các thông tin chuyên sâu và đảm bảo chất lượng.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới",
+        "Nhà phân tích khám phá các thông tin chuyên sâu và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc nhiệt huyết, hướng ngoại và phong cách làm việc dè dặt, dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể bị phân tán sự tập trung và thiếu đi sự theo sát công việc đến cùng",
+        "Nhà phân tích có thể trở nên khép kín và phân tích quá mức",
+        "Nhịp độ làm việc khác nhau có thể gây ra xích mích khi đến hạn chót (deadlines)",
+        "Thứ tự ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ ngay từ đầu"
+      ],
+      "communication": "Người truyền thông có xu hướng nhiệt huyết và thích trò chuyện, trong khi Nhà phân tích lại dè dặt và dựa trên nghiên cứu. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người truyền thông có được lòng tin bằng cách truyền cảm hứng cho đội ngũ và tạo ra ý tưởng mới, trong khi Nhà phân tích có được lòng tin bằng cách đưa ra các phân tích sâu sắc và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và tốc độ; Nhà phân tích mang lại năng lượng phân tích, nội tâm và tỉ mỉ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ có cùng tiếng nói.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên mời Nhà phân tích đưa ra quan điểm từ sớm; Nhà phân tích nên trực tiếp nói ra những lo ngại thay vì giữ trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và tần suất trao đổi công việc khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-8": {
+      "score": 78,
+      "overview": "Số Đường Đời 3 (Người truyền thông) và Số Đường Đời 8 (Người điều hành) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu cảm và lạc quan kết hợp với các phẩm chất chiến lược, định hướng kết quả và uy quyền. Cùng nhau, họ có thể truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ, trong khi Người điều hành đảm bảo việc mở rộng quy mô hoạt động và quản lý nguồn lực.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra ý tưởng mới",
+        "Người điều hành mở rộng quy mô hoạt động và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc nhiệt huyết, cởi mở lẫn phong cách chỉ huy, tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể làm phân tán sự tập trung và thiếu sự theo sát công việc",
+        "Người điều hành có thể ưu tiên kết quả hơn là yếu tố con người",
+        "Nhịp độ làm việc khác nhau có thể gây ra xích mích trong thời hạn hoàn thành công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người truyền thông có xu hướng nhiệt huyết và thích trò chuyện, trong khi Người điều hành lại quyết đoán và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy được chứng minh và sự tôn trọng lẫn nhau. Người truyền thông có được niềm tin bằng cách truyền cảm hứng cho đội ngũ và tạo ra ý tưởng, trong khi Người điều hành có được niềm tin bằng cách mở rộng hoạt động và quản lý nguồn lực.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và nhịp độ; Người điều hành mang lại năng lượng chiến lược, định hướng kết quả và uy quyền để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ luôn đi cùng hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên mời Người điều hành đưa ra quan điểm sớm; Người điều hành nên nói lên các mối quan ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-9": {
+      "score": 85,
+      "overview": "Sự kết hợp giữa số Đường Đời 3 (Người truyền thông) và số Đường Đời 9 (Người tầm nhìn) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu cảm và lạc quan hội ngộ với các đặc tính nhân ái, tầm nhìn xa và lý tưởng. Cùng nhau, họ có thể truyền cảm hứng cho các đội nhóm và tạo ra những ý tưởng mới mẻ trong khi Người tầm nhìn đảm bảo công việc của nhóm luôn phù hợp với mục đích và các mục tiêu nhân đạo.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội nhóm và tạo ra các ý tưởng mới mẻ",
+        "Người tầm nhìn điều chỉnh công việc phù hợp với mục đích và các mục tiêu nhân đạo",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc nhiệt huyết, cởi mở lẫn phong cách làm việc truyền cảm hứng và định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể bị phân tán sự tập trung và thiếu đi sự theo dõi sát sao đến cùng",
+        "Người tầm nhìn có thể gặp khó khăn với các nhiệm vụ tẻ nhạt và sự thiếu kết nối thực tế",
+        "Nhịp điệu làm việc khác nhau có thể gây ra ma sát trong thời hạn chót (deadlines)",
+        "Ưu tiên không đồng nhất nếu các vai trò và mong đợi không được làm rõ"
+      ],
+      "communication": "Người truyền thông có xu hướng nhiệt tình và hay trò chuyện, trong khi Người tầm nhìn mang tính truyền cảm hứng và định hướng sứ mệnh. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua độ tin cậy được chứng minh và sự tôn trọng lẫn nhau. Người truyền thông giành được niềm tin bằng cách truyền cảm hứng cho đội nhóm và tạo ra ý tưởng mới, trong khi Người tầm nhìn giành được niềm tin bằng cách định hướng công việc gắn liền với mục đích và các mục tiêu nhân đạo.",
+      "sharedGoals": "Cả hai có thể đồng thuận xung quanh việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và tốc độ; Người tầm nhìn mang đến năng lượng nhân ái, tầm nhìn bao quát và lý tưởng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ luôn cùng chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên mời gọi góc nhìn của Người tầm nhìn từ sớm; Người tầm nhìn nên lên tiếng trực tiếp về các mối quan ngại thay vì kìm nén.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-11": {
+      "score": 73,
+      "overview": "Sự kết hợp giữa Con Số Đường Đời 3 (Người Truyền Thông) và Con Số Đường Đời 11 (Người Truyền Cảm Hứng) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu cảm và lạc quan gặp gỡ những tố chất trực giác, tầm nhìn và nhạy bén. Cùng nhau, họ có thể truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ, trong khi Người Truyền Cảm Hứng đảm bảo nhóm mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người Truyền Thông truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới mẻ",
+        "Người Truyền Cảm Hứng mang lại các ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc nhiệt huyết, giao tiếp tốt lẫn phong cách trực giác và lý tưởng hóa",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được ghi nhận"
+      ],
+      "challenges": [
+        "Người Truyền Thông có thể bị phân tán sự tập trung và thiếu sự theo sát công việc",
+        "Người Truyền Cảm Hứng dễ bị quá tải và tự nghi ngờ bản thân",
+        "Nhịp độ làm việc khác nhau có thể gây ra ma sát trong các thời hạn công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và mong đợi không được làm rõ"
+      ],
+      "communication": "Người Truyền Thông có xu hướng nhiệt tình và thích trò chuyện, trong khi Người Truyền Cảm Hứng lại trực giác và lý tưởng hóa. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Truyền Thông giành được lòng tin bằng việc truyền cảm hứng và sáng tạo ý tưởng, trong khi Người Truyền Cảm Hứng tạo dựng niềm tin bằng sự thấu hiểu và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Truyền Thông thúc đẩy tham vọng và tốc độ; Người Truyền Cảm Hứng mang lại năng lượng trực giác, tầm nhìn và sự nhạy bén để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Truyền Thông nên mời ý kiến của Người Truyền Cảm Hứng từ sớm; Người Truyền Cảm Hứng nên nói lên các mối quan ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-22": {
+      "score": 78,
+      "overview": "Con Số Đường Đời 3 (Người Truyền Thông) và Con Số Đường Đời 22 (Bậc Thầy Kiến Thiết) tạo thành một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất sáng tạo, biểu cảm và lạc quan gặp gỡ những phẩm chất tham vọng, thực tế và tư duy quy mô lớn. Cùng nhau, họ có thể truyền cảm hứng cho các đội nhóm và tạo ra những ý tưởng mới mẻ, trong khi Bậc Thầy Kiến Thiết đảm bảo biến những ý tưởng tầm nhìn đó thành những cấu trúc hữu hình.",
+      "strengths": [
+        "Người Truyền Thông truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ",
+        "Bậc Thầy Kiến Thiết biến các ý tưởng tầm nhìn thành cấu trúc hữu hình",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc nhiệt huyết, cởi mở và phong cách thực tế, có tầm nhìn",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Truyền Thông có thể bị phân tán sự tập trung và thiếu khả năng theo đuổi đến cùng",
+        "Bậc Thầy Kiến Thiết gánh chịu áp lực nặng nề và chủ nghĩa hoàn hảo",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời gian chạy dự án (deadline)",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Truyền Thông có xu hướng nhiệt tình và hay trò chuyện, trong khi Bậc Thầy Kiến Thiết lại thực tế và có tầm nhìn. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Truyền Thông giành được sự tin tưởng bằng cách truyền cảm hứng và tạo ra ý tưởng, trong khi Bậc Thầy Kiến Thiết làm điều đó bằng cách hiện thực hóa các tầm nhìn thành cấu trúc cụ thể.",
+      "sharedGoals": "Cả hai có thể thống nhất dựa trên việc mang lại kết quả chất lượng. Người Truyền Thông thúc đẩy tham vọng và tốc độ; Bậc Thầy Kiến Thiết mang lại năng lượng tham vọng, thực tế và tư duy quy mô lớn để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Truyền Thông nên mời ý kiến của Bậc Thầy Kiến Thiết từ sớm; Bậc Thầy Kiến Thiết nên bày tỏ mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "3-33": {
+      "score": 69,
+      "overview": "Sự kết hợp giữa Con số Đường đời 3 (Người truyền thông) và Con số Đường đời 33 (Bậc thầy giác ngộ) tạo nên một mối quan hệ công việc nơi các đặc tính sáng tạo, biểu đạt và lạc quan gặp gỡ với phẩm chất nhân ái, truyền cảm hứng và tinh thần phụng sự. Cùng nhau, họ có thể truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới mẻ, trong khi Bậc thầy giác ngộ đảm bảo sự phát triển của đội ngũ thông qua trí tuệ và sự tận tâm.",
+      "strengths": [
+        "Người truyền thông truyền cảm hứng cho đội ngũ và tạo ra những ý tưởng mới mẻ",
+        "Bậc thầy giác ngộ nâng tầm đội ngũ thông qua trí tuệ và sự chăm sóc",
+        "Kỹ năng kết hợp bao quát được cả phong cách làm việc nhiệt huyết, giao tiếp lẫn nuôi dưỡng và truyền cảm hứng",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người truyền thông có thể bị phân tán sự tập trung và thiếu sự theo sát công việc",
+        "Bậc thầy giác ngộ có thể hy sinh các giới hạn cá nhân dẫn đến kiệt sức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người truyền thông có xu hướng nhiệt tình và thích trò chuyện, trong khi Bậc thầy giác ngộ lại mang tính nuôi dưỡng và truyền cảm hứng. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi linh hoạt giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Người truyền thông có được lòng tin bằng việc truyền cảm hứng cho đội ngũ và tạo ra các ý tưởng mới, trong khi Bậc thầy giác ngộ xây dựng nó bằng cách hỗ trợ đội ngũ thông qua trí tuệ và sự quan tâm.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người truyền thông thúc đẩy tham vọng và tốc độ; Bậc thầy giác ngộ mang lại năng lượng nhân ái, truyền cảm hứng và định hướng phụng sự để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ đi cùng một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người truyền thông nên tham khảo ý kiến của Bậc thầy giác ngộ từ sớm; Bậc thầy giác ngộ nên nói ra các mối quan ngại trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự cộng tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi nhìn lại (retrospective) một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-4": {
+      "score": 72,
+      "overview": "Hai người mang Con Số Đường Đời 4 khi làm việc cùng nhau sẽ tạo nên một đội ngũ của những Người Xây Dựng—kỷ luật, phương pháp và đáng tin cậy. Họ chia sẻ bản năng mạnh mẽ trong việc tạo ra hệ thống và mang lại kết quả nhất quán, nhưng phải cẩn trọng để không làm trầm trọng thêm xu hướng kháng cự thay đổi và trở nên cứng nhắc của nhau.",
+      "strengths": [
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Bộ kỹ năng kết hợp bao quát cả hai chế độ làm việc định hướng quy trình và có cấu trúc",
+        "Sự tôn trọng lẫn nhau sẻ phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây Dựng có xu hướng làm việc có cấu trúc và định hướng quy trình, trong khi Người Xây Dựng cũng làm việc có cấu trúc và định hướng quy trình. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua việc thể hiện sự tin cậy và tôn trọng lẫn nhau. Người Xây Dựng tạo niềm tin bằng cách tạo ra các hệ thống và kết quả nhất quán, trong khi Người Xây Dựng khác cũng tạo niềm tin bằng cách làm điều tương tự.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây Dựng thúc đẩy tham vọng và nhịp độ; Người Xây Dựng mang lại năng lượng kỷ luật, phương pháp và đáng tin cậy để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây Dựng nên mời gọi góc nhìn của Người Xây Dựng kia từ sớm; Người Xây Dựng kia nên lên tiếng về các mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-5": {
+      "score": 56,
+      "overview": "Sự kết hợp giữa Đường Đời 4 (Người Xây Dựng) và Đường Đời 5 (Người Đổi Mới) tạo nên một mối quan hệ cộng tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và đáng tin cậy gặp gỡ sự linh hoạt, tò mò và tràn đầy năng lượng. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Người Đổi Mới đảm bảo nhóm phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới.",
+      "strengths": [
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Người Đổi Mới phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bộ kỹ năng kết hợp bao gồm cả chế độ làm việc có cấu trúc, thiên về quy trình lẫn sự năng động và khám phá",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Người Đổi Mới gặp khó khăn với các công việc lặp lại và các cam kết dài hạn",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến thời hạn hoàn thành",
+        "Ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây Dựng có xu hướng làm việc có cấu trúc và thiên về quy trình, trong khi Người Đổi Mới lại năng động và thích khám phá. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này — thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Xây Dựng có được lòng tin bằng cách tạo ra hệ thống và mang lại kết quả nhất quán, trong khi Người Đổi Mới đạt được điều đó bằng cách thích nghi với sự thay đổi và thúc đẩy các hướng đi mới.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây Dựng thúc đẩy tham vọng và tốc độ; Người Đổi Mới mang lại năng lượng linh hoạt, tò mò để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa giúp họ luôn đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây Dựng nên mời gọi góc nhìn của Người Đổi Mới từ sớm; Người Đổi Mới nên nói lên những lo ngại một cách trực tiếp thay vì giữ kín.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-6": {
+      "score": 89,
+      "overview": "Sự kết hợp giữa Con số Đường đời 4 (Người Xây dựng) và Đường đời 6 (Người Cố vấn) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và đáng tin cậy gặp gỡ sự trách nhiệm, nuôi dưỡng và tinh thần phục vụ. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Người Cố vấn đảm bảo đội ngũ được hỗ trợ và duy trì các tiêu chuẩn.",
+      "strengths": [
+        "Người Xây dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Người Cố vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Bộ kỹ năng kết hợp bao gồm cả chế độ làm việc có cấu trúc, định hướng quy trình lẫn sự hỗ trợ và trách nhiệm giải trình",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Xây dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Người Cố vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây dựng có xu hướng làm việc có cấu trúc và định hướng quy trình, trong khi Người Cố vấn thiên về hỗ trợ và trách nhiệm giải trình. Sự cộng tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Xây dựng giành được niềm tin bằng cách tạo ra các hệ thống và kết quả nhất quán, trong khi Người Cố vấn giành được niềm tin bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây dựng thúc đẩy tham vọng và tiến độ; Người Cố vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tinh thần phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ cùng chung chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây dựng nên tham khảo góc nhìn của Người Cố vấn từ sớm; Người Cố vấn nên nói thẳng những lo ngại thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-7": {
+      "score": 68,
+      "overview": "Sự kết hợp giữa số Đường đời 4 (Người Xây dựng) và số Đường đời 7 (Nhà Phân tích) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất kỷ luật, có phương pháp và đáng tin cậy gặp gỡ các phẩm chất phân tích, nội tâm và chú trọng chi tiết. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Nhà Phân tích đảm bảo nhóm khám phá ra những hiểu biết sâu sắc và đảm bảo chất lượng.",
+      "strengths": [
+        "Người Xây dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Nhà Phân tích khám phá những hiểu biết sâu sắc và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc có cấu trúc, quy trình lẫn phong cách kín đáo, dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được công nhận"
+      ],
+      "challenges": [
+        "Người Xây dựng có thể chống lại sự thay đổi và trở nên cứng nhắc",
+        "Nhà Phân tích có thể thu mình lại và phân tích quá mức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành công việc",
+        "Các ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây dựng có xu hướng làm việc theo cấu trúc và quy trình, trong khi Nhà Phân tích thường kín đáo và dựa trên nghiên cứu. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua độ tin cậy được minh chứng và sự tôn trọng lẫn nhau. Người Xây dựng có được niềm tin bằng cách tạo ra các hệ thống và kết quả ổn định, trong khi Nhà Phân tích có được nó bằng cách khám phá ra các hiểu biết sâu và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây dựng thúc đẩy tham vọng và tốc độ; Nhà Phân tích mang lại năng lượng phân tích, nội tâm và chú trọng chi tiết để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ cùng hướng về một phía.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây dựng nên mời gọi quan điểm của Nhà Phân tích sớm; Nhà Phân tích nên nói lên các mối quan ngại một cách trực tiếp thay vì giữ lại trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay từ đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-8": {
+      "score": 85,
+      "overview": "Sự kết hợp giữa Đường Đời 4 (Người Xây Dựng) và Đường Đời 8 (Nhà Điều Hành) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và tin cậy gặp gỡ các phẩm chất chiến lược, định hướng kết quả và quyền lực. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Nhà Điều Hành đảm bảo đội ngũ mở rộng quy mô hoạt động và quản lý nguồn lực hiệu quả.",
+      "strengths": [
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Nhà Điều Hành mở rộng quy mô hoạt động và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao gồm cả chế độ làm việc định hướng quy trình/cấu trúc lẫn phong cách chỉ huy/tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Nhà Điều Hành có thể ưu tiên kết quả hơn con người",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây Dựng có xu hướng thiên về cấu trúc và quy trình, trong khi Nhà Điều Hành có phong cách chỉ huy và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua việc thể hiện sự tin cậy và tôn trọng lẫn nhau. Người Xây Dựng tạo dựng niềm tin bằng cách xây dựng hệ thống và mang lại kết quả ổn định, trong khi Nhà Điều Hành tạo dựng niềm tin bằng cách mở rộng vận hành và quản lý nguồn lực tốt.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người Xây Dựng thúc đẩy tham vọng và tốc độ; Nhà Điều Hành mang lại nguồn năng lượng chiến lược, định hướng kết quả và quyền lực để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ có cùng tiếng nói.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây Dựng nên tham khảo góc nhìn của Nhà Điều Hành từ sớm; Nhà Điều Hành nên bày tỏ lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-9": {
+      "score": 60,
+      "overview": "Sự kết hợp giữa Số Đường Đời 4 (Người Xây Dựng) và Số Đường Đời 9 (Người Tầm Nhìn) tạo nên một mối quan hệ công việc nơi những phẩm chất kỷ luật, phương pháp và tin cậy gặp gỡ với sự nhân ái, tầm nhìn xa và lý tưởng hóa. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Người Tầm Nhìn đảm bảo đội ngũ điều chỉnh công việc phù hợp với mục đích và các mục tiêu nhân đạo.",
+      "strengths": [
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Người Tầm Nhìn điều chỉnh công việc theo mục đích và các mục tiêu nhân đạo",
+        "Bộ kỹ năng kết hợp bao quát cả phương thức làm việc có cấu trúc, định hướng quy trình lẫn cảm hứng và định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi bên được ghi nhận"
+      ],
+      "challenges": [
+        "Người Xây Dựng có thể phản đối sự thay đổi và trở nên cứng nhắc",
+        "Người Tầm Nhìn có thể gặp khó khăn với các công việc tầm thường và sự tách biệt",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành công việc",
+        "Các ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây Dựng có xu hướng coi trọng cấu trúc và quy trình, trong khi Người Tầm Nhìn giàu cảm hứng và định hướng sứ mệnh. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Xây Dựng giành được lòng tin bằng việc tạo ra các hệ thống và kết quả nhất quán, trong khi Người Tầm Nhìn giành được điều đó bằng cách gắn kết công việc với mục đích và các lý tưởng nhân văn.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây Dựng thúc đẩy tham vọng và tốc độ; Người Tầm Nhìn mang lại năng lượng nhân ái, tầm nhìn bao quát và lý tưởng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn đồng điệu.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây Dựng nên tham khảo quan điểm của Người Tầm Nhìn từ sớm; Người Tầm Nhìn nên bày tỏ các lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-11": {
+      "score": 70,
+      "overview": "Con Số Đường Đời 4 (Người Xây Dựng) và Con Số Đường Đời 11 (Người Truyền Cảm Hứng) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và đáng tin cậy gặp gỡ các phẩm chất trực giác, tầm nhìn và nhạy bén. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Người Truyền Cảm Hứng đảm bảo đội ngũ mang đến những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người Xây Dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Người Truyền Cảm Hứng mang đến những ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc có cấu trúc, thiên về quy trình lẫn phong cách trực giác và lý tưởng hóa",
+        "Sự tôn trọng lẫn nhau tăng trưởng khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Xây Dựng có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Người Truyền Cảm Hứng dễ bị choáng ngợp và tự ti",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Xây Dựng có xu hướng làm việc có cấu trúc và thiên về quy trình, trong khi Người Truyền Cảm Hứng lại trực giác và lý tưởng hóa. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua việc chứng minh sự tin cậy và tôn trọng lẫn nhau. Người Xây Dựng giành được niềm tin bằng cách tạo ra hệ thống và mang lại kết quả ổn định, trong khi Người Truyền Cảm Hứng đạt được điều đó bằng cách mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Xây Dựng thúc đẩy tham vọng và tốc độ; Người Truyền Cảm Hứng mang lại năng lượng trực giác, tầm nhìn và nhạy bén để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa giúp họ luôn đồng điệu.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Xây Dựng nên mời gọi góc nhìn của Người Truyền Cảm Hứng từ sớm; Người Truyền Cảm Hứng nên nói lên các mối quan tâm một cách trực tiếp thay vì giữ kín.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và tiến hành những buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-22": {
+      "score": 87,
+      "overview": "Sự kết hợp giữa số Đường đời 4 (Người xây dựng) và số Đường đời 22 (Bậc thầy kiến thiết) tạo nên một quan hệ đối tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và sự tin cậy gặp gỡ với sự tham vọng, thực tế và tầm nhìn chiến lược quy mô lớn. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Bậc thầy kiến thiết đảm bảo nhóm biến những ý tưởng viển vông thành những cấu trúc hữu hình.",
+      "strengths": [
+        "Người xây dựng tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Bậc thầy kiến thiết biến các ý tưởng tầm nhìn thành các cấu trúc hữu hình",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc định hướng quy trình/cấu trúc lẫn phong cách thực tế/tầm nhìn",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người xây dựng có thể phản kháng sự thay đổi và trở nên cứng nhắc",
+        "Bậc thầy kiến thiết gánh vác áp lực nặng nề và chủ nghĩa hoàn hảo",
+        "Nhịp độ làm việc khác nhau có thể tạo ra mâu thuẫn trong thời hạn hoàn thành công việc",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người xây dựng có xu hướng làm việc theo cấu trúc và định hướng quy trình, trong khi Bậc thầy kiến thiết lại thực tế và có tầm nhìn. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người xây dựng có được niềm tin bằng cách tạo ra các hệ thống và kết quả nhất quán, trong khi Bậc thầy kiến thiết có được niềm tin bằng cách hiện thực hóa các ý tưởng tầm nhìn.",
+      "sharedGoals": "Cả hai có thể thống nhất trong việc mang lại kết quả chất lượng. Người xây dựng thúc đẩy tham vọng và tiến độ; Bậc thầy kiến thiết mang đến năng lượng của một nhà tư tưởng thực tế, quy mô lớn để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người xây dựng nên mời gọi góc nhìn của Bậc thầy kiến thiết từ sớm; Bậc thầy kiến thiết nên bày tỏ các lo ngại trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "4-33": {
+      "score": 74,
+      "overview": "Sự kết hợp giữa số Đường Đời 4 (Nhà Kiến Thiết) và số Đường Đời 33 (Bậc Thầy Giác Ngộ) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất kỷ luật, phương pháp và tin cậy gặp gỡ lòng trắc ẩn, sự khích lệ và tinh thần phục vụ. Cùng nhau, họ có thể tạo ra các hệ thống và mang lại kết quả nhất quán trong khi Bậc Thầy Giác Ngộ đảm bảo đội ngũ được nâng tầm thông qua trí tuệ và sự quan tâm.",
+      "strengths": [
+        "Nhà Kiến Thiết tạo ra các hệ thống và mang lại kết quả nhất quán",
+        "Bậc Thầy Giác Ngộ nâng tầm đội ngũ thông qua trí tuệ và sự chăm sóc",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc định hướng quy trình/cấu trúc lẫn sự nuôi dưỡng và truyền cảm hứng",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Nhà Kiến Thiết có thể kháng cự sự thay đổi và trở nên cứng nhắc",
+        "Bậc Thầy Giác Ngộ có thể hy sinh giới hạn cá nhân và dẫn đến kiệt sức",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà Kiến Thiết có xu hướng làm việc có cấu trúc và định hướng quy trình, trong khi Bậc Thầy Giác Ngộ thiên về nuôi dưỡng và truyền cảm hứng. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và tôn trọng lẫn nhau. Nhà Kiến Thiết giành được lòng tin bằng cách tạo ra các hệ thống và kết quả ổn định, trong khi Bậc Thầy Giác Ngộ đạt được điều đó bằng cách nâng đỡ đội ngũ bằng trí tuệ và sự tận tâm.",
+      "sharedGoals": "Cả hai đều có thể đồng lòng hướng tới việc mang lại kết quả chất lượng. Nhà Kiến Thiết thúc đẩy tham vọng và tiến độ; Bậc Thầy Giác Ngộ mang đến nguồn năng lượng trắc ẩn, khích lệ và định hướng phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ giữ được sự đồng điệu.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Nhà Kiến Thiết nên tham khảo góc nhìn của Bậc Thầy Giác Ngộ từ sớm; Bậc Thầy Giác Ngộ nên nói ra những lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Cùng nhau ăn mừng những chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-5": {
+      "score": 80,
+      "overview": "Hai người có Con Số Đường Đời 5 khi làm việc cùng nhau sẽ tạo nên một đội ngũ Những Nhà Cách Tân—thích nghi tốt, tò mò và đầy năng lượng. Họ cùng chia sẻ bản năng mạnh mẽ trong việc phát triển dựa trên sự thay đổi và thúc đẩy các hướng đi mới, nhưng cần thận trọng để không làm trầm trọng thêm xu hướng ngại làm việc theo khuôn mẫu và khó cam kết dài hạn của nhau.",
+      "strengths": [
+        "Nhà Cách Tân thăng hoa trong sự thay đổi và thúc đẩy các hướng đi mới",
+        "Nhà Cách Tân thăng hoa trong sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bộ kỹ năng kết hợp bao quát cả hai chế độ làm việc năng động và cầu thị",
+        "Sự tôn trọng lẫn nhau tăng lên khi những đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Nhà Cách Tân gặp khó khăn với các công việc thường nhật và cam kết dài hạn",
+        "Nhà Cách Tân gặp khó khăn với các công việc thường nhật và cam kết dài hạn",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Các ưu tiên không thống nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Nhà Cách Tân có xu hướng năng động và khám phá, trong khi Nhà Cách Tân cũng năng động và cầu thị. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến về phía trước.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Nhà Cách Tân có được niềm tin bằng cách thăng hoa trong sự thay đổi và thúc đẩy các hướng đi mới, trong khi Nhà Cách Tân khác cũng có được niềm tin thông qua cách tương tự.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người này thúc đẩy tham vọng và tốc độ; người kia mang lại nguồn năng lượng thích nghi, tò mò và sôi nổi để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn văn bản giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Một Nhà Cách Tân nên mời gọi quan điểm của người kia sớm; người còn lại nên nói lên mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền ra quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-6": {
+      "score": 58,
+      "overview": "Số Đường Đời 5 (Người Cách Tân) và Số Đường Đời 6 (Người Cố Vấn) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, năng động gặp gỡ các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy những hướng đi mới trong khi Người Cố Vấn đảm bảo đội ngũ luôn hỗ trợ lẫn nhau và duy trì các tiêu chuẩn.",
+      "strengths": [
+        "Người Cách Tân phát triển mạnh trong thay đổi và thúc đẩy các hướng đi mới",
+        "Người Cố Vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Bộ kỹ năng kết hợp bao quát cả hai chế độ làm việc: năng động, khám phá và hỗ trợ, trách nhiệm",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Cách Tân gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Người Cố Vấn có thể ôm đồm quá nhiều việc và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Sự ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cách Tân có xu hướng năng động và thích khám phá, trong khi Người Cố Vấn có tính hỗ trợ và trách nhiệm. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cách Tân giành được lòng tin bằng cách phát triển trong sự đổi mới và thúc đẩy hướng đi mới, trong khi Người Cố Vấn giành được nó bằng cách hỗ trợ đồng nghiệp và nâng cao các tiêu chuẩn.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cách Tân thúc đẩy tham vọng và tốc độ; Người Cố Vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tinh thần phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cách Tân nên tham khảo góc nhìn của Người Cố Vấn từ sớm; Người Cố Vấn nên trực tiếp bày tỏ những lo ngại thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-7": {
+      "score": 85,
+      "overview": "Sự kết hợp giữa số Đường Đời 5 (Người Cách Tân) và số Đường Đời 7 (Nhà Phân Tích) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, tràn đầy năng lượng gặp gỡ sự phân tích, nội tâm và chú trọng chi tiết. Họ có thể cùng nhau phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Nhà Phân Tích đảm bảo nhóm khám phá ra những hiểu biết sâu sắc và đảm bảo chất lượng.",
+      "strengths": [
+        "Người Cách Tân phát triển mạnh mẽ nhờ sự thay đổi và thúc đẩy các hướng đi mới",
+        "Nhà Phân Tích khám phá ra những hiểu biết sâu sắc và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao gồm cả phong cách làm việc năng động, khám phá lẫn phong cách dè dặt, dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Cách Tân gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Nhà Phân Tích có thể thu mình lại và phân tích quá mức",
+        "Nhịp độ làm việc khác nhau có thể tạo ra xích mích khi đến thời hạn hoàn thành",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cách Tân có xu hướng năng động và ham học hỏi, trong khi Nhà Phân Tích lại kín đáo và thiên về nghiên cứu. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cách Tân giành được sự tin tưởng bằng cách phát triển dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Nhà Phân Tích có được niềm tin bằng cách khám phá các hiểu biết sâu sắc và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cách Tân thúc đẩy tham vọng và tốc độ; Nhà Phân Tích mang lại nguồn năng lượng phân tích, nội tâm và chi tiết để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng đi trên một con đường.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cách Tân nên tham khảo quan điểm của Nhà Phân Tích từ sớm; Nhà Phân Tích nên nói lên các mối quan ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-8": {
+      "score": 60,
+      "overview": "Số Đường Đời 5 (Người Cách Tân) và Số Đường Đời 8 (Người Điều Hành) tạo thành một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, năng động gặp gỡ các phẩm chất chiến lược, định hướng kết quả và quyền uy. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy những hướng đi mới trong khi Người Điều Hành đảm bảo đội ngũ mở rộng quy mô vận hành và quản lý nguồn lực.",
+      "strengths": [
+        "Người Cách Tân phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy những hướng đi mới",
+        "Người Điều Hành mở rộng quy mô vận hành và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao quát được cả hai chế độ làm việc: năng động, khám phá và chỉ huy, tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Cách Tân gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Người Điều Hành có thể ưu tiên kết quả hơn con người",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót (deadlines)",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cách Tân có xu hướng năng động và thích khám phá, trong khi Người Điều Hành có phong cách chỉ huy và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cách Tân giành được sự tin tưởng bằng cách phát triển dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Người Điều Hành có được nó bằng cách mở rộng quy mô vận hành và quản lý nguồn lực.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cách Tân thúc đẩy tham vọng và tốc độ; Người Điều Hành mang đến nguồn năng lượng chiến lược, định hướng kết quả và quyền uy để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn cùng chí hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cách Tân nên mời gọi quan điểm của Người Điều Hành từ sớm; Người Điều Hành nên nói rõ các mối quan ngại của mình một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền ra quyết định và tần suất kiểm tra (check-in) ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại (retrospectives) một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-9": {
+      "score": 87,
+      "overview": "Sự kết hợp giữa Con Số Đường Đời 5 (Người Đổi Mới) và Con Số Đường Đời 9 (Người Có Tầm Nhìn) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, tràn đầy năng lượng gặp gỡ các phẩm chất nhân ái, có tầm nhìn bao quát và lý tưởng. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Người Có Tầm Nhìn đảm bảo đội ngũ điều chỉnh công việc phù hợp với mục đích và mục tiêu nhân đạo.",
+      "strengths": [
+        "Người Đổi Mới phát triển mạnh trong sự thay đổi và thúc đẩy các hướng đi mới",
+        "Người Có Tầm Nhìn gắn kết công việc với mục đích và các mục tiêu nhân đạo",
+        "Bộ kỹ năng kết hợp bao quát cả hai phong cách làm việc: năng động, khám phá và truyền cảm hứng, định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau nảy nở khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Đổi Mới gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Người Có Tầm Nhìn có thể gặp khó khăn với các nhiệm vụ thực tế tầm thường và sự tách biệt",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Đổi Mới có xu hướng năng động và ham học hỏi, trong khi Người Có Tầm Nhìn luôn truyền cảm hứng và hướng tới sứ mệnh. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến xa hơn.",
+      "emotionalConnection": "Trong bối cảnh nơi công sở, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Đổi Mới có được niềm tin bằng cách không ngừng thay đổi và thúc đẩy các hướng đi mới, trong khi Người Có Tầm Nhìn có được nó bằng cách gắn kết công việc với mục đích và các mục tiêu nhân đạo.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Đổi Mới thúc đẩy tham vọng và tốc độ; Người Có Tầm Nhìn mang lại năng lượng nhân ái, bao quát và lý tưởng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng đi trên một con đường.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Đổi Mới nên sớm tham khảo ý kiến của Người Có Tầm Nhìn; Người Có Tầm Nhìn nên thẳng thắn bày tỏ mối quan ngại thay vì kìm nén.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá thẳng thắn. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-11": {
+      "score": 81,
+      "overview": "Sự kết hợp giữa Con số Đường đời 5 (Người đổi mới) và Con số Đường đời 11 (Người truyền cảm hứng) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, năng động gặp gỡ các phẩm chất trực giác, tầm nhìn và nhạy bén. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Người truyền cảm hứng đảm bảo đội nhóm mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người đổi mới phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới",
+        "Người truyền cảm hứng mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao gồm cả phương thức làm việc năng động, khám phá lẫn trực giác và lý tưởng",
+        "Sự tôn trọng lẫn nhau nảy nở khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người đổi mới gặp khó khăn với các công việc lặp đi lặp lại và các cam kết dài hạn",
+        "Người truyền cảm hứng dễ bị quá tải và tự ti",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong các thời hạn công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người đổi mới có xu hướng năng động và thích khám phá, trong khi Người truyền cảm hứng thiên về trực giác và lý tưởng. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua độ tin cậy được chứng minh và sự tôn trọng lẫn nhau. Người đổi mới tạo dựng niềm tin bằng cách phát triển trong sự đổi mới và thúc đẩy các hướng đi mới, trong khi Người truyền cảm hứng tạo niềm tin bằng cách đưa ra những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người đổi mới thúc đẩy tham vọng và tốc độ; Người truyền cảm hứng mang lại năng lượng trực giác, tầm nhìn và sự nhạy bén để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa sẽ giúp họ đồng lòng.",
+      "growthAreas": "Hãy học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người đổi mới nên tham khảo quan điểm của Người truyền cảm hứng sớm; Người truyền cảm hứng nên nói rõ những lo ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-22": {
+      "score": 80,
+      "overview": "Số Đường Đời 5 (Người Cách Tân) và Số Đường Đời 22 (Bậc Thầy Kiến Thiết) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò và tràn đầy năng lượng kết hợp với tư duy tham vọng, thực tế và tầm vóc lớn. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy những hướng đi mới trong khi Bậc Thầy Kiến Thiết đảm bảo đội ngũ biến những ý tưởng viển vông thành những cấu trúc hữu hình.",
+      "strengths": [
+        "Người Cách Tân phát triển mạnh mẽ nhờ sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bậc Thầy Kiến Thiết biến các ý tưởng tầm nhìn thành các cấu trúc hữu hình",
+        "Bộ kỹ năng kết hợp bao gồm cả phương thức làm việc năng động, khám phá và thực tế, tầm nhìn",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được công nhận"
+      ],
+      "challenges": [
+        "Người Cách Tân gặp khó khăn với các công việc lặp lại và các cam kết dài hạn",
+        "Bậc Thầy Kiến Thiết phải gánh vác áp lực nặng nề và chủ nghĩa hoàn hảo",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn hoàn thành công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cách Tân có xu hướng năng động và thích khám phá, trong khi Bậc Thầy Kiến Thiết lại thực tế và có tầm nhìn. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này — thiết lập chương trình nghị sự rõ ràng, ghi chép lại các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cách Tân giành được lòng tin bằng cách phát triển mạnh mẽ trong sự thay đổi và thúc đẩy các hướng đi mới, trong khi Bậc Thầy Kiến Thiết giành được lòng tin bằng việc biến các ý tưởng tầm nhìn thành các kết quả hữu hình.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cách Tân thúc đẩy tham vọng và tốc độ; Bậc Thầy Kiến Thiết mang lại nguồn năng lượng tư duy thực tế, quy mô lớn và đầy tham vọng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn được văn bản hóa giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cách Tân nên tham khảo góc nhìn của Bậc Thầy Kiến Thiết từ sớm; Bậc Thầy Kiến Thiết nên bày tỏ các lo ngại một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "5-33": {
+      "score": 79,
+      "overview": "Sự kết hợp giữa số Đường Đời 5 (Người đổi mới) và số Đường Đời 33 (Bậc thầy giáo hóa) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất thích nghi, tò mò, tràn đầy năng lượng gặp gỡ những phẩm chất nhân ái, truyền cảm hứng và hướng tới phục vụ. Cùng nhau, họ có thể phát triển mạnh mẽ dựa trên sự thay đổi và thúc đẩy các hướng đi mới, trong khi Bậc thầy giáo hóa đảm bảo đội ngũ được nâng tầm thông qua sự thông thái và sự quan tâm.",
+      "strengths": [
+        "Người đổi mới phát triển mạnh mẽ khi có sự thay đổi và thúc đẩy các hướng đi mới",
+        "Bậc thầy giáo hóa nâng tầm đội ngũ thông qua sự thông thái và sự chăm sóc",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc năng động, khám phá lẫn nuôi dưỡng và truyền cảm hứng",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người đổi mới gặp khó khăn với các công việc thường nhật và các cam kết dài hạn",
+        "Bậc thầy giáo hóa có thể hy sinh các giới hạn cá nhân dẫn đến kiệt sức",
+        "Nhịp độ làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người đổi mới có xu hướng năng động và ham học hỏi, trong khi Bậc thầy giáo hóa mang tính nuôi dưỡng và truyền cảm hứng. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến bước.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người đổi mới có được sự tin tưởng bằng cách phát triển trong thay đổi và thúc đẩy hướng đi mới, trong khi Bậc thầy giáo hóa có được điều đó bằng cách nâng đỡ đội ngũ thông qua trí tuệ và sự quan tâm.",
+      "sharedGoals": "Cả hai có thể đồng thuận xoay quanh việc mang lại kết quả chất lượng. Người đổi mới thúc đẩy tham vọng và tốc độ; Bậc thầy giáo hóa mang lại năng lượng nhân ái, nâng cao tinh thần và phục vụ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ có cùng tiếng nói.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người đổi mới nên mời gọi góc nhìn của Bậc thầy giáo hóa ngay từ đầu; Bậc thầy giáo hóa nên trình bày các mối quan tâm trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "6-6": {
+      "score": 74,
+      "overview": "Hai người có Con Số Đường Đời 6 làm việc cùng nhau sẽ tạo nên một đội ngũ của những Người Cố Vấn—trách nhiệm, chu đáo và tận tâm phục vụ. Họ chia sẻ bản năng mạnh mẽ trong việc hỗ trợ đồng đội và duy trì các tiêu chuẩn, nhưng phải cẩn trọng để không làm trầm trọng thêm xu hướng ôm đồm quá nhiều việc và trở nên kiểm soát.",
+      "strengths": [
+        "Người Cố Vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Người Cố Vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Kỹ năng kết hợp bao quát cả chế độ làm việc hỗ trợ lẫn có trách nhiệm",
+        "Sự tôn trọng lẫn nhau tăng lên khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Cố Vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Người Cố Vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Nhịp điệu làm việc khác nhau có thể gây ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cố Vấn có xu hướng hỗ trợ và có trách nhiệm, và Người Cố Vấn cũng vậy. Sự cộng tác hiệu quả đòi hỏi việc chuyển đổi qua lại giữa các phong cách này—thiết lập chương trình nghị sự rõ ràng, ghi chép các quyết định và xác nhận sự hiểu biết trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cố Vấn tạo dựng niềm tin bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn.",
+      "sharedGoals": "Cả hai đều có thể thống nhất về việc mang lại kết quả chất lượng. Người Cố Vấn thúc đẩy tham vọng và tốc độ; Người Cố Vấn mang lại năng lượng trách nhiệm, nuôi dưỡng và tận tâm để hoàn thiện chiến lược. Các chỉ số KPI chung và tầm nhìn bằng văn bản sẽ giúp họ cùng đi đúng hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cố Vấn nên tham khảo quan điểm của Người Cố Vấn khác từ sớm; Người Cố Vấn nên trực tiếp nói ra những lo ngại thay vì giữ kín trong lòng.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay khi bắt đầu bất kỳ sự cộng tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "6-7": {
+      "score": 68,
+      "overview": "Sự kết hợp giữa Con Số Đường Đời 6 (Người hướng dẫn) và Con Số Đường Đời 7 (Nhà phân tích) tạo nên một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ gặp gỡ các đặc tính phân tích, nội tâm và chú trọng chi tiết. Họ cùng nhau hỗ trợ đồng đội và duy trì các tiêu chuẩn, trong khi Nhà phân tích đảm bảo nhóm khám phá ra các thông tin chuyên sâu và đảm bảo chất lượng.",
+      "strengths": [
+        "Người hướng dẫn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Nhà phân tích khám phá các thông tin chuyên sâu và đảm bảo chất lượng",
+        "Bộ kỹ năng kết hợp bao quát cả hai phong cách làm việc: hỗ trợ, trách nhiệm và kín đáo, dựa trên nghiên cứu",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người hướng dẫn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Nhà phân tích có thể thu mình lại và phân tích quá mức",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Thứ tự ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người hướng dẫn có xu hướng hỗ trợ và có trách nhiệm, trong khi Nhà phân tích lại kín đáo và dựa trên nghiên cứu. Sự hợp tác hiệu quả đòi hỏi sự chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh công sở, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người hướng dẫn giành được sự tin tưởng bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn, trong khi Nhà phân tích đạt được điều đó bằng cách khám phá các thông tin chuyên sâu và đảm bảo chất lượng.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người hướng dẫn thúc đẩy tham vọng và tiến độ; Nhà phân tích mang lại năng lượng phân tích, nội tâm và tỉ mỉ để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ cùng nhìn về một hướng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người hướng dẫn nên mời gọi góc nhìn của Nhà phân tích ngay từ sớm; Nhà phân tích nên trực tiếp nói ra những lo ngại thay vì giữ kẽ.",
+      "advice": "Xác định rõ vai trò, quyền quyết định và nhịp độ kiểm tra ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, cặp đôi này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "6-8": {
+      "score": 74,
+      "overview": "Con Số Đường Đời 6 (Người Cố Vấn) và Con Số Đường Đời 8 (Người Điều Hành) tạo thành một mối quan hệ đối tác chuyên nghiệp, nơi các phẩm chất trách nhiệm, nuôi dưỡng và hướng tới phục vụ kết hợp với các phẩm chất chiến lược, định hướng kết quả và quyền uy. Cùng nhau, họ có thể hỗ trợ đồng đội và duy trì các tiêu chuẩn trong khi Người Điều Hành đảm bảo nhóm mở rộng quy mô hoạt động và quản lý nguồn lực.",
+      "strengths": [
+        "Người Cố Vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Người Điều Hành mở rộng quy mô hoạt động và quản lý nguồn lực",
+        "Bộ kỹ năng kết hợp bao quát cả hai phong cách làm việc: hỗ trợ, trách nhiệm và chỉ huy, tập trung vào kết quả",
+        "Sự tôn trọng lẫn nhau tăng dần khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Cố Vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Người Điều Hành có thể ưu tiên kết quả hơn con người",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra ma sát trong thời hạn chót",
+        "Ưu tiên không đồng nhất nếu vai trò và mong đợi không được làm rõ"
+      ],
+      "communication": "Người Cố Vấn có xu hướng hỗ trợ và có trách nhiệm, trong khi Người Điều Hành có phong cách chỉ huy và tập trung vào kết quả. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa hai phong cách này—thiết lập chương trình làm việc rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cố Vấn giành được sự tin tưởng bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn, trong khi Người Điều Hành đạt được điều đó bằng cách mở rộng quy mô hoạt động và quản lý nguồn lực.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cố Vấn thúc đẩy tham vọng và tốc độ; Người Điều Hành mang lại nguồn năng lượng chiến lược, định hướng kết quả và uy quyền để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ có cùng tiếng nói.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cố Vấn nên mời gọi góc nhìn của Người Điều Hành từ sớm; Người Điều Hành nên nói ra những lo ngại một cách trực tiếp thay vì giữ kín.",
+      "advice": "Xác định rõ vai trò, quyền ra quyết định và tần suất kiểm tra tiến độ ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và tiến hành các buổi đánh giá lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "6-9": {
+      "score": 88,
+      "overview": "Con Số Đường Đời 6 (Người Cố Vấn) và Con Số Đường Đời 9 (Người Tầm Nhìn) tạo nên một mối quan hệ hợp tác chuyên nghiệp, nơi các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ kết hợp với những phẩm chất nhân ái, tầm nhìn rộng và lý tưởng. Cùng nhau, họ có thể hỗ trợ đồng nghiệp và duy trì các tiêu chuẩn trong khi Người Tầm Nhìn đảm bảo nhóm liên kết công việc với mục đích và các mục tiêu nhân đạo.",
+      "strengths": [
+        "Người Cố Vấn hỗ trợ đồng nghiệp và duy trì các tiêu chuẩn",
+        "Người Tầm Nhìn gắn kết công việc với mục đích và các mục tiêu nhân đạo",
+        "Kỹ năng kết hợp bao trùm cả phong cách làm việc hỗ trợ, trách nhiệm lẫn truyền cảm hứng và định hướng sứ mệnh",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi người được ghi nhận"
+      ],
+      "challenges": [
+        "Người Cố Vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Người Tầm Nhìn có thể gặp khó khăn với các công việc tầm thường và sự thiếu gắn kết thực tế",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích khi đến hạn chót (deadlines)",
+        "Các ưu tiên bị lệch lạc nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cố Vấn có xu hướng hỗ trợ và có trách nhiệm, trong khi Người Tầm Nhìn mang tính truyền cảm hứng và định hướng sứ mệnh. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi chép các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng lòng tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cố Vấn giành được lòng tin bằng việc hỗ trợ đồng nghiệp và duy trì các tiêu chuẩn, trong khi Người Tầm Nhìn giành được điều đó bằng cách gắn kết công việc với mục đích và các mục tiêu nhân đạo.",
+      "sharedGoals": "Cả hai có thể thống nhất xung quanh việc mang lại kết quả chất lượng. Người Cố Vấn thúc đẩy tham vọng và tốc độ; Người Tầm Nhìn mang đến năng lượng nhân ái, tầm nhìn rộng lớn và lý tưởng để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản giúp họ luôn đồng lòng.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cố Vấn nên mời gọi quan điểm của Người Tầm Nhìn ngay từ sớm; Người Tầm Nhìn nên nói rõ các mối quan ngại của mình một cách trực tiếp thay vì giữ kín trong lòng.",
+      "advice": "Hãy xác định vai trò, quyền quyết định và tần suất kiểm tra (check-in) ngay từ khi bắt đầu bất kỳ sự hợp tác nào. Cùng nhau ăn mừng các chiến thắng và thực hiện các buổi đánh giá lại (retrospectives) một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    },
+    "6-11": {
+      "score": 78,
+      "overview": "Con số Đường đời 6 (Người Cố vấn) và Đường đời 11 (Người Truyền cảm hứng) tạo nên một mối quan hệ cộng tác chuyên nghiệp, nơi các phẩm chất trách nhiệm, nuôi dưỡng và tinh thần phục vụ gặp gỡ các phẩm chất trực giác, tầm nhìn và nhạy bén. Cùng nhau, họ có thể hỗ trợ đồng đội và duy trì các tiêu chuẩn trong khi Người Truyền cảm hứng đảm bảo nhóm mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc.",
+      "strengths": [
+        "Người Cố vấn hỗ trợ đồng đội và duy trì các tiêu chuẩn",
+        "Người Truyền cảm hứng mang lại những ý tưởng đầy cảm hứng và trí tuệ cảm xúc",
+        "Bộ kỹ năng kết hợp bao quát cả phong cách làm việc hỗ trợ, trách nhiệm lẫn trực giác và duy tâm",
+        "Sự tôn trọng lẫn nhau phát triển khi đóng góp của mỗi bên được công nhận"
+      ],
+      "challenges": [
+        "Người Cố vấn có thể ôm đồm quá nhiều và trở nên kiểm soát",
+        "Người Truyền cảm hứng dễ bị choáng ngợp và tự ti",
+        "Nhịp điệu làm việc khác nhau có thể tạo ra xích mích trong thời hạn hoàn thành công việc",
+        "Ưu tiên không đồng nhất nếu vai trò và kỳ vọng không được làm rõ"
+      ],
+      "communication": "Người Cố vấn có xu hướng hỗ trợ và có trách nhiệm, trong khi Người Truyền cảm hứng thiên về trực giác và duy tâm. Sự hợp tác hiệu quả đòi hỏi việc chuyển đổi giữa các phong cách này—thiết lập chương trình làm việc rõ ràng, ghi lại các quyết định và xác nhận sự thấu hiểu trước khi tiến hành.",
+      "emotionalConnection": "Trong bối cảnh nơi làm việc, cặp đôi này xây dựng niềm tin thông qua sự tin cậy đã được chứng minh và sự tôn trọng lẫn nhau. Người Cố vấn giành được niềm tin bằng cách hỗ trợ đồng đội và duy trì các tiêu chuẩn, trong khi Người Truyền cảm hứng đạt được nó bằng cách mang lại những ý tưởng sáng tạo và trí tuệ cảm xúc.",
+      "sharedGoals": "Cả hai có thể thống nhất quanh việc mang lại kết quả chất lượng. Người Cố vấn thúc đẩy tham vọng và tốc độ; Người Truyền cảm hứng mang lại năng lượng trực giác, tầm nhìn và nhạy bén để hoàn thiện chiến lược. Các chỉ số KPI chung và một tầm nhìn bằng văn bản sẽ giúp họ có cùng tiếng nói.",
+      "growthAreas": "Học cách tận dụng thế mạnh của nhau thay vì cạnh tranh. Người Cố vấn nên tham khảo góc nhìn của Người Truyền cảm hứng từ sớm; Người Truyền cảm hứng nên nói rõ các mối quan ngại một cách trực tiếp thay vì giữ trong lòng.",
+      "advice": "Xác định vai trò, quyền quyết định và nhịp độ kiểm tra công việc ngay khi bắt đầu bất kỳ sự hợp tác nào. Hãy cùng nhau ăn mừng chiến thắng và thực hiện các buổi đánh giá nhìn lại một cách trung thực. Với sự rõ ràng và tôn trọng lẫn nhau, sự kết hợp này có thể mang lại kết quả mạnh mẽ và bền vững."
+    }
+  }
+}
